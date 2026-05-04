@@ -1,0 +1,5500 @@
+[
+  {
+    "id": "csa-microsoft-cyber-2026",
+    "name": "CSA × Microsoft Cybersecurity Hackathon 2026",
+    "organizer": "Cyber Security Agency of Singapore",
+    "companies": [
+      "Microsoft",
+      "CSA",
+      "Minecraft Education"
+    ],
+    "level": "Primary",
+    "timeline": "Multi-week (1-3mo)",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science"
+    ],
+    "fields": [
+      "Cybersecurity"
+    ],
+    "date": "2026 (school-year cohort)",
+    "location": "Singapore (school-based)",
+    "prize": "National recognition; CSA awards",
+    "summary": "A national cybersecurity challenge for primary (P3-6) and secondary (Sec 1-4) students. Teams build a Minecraft Education world that demonstrates safer-cyberspace concepts — primary students focus on their own school environment, secondary students design at the national level. Designed to ignite digital citizenship through play rather than command-line work.",
+    "eligibility": "P3-6 and Sec 1-4 students in Singapore schools.",
+    "highlights": [
+      "Built around Minecraft Education — accessible to non-coders",
+      "National-level recognition from CSA and Microsoft",
+      "Two age tracks (Primary / Secondary)",
+      "Focus on digital citizenship, not pen-testing"
+    ],
+    "url": "https://www.csa.gov.sg/our-programmes/cybersecurity-outreach/sg-cyber-safe-students/events-and-activities/csa-x-microsoft-cybersecurity-hackathon/",
+    "status": "ongoing",
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": "https://www.csa.gov.sg/our-programmes/cybersecurity-outreach/sg-cyber-safe-students/events-and-activities/csa-x-microsoft-cybersecurity-hackathon/",
+    "tags": [
+      "singapore",
+      "cybersecurity",
+      "minecraft",
+      "school",
+      "no-code"
+    ]
+  },
+  {
+    "id": "nstemc-go-2026",
+    "name": "National STEM Championship: Game On (NSTEMC:GO)",
+    "organizer": "Science Centre Singapore",
+    "companies": [
+      "Science Centre Singapore",
+      "MOE"
+    ],
+    "level": "Secondary",
+    "timeline": "Annual / ongoing",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "General Tech"
+    ],
+    "date": "2026 cohort (multiple rounds)",
+    "location": "Singapore",
+    "prize": "National championship recognition; A*STAR Talent Search pathway",
+    "summary": "Previously the National Science Challenge, NSTEMC:GO is the 2026 reboot — a dynamic format that preserves academic rigor while introducing game-style challenges across multiple STEM domains. Designed specifically for Sec 3 / IP Year 3 / Grade 9 students, it's a feeder pipeline into A*STAR Talent Search and SSEF.",
+    "eligibility": "Sec 3, IP Year 3, or Grade 9 students.",
+    "highlights": [
+      "Reformatted for 2026 with game-on dynamics",
+      "Year-long competition with multiple rounds",
+      "Pipeline into A*STAR Talent Search",
+      "Run by Science Centre Singapore + MOE"
+    ],
+    "url": "https://www.science.edu.sg/for-schools/competitions/national-stem-championship",
+    "status": "ongoing",
+    "application_deadline": null,
+    "difficulty": "Intermediate",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": false,
+    "application_url": "https://www.science.edu.sg/for-schools/competitions/national-stem-championship",
+    "tags": [
+      "singapore",
+      "stem",
+      "secondary",
+      "national"
+    ]
+  },
+  {
+    "id": "nsts-2026",
+    "name": "National STEM Talent Search (NSTS)",
+    "organizer": "Science Centre Singapore",
+    "companies": [
+      "Science Centre Singapore"
+    ],
+    "level": "Pre-University",
+    "timeline": "Annual / ongoing",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "General Tech"
+    ],
+    "date": "Annual (post-SSEF)",
+    "location": "Singapore",
+    "prize": "National recognition + scholarships for top STEM youth",
+    "summary": "An invite-only follow-on to SSEF — only Gold/Silver/Bronze SSEF awardees aged 15–21 are eligible. NSTS asks competitors to deepen and re-articulate their original research with a fresh judging panel, building the kind of presentation skills that translate directly to international science fairs and university admissions.",
+    "eligibility": "SSEF Gold/Silver/Bronze winners, 15–21 years old.",
+    "highlights": [
+      "Invite-only — funnels from SSEF",
+      "Trains research-presentation skills",
+      "National-level Singaporean recognition",
+      "Strong signal for tertiary STEM admissions"
+    ],
+    "url": "https://www.science.edu.sg/for-schools/competitions/National-STEM-Talent-Search",
+    "status": "ongoing",
+    "application_deadline": null,
+    "difficulty": "Elite/Selective",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": false,
+    "application_url": "https://www.science.edu.sg/for-schools/competitions/National-STEM-Talent-Search",
+    "tags": [
+      "singapore",
+      "research",
+      "ssef-pathway",
+      "scholarship"
+    ]
+  },
+  {
+    "id": "bnpp-sustainable-finance-2026",
+    "name": "BNP Paribas Sustainable Finance Challenge SG 2026",
+    "organizer": "BNP Paribas",
+    "companies": [
+      "BNP Paribas"
+    ],
+    "level": "Tertiary",
+    "timeline": "Multi-week (1-3mo)",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Business / Finance",
+      "Design"
+    ],
+    "fields": [
+      "Fintech",
+      "Sustainability / Green"
+    ],
+    "date": "2026 cohort",
+    "location": "Singapore (NTU/NUS/SMU/UM)",
+    "prize": "Mentorship from BNP Paribas senior bankers + recognition",
+    "summary": "Penultimate-year undergrads and postgrads at NTU, NUS, SMU, and Universiti Malaya tackle a real sustainable-finance problem statement curated by BNP Paribas bankers and ESG experts. The 2026 edition includes a mobile-first 'NextGen Sustainable Wealth' brief — design the screens, navigation, ESG analytics, and behavioural nudges for young affluent investors, while staying compliant on greenwashing risk.",
+    "eligibility": "Penultimate-year undergrads / postgrads at NTU, NUS, SMU, UM. Teams of 3–5 from same university.",
+    "highlights": [
+      "Real, working bank problem statements (not synthetic cases)",
+      "Mentored by BNP Paribas senior bankers",
+      "Strong fintech + ESG career pipeline",
+      "Cross-discipline teams encouraged within each university"
+    ],
+    "url": "https://apac.bnpparibas/en/our-solutions/sustainable-finance/university-challenge/",
+    "status": "ongoing",
+    "application_deadline": null,
+    "difficulty": "Intermediate",
+    "cost": "Free",
+    "prize_value_usd": 12000,
+    "beginner_friendly": false,
+    "application_url": "https://apac.bnpparibas/en/our-solutions/sustainable-finance/university-challenge/",
+    "tags": [
+      "singapore",
+      "fintech",
+      "sustainability",
+      "esg"
+    ]
+  },
+  {
+    "id": "lkygbpc-2026",
+    "name": "Lee Kuan Yew Global Business Plan Competition",
+    "organizer": "Singapore Management University",
+    "companies": [
+      "SMU",
+      "A*STAR"
+    ],
+    "level": "Tertiary",
+    "timeline": "Long-term incubator (6mo+)",
+    "scope": "Global (Worldwide)",
+    "domains": [
+      "Business / Finance",
+      "Multidisciplinary"
+    ],
+    "fields": [
+      "Deep Tech",
+      "General Tech"
+    ],
+    "date": "2026 cycle ongoing",
+    "location": "SMU, Singapore (finals)",
+    "prize": "Up to ~S$1M total prize pool across categories",
+    "summary": "A globally-recognised business plan competition hosted at SMU. Student-led ventures from anywhere in the world compete across multiple stages over months, with judges drawn from ST Engineering, A*STAR, Georgia Tech, and global PE/VC. Heavy emphasis on deep-tech and commercialisable research. Strategic Management author Frank Rothaermel sits on the academic panel.",
+    "eligibility": "Student-led ventures globally. Multi-stage application.",
+    "highlights": [
+      "One of Asia's largest student business-plan prizes",
+      "Multi-month structure, not a sprint",
+      "World-class judging panel from PE/VC and academia",
+      "Named after Singapore's founding PM"
+    ],
+    "url": "https://lkygbpc.smu.edu.sg/",
+    "status": "ongoing",
+    "application_deadline": null,
+    "difficulty": "Elite/Selective",
+    "cost": "Free",
+    "prize_value_usd": 70000,
+    "beginner_friendly": false,
+    "application_url": "https://lkygbpc.smu.edu.sg/",
+    "tags": [
+      "business-plan",
+      "global",
+      "startup",
+      "smu"
+    ]
+  },
+  {
+    "id": "ef-sg",
+    "name": "Entrepreneur First — Singapore",
+    "organizer": "Entrepreneur First",
+    "companies": [
+      "Entrepreneur First"
+    ],
+    "level": "Startup",
+    "timeline": "Short-term incubator (3-6mo)",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Multidisciplinary"
+    ],
+    "fields": [
+      "Deep Tech",
+      "Artificial Intelligence"
+    ],
+    "date": "Rolling cohorts",
+    "location": "Singapore",
+    "prize": "Up to US$250,000 funding + co-founder matching + global network",
+    "summary": "A 'talent investor' that backs exceptional individuals before they have a team or an idea. EF runs a structured matchmaking process to pair complementary technical and commercial co-founders, then funds the resulting companies. Strong deep-tech and frontier AI tilt. The Singapore programme connects into EF's portfolio across London, Berlin, Paris, and Bangalore.",
+    "eligibility": "Solo founders / aspiring founders. Application-based.",
+    "highlights": [
+      "Find a co-founder, then build a company",
+      "Up to US$250K funding available",
+      "Global network: LDN, BER, PAR, BLR, SG",
+      "Strong deep-tech and AI portfolio"
+    ],
+    "url": "https://incubatorlist.com/top-vcs-in-singapore",
+    "status": "ongoing",
+    "application_deadline": null,
+    "difficulty": "Elite/Selective",
+    "cost": "Free",
+    "prize_value_usd": 125000,
+    "beginner_friendly": false,
+    "application_url": "https://incubatorlist.com/top-vcs-in-singapore",
+    "tags": [
+      "accelerator",
+      "cofounder-matching",
+      "deeptech",
+      "year-round"
+    ]
+  },
+  {
+    "id": "finlab-uob",
+    "name": "The FinLab",
+    "organizer": "United Overseas Bank (UOB)",
+    "companies": [
+      "UOB",
+      "Infocomm Investments"
+    ],
+    "level": "Startup",
+    "timeline": "Short-term incubator (3-6mo)",
+    "scope": "Regional (SEA / Asia)",
+    "domains": [
+      "Business / Finance",
+      "Computer Science"
+    ],
+    "fields": [
+      "Fintech",
+      "Sustainability / Green"
+    ],
+    "date": "Multiple cohorts per year",
+    "location": "Singapore (SEA reach)",
+    "prize": "Pilots with UOB; investor introductions; mentorship",
+    "summary": "UOB's in-house accelerator, focused on fintech and digital transformation for SMEs across Southeast Asia. Past alum Turnkey Lender (AI-driven lending software) raised a US$2M Vertex Ventures cheque while in the programme. Strong on regulatory navigation, banking partnerships, and SME-distribution channels — areas where most accelerators are weak.",
+    "eligibility": "Fintech / SME-tech startups. Application-based per cohort.",
+    "highlights": [
+      "Direct UOB pilot opportunities",
+      "Strong on banking regulation and distribution",
+      "SEA-focused, not just Singapore",
+      "Sustainability track in addition to core fintech"
+    ],
+    "url": "https://fintechnews.sg/list-startup-accelerators-incubators-singapore/",
+    "status": "ongoing",
+    "application_deadline": null,
+    "difficulty": "Intermediate",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": false,
+    "application_url": "https://fintechnews.sg/list-startup-accelerators-incubators-singapore/",
+    "tags": [
+      "fintech",
+      "uob",
+      "sme",
+      "year-round"
+    ]
+  },
+  {
+    "id": "plug-and-play-apac",
+    "name": "Plug and Play APAC",
+    "organizer": "Plug and Play",
+    "companies": [
+      "Plug and Play",
+      "various corporate partners"
+    ],
+    "level": "Startup",
+    "timeline": "Short-term incubator (3-6mo)",
+    "scope": "Regional (SEA / Asia)",
+    "domains": [
+      "Multidisciplinary"
+    ],
+    "fields": [
+      "Fintech",
+      "HealthTech",
+      "Smart City / IoT",
+      "General Tech"
+    ],
+    "date": "Rolling cohorts (60+ programmes annually)",
+    "location": "Singapore + global",
+    "prize": "Corporate pilot programmes + investor network",
+    "summary": "The Singapore arm of Silicon Valley's prolific accelerator network. Runs 60+ accelerator programmes a year across verticals — brand/retail, fintech, health, supply chain, energy, smart cities. The lever isn't capital; it's structured corporate-pilot matchmaking with multinationals who need startup deal-flow.",
+    "eligibility": "Vertical-specific. Rolling applications.",
+    "highlights": [
+      "60+ vertical programmes per year globally",
+      "Corporate-pilot matchmaking is the core value",
+      "Singapore hub for APAC-wide deployment",
+      "No equity in many programmes"
+    ],
+    "url": "https://www.plugandplaytechcenter.com/join/",
+    "status": "ongoing",
+    "application_deadline": null,
+    "difficulty": "Intermediate",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": false,
+    "application_url": "https://www.plugandplaytechcenter.com/join/",
+    "tags": [
+      "accelerator",
+      "global",
+      "corporate-innovation",
+      "year-round"
+    ]
+  },
+  {
+    "id": "block71",
+    "name": "BLOCK71",
+    "organizer": "NUS Enterprise",
+    "companies": [
+      "NUS Enterprise"
+    ],
+    "level": "Startup",
+    "timeline": "Long-term incubator (6mo+)",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Multidisciplinary"
+    ],
+    "fields": [
+      "General Tech",
+      "Deep Tech"
+    ],
+    "date": "Continuous (rolling membership)",
+    "location": "Singapore + hubs in US, China, Indonesia",
+    "prize": "Co-working, mentorship, market access",
+    "summary": "NUS Enterprise's flagship hub — described as 'the world's most tightly packed entrepreneurial ecosystem.' BLOCK71 has incubated 600+ startups and contributed roughly 25% of Singapore's startup ecosystem valuation. Notable alumni include unicorns Carousell and PatSnap. Less program, more long-running scaffolding: physical co-working, NUS research access, and global market hubs in Suzhou, San Francisco, and Jakarta.",
+    "eligibility": "Sector-agnostic. Tech-focused founders, often early-stage.",
+    "highlights": [
+      "Carousell and PatSnap among alumni",
+      "~25% of Singapore's startup-ecosystem valuation",
+      "Hubs in US, China, Indonesia for market access",
+      "Run by NUS Enterprise — research-adjacent"
+    ],
+    "url": "https://www.nus.edu.sg/enterprise",
+    "status": "ongoing",
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": "https://www.nus.edu.sg/enterprise",
+    "tags": [
+      "incubator",
+      "nus",
+      "students",
+      "year-round"
+    ]
+  },
+  {
+    "id": "iterative",
+    "name": "Iterative",
+    "organizer": "Iterative Capital",
+    "companies": [
+      "Iterative"
+    ],
+    "level": "Startup",
+    "timeline": "Short-term incubator (3-6mo)",
+    "scope": "Regional (SEA / Asia)",
+    "domains": [
+      "Multidisciplinary"
+    ],
+    "fields": [
+      "General Tech"
+    ],
+    "date": "Bi-annual cohorts",
+    "location": "Singapore (SEA-focused)",
+    "prize": "US$150K for 10% (YC-style terms)",
+    "summary": "A Y Combinator-style accelerator for Southeast Asian startups. Founded by ex-YC founders, Iterative invests at pre-seed with standardised terms (US$150K for 10%) and a ruthless focus on getting to product-market fit fast. Cohorts are intentionally small for high-touch mentorship.",
+    "eligibility": "SEA-based / SEA-targeting startups, pre-seed.",
+    "highlights": [
+      "Founded by YC alumni",
+      "Standard YC-style terms: US$150K for 10%",
+      "Small cohorts, high-touch",
+      "SEA-focused thesis"
+    ],
+    "url": "https://iterative.vc/",
+    "status": "ongoing",
+    "application_deadline": null,
+    "difficulty": "Elite/Selective",
+    "cost": "Free",
+    "prize_value_usd": 500000,
+    "beginner_friendly": false,
+    "application_url": "https://iterative.vc/",
+    "tags": [
+      "accelerator",
+      "yc-style",
+      "southeast-asia",
+      "year-round"
+    ]
+  },
+  {
+    "id": "tribe-accelerator",
+    "name": "Tribe Accelerator",
+    "organizer": "Tribe",
+    "companies": [
+      "Tribe",
+      "Singapore government partners"
+    ],
+    "level": "Startup",
+    "timeline": "Short-term incubator (3-6mo)",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science"
+    ],
+    "fields": [
+      "Web3 / Blockchain",
+      "Artificial Intelligence"
+    ],
+    "date": "Cohort-based",
+    "location": "Singapore",
+    "prize": "Government-linked partnerships + corporate access",
+    "summary": "Singapore's first government-supported blockchain accelerator, evolved into a deep-tech programme covering AI and Web3. Sits inside the Startup SG Accelerator scheme — meaning ~SGD 30K operating-expense funding per startup, plus structured access to government agencies that most Web3 founders find impossible to navigate alone.",
+    "eligibility": "Blockchain / AI deep-tech startups. Cohort applications.",
+    "highlights": [
+      "Government-backed (Startup SG Accelerator)",
+      "Web3 + AI deep-tech focus",
+      "Direct introductions to Singapore agencies",
+      "Corporate partner network in financial services"
+    ],
+    "url": "https://tribe.xyz/",
+    "status": "ongoing",
+    "application_deadline": null,
+    "difficulty": "Intermediate",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": false,
+    "application_url": "https://tribe.xyz/",
+    "tags": [
+      "blockchain",
+      "web3",
+      "singapore",
+      "accelerator"
+    ]
+  },
+  {
+    "id": "accelerating-asia",
+    "name": "Accelerating Asia",
+    "organizer": "Accelerating Asia",
+    "companies": [
+      "Accelerating Asia"
+    ],
+    "level": "Startup",
+    "timeline": "Short-term incubator (3-6mo)",
+    "scope": "Regional (SEA / Asia)",
+    "domains": [
+      "Multidisciplinary"
+    ],
+    "fields": [
+      "General Tech",
+      "Social Impact"
+    ],
+    "date": "Bi-annual cohorts",
+    "location": "Singapore (SEA + South Asia thesis)",
+    "prize": "Pre-Series A capital + structured cohort programme",
+    "summary": "An early-stage VC fund and accelerator targeting pre-Series A startups across Southeast and South Asia. Cohorts get structured curriculum plus check-writing — a hybrid model that's rare in the region. Strong on impact-aligned ventures and unsexy verticals (logistics, agritech, financial inclusion) that pure software accelerators miss.",
+    "eligibility": "Pre-Series A startups across SEA + South Asia.",
+    "highlights": [
+      "Hybrid VC fund + accelerator",
+      "Pre-Series A focus — past pure pre-seed",
+      "Strong impact-investing thesis",
+      "Cross-region: SEA + South Asia"
+    ],
+    "url": "https://acceleratingasia.com/",
+    "status": "ongoing",
+    "application_deadline": null,
+    "difficulty": "Intermediate",
+    "cost": "Free",
+    "prize_value_usd": 200000,
+    "beginner_friendly": false,
+    "application_url": "https://acceleratingasia.com/",
+    "tags": [
+      "accelerator",
+      "growth-stage",
+      "asia",
+      "year-round"
+    ]
+  },
+  {
+    "id": "ai-ready-asean-2026",
+    "name": "AI Ready ASEAN Youth Challenge 2026",
+    "organizer": "AI Singapore × ASEAN Foundation × Google.org × IMDA",
+    "companies": [
+      "AI Singapore",
+      "Google.org",
+      "ASEAN Foundation",
+      "IMDA",
+      "AngelHack"
+    ],
+    "level": "Tertiary",
+    "timeline": "Multi-week (1-3mo)",
+    "scope": "Regional (SEA / Asia)",
+    "domains": [
+      "Computer Science",
+      "Multidisciplinary"
+    ],
+    "fields": [
+      "Artificial Intelligence",
+      "Social Impact"
+    ],
+    "date": "2 March – 24 May 2026",
+    "location": "Hybrid (national rounds + Singapore Grand Final)",
+    "prize": "Regional 1st: US$5,000; Nationals: US$500–200 + paid trip to SG Grand Finals",
+    "summary": "A regional ideathon spanning 11 ASEAN countries (Brunei, Cambodia, Indonesia, Laos, Malaysia, Myanmar, Philippines, Singapore, Thailand, Timor-Leste, Vietnam). Participants 18–35 propose practical AI-integrated solutions to real Southeast Asian challenges, aligned with Google.org's focus areas (Knowledge & Skills, Scientific Progress, Stronger Communities). Submissions: 5-page proposal + 3-minute pitch video.",
+    "eligibility": "18–35 years old, currently enrolled in an educational institution in one of 11 ASEAN countries.",
+    "highlights": [
+      "Backed by AI Singapore + Google.org + ASEAN Foundation + IMDA",
+      "11 ASEAN countries with national + regional rounds",
+      "Paid trip to Singapore for national winners",
+      "5-page proposal + 3-min pitch — accessible format"
+    ],
+    "url": "https://angelhack.com/event/ai-ready-asean-youth-challenge-2026/",
+    "status": "ongoing",
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": "https://angelhack.com/event/ai-ready-asean-youth-challenge-2026/",
+    "tags": [
+      "asean",
+      "youth",
+      "ai",
+      "regional"
+    ]
+  },
+  {
+    "id": "asean-ai-hackathon-2026",
+    "name": "ASEAN AI Hackathon 2026",
+    "organizer": "Passage to ASEAN (P2A)",
+    "companies": [
+      "P2A Secretariat"
+    ],
+    "level": "Tertiary",
+    "timeline": "Multi-week (1-3mo)",
+    "scope": "Regional (SEA / Asia)",
+    "domains": [
+      "Computer Science"
+    ],
+    "fields": [
+      "Artificial Intelligence",
+      "HealthTech",
+      "Smart City / IoT",
+      "EdTech"
+    ],
+    "date": "Registration deadline: 31 March 2026 (per Telkom U)",
+    "location": "Hybrid; finals in-person",
+    "prize": "Mentorship + deployment opportunities + industry-academic introductions",
+    "summary": "The first edition of P2A's regional AI hackathon, themed 'AI for a Resilient ASEAN.' Tracks span Climate Resilience, Public Health & Telemedicine, Smart City & Mobility, and AI for Education. Strong industry-academic bridge: 150+ ASEAN universities in the network, with mentorship and deployment opportunities for winning teams.",
+    "eligibility": "Active undergrads at P2A-network universities, GPA ≥ 3.0, English CEFR B2+.",
+    "highlights": [
+      "150+ universities in the P2A network",
+      "Four practical tracks (climate, health, smart city, edtech)",
+      "Industry deployment opportunities for winners",
+      "Cross-border ASEAN team-formation encouraged"
+    ],
+    "url": "https://passagetoasean.org/News/Detail/1136",
+    "status": "ongoing",
+    "application_deadline": null,
+    "difficulty": "Intermediate",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": false,
+    "application_url": "https://passagetoasean.org/News/Detail/1136",
+    "tags": [
+      "asean",
+      "ai",
+      "regional",
+      "students"
+    ]
+  },
+  {
+    "id": "asian-green-hackathon-2026",
+    "name": "Asian Hackathon for Green Future 2026",
+    "organizer": "VinUniversity × For Green Future Foundation × VinTechTalent",
+    "companies": [
+      "Vingroup",
+      "VinUniversity",
+      "For Green Future Foundation"
+    ],
+    "level": "Tertiary",
+    "timeline": "Multi-week (1-3mo)",
+    "scope": "Regional (SEA / Asia)",
+    "domains": [
+      "Engineering",
+      "Sciences (STEM)",
+      "Multidisciplinary"
+    ],
+    "fields": [
+      "Sustainability / Green"
+    ],
+    "date": "6 April – 5 July 2026 (3 stages)",
+    "location": "Online preliminaries; finals at VinUniversity, Hanoi",
+    "prize": "US$24,000 total: 1st US$8,000; 2nd US$5,000; 2× 3rd US$3,000; 5× consolation US$1,000",
+    "summary": "The first Asia-wide environmental hackathon dedicated to undergraduate and master's students. Three stages: Registration & Preliminary (Apr 6 – May 17), Online Training (Jun 2–28), and Finals at VinUniversity in Hanoi (Jul 2–5). Top 30 of submitted teams advance. Judging panel chaired by Prof Duong Nguyen Vu, formerly NTU Singapore Aerospace.",
+    "eligibility": "Undergrads + master's students at universities across Asia. Teams up to 4.",
+    "highlights": [
+      "First Asia-wide environmental hackathon for students",
+      "US$24,000 prize pool",
+      "Online training phase included between rounds",
+      "Hosted by Vingroup-backed VinUniversity"
+    ],
+    "url": "https://en.nhandan.vn/asia-wide-hackathon-on-environmental-technology-launched-post160777.html",
+    "status": "ongoing",
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": "https://en.nhandan.vn/asia-wide-hackathon-on-environmental-technology-launched-post160777.html",
+    "tags": [
+      "sustainability",
+      "climate",
+      "asia",
+      "social-impact"
+    ]
+  },
+  {
+    "id": "hack-nation-2026",
+    "name": "Hack-Nation Global AI Hackathon 2026",
+    "organizer": "Hack-Nation (MIT-rooted nonprofit)",
+    "companies": [
+      "Hack-Nation"
+    ],
+    "level": "Open / Professional",
+    "timeline": "24h sprint",
+    "scope": "Global (Worldwide)",
+    "domains": [
+      "Computer Science"
+    ],
+    "fields": [
+      "Artificial Intelligence"
+    ],
+    "date": "2026 edition (multi-region)",
+    "location": "Virtual + 60+ physical hubs",
+    "prize": "US$30,000+ prize pool",
+    "summary": "An MIT-rooted nonprofit running an intense 24-hour AI hackathon spanning 60+ countries. Open-ended challenges in AI automation, healthcare data, intelligent agents, business productivity, and creative AI platforms. Designed to simulate real startup conditions — speed, adaptability, and shippability over theoretical elegance.",
+    "eligibility": "Anyone of legal age in their country. Beginners through experts.",
+    "highlights": [
+      "Roots in the MIT ecosystem",
+      "60+ countries, virtual + physical hubs",
+      "US$30K+ prize pool",
+      "True 24-hour sprint format"
+    ],
+    "url": "https://hack-nation.ai/",
+    "status": "ongoing",
+    "application_deadline": null,
+    "difficulty": "Advanced",
+    "cost": "Free",
+    "prize_value_usd": 30000,
+    "beginner_friendly": false,
+    "application_url": "https://hack-nation.ai/",
+    "tags": [
+      "mit",
+      "global",
+      "ai",
+      "online",
+      "24-hour"
+    ]
+  },
+  {
+    "id": "f1-in-schools",
+    "name": "F1 in Schools",
+    "organizer": "F1 in Schools Ltd.",
+    "companies": [
+      "Formula 1",
+      "F1 in Schools"
+    ],
+    "level": "Secondary",
+    "timeline": "Long-term incubator (6mo+)",
+    "scope": "Global (Worldwide)",
+    "domains": [
+      "Engineering",
+      "Design"
+    ],
+    "fields": [
+      "General Tech"
+    ],
+    "date": "2026/27 season open",
+    "location": "Regional → national → world finals",
+    "prize": "Scholarships + Formula 1 partner exposure",
+    "summary": "An F1-themed engineering and design competition for ages 9–19. Teams of 3–6 design, manufacture, and race miniature CO2-powered cars 'inspired by Formula 1.' The competition tiers up — regional → state → national → world finals — turning what feels like a school project into a multi-year engineering apprenticeship. Singapore hosted the 2025 World Finals.",
+    "eligibility": "Ages 9–19. Teams of 3–6. School-affiliated entry typical.",
+    "highlights": [
+      "9–19 year-olds across full secondary span",
+      "Multi-stage tournament: regional → world",
+      "Singapore hosted 2025 World Finals",
+      "Manufacturing + branding + racing in one comp"
+    ],
+    "url": "https://www.f1inschools.com/",
+    "status": "ongoing",
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Paid",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": "https://www.f1inschools.com/",
+    "tags": [
+      "stem",
+      "engineering",
+      "school",
+      "global",
+      "f1"
+    ]
+  },
+  {
+    "id": "ai-hackathon-built-env-2026",
+    "name": "AI Hackathon Series — Built Environment 2026",
+    "organizer": "Singapore Institute of Architects (SIA)",
+    "companies": [
+      "SIA",
+      "ArchiFest"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Multi-week (1-3mo)",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Design",
+      "Engineering",
+      "Multidisciplinary"
+    ],
+    "fields": [
+      "Artificial Intelligence",
+      "Smart City / IoT"
+    ],
+    "date": "Feb–Jun 2026; awards at ArchiFest July 2026",
+    "location": "Singapore (SIA Theatrette + hybrid)",
+    "prize": "Awards at ArchiFest 2026 + e-certification",
+    "summary": "A multi-month hackathon series for the built-environment industry — architects, engineers, and designers using AI to address real practice problems. Format: bi-weekly evening sharing sessions (Feb 25 → May 6) feeding into projects that compete for awards at ArchiFest 2026 in July. Speakers from senior practitioners and AI experts. The May 6 session is the final pre-submission gathering.",
+    "eligibility": "Built-environment professionals; free to register.",
+    "highlights": [
+      "Built-environment specific (architecture, engineering, design)",
+      "Bi-weekly sharing sessions with senior practitioners",
+      "Awards ceremony at ArchiFest 2026",
+      "Free hybrid registration"
+    ],
+    "url": "https://www.aihackathon.pro/",
+    "status": "ongoing",
+    "application_deadline": null,
+    "difficulty": "Intermediate",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": false,
+    "application_url": "https://www.aihackathon.pro/",
+    "tags": [
+      "singapore",
+      "architecture",
+      "ai",
+      "built-environment"
+    ]
+  },
+  {
+    "id": "next-superai-2026",
+    "name": "NEXT Hackathon @ SuperAI 2026",
+    "organizer": "SuperAI",
+    "companies": [
+      "AWS",
+      "SuperAI"
+    ],
+    "level": "Open / Professional",
+    "timeline": "36-48h sprint",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science"
+    ],
+    "fields": [
+      "Artificial Intelligence"
+    ],
+    "date": "9–11 June 2026",
+    "location": "Marina Bay Sands, Singapore",
+    "prize": "AWS credits + sponsor prizes; top 5 demo on SuperAI stage; post-hack acceleration",
+    "summary": "A 36-hour, application-based AI sprint embedded inside the SuperAI conference. Builders ship from scratch under time pressure with technical mentors physically embedded with each team. Selection is curated — every person in the room is here to ship — and the deck is stacked: full conference access (valued at US$999), free meals, and post-hack acceleration pathways.",
+    "eligibility": "Application-based. Physical attendance for full 36h required. Teams up to 4. Solo applicants matched into teams.",
+    "highlights": [
+      "100% free, including SuperAI conference pass valued at US$999",
+      "AWS cloud credits and track-sponsor prize pools",
+      "Top 5 teams pitch on the SuperAI main stage",
+      "Visa invitation letters available for accepted internationals"
+    ],
+    "url": "https://www.superai.com/next-hackathon",
+    "status": "upcoming",
+    "application_deadline": "2026-05-20",
+    "difficulty": "Advanced",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": false,
+    "application_url": "https://www.superai.com/next-hackathon",
+    "tags": [
+      "singapore",
+      "ai",
+      "marina-bay-sands",
+      "36-hour",
+      "selective"
+    ]
+  },
+  {
+    "id": "token2049-nexus-2026",
+    "name": "TOKEN2049 NEXUS Startup Competition",
+    "organizer": "TOKEN2049",
+    "companies": [
+      "TOKEN2049"
+    ],
+    "level": "Startup",
+    "timeline": "Weekend (~72h)",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Business / Finance",
+      "Computer Science"
+    ],
+    "fields": [
+      "Web3 / Blockchain"
+    ],
+    "date": "7–8 October 2026",
+    "location": "Marina Bay Sands, Singapore",
+    "prize": "Equity-free prizes; investor exposure; global stage at world's largest crypto event",
+    "summary": "NEXUS is the pitching arm of TOKEN2049, the world's largest crypto event. 500+ Web3 startups apply, 10 finalists pitch live to investors and the global crypto community over two days. Equity-free prizes plus the kind of investor exposure that has historically minted unicorns. Co-located with TOKEN2049 Origins, a 36-hour hackathon billed as 'crypto's premier hackathon.'",
+    "eligibility": "Web3 startups; application-based selection from ~500 applicants to 10 finalists.",
+    "highlights": [
+      "Equity-free prize pool",
+      "Direct exposure to top crypto VCs and founders",
+      "Co-located with the TOKEN2049 Origins hackathon",
+      "Inside TOKEN2049's 20,000+ attendee main event"
+    ],
+    "url": "https://www.asia.token2049.com/",
+    "status": "upcoming",
+    "application_deadline": null,
+    "difficulty": "Advanced",
+    "cost": "Free",
+    "prize_value_usd": 100000,
+    "beginner_friendly": false,
+    "application_url": "https://www.asia.token2049.com/",
+    "tags": [
+      "web3",
+      "singapore",
+      "token2049",
+      "startup"
+    ]
+  },
+  {
+    "id": "brainhack-2026",
+    "name": "BrainHack Singapore 2026",
+    "organizer": "DSTA",
+    "companies": [
+      "DSTA",
+      "CSIT"
+    ],
+    "level": "Secondary",
+    "timeline": "Multi-week (1-3mo)",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Engineering"
+    ],
+    "fields": [
+      "Defence Tech",
+      "Cybersecurity",
+      "Artificial Intelligence"
+    ],
+    "date": "Annual (mid-year)",
+    "location": "Singapore (preliminary online, finals in-person)",
+    "prize": "DSTA scholarships, internships, recognition",
+    "summary": "Singapore's marquee defence-tech youth competition, run by DSTA. Open to secondary, JC, polytechnic, university, and ITE students with no prior experience required. Tracks span CDDC (cybersecurity, with a 30h virtual qualifier), XRperience (extended reality), TIL-AI (mobile dev with AI), and SpaceCube (spacetech). Finals are in-person; preliminary rounds are virtual.",
+    "eligibility": "Secondary → tertiary students. International + Singaporeans abroad eligible (finals must be in-person).",
+    "highlights": [
+      "Multi-track: cyber, XR, mobile-AI, spacetech",
+      "30-hour virtual qualifier in the cyber track (CDDC)",
+      "No prerequisites — designed as on-ramp for newcomers",
+      "Direct line to DSTA careers and scholarships"
+    ],
+    "url": "https://futurumacademy.com/brainhack-singapore-technology-competition/",
+    "status": "upcoming",
+    "application_deadline": null,
+    "difficulty": "Intermediate",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": false,
+    "application_url": "https://futurumacademy.com/brainhack-singapore-technology-competition/",
+    "tags": [
+      "singapore",
+      "defense",
+      "ai",
+      "ministry-of-defence"
+    ]
+  },
+  {
+    "id": "antler-sg-2026",
+    "name": "Antler Singapore Residency",
+    "organizer": "Antler",
+    "companies": [
+      "Antler"
+    ],
+    "level": "Startup",
+    "timeline": "Short-term incubator (3-6mo)",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Multidisciplinary"
+    ],
+    "fields": [
+      "General Tech",
+      "Artificial Intelligence",
+      "Deep Tech"
+    ],
+    "date": "Next residency: September 2026",
+    "location": "Singapore",
+    "prize": "US$150K for 10% equity (US$100K + US$50K SAFE) + global network",
+    "summary": "An inception-stage VC residency that compresses six months of company-building into six weeks. Antler invests in people from day zero — find a co-founder in the room, validate an idea, build, then take the cheque. Acceptance is under 3%. Graduates have raised down-stream from a thousands-strong Antler partner network. Backed by hands-on partners who've built and scaled themselves.",
+    "eligibility": "Pre-team and pre-product founders globally. <3% acceptance.",
+    "highlights": [
+      "US$150K cheque for 10% equity at residency end",
+      "Partner-led, not 'startup bootcamp' style",
+      "Find co-founders during the residency",
+      "Continuous follow-on investment up to Series C"
+    ],
+    "url": "https://www.antler.co/location/singapore",
+    "status": "upcoming",
+    "application_deadline": null,
+    "difficulty": "Elite/Selective",
+    "cost": "Free",
+    "prize_value_usd": 125000,
+    "beginner_friendly": false,
+    "application_url": "https://www.antler.co/location/singapore",
+    "tags": [
+      "accelerator",
+      "cofounder-matching",
+      "singapore",
+      "year-round"
+    ]
+  },
+  {
+    "id": "usaii-global-ai-2026",
+    "name": "USAII Global AI Hackathon 2026",
+    "organizer": "United States Artificial Intelligence Institute",
+    "companies": [
+      "USAII"
+    ],
+    "level": "Secondary",
+    "timeline": "1-week",
+    "scope": "Global (Worldwide)",
+    "domains": [
+      "Computer Science"
+    ],
+    "fields": [
+      "Artificial Intelligence",
+      "Social Impact"
+    ],
+    "date": "14–21 June 2026",
+    "location": "Fully virtual",
+    "prize": "US$15,000 pool: HS grand US$6K, College grand US$9K + USAII certification scholarships",
+    "summary": "A fully-virtual student AI hackathon with separate tracks for high schoolers (Grades 9–12), undergrads, and grad students. Teams of 2–5 build with public or synthetic data on real-world challenges (education, productivity, sustainability, health, social impact). No-code and low-code projects accepted. Recorded core sessions for time-zone fairness.",
+    "eligibility": "High school (Gr 9–12), undergrad, or graduate students worldwide. Teams of 2–5.",
+    "highlights": [
+      "Separate prize tracks for HS and college",
+      "No-code / low-code submissions allowed",
+      "Asynchronous core sessions for global fairness",
+      "USAII certification scholarships for winners"
+    ],
+    "url": "https://aihackathon.usaii.org/",
+    "status": "upcoming",
+    "application_deadline": null,
+    "difficulty": "Intermediate",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": false,
+    "application_url": "https://aihackathon.usaii.org/",
+    "tags": [
+      "ai",
+      "online",
+      "global",
+      "certification"
+    ]
+  },
+  {
+    "id": "isef-2026",
+    "name": "Regeneron International Science & Engineering Fair (ISEF) 2026",
+    "organizer": "Society for Science",
+    "companies": [
+      "Regeneron",
+      "Society for Science"
+    ],
+    "level": "Pre-University",
+    "timeline": "1-week",
+    "scope": "Global (Worldwide)",
+    "domains": [
+      "Sciences (STEM)",
+      "Engineering"
+    ],
+    "fields": [
+      "General Tech"
+    ],
+    "date": "9–15 May 2026",
+    "location": "Phoenix Convention Center, Phoenix, AZ, USA",
+    "prize": "US$9M+ in awards and scholarships",
+    "summary": "The world's largest pre-college science fair. ~1,800 students from 80+ countries present original research across 22 categories. Singapore qualifiers come through SSEF. Winning at ISEF is one of the strongest signals available for top-tier university STEM admissions; named after sponsor Regeneron, the biotech company.",
+    "eligibility": "Grades 9–12 (international equivalents). Qualification via affiliated regional fairs (in SG, that's SSEF).",
+    "highlights": [
+      "World's largest high-school science fair",
+      "US$9M+ scholarship pool",
+      "Singaporean entry path: win SSEF",
+      "22 research categories across all of STEM"
+    ],
+    "url": "https://www.societyforscience.org/isef/",
+    "status": "upcoming",
+    "application_deadline": null,
+    "difficulty": "Elite/Selective",
+    "cost": "Free",
+    "prize_value_usd": 75000,
+    "beginner_friendly": false,
+    "application_url": "https://www.societyforscience.org/isef/",
+    "tags": [
+      "research",
+      "global",
+      "high-school",
+      "regeneron",
+      "prestigious"
+    ]
+  },
+  {
+    "id": "raise-summit-2026",
+    "name": "RAISE Summit Hackathon & STAKES 2026",
+    "organizer": "RAISE Summit",
+    "companies": [
+      "RAISE Summit"
+    ],
+    "level": "Open / Professional",
+    "timeline": "24h sprint",
+    "scope": "Global (Worldwide)",
+    "domains": [
+      "Computer Science"
+    ],
+    "fields": [
+      "Artificial Intelligence"
+    ],
+    "date": "8–9 July 2026",
+    "location": "Le Carrousel du Louvre, Paris",
+    "prize": "€200,000 hackathon prize pool + €10M+ funding via STAKES startup contest",
+    "summary": "Billed as the world's largest AI hackathon — 8,000 participants, 24 hours, €200,000 in prizes, and four tracks (Foundation, Frontier, Friction, Future) that span infrastructure, advanced apps, adoption barriers, and frontier AI. Co-located with RAISE the STAKES, the startup pitch competition that narrows 1,500+ applicants to 10 finalists pitching at Le Carrousel du Louvre. Apply by 1 June for STAKES; hackathon registration ongoing.",
+    "eligibility": "Open globally. Hackathon: anyone. STAKES: AI-central startups, ≤€10M raised, pre-seed → Series A.",
+    "highlights": [
+      "€200,000 hackathon prize pool",
+      "8,000 hackers across four tracks",
+      "Co-located startup contest with €10M+ in funding",
+      "Held at Le Carrousel du Louvre, Paris"
+    ],
+    "url": "https://www.raisesummit.com/post/world-largest-ai-hackathon-startup-competition-raise-summit-2026",
+    "status": "upcoming",
+    "application_deadline": null,
+    "difficulty": "Advanced",
+    "cost": "Paid",
+    "prize_value_usd": 50000,
+    "beginner_friendly": false,
+    "application_url": "https://www.raisesummit.com/post/world-largest-ai-hackathon-startup-competition-raise-summit-2026",
+    "tags": [
+      "ai",
+      "europe",
+      "paris",
+      "summit"
+    ]
+  },
+  {
+    "id": "devnetwork-ai-ml-2026",
+    "name": "DevNetwork AI + ML Hackathon 2026",
+    "organizer": "DevNetwork (AI DevSummit)",
+    "companies": [
+      "DevNetwork",
+      "AI DevSummit"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Multi-week (1-3mo)",
+    "scope": "Global (Worldwide)",
+    "domains": [
+      "Computer Science"
+    ],
+    "fields": [
+      "Artificial Intelligence"
+    ],
+    "date": "11 May – 28 May 2026",
+    "location": "Hybrid (in-person at AI DevSummit + virtual)",
+    "prize": "Amazon Echos + DevNetwork Premium passes + sponsor prizes",
+    "summary": "Co-located with AI DevSummit, this 2.5-week hybrid hackathon attracts 300+ developers building mobile, consumer-web, and business-web AI apps. Two-round judging: a generalist round on progress/concept/feasibility, then a sponsor-specific round where each sponsor picks their own challenge winner. Top 5 present on the AI DevSummit main expo stage on May 28. Submissions are public-domain — they're explicit about not being the place to launch a stealthy startup.",
+    "eligibility": "Open globally. Solo or team. Devpost-based registration.",
+    "highlights": [
+      "300+ participant track record",
+      "Top 5 present on the AI DevSummit Expo main stage",
+      "Two-round judging (generalist + sponsor-specific)",
+      "Public-domain ideas — not for stealth-mode pitches"
+    ],
+    "url": "https://aidevsummit.co/hackathon/",
+    "status": "upcoming",
+    "application_deadline": "2026-05-28",
+    "difficulty": "Intermediate",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": false,
+    "application_url": "https://aidevsummit.co/hackathon/",
+    "tags": [
+      "ai",
+      "online",
+      "global",
+      "devsummit"
+    ]
+  },
+  {
+    "id": "hack-roll-2026",
+    "name": "Hack&Roll 2026",
+    "organizer": "NUS Hackers",
+    "companies": [
+      "NUS Hackers"
+    ],
+    "level": "Tertiary",
+    "timeline": "36-48h sprint",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science"
+    ],
+    "fields": [
+      "General Tech"
+    ],
+    "date": "17–18 January 2026",
+    "location": "RC4–CAPT Dining Hall, NUS",
+    "prize": "Themed prize categories including 'most ridiculous language stack'",
+    "summary": "Singapore's largest student-run hackathon. No themes, no limits — students from primary school through graduate studies build whatever they want over a continuous 24h venue. The vibe is intentionally chaotic and joyful: past winners include a Chrome extension that slices browsing images into puzzle pieces and a CV-powered seat-finder that detects 'choped' tissue-pack reservations.",
+    "eligibility": "Open to all student levels (primary → graduate). Teams 1–4. Free.",
+    "highlights": [
+      "Free, fully student-run",
+      "Open 24 hours with shared rest area",
+      "International participants welcome (no visa/accommodation support)",
+      "Whimsical category prizes encourage creative experimentation"
+    ],
+    "url": "https://hacknroll.nushackers.org/",
+    "status": "completed",
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": "https://hacknroll.nushackers.org/",
+    "tags": [
+      "singapore",
+      "nus-hackers",
+      "student-run",
+      "24-hour",
+      "fun"
+    ]
+  },
+  {
+    "id": "defcon-sg-2026",
+    "name": "DEF CON Singapore 2026",
+    "organizer": "DEF CON × HTX × CSIT",
+    "companies": [
+      "HTX",
+      "CSIT",
+      "DEF CON"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Weekend (~72h)",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Engineering"
+    ],
+    "fields": [
+      "Cybersecurity"
+    ],
+    "date": "28–30 April 2026 (training 26–27 Apr)",
+    "location": "Marina Bay Sands, Singapore",
+    "prize": "Contest-specific (Capture-the-Flag, Hacker Jeopardy, Villages)",
+    "summary": "The first-ever DEF CON in Asia. Co-organised by HTX (Home Team Science & Technology Agency) and CSIT (Centre for Strategic Infocomm Technologies), it brings the legendary US security conference's contests, Villages, and 2-day pre-conference training tracks to Singapore. Expect Capture-the-Flag, hardware hacking, lockpicking villages, and unfiltered talks — DEF CON's stated mission is 'discovery,' not vendor pitches.",
+    "eligibility": "Open registration. Early bird closed Feb 15. Student discount available.",
+    "highlights": [
+      "Inaugural Asia edition of DEF CON",
+      "2-day technical training Apr 26–27 before main con",
+      "CTFs, Villages, and the iconic Hacker Jeopardy",
+      "Government-backed: HTX co-organising, CSIT strategic partner"
+    ],
+    "url": "https://defcon.org/html/defcon-singapore/dc-singapore-index.html",
+    "status": "completed",
+    "application_deadline": null,
+    "difficulty": "Advanced",
+    "cost": "Paid",
+    "prize_value_usd": null,
+    "beginner_friendly": false,
+    "application_url": "https://defcon.org/html/defcon-singapore/dc-singapore-index.html",
+    "tags": [
+      "cybersecurity",
+      "singapore",
+      "defcon",
+      "professional"
+    ]
+  },
+  {
+    "id": "build-for-impact-2026",
+    "name": "Build for Impact Hackathon (AAAI 2026)",
+    "organizer": "Build Learning × SGInnovate",
+    "companies": [
+      "AI Singapore",
+      "OpenAI",
+      "Google",
+      "AWS",
+      "Cloudflare",
+      "Stanford"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Weekend (~72h)",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Multidisciplinary"
+    ],
+    "fields": [
+      "Artificial Intelligence",
+      "Social Impact"
+    ],
+    "date": "24–25 January 2026",
+    "location": "Singapore (during AAAI 2026 + SG AI Research Week)",
+    "prize": "Mentorship and showcase opportunities with founding sponsors",
+    "summary": "A 2-day in-person AI innovation hackathon held during the 40th AAAI Conference and Singapore AI Research Week. Participants apply design thinking to ideate and prototype around three impact tracks — Charity, Sustainability, Wellness — using SEA-LION, the local LLM developed by AI Singapore. Speakers and mentors are drawn from OpenAI, Google, AWS, Cloudflare, and Stanford.",
+    "eligibility": "Open registration; designed for builders and applied researchers.",
+    "highlights": [
+      "Use SEA-LION, AI Singapore's local LLM",
+      "Direct mentorship from OpenAI, Google, AWS, Cloudflare",
+      "Embedded inside AAAI — Singapore's biggest AI research week",
+      "Three impact tracks: Charity, Sustainability, Wellness"
+    ],
+    "url": "https://www.sginnovate.com/event/2026-build-impact-hackathon",
+    "status": "completed",
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": "https://www.sginnovate.com/event/2026-build-impact-hackathon",
+    "tags": [
+      "singapore",
+      "ai",
+      "students",
+      "sg-innovate",
+      "aaai"
+    ]
+  },
+  {
+    "id": "ssef-2026",
+    "name": "Singapore Science & Engineering Fair (SSEF)",
+    "organizer": "MOE × A*STAR × Science Centre Singapore",
+    "companies": [
+      "A*STAR",
+      "MOE",
+      "Science Centre Singapore"
+    ],
+    "level": "Pre-University",
+    "timeline": "Annual / ongoing",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Sciences (STEM)",
+      "Engineering"
+    ],
+    "fields": [
+      "General Tech"
+    ],
+    "date": "Annual (next: early 2026)",
+    "location": "Science Centre Singapore",
+    "prize": "Gold/Silver/Bronze; pathway to ISEF (Phoenix, May 2026) and NSTS",
+    "summary": "The country's flagship pre-tertiary research competition. Open to secondary and pre-university students in MOE schools, SSEF is the qualifying gate for both Regeneron ISEF (the world's largest high-school science fair) and the National STEM Talent Search. Submissions are full original research projects judged by working scientists.",
+    "eligibility": "Secondary + pre-U students in MOE schools.",
+    "highlights": [
+      "Pathway to Regeneron ISEF in Phoenix, USA",
+      "Original research project required",
+      "Tiered Gold/Silver/Bronze + Junior Scientist awards",
+      "Run jointly by MOE, A*STAR, and Science Centre Singapore"
+    ],
+    "url": "https://www.science.edu.sg/for-schools/competitions/singapore-science-and-engineering-fair",
+    "status": "completed",
+    "application_deadline": null,
+    "difficulty": "Elite/Selective",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": false,
+    "application_url": "https://www.science.edu.sg/for-schools/competitions/singapore-science-and-engineering-fair",
+    "tags": [
+      "singapore",
+      "research",
+      "secondary",
+      "isef-pathway"
+    ]
+  },
+  {
+    "id": "sbcc-africa-2026",
+    "name": "SBCC × Africa Challenge 2026",
+    "organizer": "NTU-SBF Centre for African Studies",
+    "companies": [
+      "Olam Agri",
+      "NTU"
+    ],
+    "level": "Tertiary",
+    "timeline": "Multi-week (1-3mo)",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Business / Finance"
+    ],
+    "fields": [
+      "Sustainability / Green",
+      "Social Impact"
+    ],
+    "date": "Finals: 28 March 2026",
+    "location": "NTU, Singapore",
+    "prize": "S$1,500 + all-expenses-paid trip to Ghana for champions",
+    "summary": "An NTU-run case competition asking student teams to design Africa-market expansion strategies for Singapore-based companies. The 2026 edition tasked teams with helping a cold-chain logistics firm enter West Africa's pharmaceutical sector — the winning team proposed an asset-light, tech-enabled, locally-adapted ecosystem. 130+ teams, 435 participants, 5 grand finalists.",
+    "eligibility": "Singapore tertiary students (NUS, NTU, SMU, etc.).",
+    "highlights": [
+      "Real Africa-market case from sponsor Olam Agri",
+      "Champions visit Ghana on a sponsored trip",
+      "130+ team field, ~6% finals rate",
+      "Backed by NTU-SBF Centre for African Studies"
+    ],
+    "url": "https://www.ntu.edu.sg/cas/news-events/news/detail/ntu-students-win-the-sbcc-x-africa-challenge-2026",
+    "status": "completed",
+    "application_deadline": null,
+    "difficulty": "Intermediate",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": false,
+    "application_url": "https://www.ntu.edu.sg/cas/news-events/news/detail/ntu-students-win-the-sbcc-x-africa-challenge-2026",
+    "tags": [
+      "sustainability",
+      "africa",
+      "global",
+      "startup"
+    ]
+  },
+  {
+    "id": "hack-public-good-2026",
+    "name": "Hack for Public Good 2026",
+    "organizer": "Open Government Products (OGP)",
+    "companies": [
+      "Open Government Products",
+      "GovTech Singapore"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Weekend (~72h)",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Multidisciplinary"
+    ],
+    "fields": [
+      "Social Impact",
+      "General Tech"
+    ],
+    "date": "Annual (Feb 2026 cohort)",
+    "location": "Singapore",
+    "prize": "Selected projects continue as funded products at GovTech",
+    "summary": "An annual hackathon by Open Government Products that brings every OGP officer together to ship projects targeting Singaporean public-service problems. Unusually for a hackathon, the work doesn't stop at demo day — over five years, hackathon products have been continuously developed and deployed into production government services. Participation is internal (OGP/GovTech officers) but the project portfolio and post-hackathon roadmap are public.",
+    "eligibility": "Internal to Open Government Products officers.",
+    "highlights": [
+      "Run by Singapore's Open Government Products team",
+      "Projects continue as funded products post-event",
+      "Five-year track record of shipped public services",
+      "Public project portfolio at hack.gov.sg"
+    ],
+    "url": "https://www.hack.gov.sg/",
+    "status": "completed",
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": "https://www.hack.gov.sg/",
+    "tags": [
+      "singapore",
+      "govtech",
+      "civic-tech",
+      "annual"
+    ]
+  },
+  {
+    "id": "black-hat-asia-2026",
+    "name": "Black Hat Asia 2026",
+    "organizer": "Black Hat",
+    "companies": [
+      "Black Hat",
+      "Informa Tech"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Weekend (~72h)",
+    "scope": "Regional (SEA / Asia)",
+    "domains": [
+      "Computer Science"
+    ],
+    "fields": [
+      "Cybersecurity",
+      "Artificial Intelligence"
+    ],
+    "date": "23–24 April 2026",
+    "location": "Marina Bay Sands Expo & Convention Centre, Singapore",
+    "prize": "Talk acceptance + research community recognition (no cash)",
+    "summary": "The Asian arm of the Black Hat conference series — focused this year on the privacy/automation/AI-driven-security intersection, with keynotes from investigative journalist Violet Blue and others. Where DEF CON SG (a week later) is contests and villages, Black Hat is research talks, threat-intel briefings, and policy. Dual-purpose for security professionals: Briefings (talks) and Trainings (multi-day technical workshops).",
+    "eligibility": "Open registration. CFP closed.",
+    "highlights": [
+      "Long-running APAC arm of the Black Hat series",
+      "Held one week before DEF CON Singapore",
+      "Talks + multi-day technical Trainings",
+      "Strong APAC government and enterprise audience"
+    ],
+    "url": "https://cybersecuritymarket.com/black-hat-asia-2026-april-23-24-singapore/",
+    "status": "completed",
+    "application_deadline": null,
+    "difficulty": "Advanced",
+    "cost": "Paid",
+    "prize_value_usd": null,
+    "beginner_friendly": false,
+    "application_url": "https://cybersecuritymarket.com/black-hat-asia-2026-april-23-24-singapore/",
+    "tags": [
+      "cybersecurity",
+      "singapore",
+      "professional",
+      "completed"
+    ]
+  },
+  {
+    "id": "nus-fintech-summit-2026",
+    "name": "NUS Fintech Summit Hackathon 2026",
+    "organizer": "NUS Fintech Society",
+    "companies": [
+      "Ripple",
+      "XRPL",
+      "Blockchain for Good Alliance"
+    ],
+    "level": "Tertiary",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Business / Economics"
+    ],
+    "fields": [
+      "FinTech",
+      "Web3 / Blockchain"
+    ],
+    "date": "5–9 January 2026",
+    "location": "NUS, Singapore",
+    "prize": "Top prize + 2,000 USDT BGA bounty for sustainability projects",
+    "summary": "A 5-day fintech hackathon hosted by the NUS Fintech Society, single-tracked around Ripple's problem statement on blockchain-enabled financial applications. Participants attend physical workshops on the 5th-6th, then build for 48 hours. The Blockchain for Good Alliance offers a separate sustainability bounty for projects aligned with UN SDGs.",
+    "eligibility": "University and tertiary students (teams of 3–5).",
+    "highlights": [
+      "Single-track focus on XRPL / Ripple blockchain infrastructure",
+      "BGA bounty (up to 2,000 USDT) for SDG-aligned projects",
+      "Networking afterparty + career booth fest with sponsors",
+      "Devpost-based submissions"
+    ],
+    "url": "https://nusfintechsummit.com/",
+    "status": "completed",
+    "application_deadline": "2026-01-01",
+    "difficulty": "Intermediate",
+    "cost": "Free",
+    "prize_value_usd": 5000,
+    "beginner_friendly": false,
+    "application_url": "https://nus-fintech-summit-2026.devpost.com/",
+    "tags": [
+      "singapore",
+      "fintech",
+      "blockchain",
+      "xrpl",
+      "tertiary",
+      "completed"
+    ]
+  },
+  {
+    "id": "ntu-beyond-binary-2026",
+    "name": "NTU Beyond Binary Techathon 2026",
+    "organizer": "NTU Women in Tech",
+    "companies": [
+      "Jane Street",
+      "IMDA",
+      "Squarepoint",
+      "AWS",
+      "Powers"
+    ],
+    "level": "Tertiary",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "General Tech"
+    ],
+    "date": "January 2026 (completed)",
+    "location": "NTU, Singapore",
+    "prize": "S$10,000 total prize pool",
+    "summary": "NTU Women in Tech's flagship inclusive techathon, with parallel Hackathon (build & prototype) and Ideathon (ideation & pitching) tracks. Designed to welcome students of all technical backgrounds — whether you code full-stack or craft strategy. Includes industry-led workshops with engineers from Jane Street, IMDA, Squarepoint, AWS, and Powers.",
+    "eligibility": "Students from local Singapore universities (all genders welcome despite the name).",
+    "highlights": [
+      "Two tracks: Hackathon (technical) + Ideathon (strategy/product)",
+      "$10,000 total prize pool",
+      "Workshops with Jane Street, IMDA, AWS",
+      "Built explicitly for inclusive participation"
+    ],
+    "url": "https://ntu-beyond-binary-2026.devpost.com/",
+    "status": "completed",
+    "application_deadline": "2026-01-15",
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": 7500,
+    "beginner_friendly": true,
+    "application_url": "https://ntu-beyond-binary-2026.devpost.com/",
+    "tags": [
+      "singapore",
+      "women-in-tech",
+      "ntu",
+      "inclusive",
+      "tertiary",
+      "completed"
+    ]
+  },
+  {
+    "id": "ccds-pathways-python-2026",
+    "name": "CCDS Pathways in Python — Tech for Good Hackathon",
+    "organizer": "NTU College of Computing and Data Science",
+    "companies": [
+      "NTU CCDS"
+    ],
+    "level": "Pre-University",
+    "timeline": "Multi-week (1-3mo)",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science"
+    ],
+    "fields": [
+      "General Tech",
+      "AI / Machine Learning"
+    ],
+    "date": "January–February 2026 (completed)",
+    "location": "NTU, Singapore",
+    "prize": "Cash prizes + recognition at CCDS Open House",
+    "summary": "An immersive learning + hackathon hybrid for JC and polytechnic students. A 3-week guided Python intensive (Jan 12–31) is followed by a 'Tech for Good' hackathon under NTU faculty mentorship. Top 10 teams present at NTU Open House in February. No prior coding experience needed for the intensive track — beginner-friendly.",
+    "eligibility": "Junior College, Polytechnic, or pre-university students. Teams of 2–3.",
+    "highlights": [
+      "Intensive Python pre-training built in (3 weeks)",
+      "Mentorship from NTU CCDS faculty + students",
+      "Direct pipeline to NTU computing community",
+      "Open to non-coders — beginner-friendly"
+    ],
+    "url": "https://www.ntu.edu.sg/computing/news-events/events/pathways-in-python-2026",
+    "status": "completed",
+    "application_deadline": "2026-01-24",
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": "https://www.ntu.edu.sg/computing/news-events/events/pathways-in-python-2026",
+    "tags": [
+      "singapore",
+      "ntu",
+      "pre-university",
+      "python",
+      "social-impact",
+      "completed"
+    ]
+  },
+  {
+    "id": "manus-ai-for-all-2026",
+    "name": "Manus AI For All Create-A-Thon",
+    "organizer": "Manus AI",
+    "companies": [
+      "Manus AI"
+    ],
+    "level": "Tertiary",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Business / Economics"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "date": "31 January 2026 (completed)",
+    "location": "NTU Singapore",
+    "prize": "S$20,000 prize pool + 2M Manus AI credits",
+    "summary": "A one-day hackathon at NTU where students used 2M Manus AI credits to build real AI solutions for SMBs and freelancers. The challenge: democratize access to AI for businesses without ML teams. Founders, mentors, and driven students from across Singapore networked, then built fast on the Manus platform.",
+    "eligibility": "Students across Singapore universities.",
+    "highlights": [
+      "S$20,000 prize pool",
+      "2M free Manus AI credits per team",
+      "SMB & freelancer focus — real customers ready",
+      "Founder + mentor networking"
+    ],
+    "url": "https://manus.im/campaign/ai-for-all",
+    "status": "completed",
+    "application_deadline": "2026-01-30",
+    "difficulty": "Intermediate",
+    "cost": "Free",
+    "prize_value_usd": 15000,
+    "beginner_friendly": false,
+    "application_url": "https://manus.im/campaign/ai-for-all",
+    "tags": [
+      "singapore",
+      "ai",
+      "ntu",
+      "smb",
+      "tertiary",
+      "completed"
+    ]
+  },
+  {
+    "id": "naisc-2026",
+    "name": "National AI Student Challenge 2026",
+    "organizer": "AI Singapore",
+    "companies": [
+      "AI Singapore",
+      "Huawei Cloud",
+      "Salesforce"
+    ],
+    "level": "Pre-University",
+    "timeline": "Multi-month (3-6mo)",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "date": "March–May 2026",
+    "location": "Singapore",
+    "prize": "Cash prizes + finals at AI Student Developer Conference",
+    "summary": "AI Singapore's flagship student AI challenge, with 8 challenge tracks ranging from Multimodal Security Response to Multi-Agent AI Systems. Local tracks are exclusively for Singapore-based students. Finalists present in person at the AI Student Developer Conference on May 22–23.",
+    "eligibility": "Full-time students in Upper Secondary, JC, ITE, Polytechnic, Diploma, or NSF (Singapore).",
+    "highlights": [
+      "8 tracks — pick the one that fits you",
+      "Local tracks reserved for Singapore students",
+      "In-person finals at AI Student Developer Conference",
+      "Industry challenge owners walk through problems live"
+    ],
+    "url": "https://naisc.aisingapore.org/",
+    "status": "ongoing",
+    "application_deadline": "2026-02-16",
+    "difficulty": "Intermediate",
+    "cost": "Free",
+    "prize_value_usd": 10000,
+    "beginner_friendly": false,
+    "application_url": "https://naisc.aisingapore.org/",
+    "tags": [
+      "singapore",
+      "ai",
+      "students",
+      "aisg",
+      "national"
+    ]
+  },
+  {
+    "id": "ntu-hsil-hackathon-2026",
+    "name": "NTU × Harvard HSIL Hackathon 2026",
+    "organizer": "NTU School of Mechanical & Aerospace Engineering",
+    "companies": [
+      "NTU MAE",
+      "Harvard Health Systems Innovation Lab"
+    ],
+    "level": "Tertiary",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "Healthcare",
+      "AI / Machine Learning"
+    ],
+    "date": "April 2026",
+    "location": "NTU, Singapore (Harvard HSIL hub)",
+    "prize": "Recognition + venture incubation pathway",
+    "summary": "NTU is the Singapore hub for Harvard's flagship Health Systems Innovation Lab (HSIL) Hackathon — a globally distributed event with hubs across five continents. The 2026 theme: 'Building High-Value Health Systems: Leveraging AI'. Selected teams enter an 8-week remote venture incubation program post-hackathon.",
+    "eligibility": "Students, clinicians, engineers, designers, policy analysts, entrepreneurs.",
+    "highlights": [
+      "Singapore hub of Harvard's global hackathon",
+      "Interdisciplinary — clinicians + engineers + designers",
+      "8-week venture incubation program for top teams",
+      "Built around real health systems challenges"
+    ],
+    "url": "https://www.ntu.edu.sg/mae/news-events/events/detail/2026/04/10/default-calendar/2026-harvard-health-systems-innovation-hackathon",
+    "status": "completed",
+    "application_deadline": "2026-03-06",
+    "difficulty": "Advanced",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": false,
+    "application_url": "https://hsph.harvard.edu/research/health-systems-innovation-lab/work/hsil-hackathon-2026-building-high-value-health-systems-leveraging-ai/",
+    "tags": [
+      "singapore",
+      "healthcare",
+      "harvard",
+      "ntu",
+      "ai",
+      "completed"
+    ]
+  },
+  {
+    "id": "hacknroll-2026",
+    "name": "Hack&Roll 2026",
+    "organizer": "NUS Hackers",
+    "companies": [
+      "NUS Hackers (student-run)"
+    ],
+    "level": "Tertiary",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science"
+    ],
+    "fields": [
+      "General Tech"
+    ],
+    "date": "17–18 January 2026 (completed)",
+    "location": "NUS, Singapore",
+    "prize": "Custom HACK&ROLL badge (ESP32C3 + LEDs + buzzer) for every hacker",
+    "summary": "Singapore's largest student-run hackathon — 24 hours of pure hacking joy. The vibe is wholesome chaos: hardware badges, weird hacks, overnight hacking. Welcomes everyone from primary school to grad students (though only undergrads can win prizes). International participants welcome but no visa/accommodation help.",
+    "eligibility": "All students welcome (P1 → grad). Teams of 1–4. Prizes only for undergraduates.",
+    "highlights": [
+      "Custom ESP32C3 hardware badge for everyone",
+      "24-hour overnight hacking — venue stays open",
+      "Wholesome chaos energy — welcomes weird hacks",
+      "All ages welcome (even prospective students!)"
+    ],
+    "url": "https://hacknroll.nushackers.org/",
+    "status": "completed",
+    "application_deadline": "2026-01-10",
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": "https://hacknroll.nushackers.org/",
+    "tags": [
+      "singapore",
+      "nus",
+      "student-run",
+      "24-hour",
+      "hardware",
+      "fun",
+      "completed"
+    ]
+  },
+  {
+    "id": "horizons-arcana-sg-2026",
+    "name": "Horizons Arcana — Hack Club Singapore",
+    "organizer": "Hack Club (US 501(c)(3))",
+    "companies": [
+      "Hack Club"
+    ],
+    "level": "Secondary",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science"
+    ],
+    "fields": [
+      "General Tech"
+    ],
+    "date": "July 2026",
+    "location": "Singapore (TBA venue)",
+    "prize": "100% free to attend — food, accommodation, travel stipends provided",
+    "summary": "A 3-day hackathon for 100+ teens from around the world, gathering in Singapore. Part of Hack Club's 'Horizons' series of 7 simultaneous global hackathons. Qualify by spending 35 hours shipping software/hardware projects to the Horizons Platform. Travel stipends provided — explicitly designed to be accessible regardless of financial background.",
+    "eligibility": "High school students (under 18). Globally open. Must ship 35 hrs of work to qualify.",
+    "highlights": [
+      "100% free — including food, lodging, AND travel stipends",
+      "Part of global 7-hackathon Horizons series",
+      "Qualify by shipping projects (not by application essay)",
+      "Hack Club community of 60,000+ teen makers"
+    ],
+    "url": "https://arcana.hackclub.com/",
+    "status": "upcoming",
+    "application_deadline": "2026-06-15",
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": "https://arcana.hackclub.com/",
+    "tags": [
+      "singapore",
+      "high-school",
+      "global",
+      "hack-club",
+      "free-travel"
+    ]
+  },
+  {
+    "id": "sao-2026",
+    "name": "Singapore Astronomy Olympiad (SAO)",
+    "organizer": "Astronomy.SG",
+    "companies": [
+      "NUS High School",
+      "Hwa Chong Institution"
+    ],
+    "level": "Secondary",
+    "timeline": "Multi-month (3-6mo)",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "General Tech"
+    ],
+    "date": "Round 2: 14 March 2026 (completed)",
+    "location": "Hwa Chong Institution",
+    "prize": "Gold medalists represent Singapore at IOAA (Hanoi 2026)",
+    "summary": "Singapore's national astronomy olympiad, modelled after the International Olympiad on Astronomy and Astrophysics. Round 1 narrows down 262 participants; Round 2 invites finalists to a multi-hour assessment. Top 5 Gold medalists represent Singapore at IOAA, hosted in Hanoi October 2026.",
+    "eligibility": "Students under 20 not exceeding Grade 12. Open to all Singapore-based students.",
+    "highlights": [
+      "Pipeline to International Olympiad on Astronomy & Astrophysics (IOAA)",
+      "Free past papers + revision resources online",
+      "Round 2 hosted at Hwa Chong",
+      "Top 5 represent Singapore at IOAA Hanoi (Oct 2026)"
+    ],
+    "url": "https://astronomy.sg/singapore-astronomy-olympiad/",
+    "status": "completed",
+    "application_deadline": "2026-02-01",
+    "difficulty": "Advanced",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": false,
+    "application_url": "https://astronomy.sg/singapore-astronomy-olympiad/",
+    "tags": [
+      "singapore",
+      "astronomy",
+      "secondary",
+      "olympiad",
+      "ioaa-pathway",
+      "completed"
+    ]
+  },
+  {
+    "id": "noi-singapore-2026",
+    "name": "National Olympiad in Informatics (NOI) Singapore",
+    "organizer": "NUS School of Computing",
+    "companies": [
+      "NUS Computing"
+    ],
+    "level": "Secondary",
+    "timeline": "Annual / ongoing",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science"
+    ],
+    "fields": [
+      "General Tech"
+    ],
+    "date": "Annual (typically March)",
+    "location": "NUS, Singapore",
+    "prize": "Pipeline to International Olympiad in Informatics (IOI)",
+    "summary": "Singapore's premier programming olympiad for secondary and JC students. Top performers represent Singapore at the International Olympiad in Informatics (IOI). Top schools are typically Raffles Institution, NUS High School, Hwa Chong Institution. Strong DSA / algorithms focus.",
+    "eligibility": "Secondary and JC students in Singapore.",
+    "highlights": [
+      "Direct pipeline to IOI international team",
+      "Strong DSA / algorithms emphasis",
+      "Past papers freely available",
+      "Tracks Junior + Senior divisions"
+    ],
+    "url": "https://noisg.comp.nus.edu.sg/",
+    "status": "ongoing",
+    "application_deadline": null,
+    "difficulty": "Advanced",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": false,
+    "application_url": "https://noisg.comp.nus.edu.sg/",
+    "tags": [
+      "singapore",
+      "informatics",
+      "competitive-programming",
+      "secondary",
+      "ioi-pathway"
+    ]
+  },
+  {
+    "id": "smo-2026",
+    "name": "Singapore Mathematical Olympiad (SMO Junior/Senior/Open)",
+    "organizer": "Singapore Mathematical Society",
+    "companies": [
+      "Singapore Mathematical Society"
+    ],
+    "level": "Secondary",
+    "timeline": "Annual / ongoing",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Mathematics"
+    ],
+    "fields": [
+      "General Tech"
+    ],
+    "date": "Annual — Junior/Senior/Open divisions",
+    "location": "Singapore (school-based)",
+    "prize": "Pathway to APMO and IMO international team",
+    "summary": "Singapore's national mathematical olympiad with three divisions: Junior (Sec 1–2), Senior (Sec 3–4), and Open (JC). Top scorers across all divisions feed into the international olympiad selection pathway leading to APMO and ultimately the International Mathematical Olympiad (IMO). DSA portfolios commonly include SMO awards.",
+    "eligibility": "Singapore students. School-based registration.",
+    "highlights": [
+      "Three divisions — find your level",
+      "Pipeline to APMO + IMO international team",
+      "Strong signal for DSA secondary admissions",
+      "Most prestigious math competition in Singapore"
+    ],
+    "url": "https://sms.math.nus.edu.sg/SMO.aspx",
+    "status": "ongoing",
+    "application_deadline": null,
+    "difficulty": "Advanced",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": false,
+    "application_url": "https://sms.math.nus.edu.sg/SMO.aspx",
+    "tags": [
+      "singapore",
+      "math",
+      "olympiad",
+      "imo-pathway",
+      "secondary"
+    ]
+  },
+  {
+    "id": "sphysolympiad-2026",
+    "name": "Singapore Physics / Chemistry / Biology Olympiads (SPhO/SChO/SBO)",
+    "organizer": "Singapore Institute of Physics, etc.",
+    "companies": [
+      "NUS",
+      "MOE Singapore"
+    ],
+    "level": "Secondary",
+    "timeline": "Annual / ongoing",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "General Tech"
+    ],
+    "date": "Annual (Aug–Dec window typically)",
+    "location": "Singapore",
+    "prize": "Pathway to IPhO, IChO, IBO international teams",
+    "summary": "The triple of Singapore's national science olympiads: Physics (SPhO), Chemistry (SChO), Biology (SBO). Top performers represent Singapore at the corresponding international olympiads (IPhO, IChO, IBO). Run school-based — talk to your science HOD by January each year.",
+    "eligibility": "Singapore secondary and JC students. School-based registration.",
+    "highlights": [
+      "Pipeline to International Physics/Chem/Bio Olympiads",
+      "Run by NUS + relevant academic societies",
+      "School-based registration only",
+      "Strong DSA portfolio signal"
+    ],
+    "url": "https://www.sips.org.sg/",
+    "status": "ongoing",
+    "application_deadline": null,
+    "difficulty": "Advanced",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": false,
+    "application_url": "https://www.sips.org.sg/",
+    "tags": [
+      "singapore",
+      "physics",
+      "chemistry",
+      "biology",
+      "olympiad",
+      "secondary"
+    ]
+  },
+  {
+    "id": "sssdc-2026",
+    "name": "Singapore Secondary Schools Debating Championships (SSSDC)",
+    "organizer": "Julia Gabriel Education",
+    "companies": [
+      "Julia Gabriel Centre"
+    ],
+    "level": "Secondary",
+    "timeline": "Multi-month (3-6mo)",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Humanities"
+    ],
+    "fields": [
+      "General Tech"
+    ],
+    "date": "February–April 2026",
+    "location": "Various schools (Friday evenings)",
+    "prize": "National debating champion title + recognition",
+    "summary": "Held over Friday evenings from February to April, SSSDC involves teams from ~70 schools — secondary, integrated programme, and international schools. Uses a modified WSDC format with three divisions so you compete at your skill level. The biggest debate event on Singapore's school calendar.",
+    "eligibility": "Singapore secondary, IP, and international school teams.",
+    "highlights": [
+      "70+ schools across Singapore participate",
+      "Three divisions — every team competes at right level",
+      "Modified World Schools Debating Championship format",
+      "Friday evenings, Feb–April"
+    ],
+    "url": "https://www.juliagabriel.com/enrichment/programmes/debating/debating-championships/",
+    "status": "completed",
+    "application_deadline": "2026-01-20",
+    "difficulty": "Intermediate",
+    "cost": "Paid",
+    "prize_value_usd": null,
+    "beginner_friendly": false,
+    "application_url": "https://www.juliagabriel.com/enrichment/programmes/debating/debating-championships/",
+    "tags": [
+      "singapore",
+      "debate",
+      "secondary",
+      "humanities",
+      "completed"
+    ]
+  },
+  {
+    "id": "asian-debate-junior-winter-2026",
+    "name": "Asia Junior Championships — Debate (Winter Edition)",
+    "organizer": "EduDrift",
+    "companies": [
+      "EduDrift"
+    ],
+    "level": "Secondary",
+    "timeline": "Single-day",
+    "scope": "Regional (Asia)",
+    "domains": [
+      "Humanities"
+    ],
+    "fields": [
+      "General Tech"
+    ],
+    "date": "24–25 January 2026 (completed)",
+    "location": "Online (Slack + Zoom)",
+    "prize": "2-Day Tournament Pass + International Judges + Performance Report",
+    "summary": "Junior WSDC format debate tournament for 7–14 year olds across the Asia Pacific. 150+ debaters from Australia, New Zealand, China, Japan, Singapore, Korea, Indonesia, India compete online. Ideal start of the year for young debaters.",
+    "eligibility": "Junior-age (7–14 years) from Asia Pacific region. Teams of 3.",
+    "highlights": [
+      "Junior WSDC format — competitive debating for young teens",
+      "150+ debaters from across Asia Pacific",
+      "Online via Slack + Zoom",
+      "Performance assessment report from international judges"
+    ],
+    "url": "https://edudrift.com/online-competitions/ajcw/",
+    "status": "completed",
+    "application_deadline": "2026-01-20",
+    "difficulty": "Beginner-Friendly",
+    "cost": "Paid",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": "https://edudrift.com/online-competitions/ajcw/",
+    "tags": [
+      "asia",
+      "debate",
+      "junior",
+      "online",
+      "completed"
+    ]
+  },
+  {
+    "id": "apdc-2026",
+    "name": "Asia Pacific Schools Debate Championships (APDC)",
+    "organizer": "EduDrift",
+    "companies": [
+      "EduDrift"
+    ],
+    "level": "Secondary",
+    "timeline": "Single-day",
+    "scope": "Regional (Asia)",
+    "domains": [
+      "Humanities"
+    ],
+    "fields": [
+      "General Tech"
+    ],
+    "date": "20–21 June 2026",
+    "location": "Online (Slack + Zoom)",
+    "prize": "2-Day Tournament Pass + Asian 3v3 trophy",
+    "summary": "Asian 3v3 debate format for 13–18 year olds across Asia Pacific. Founded in 2022; 76 institutions, 500+ students, 30 countries/regions. Hall of Fame includes top schools across Australia, New Zealand, Korea, Singapore.",
+    "eligibility": "Senior age (13–18). Asia Pacific. Teams of 3.",
+    "highlights": [
+      "Asian 3v3 format",
+      "500+ students, 30 countries",
+      "Online — accessible from anywhere",
+      "Performance feedback + certificate of achievement"
+    ],
+    "url": "https://edudrift.com/online-competitions/apdc/",
+    "status": "upcoming",
+    "application_deadline": "2026-06-15",
+    "difficulty": "Intermediate",
+    "cost": "Paid",
+    "prize_value_usd": null,
+    "beginner_friendly": false,
+    "application_url": "https://edudrift.com/online-competitions/apdc/",
+    "tags": [
+      "asia",
+      "debate",
+      "secondary",
+      "online"
+    ]
+  },
+  {
+    "id": "sasmo-2026",
+    "name": "Singapore and Asian Schools Math Olympiad (SASMO)",
+    "organizer": "Singapore International Math Contests Centre (SIMCC)",
+    "companies": [
+      "SIMCC"
+    ],
+    "level": "Primary",
+    "timeline": "Single-day",
+    "scope": "Regional (Asia)",
+    "domains": [
+      "Mathematics"
+    ],
+    "fields": [
+      "General Tech"
+    ],
+    "date": "Annual March–May window",
+    "location": "Singapore + 20+ countries",
+    "prize": "Medals, certificates, scholarships at finals",
+    "summary": "Founded 2006. SASMO has grown to ~120,000 participants annually from 20+ countries. Emphasizes problem-solving, creative thinking, and mathematical reasoning over rote computation. Open from Primary 2 through Junior College 2. Individual sign-ups accepted via SIMCC website.",
+    "eligibility": "P2 to JC2. Singapore + Asian schools. Individual or school sign-up.",
+    "highlights": [
+      "120,000+ annual participants from 20+ countries",
+      "Individual sign-ups accepted (no school nomination needed)",
+      "Emphasizes creative reasoning over rote",
+      "Strong DSA / school admission signal"
+    ],
+    "url": "https://sasmo.sg/",
+    "status": "ongoing",
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Paid",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": "https://simcc.org/",
+    "tags": [
+      "singapore",
+      "math",
+      "olympiad",
+      "primary",
+      "secondary",
+      "individual-signup"
+    ]
+  },
+  {
+    "id": "treehacks-2026",
+    "name": "TreeHacks 2026 (Stanford)",
+    "organizer": "TreeHacks Organizing Team",
+    "companies": [
+      "Stanford University",
+      "OpenAI",
+      "Google",
+      "ElevenLabs"
+    ],
+    "level": "Tertiary",
+    "timeline": "Single-day",
+    "scope": "Global",
+    "domains": [
+      "Computer Science"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "General Tech"
+    ],
+    "date": "14–15 February 2026 (completed)",
+    "location": "Stanford University, USA",
+    "prize": "$1,030,875+ in prizes — including iPhone 17 Pro Max, Meta Ray-Bans, OpenAI internships",
+    "summary": "The largest collegiate hackathon in the US. Stanford's invite-only event for college students, featuring over $1M in prizes. OpenAI offers winners a year of ChatGPT Pro + Michelin-star dinner + guaranteed interview. Heavy competition — ages 18+ only.",
+    "eligibility": "Invited TreeHacks participants. Ages 18+. College students only.",
+    "highlights": [
+      "$1M+ prize pool",
+      "OpenAI guaranteed interview for top winners",
+      "Hardware prizes per team member (iPhones, Meta Ray-Bans)",
+      "Most prestigious US college hackathon"
+    ],
+    "url": "https://treehacks-2026.devpost.com/",
+    "status": "completed",
+    "application_deadline": "2026-01-15",
+    "difficulty": "Elite/Selective",
+    "cost": "Free",
+    "prize_value_usd": 1030875,
+    "beginner_friendly": false,
+    "application_url": "https://treehacks-2026.devpost.com/",
+    "tags": [
+      "us",
+      "stanford",
+      "tertiary",
+      "ai",
+      "selective",
+      "completed"
+    ]
+  },
+  {
+    "id": "hackprinceton-spring-2026",
+    "name": "HackPrinceton Spring 2026",
+    "organizer": "HackPrinceton (student-led)",
+    "companies": [
+      "Princeton University",
+      "Google",
+      "Solana",
+      "ElevenLabs"
+    ],
+    "level": "Tertiary",
+    "timeline": "Single-day",
+    "scope": "Global",
+    "domains": [
+      "Computer Science"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "Web3 / Blockchain",
+      "Healthcare"
+    ],
+    "date": "17–19 April 2026 (completed)",
+    "location": "Princeton University, USA",
+    "prize": "Multiple track prizes including Wireless Earbuds, JBL Speakers, M5GO IoT Kits",
+    "summary": "Princeton's premier hackathon, open to all college students globally. 36 hours of hacking with workshops, mentorship, and category prizes (Healthcare, Sustainability, Hardware, Games, Best First-Time Hack). Welcomes first-time hackers explicitly.",
+    "eligibility": "College students from any university. Beginners explicitly welcome.",
+    "highlights": [
+      "Best First-Time Hacker prize — beginners encouraged",
+      "Categories: Healthcare, Sustainability, Hardware, Games",
+      "36 hours in-person at Princeton",
+      "ElevenLabs voice AI prizes"
+    ],
+    "url": "https://hackprinceton-spring-26.devpost.com/",
+    "status": "completed",
+    "application_deadline": "2026-04-01",
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": "https://hackprinceton-spring-26.devpost.com/",
+    "tags": [
+      "us",
+      "princeton",
+      "tertiary",
+      "first-time-friendly",
+      "completed"
+    ]
+  },
+  {
+    "id": "princeton-open-hackathon-2026",
+    "name": "Princeton Open Hackathon 2026 (NVIDIA GPU)",
+    "organizer": "Princeton Research Computing",
+    "companies": [
+      "NVIDIA",
+      "Oak Ridge National Laboratory",
+      "OpenACC"
+    ],
+    "level": "Tertiary",
+    "timeline": "Multi-week (1-3mo)",
+    "scope": "Global",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "date": "May 19, 26 (virtual) + June 2–4 (hybrid) 2026",
+    "location": "Princeton + virtual",
+    "prize": "GPU mentorship + NVIDIA expert support",
+    "summary": "Princeton's annual GPU hackathon, hybrid format with virtual Day 0/Day 1 and hybrid Days 2–4. Sponsored by Oak Ridge National Lab + NVIDIA. Participants work alongside mentors from industry and national labs to migrate or optimize code for GPUs. Focused on real research codebases — bring your own.",
+    "eligibility": "Researchers + students with computational research projects. Application required.",
+    "highlights": [
+      "NVIDIA + Oak Ridge National Lab partnership",
+      "Bring your own real research code",
+      "Hybrid format — virtual + on-site Princeton",
+      "Mentors from industry + national labs"
+    ],
+    "url": "https://researchcomputing.princeton.edu/events/2026/princeton-open-hackathon-2026",
+    "status": "upcoming",
+    "application_deadline": "2026-03-04",
+    "difficulty": "Advanced",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": false,
+    "application_url": "https://researchcomputing.princeton.edu/events/2026/princeton-open-hackathon-2026",
+    "tags": [
+      "us",
+      "princeton",
+      "gpu",
+      "nvidia",
+      "research",
+      "hpc"
+    ]
+  },
+  {
+    "id": "berkeley-ai-hackathon-2026",
+    "name": "UC Berkeley AI Hackathon 2026",
+    "organizer": "Hackathons @ Berkeley",
+    "companies": [
+      "UC Berkeley"
+    ],
+    "level": "Tertiary",
+    "timeline": "Single-day",
+    "scope": "Global",
+    "domains": [
+      "Computer Science"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "date": "TBA Spring 2026",
+    "location": "MLK Jr. Building, UC Berkeley",
+    "prize": "Cash prizes + tech prizes",
+    "summary": "Berkeley's flagship AI hackathon — 2 days, fully in-person. Tracks include Science & Engineering (health tech, biotech, hardware), Social Impact (EdTech, civic platforms), and Open (games, generative art, experimental). Hardware rental booth with Arduinos, Raspberry Pis. No travel reimbursement.",
+    "eligibility": "Apply via hive.hackberkeley.org. Priority deadline April 26; regular May 17.",
+    "highlights": [
+      "Three tracks: Science/Engineering, Social Impact, Open",
+      "Hardware rental booth on-site",
+      "MLK Jr. Building venue",
+      "Two priority application rounds"
+    ],
+    "url": "https://ai.hackberkeley.org/",
+    "status": "upcoming",
+    "application_deadline": "2026-05-17",
+    "difficulty": "Intermediate",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": false,
+    "application_url": "https://hive.hackberkeley.org/",
+    "tags": [
+      "us",
+      "berkeley",
+      "ai",
+      "tertiary",
+      "hardware-available"
+    ]
+  },
+  {
+    "id": "mlh-season-2026",
+    "name": "MLH 2026 Hackathon Season (200+ events)",
+    "organizer": "Major League Hacking",
+    "companies": [
+      "MLH",
+      "GitHub",
+      "Google",
+      "Snowflake",
+      "ElevenLabs"
+    ],
+    "level": "Tertiary",
+    "timeline": "Multi-month (3-6mo)",
+    "scope": "Global",
+    "domains": [
+      "Computer Science"
+    ],
+    "fields": [
+      "General Tech"
+    ],
+    "date": "July 2025 – June 2026",
+    "location": "Worldwide (200+ events)",
+    "prize": "Varies per event — MLH Best Domain.com, GCP, etc.",
+    "summary": "The official collegiate hackathon league, running over 200 student hackathons globally July 2025–June 2026. Find an event near you on the season schedule. 1 in 3 CS graduates has attended an MLH event. Free for students. New 2026 mascot: Jewel the Jumper Wire Jellyfish.",
+    "eligibility": "Students at all education levels (middle school → grad school). 80% must be students.",
+    "highlights": [
+      "200+ events globally July 2025–June 2026",
+      "Free for students at all levels",
+      "Solana Micro-Grant Program: 75 grants up to Dec 2026",
+      "MLH Software Lab: free APIs + dev tool credits"
+    ],
+    "url": "https://www.mlh.com/seasons/2026/events",
+    "status": "ongoing",
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": "https://www.mlh.com/seasons/2026/events",
+    "tags": [
+      "global",
+      "mlh",
+      "students",
+      "200-events",
+      "year-round"
+    ]
+  },
+  {
+    "id": "mlh-ghw-2026",
+    "name": "MLH Global Hack Week",
+    "organizer": "Major League Hacking",
+    "companies": [
+      "MLH"
+    ],
+    "level": "Tertiary",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Global",
+    "domains": [
+      "Computer Science"
+    ],
+    "fields": [
+      "General Tech"
+    ],
+    "date": "Multiple themed weeks throughout 2025–2026",
+    "location": "Online (worldwide)",
+    "prize": "MLH XP points + season community recognition",
+    "summary": "Online week-long themed hack events run by MLH throughout the season. Recent themes: Season Launch, AI/ML, Game Dev, Hardware, Web Dev. Earn XP by completing daily challenges (social, technical, design). Beginner-friendly — point-based, not prize-based.",
+    "eligibility": "Anyone — sign up free on events.mlh.io.",
+    "highlights": [
+      "Online — accessible from anywhere",
+      "Daily challenge format (do as many as you want)",
+      "Themed weeks throughout the year",
+      "Points-based XP system, not zero-sum"
+    ],
+    "url": "https://events.mlh.io/",
+    "status": "ongoing",
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": "https://events.mlh.io/",
+    "tags": [
+      "global",
+      "online",
+      "mlh",
+      "beginner",
+      "year-round"
+    ]
+  },
+  {
+    "id": "ethglobal-cannes-2026",
+    "name": "ETHGlobal Cannes 2026",
+    "organizer": "ETHGlobal",
+    "companies": [
+      "ETHGlobal"
+    ],
+    "level": "Tertiary",
+    "timeline": "Single-day",
+    "scope": "Global",
+    "domains": [
+      "Computer Science"
+    ],
+    "fields": [
+      "Web3 / Blockchain"
+    ],
+    "date": "3–5 April 2026 (completed)",
+    "location": "Palace of Festivals, Cannes, France",
+    "prize": "Sponsor-backed prize pool across DeFi, ZK, L2 tracks",
+    "summary": "ETHGlobal's spring 2026 stop in Cannes. Three days of in-person hacking on zero-knowledge, DeFi, L2s, privacy, and interoperability. Beginner-friendly yet deeply technical — hundreds of devs from around the world.",
+    "eligibility": "Apply via ETHGlobal.com. Mix of Web3 vets + Web2 builders crossing over.",
+    "highlights": [
+      "3 days in Cannes Palace of Festivals",
+      "ZK, DeFi, L2, privacy tracks",
+      "Beginner-friendly with mentor support",
+      "Part of global ETHGlobal circuit"
+    ],
+    "url": "https://ethglobal.com/events/cannes",
+    "status": "completed",
+    "application_deadline": "2026-03-15",
+    "difficulty": "Intermediate",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": false,
+    "application_url": "https://ethglobal.com/events/cannes",
+    "tags": [
+      "france",
+      "web3",
+      "ethereum",
+      "completed"
+    ]
+  },
+  {
+    "id": "ethglobal-ny-2026",
+    "name": "ETHGlobal New York 2026",
+    "organizer": "ETHGlobal",
+    "companies": [
+      "ETHGlobal"
+    ],
+    "level": "Tertiary",
+    "timeline": "Single-day",
+    "scope": "Global",
+    "domains": [
+      "Computer Science"
+    ],
+    "fields": [
+      "Web3 / Blockchain",
+      "AI / Machine Learning"
+    ],
+    "date": "12–14 June 2026",
+    "location": "Metropolitan Pavilion / Javits Center, NYC",
+    "prize": "Sponsor-backed prize pool across AI x Crypto, ZK, DeFi tracks",
+    "summary": "ETHGlobal's flagship NYC event. Three-day Web3 hackathon focused on AI x Crypto, ZK Proofs, and DeFi. Builders from around the world; beginner-friendly with curated content + free food. One of the highest-energy hackathons of the year.",
+    "eligibility": "Apply via ETHGlobal.com. Open globally.",
+    "highlights": [
+      "AI x Crypto track",
+      "Metropolitan Pavilion in NYC",
+      "Free food + curated team spaces",
+      "Largest ETHGlobal stop of summer"
+    ],
+    "url": "https://ethglobal.com/events/newyork",
+    "status": "upcoming",
+    "application_deadline": "2026-05-25",
+    "difficulty": "Intermediate",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": false,
+    "application_url": "https://ethglobal.com/events/newyork",
+    "tags": [
+      "us",
+      "nyc",
+      "web3",
+      "ethereum",
+      "ai-crypto"
+    ]
+  },
+  {
+    "id": "ethglobal-lisbon-2026",
+    "name": "ETHGlobal Lisbon 2026",
+    "organizer": "ETHGlobal",
+    "companies": [
+      "ETHGlobal"
+    ],
+    "level": "Tertiary",
+    "timeline": "Single-day",
+    "scope": "Global",
+    "domains": [
+      "Computer Science"
+    ],
+    "fields": [
+      "Web3 / Blockchain"
+    ],
+    "date": "24–26 July 2026",
+    "location": "Lisbon, Portugal",
+    "prize": "Sponsor-backed prize pool",
+    "summary": "Part of Onchain Lisbon — a major Web3 ecosystem week in Portugal. 36 continuous hours of hacking, Friday 9pm to Sunday 9am. Pragma Lisbon (June 8) is a separate one-day summit, but ETHGlobal Lisbon is the 36-hour build event.",
+    "eligibility": "Apply via ETHGlobal.com.",
+    "highlights": [
+      "36 continuous hours",
+      "Part of Onchain Lisbon ecosystem week",
+      "Lisbon's vibrant Web3 scene",
+      "Hundreds of global builders"
+    ],
+    "url": "https://ethglobal.com/events/lisbon",
+    "status": "upcoming",
+    "application_deadline": "2026-07-10",
+    "difficulty": "Intermediate",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": false,
+    "application_url": "https://ethglobal.com/events/lisbon",
+    "tags": [
+      "portugal",
+      "web3",
+      "ethereum",
+      "onchain-lisbon"
+    ]
+  },
+  {
+    "id": "ethglobal-tokyo-2026",
+    "name": "ETHGlobal Tokyo 2026",
+    "organizer": "ETHGlobal",
+    "companies": [
+      "ETHGlobal"
+    ],
+    "level": "Tertiary",
+    "timeline": "Single-day",
+    "scope": "Global",
+    "domains": [
+      "Computer Science"
+    ],
+    "fields": [
+      "Web3 / Blockchain"
+    ],
+    "date": "25–27 September 2026",
+    "location": "Tokyo, Japan",
+    "prize": "Sponsor-backed prize pool",
+    "summary": "ETHGlobal's Tokyo stop. 800+ builders gathered for 3 days of hacking, mentorship, and ecosystem exposure. Designed for both Web3 veterans and Web2 devs crossing over. Tracks span DeFi, infra, identity, gaming, NFTs, L2 scaling.",
+    "eligibility": "Apply via ETHGlobal.com.",
+    "highlights": [
+      "800+ builders",
+      "Tokyo's growing Web3 ecosystem",
+      "Tracks: DeFi, infra, identity, gaming, NFTs",
+      "Networking with Asia-Pacific protocol teams"
+    ],
+    "url": "https://ethglobal.com/events/tokyo",
+    "status": "upcoming",
+    "application_deadline": "2026-09-10",
+    "difficulty": "Intermediate",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": false,
+    "application_url": "https://ethglobal.com/events/tokyo",
+    "tags": [
+      "japan",
+      "tokyo",
+      "web3",
+      "ethereum"
+    ]
+  },
+  {
+    "id": "ethglobal-mumbai-2026",
+    "name": "ETHGlobal Mumbai 2026",
+    "organizer": "ETHGlobal",
+    "companies": [
+      "ETHGlobal"
+    ],
+    "level": "Tertiary",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Global",
+    "domains": [
+      "Computer Science"
+    ],
+    "fields": [
+      "Web3 / Blockchain",
+      "AI / Machine Learning"
+    ],
+    "date": "1 October 2026 (Day 1) + 6–8 November 2026 (hackathon)",
+    "location": "Mumbai, India",
+    "prize": "Sponsor-backed prize pool across DeFi, Privacy, AI tracks",
+    "summary": "ETHGlobal's first major Indian event. Day 1 is a full convention with talks, panels, sponsor activations. Days 2–4 are the high-energy 36-hour hackathon with tracks in DeFi, Privacy, and AI. Bridges the global ETHGlobal circuit with India's massive developer community.",
+    "eligibility": "Apply via ETHGlobal.com.",
+    "highlights": [
+      "First major ETHGlobal in India",
+      "Day 1 convention + Days 2–4 hackathon format",
+      "Tracks: DeFi, Privacy, AI",
+      "Bridge to India's developer community"
+    ],
+    "url": "https://ethglobal.com/events/mumbai",
+    "status": "upcoming",
+    "application_deadline": "2026-10-15",
+    "difficulty": "Intermediate",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": false,
+    "application_url": "https://ethglobal.com/events/mumbai",
+    "tags": [
+      "india",
+      "mumbai",
+      "web3",
+      "ethereum",
+      "first-india"
+    ]
+  },
+  {
+    "id": "amd-lablab-2026",
+    "name": "AMD x LabLab.ai AI Stack Hackathon",
+    "organizer": "LabLab.ai",
+    "companies": [
+      "AMD",
+      "Akash Systems",
+      "MindsDB",
+      "Hugging Face",
+      "NativelyAI"
+    ],
+    "level": "Tertiary",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Global",
+    "domains": [
+      "Computer Science"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "date": "11–19 May 2026",
+    "location": "Online + on-site (San Francisco, invite-only)",
+    "prize": "$21,500+ total prize pool + 1 × AMD Radeon AI PRO R9700 GPU",
+    "summary": "Build AI hackathon projects on AMD MI300X GPUs with $100 in free credits, ROCm open-source stack, and free courses. 7 days online to ship a working AI prototype. On-site invite to MindsDB SF AI Collective May 9–10 (no travel reimbursement).",
+    "eligibility": "Open globally. Sign up for AMD AI Developer Program to unlock credits.",
+    "highlights": [
+      "$100 AMD Developer Cloud credits per participant",
+      "$21,500+ prize pool + AMD GPU prize",
+      "62,000+ developer network access",
+      "Beginner-friendly — courses + tutorials provided"
+    ],
+    "url": "https://lablab.ai/event/amd-developer-hackathon",
+    "status": "ongoing",
+    "application_deadline": "2026-05-03",
+    "difficulty": "Intermediate",
+    "cost": "Free",
+    "prize_value_usd": 21500,
+    "beginner_friendly": true,
+    "application_url": "https://lablab.ai/event/amd-developer-hackathon",
+    "tags": [
+      "online",
+      "ai",
+      "amd",
+      "gpu",
+      "lablab"
+    ]
+  },
+  {
+    "id": "ibm-bob-lablab-2026",
+    "name": "IBM Bob Hackathon (LabLab.ai)",
+    "organizer": "LabLab.ai",
+    "companies": [
+      "IBM"
+    ],
+    "level": "Tertiary",
+    "timeline": "Single-day",
+    "scope": "Global",
+    "domains": [
+      "Computer Science"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "date": "15–17 May 2026",
+    "location": "Online (LabLab.ai + Discord)",
+    "prize": "$10,000 prize pool",
+    "summary": "48-hour fully online hackathon to build with IBM Bob — an AI-powered development partner that reads your codebase and accelerates multi-step work. Build tools and workflows that real developers would use. Designed for builders new to AI tools too.",
+    "eligibility": "Open globally. Sign up on LabLab.ai + Discord.",
+    "highlights": [
+      "$10,000 prize pool",
+      "48 hours fully online",
+      "Direct access to IBM Bob",
+      "Mentorship from IBM engineers"
+    ],
+    "url": "https://lablab.ai/ai-hackathons/ibm-bob-hackathon",
+    "status": "ongoing",
+    "application_deadline": "2026-05-14",
+    "difficulty": "Intermediate",
+    "cost": "Free",
+    "prize_value_usd": 10000,
+    "beginner_friendly": false,
+    "application_url": "https://lablab.ai/ai-hackathons/ibm-bob-hackathon",
+    "tags": [
+      "online",
+      "ai",
+      "ibm",
+      "lablab",
+      "48-hour"
+    ]
+  },
+  {
+    "id": "milan-ai-week-2026",
+    "name": "AI Agent Olympics — Milan AI Week",
+    "organizer": "LabLab.ai",
+    "companies": [
+      "LabLab.ai",
+      "Kraken"
+    ],
+    "level": "Tertiary",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Global",
+    "domains": [
+      "Computer Science"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "date": "13–20 May 2026",
+    "location": "Online + Fiera Milano, Italy",
+    "prize": "$28,000+ prize pool",
+    "summary": "Build the next generation of autonomous agents during Europe's largest AI conference (700+ speakers, 25,000 attendees). Build with Kraken CLI for tokenized US stocks. Showcase + awards on May 20.",
+    "eligibility": "Open globally.",
+    "highlights": [
+      "$28,000+ prize pool",
+      "Hosted at Europe's largest AI event",
+      "Build autonomous trading agents with Kraken CLI",
+      "Fiera Milano on-site option"
+    ],
+    "url": "https://lablab.ai/ai-hackathons/milan-ai-week-hackathon",
+    "status": "ongoing",
+    "application_deadline": "2026-05-12",
+    "difficulty": "Advanced",
+    "cost": "Free",
+    "prize_value_usd": 28000,
+    "beginner_friendly": false,
+    "application_url": "https://lablab.ai/ai-hackathons/milan-ai-week-hackathon",
+    "tags": [
+      "italy",
+      "online",
+      "ai-agents",
+      "lablab"
+    ]
+  },
+  {
+    "id": "ai-genesis-dubai-2026",
+    "name": "AI Genesis — Dubai (LabLab.ai)",
+    "organizer": "LabLab.ai",
+    "companies": [
+      "LabLab.ai",
+      "/function1"
+    ],
+    "level": "Tertiary",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Global",
+    "domains": [
+      "Computer Science"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "date": "26 October – 3 November 2026",
+    "location": "Online + Dubai (selected participants)",
+    "prize": "Live on-stage pitching + winners at /function1 AI Conference",
+    "summary": "Hybrid global hackathon culminating live at /function1 AI Conference & Exhibition 2026 in Dubai. Online build phase Oct 26–Nov 2; selected participants invited to on-site build day; live pitches Nov 3. Travel not covered.",
+    "eligibility": "Open globally. Apply for on-site experience separately.",
+    "highlights": [
+      "Hybrid online + Dubai final",
+      "Live on-stage pitching at /function1",
+      "Mentorship from expert AI engineers",
+      "Solo or team participation"
+    ],
+    "url": "https://lablab.ai/event",
+    "status": "upcoming",
+    "application_deadline": "2026-10-20",
+    "difficulty": "Intermediate",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": false,
+    "application_url": "https://lablab.ai/event",
+    "tags": [
+      "uae",
+      "dubai",
+      "ai",
+      "lablab",
+      "hybrid"
+    ]
+  },
+  {
+    "id": "yc-summer-2026",
+    "name": "Y Combinator Summer 2026 Batch",
+    "organizer": "Y Combinator",
+    "companies": [
+      "Y Combinator"
+    ],
+    "level": "Tertiary",
+    "timeline": "Multi-month (3-6mo)",
+    "scope": "Global",
+    "domains": [
+      "Business / Economics",
+      "Computer Science"
+    ],
+    "fields": [
+      "General Tech",
+      "AI / Machine Learning"
+    ],
+    "date": "July–September 2026",
+    "location": "San Francisco, USA",
+    "prize": "$500,000 investment for 7% equity",
+    "summary": "The world's most prestigious startup accelerator. Spring batch already passed (Feb 9 deadline). Summer 2026 batch deadline is May 4, 2026 at 8pm PT — apply online and get a decision by June 5. In-person batch in San Francisco.",
+    "eligibility": "Founders globally. Idea-stage to revenue. Solo or team. Must commit full-time.",
+    "highlights": [
+      "$500K investment for 7% equity",
+      "3-day in-person kickoff in SF",
+      "Dedicated YC General Partner mentorship",
+      "Demo Day with top-tier investors"
+    ],
+    "url": "https://www.ycombinator.com/apply",
+    "status": "ongoing",
+    "application_deadline": "2026-05-04",
+    "difficulty": "Elite/Selective",
+    "cost": "Free",
+    "prize_value_usd": 500000,
+    "beginner_friendly": false,
+    "application_url": "https://www.ycombinator.com/apply",
+    "tags": [
+      "us",
+      "sf",
+      "accelerator",
+      "startup",
+      "yc",
+      "elite"
+    ]
+  },
+  {
+    "id": "yc-early-decision-students",
+    "name": "Y Combinator Early Decision (for Students)",
+    "organizer": "Y Combinator",
+    "companies": [
+      "Y Combinator"
+    ],
+    "level": "Tertiary",
+    "timeline": "Annual / ongoing",
+    "scope": "Global",
+    "domains": [
+      "Business / Economics"
+    ],
+    "fields": [
+      "General Tech"
+    ],
+    "date": "Year-round (apply during your studies)",
+    "location": "San Francisco (after graduation)",
+    "prize": "$500K investment + reserved spot in future batch",
+    "summary": "Apply to YC while still in school and reserve a spot in a future batch. Get funded immediately and held until you graduate. Designed for students who want to finish degrees first. Even if undecided, apply — this is a free option.",
+    "eligibility": "Currently enrolled students with startup ideas.",
+    "highlights": [
+      "Apply now, start later (after graduation)",
+      "Get funded immediately upon acceptance",
+      "Reserved batch spot for after school",
+      "Free optionality for student founders"
+    ],
+    "url": "https://www.ycombinator.com/early-decision",
+    "status": "ongoing",
+    "application_deadline": null,
+    "difficulty": "Elite/Selective",
+    "cost": "Free",
+    "prize_value_usd": 500000,
+    "beginner_friendly": false,
+    "application_url": "https://www.ycombinator.com/early-decision",
+    "tags": [
+      "students",
+      "year-round",
+      "yc",
+      "early-decision"
+    ]
+  },
+  {
+    "id": "nasa-space-apps-2026",
+    "name": "NASA Space Apps Challenge 2026",
+    "organizer": "NASA Earth Science Division",
+    "companies": [
+      "NASA",
+      "ESA",
+      "JAXA",
+      "ISRO",
+      "CSA",
+      "+ 10 more space agencies"
+    ],
+    "level": "Pre-University",
+    "timeline": "Single-day",
+    "scope": "Global",
+    "domains": [
+      "Sciences (STEM)",
+      "Computer Science"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "General Tech"
+    ],
+    "date": "October 2026 (registration opens August)",
+    "location": "Worldwide (550+ local events) + Virtual Universal Event",
+    "prize": "10 Global Awards including NASA spacecraft launch invitations",
+    "summary": "The largest annual global hackathon. Two days of using NASA + 14 partner space agencies' free open data to address Earth + space challenges. Past winners: web apps adopted by Colombia's Ministry of Agriculture. 373,000+ registrants from 185+ countries to date. Free for all ages, all backgrounds.",
+    "eligibility": "All ages, all skill levels welcome. Under 18 must have parental supervision.",
+    "highlights": [
+      "100% FREE — never pay anything",
+      "All ages welcome (with parental supervision under 18)",
+      "550+ local events + virtual option",
+      "Past winners invited to NASA spacecraft launches",
+      "14 space agencies partnering"
+    ],
+    "url": "https://www.spaceappschallenge.org/",
+    "status": "upcoming",
+    "application_deadline": "2026-09-30",
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": "https://www.spaceappschallenge.org/",
+    "tags": [
+      "global",
+      "nasa",
+      "space",
+      "all-ages",
+      "free",
+      "annual"
+    ]
+  },
+  {
+    "id": "nasa-orbit-2026",
+    "name": "NASA ORBIT Challenge 2026",
+    "organizer": "NASA Center of Excellence for Collaborative Innovation",
+    "companies": [
+      "NASA"
+    ],
+    "level": "Tertiary",
+    "timeline": "Multi-month (3-6mo)",
+    "scope": "Global",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "General Tech"
+    ],
+    "date": "December 15, 2025 – February 9, 2026 (completed)",
+    "location": "Multi-phase remote + in-person showcase",
+    "prize": "$380,000 in total prizes",
+    "summary": "Multi-phase, student-focused challenge for the next generation of innovators, engineers, entrepreneurs, researchers. Compete for cash prizes + NASA expert mentorship + present at in-person showcase. Finalists join an exclusive accelerator for STEM and entrepreneurship careers.",
+    "eligibility": "Students. Multi-phase application.",
+    "highlights": [
+      "$380,000 prize pool",
+      "NASA expert mentorship",
+      "In-person showcase finale",
+      "Accelerator for finalists"
+    ],
+    "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-orbit-challenge-2026/",
+    "status": "completed",
+    "application_deadline": "2026-02-09",
+    "difficulty": "Advanced",
+    "cost": "Free",
+    "prize_value_usd": 380000,
+    "beginner_friendly": false,
+    "application_url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-orbit-challenge-2026/",
+    "tags": [
+      "us",
+      "nasa",
+      "students",
+      "stem",
+      "completed"
+    ]
+  },
+  {
+    "id": "imagine-cup-2026",
+    "name": "Microsoft Imagine Cup 2026",
+    "organizer": "Microsoft",
+    "companies": [
+      "Microsoft",
+      "GitHub",
+      "Replit"
+    ],
+    "level": "Tertiary",
+    "timeline": "Multi-month (3-6mo)",
+    "scope": "Global",
+    "domains": [
+      "Computer Science",
+      "Business / Economics"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "date": "Submission deadline 9 January 2026 (completed); Finals April 2026",
+    "location": "Global (online) + World Championship",
+    "prize": "Scale Path: $100,000 USD; Launch Path: $50,000 USD",
+    "summary": "Microsoft's flagship student startup competition. Two paths: Scale (for startups with traction, up to $5M raised) and Launch (early-stage, no $100K+ funding). Build with Microsoft AI services. World Championship features mentoring with Satya Nadella for the winner. 2026 World Finalists already announced.",
+    "eligibility": "Enrolled high-school or college/university students 18+.",
+    "highlights": [
+      "$100K Scale path / $50K Launch path",
+      "Up to $5,000 Azure credits",
+      "Mentoring with Microsoft CEO Satya Nadella",
+      "Past alumni went on to Series A+"
+    ],
+    "url": "https://imaginecup.microsoft.com/en-us",
+    "status": "completed",
+    "application_deadline": "2026-01-09",
+    "difficulty": "Elite/Selective",
+    "cost": "Free",
+    "prize_value_usd": 100000,
+    "beginner_friendly": false,
+    "application_url": "https://imaginecup.microsoft.com/en-us",
+    "tags": [
+      "global",
+      "microsoft",
+      "students",
+      "startup",
+      "completed"
+    ]
+  },
+  {
+    "id": "google-solution-challenge-2026",
+    "name": "Google Solution Challenge 2026 — Build with AI",
+    "organizer": "Google Developer Groups (GDG) on Campus",
+    "companies": [
+      "Google",
+      "Hack2skill"
+    ],
+    "level": "Tertiary",
+    "timeline": "Multi-month (3-6mo)",
+    "scope": "Global",
+    "domains": [
+      "Computer Science"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "date": "6 March – Late June 2026",
+    "location": "Global (virtual)",
+    "prize": "₹10,00,000+ prize pool (India), $3,000/member globally",
+    "summary": "Google's annual student hackathon for university students globally. 2026 theme: 'Build with AI' — use Gemini, Vertex AI, Flutter, Firebase, Google Cloud to solve UN SDG challenges. India track has prize pool of ₹10,00,000+. Top 3 globally win $3,000/member + Google mentorship.",
+    "eligibility": "GDG on Campus members, currently enrolled university students 18+.",
+    "highlights": [
+      "Solve real UN SDG challenges",
+      "Build with Gemini + Google Cloud",
+      "Top 100 → Top 10 → Winning 3 funnel",
+      "Featured in Google Developers Blog if you win"
+    ],
+    "url": "https://developers.google.com/community/gdsc-solution-challenge",
+    "status": "ongoing",
+    "application_deadline": "2026-04-30",
+    "difficulty": "Intermediate",
+    "cost": "Free",
+    "prize_value_usd": 12000,
+    "beginner_friendly": false,
+    "application_url": "https://promptwars.in/solutionchallenge2026.html",
+    "tags": [
+      "global",
+      "google",
+      "students",
+      "sdg",
+      "ai"
+    ]
+  },
+  {
+    "id": "google-girl-hackathon-2026",
+    "name": "Google Girl Hackathon 2026",
+    "organizer": "Google",
+    "companies": [
+      "Google"
+    ],
+    "level": "Tertiary",
+    "timeline": "Multi-month (3-6mo)",
+    "scope": "Regional (Asia)",
+    "domains": [
+      "Computer Science"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "date": "Multi-stage virtual",
+    "location": "Online (India)",
+    "prize": "Internships + full-time interview opportunities at Google",
+    "summary": "Google's exclusively female coding competition for India-based engineering students graduating 2026–2029. Multi-stage virtual format. Top performers get direct Google interviews, internship offers, full-time roles. Indian nationals only.",
+    "eligibility": "Female students, Indian nationals, batches 2026–2029, engineering CS/IT/AI/DS.",
+    "highlights": [
+      "Direct pipeline to Google interviews",
+      "Internship + full-time opportunities",
+      "Multi-stage format (any skill level OK)",
+      "Free + virtual"
+    ],
+    "url": "https://buildyourfuture.withgoogle.com/programs/girl-hackathon",
+    "status": "ongoing",
+    "application_deadline": null,
+    "difficulty": "Intermediate",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": false,
+    "application_url": "https://buildyourfuture.withgoogle.com/programs/girl-hackathon",
+    "tags": [
+      "india",
+      "google",
+      "women-only",
+      "diversity",
+      "career"
+    ]
+  },
+  {
+    "id": "smart-india-hackathon-2026",
+    "name": "Smart India Hackathon (SIH) 2026",
+    "organizer": "Ministry of Education India + AICTE",
+    "companies": [
+      "Government of India",
+      "AICTE",
+      "Innovation Cell"
+    ],
+    "level": "Tertiary",
+    "timeline": "Multi-month (3-6mo)",
+    "scope": "Regional (Asia)",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "General Tech"
+    ],
+    "date": "Annual (typically Oct–Dec)",
+    "location": "35+ nodal centers across India",
+    "prize": "₹1.5 lakh per category + nation-building recognition",
+    "summary": "World's largest open innovation movement. Last edition: 5M+ students across 35+ locations. Solve problem statements directly from government ministries, PSUs, industries, and NGOs. 36-hour grand finale at distributed nodal centers. Winning solutions get adopted by government departments.",
+    "eligibility": "Students from Indian engineering colleges. Software + Hardware editions.",
+    "highlights": [
+      "5M+ students across previous editions",
+      "Real government problem statements",
+      "Winning solutions adopted at national level",
+      "₹1.5 lakh per category prizes",
+      "36-hour grand finale"
+    ],
+    "url": "https://sih.gov.in/",
+    "status": "ongoing",
+    "application_deadline": null,
+    "difficulty": "Intermediate",
+    "cost": "Free",
+    "prize_value_usd": 2000,
+    "beginner_friendly": false,
+    "application_url": "https://sih.gov.in/",
+    "tags": [
+      "india",
+      "government",
+      "national",
+      "huge-scale",
+      "annual"
+    ]
+  },
+  {
+    "id": "india-innovates-2026",
+    "name": "India Innovates 2026 — National Civic Tech Hackathon",
+    "organizer": "HN x Municipal Corporation of Delhi",
+    "companies": [
+      "HN",
+      "MCD",
+      "DDU",
+      "IIT Kharagpur",
+      "DTC",
+      "NSUT",
+      "GGSIPU"
+    ],
+    "level": "Tertiary",
+    "timeline": "Multi-month (3-6mo)",
+    "scope": "Regional (Asia)",
+    "domains": [
+      "Computer Science",
+      "Business / Economics"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "date": "Submissions until March 28, 2026; Finale at Bharat Mandapam",
+    "location": "Bharat Mandapam, New Delhi",
+    "prize": "₹10,05,000 prizes (~$12,000)",
+    "summary": "World's largest civic tech hackathon. Aligned with Viksit Bharat 2047 vision. Build for governance, urban systems, democracy, cyber security, national infrastructure. NOT a build-on-site hackathon — development must be complete before March 28; finale day is for live demos at Bharat Mandapam in front of investors, government officials, diplomats.",
+    "eligibility": "Indian student teams of 3–6.",
+    "highlights": [
+      "₹10,05,000 prize pool",
+      "Demo at iconic Bharat Mandapam, New Delhi",
+      "Pitch to government officials + investors",
+      "Tracks: Governance, Cyber, Urban Systems"
+    ],
+    "url": "https://indiainnovates.org/",
+    "status": "completed",
+    "application_deadline": "2026-03-28",
+    "difficulty": "Advanced",
+    "cost": "Free",
+    "prize_value_usd": 12000,
+    "beginner_friendly": false,
+    "application_url": "https://unstop.com/",
+    "tags": [
+      "india",
+      "civic-tech",
+      "students",
+      "completed"
+    ]
+  },
+  {
+    "id": "girlcode-2026",
+    "name": "GirlCode 2026 — ADA's Women AI Hackathon",
+    "organizer": "ADA Global",
+    "companies": [
+      "ADA"
+    ],
+    "level": "Tertiary",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Regional (Asia)",
+    "domains": [
+      "Computer Science"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "date": "April 2026",
+    "location": "Online + ADA India office (finalists)",
+    "prize": "Travel & accommodation for top 5 to ADA India office",
+    "summary": "ADA's flagship women-only AI hackathon for Indian university students. Entirely online with finalists pitching live at ADA India office (travel + accommodation covered). Open to female university students of any major + any coding experience level.",
+    "eligibility": "Female university students in India. Any major, any coding level.",
+    "highlights": [
+      "Free for all participants",
+      "Top 5 travel + accommodation covered to ADA India",
+      "Open to non-coders too",
+      "AI-focused real-world challenges"
+    ],
+    "url": "https://adaglobal.com/girlcode-2026/",
+    "status": "completed",
+    "application_deadline": "2026-04-10",
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": "https://adaglobal.com/girlcode-2026/",
+    "tags": [
+      "india",
+      "women-only",
+      "ai",
+      "ada",
+      "completed"
+    ]
+  },
+  {
+    "id": "smart-horizon-nhce-2026",
+    "name": "Smart Horizon — 48hr International Hackathon (NHCE)",
+    "organizer": "New Horizon College of Engineering",
+    "companies": [
+      "NHCE Bangalore"
+    ],
+    "level": "Tertiary",
+    "timeline": "Single-day",
+    "scope": "Global",
+    "domains": [
+      "Computer Science"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "date": "3–5 September 2026",
+    "location": "NHCE Bangalore, India",
+    "prize": "TA reimbursement up to ₹10,000 per Indian team",
+    "summary": "International 48-hour hackathon at NHCE Bangalore. Domains: AI for social good, sustainability, smart cities, health-tech, digital governance, cybersecurity. Elite advisory committee with experts from space tech, government, academia. International + Indian participants.",
+    "eligibility": "Student teams + researchers + faculty + industry mentors.",
+    "highlights": [
+      "48 continuous hours",
+      "TA reimbursement up to ₹10K per Indian team",
+      "Elite advisory committee from industry + academia",
+      "Aligned with Viksit Bharat / Atmanirbhar Bharat"
+    ],
+    "url": "https://newhorizonindia.edu/smarthorizon/",
+    "status": "upcoming",
+    "application_deadline": "2026-08-15",
+    "difficulty": "Intermediate",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": false,
+    "application_url": "https://newhorizonindia.edu/smarthorizon/",
+    "tags": [
+      "india",
+      "bangalore",
+      "48-hour",
+      "international"
+    ]
+  },
+  {
+    "id": "hsil-harvard-2026",
+    "name": "Harvard HSIL Hackathon 2026 (Global)",
+    "organizer": "Harvard T.H. Chan School of Public Health — HSIL",
+    "companies": [
+      "Harvard HSIL",
+      "University of Cambridge",
+      "Hanoi Medical University",
+      "UNSW"
+    ],
+    "level": "Tertiary",
+    "timeline": "Multi-week (1-3mo)",
+    "scope": "Global",
+    "domains": [
+      "Sciences (STEM)",
+      "Computer Science"
+    ],
+    "fields": [
+      "Healthcare",
+      "AI / Machine Learning"
+    ],
+    "date": "Application Feb 9 – March 6, 2026; Hackathon Feb 9 – March 6 hub program",
+    "location": "Multi-hub (5 continents) including Cambridge UK, Hanoi, Singapore, Sydney",
+    "prize": "8-week Venture Building Program + recognition",
+    "summary": "Annual flagship Harvard hackathon with 2026 theme: 'Building High-Value Health Systems: Leveraging AI'. Distributed across 5 continents — Cambridge, Hanoi Medical University, UNSW, Westmead, NTU Singapore, and more. Selected teams enter 8-week remote Venture Incubation Program post-hackathon.",
+    "eligibility": "Students, clinicians, engineers, designers, policy analysts, entrepreneurs.",
+    "highlights": [
+      "Multi-hub format across 5 continents",
+      "Apply via local hub (e.g., NTU Singapore)",
+      "8-week Venture Building Program for top teams",
+      "Theme: AI for high-value health systems"
+    ],
+    "url": "https://hsph.harvard.edu/research/health-systems-innovation-lab/work/hsil-hackathon-2026-building-high-value-health-systems-leveraging-ai/",
+    "status": "completed",
+    "application_deadline": "2026-03-06",
+    "difficulty": "Advanced",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": false,
+    "application_url": "https://hsph.harvard.edu/research/health-systems-innovation-lab/work/hsil-hackathon-2026-building-high-value-health-systems-leveraging-ai/",
+    "tags": [
+      "global",
+      "healthcare",
+      "harvard",
+      "ai",
+      "completed"
+    ]
+  },
+  {
+    "id": "medhack-melbourne-2026",
+    "name": "MedHack: Frontiers Melbourne 2026",
+    "organizer": "MLAI (Machine Learning AI Australia)",
+    "companies": [
+      "MLAI",
+      "Stone & Chalk Melbourne"
+    ],
+    "level": "Tertiary",
+    "timeline": "Single-day",
+    "scope": "Regional (Asia)",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "Healthcare",
+      "AI / Machine Learning"
+    ],
+    "date": "21–22 February 2026 (completed)",
+    "location": "Stone & Chalk, Melbourne CBD",
+    "prize": "Cash + tech prizes across Small + Big Tract",
+    "summary": "MLAI's healthcare AI hackathon. Two tracks: Small (coding) for hands-on AI development, Big (pitching) for ideation. Continuous patient vitals data provided for the coding tract. Mentors: doctors, nurses, pharmacists, industry mentors. Beginner-friendly; team formation event the day before.",
+    "eligibility": "All skill levels welcome. Australia-based or remote teams via in-person team member.",
+    "highlights": [
+      "Two tracks: Coding (technical) + Pitching (ideation)",
+      "Real anonymized clinical data",
+      "Doctors + nurses + pharmacists as mentors",
+      "Team formation event for solo attendees"
+    ],
+    "url": "https://www.med-hack.com/",
+    "status": "completed",
+    "application_deadline": "2026-02-19",
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": "https://www.med-hack.com/",
+    "tags": [
+      "australia",
+      "melbourne",
+      "healthcare",
+      "ai",
+      "completed"
+    ]
+  },
+  {
+    "id": "bu-medai-hackathon-2026",
+    "name": "Boston University MedAI Hackathon",
+    "organizer": "BU Faculty of Computing & Data Sciences",
+    "companies": [
+      "Boston University"
+    ],
+    "level": "Tertiary",
+    "timeline": "Single-day",
+    "scope": "Global",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "Healthcare",
+      "AI / Machine Learning"
+    ],
+    "date": "10–11 April 2026 (completed)",
+    "location": "Boston University, USA",
+    "prize": "$10,000 prize pool",
+    "summary": "BU's first MedAI Hackathon: 233 students across 30 teams competing for $10K. Three challenge tracks: early lung cancer detection, Alzheimer's marker quantification, kidney injury prediction. Real de-identified data from active research labs. Cross-disciplinary teams from medicine, business, engineering, arts.",
+    "eligibility": "BU students (may expand to other Boston universities in future).",
+    "highlights": [
+      "$10,000 prize pool",
+      "Real research data from active BU labs",
+      "Three meaningful clinical tracks",
+      "Cross-disciplinary by design"
+    ],
+    "url": "https://www.bu.edu/cds-faculty/2026/04/28/2026-medai-hackathon/",
+    "status": "completed",
+    "application_deadline": "2026-04-05",
+    "difficulty": "Advanced",
+    "cost": "Free",
+    "prize_value_usd": 10000,
+    "beginner_friendly": false,
+    "application_url": "https://www.bu.edu/cbr/2026/04/21/medai-hackathon-2026/",
+    "tags": [
+      "us",
+      "boston",
+      "healthcare",
+      "ai",
+      "completed"
+    ]
+  },
+  {
+    "id": "georgetown-h2ai-2026",
+    "name": "Georgetown H2AI — Healthcare Hackathon with AI",
+    "organizer": "Georgetown School of Medicine students",
+    "companies": [
+      "Georgetown University"
+    ],
+    "level": "Tertiary",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Global",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "Healthcare",
+      "AI / Machine Learning"
+    ],
+    "date": "Annual (March)",
+    "location": "Georgetown University, Washington DC",
+    "prize": "Apple AirPods 4 (Audience Choice) + main prizes",
+    "summary": "3-day in-person hackathon featuring clinicians, engineers, business leaders, students. 150+ participants from CS, math, medicine, business teaming up on real clinical challenges (Parkinson's monitoring, schedule optimization, mental health AI). FREE to attend; recent grads (within 5 years) eligible.",
+    "eligibility": "Undergrads, grads, recent grads (within 5 years). All experience levels welcome.",
+    "highlights": [
+      "FREE to attend",
+      "Real clinical challenges (Parkinson's, mental health)",
+      "Open to recent grads up to 5 years out",
+      "30 teams from MIT, Hopkins, CMU, Cornell, Penn"
+    ],
+    "url": "https://www.georgetown-h2ai.com/",
+    "status": "ongoing",
+    "application_deadline": null,
+    "difficulty": "Intermediate",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": "https://www.georgetown-h2ai.com/",
+    "tags": [
+      "us",
+      "dc",
+      "healthcare",
+      "ai",
+      "free"
+    ]
+  },
+  {
+    "id": "cornell-health-hackathon-2026",
+    "name": "Cornell Health Tech Hackathon 2026",
+    "organizer": "Cornell University",
+    "companies": [
+      "Cornell University",
+      "Meta",
+      "Apple"
+    ],
+    "level": "Tertiary",
+    "timeline": "Single-day",
+    "scope": "Global",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "Healthcare",
+      "AI / Machine Learning"
+    ],
+    "date": "Annual",
+    "location": "Cornell University",
+    "prize": "Tech + cash prizes",
+    "summary": "Interdisciplinary in-person event for curious, innovative young people. Tracks include AI-powered XR healthcare (Meta Quest, Apple Vision Pro, HoloLens 2 available on-site), voice biomarkers for disease detection, and embodied clinical experiences. Bring teams from any major.",
+    "eligibility": "Students from across degrees, majors, schools.",
+    "highlights": [
+      "XR hardware available on-site (Vision Pro, Quest, HoloLens)",
+      "Voice biomarker challenges",
+      "10+ years of experience organizing",
+      "Cross-disciplinary by design"
+    ],
+    "url": "https://hackathon.cornell.edu/health",
+    "status": "ongoing",
+    "application_deadline": null,
+    "difficulty": "Intermediate",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": false,
+    "application_url": "https://hackathon.cornell.edu/health",
+    "tags": [
+      "us",
+      "cornell",
+      "healthcare",
+      "xr",
+      "ai"
+    ]
+  },
+  {
+    "id": "wilkes-climate-2026",
+    "name": "Wilkes Climate Solutions Hackathon",
+    "organizer": "Wilkes Center for Climate Science & Policy",
+    "companies": [
+      "University of Utah"
+    ],
+    "level": "Tertiary",
+    "timeline": "Single-day",
+    "scope": "Global",
+    "domains": [
+      "Sciences (STEM)",
+      "Business / Economics"
+    ],
+    "fields": [
+      "Sustainability",
+      "AI / Machine Learning"
+    ],
+    "date": "Annual (early Spring)",
+    "location": "University of Utah + UofU Asia Campus, Korea",
+    "prize": "$1,000–$5,000 in cash prizes",
+    "summary": "24-hour climate solutions hackathon — open to ALL disciplines, no coding required. Build slide-deck proposals to climate/energy challenges. Themes have included wildland fire, urban heat, water resources. Now expanded internationally to Incheon, South Korea (April 2026). Work in interdisciplinary teams of 3–5.",
+    "eligibility": "Undergraduate + graduate students, any discipline.",
+    "highlights": [
+      "Any discipline welcome — no coding required",
+      "24-hour rapid solution sprint",
+      "Slide-deck format (low barrier)",
+      "International expansion to Korea"
+    ],
+    "url": "https://wilkescenter.utah.edu/hack/",
+    "status": "ongoing",
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": 5000,
+    "beginner_friendly": true,
+    "application_url": "https://wilkescenter.utah.edu/hack/",
+    "tags": [
+      "us",
+      "korea",
+      "climate",
+      "all-majors",
+      "low-barrier"
+    ]
+  },
+  {
+    "id": "spacehack-asu-2026",
+    "name": "SpaceHACK for Sustainability 2026",
+    "organizer": "ASU Library Unit for Data Science & Analytics",
+    "companies": [
+      "Arizona State University"
+    ],
+    "level": "Tertiary",
+    "timeline": "Single-day",
+    "scope": "Global",
+    "domains": [
+      "Sciences (STEM)",
+      "Computer Science"
+    ],
+    "fields": [
+      "Sustainability",
+      "AI / Machine Learning"
+    ],
+    "date": "Annual (multi-day)",
+    "location": "ASU + virtual",
+    "prize": "Cash prizes + workshops",
+    "summary": "Annual two-day hackathon using satellite data to tackle global sustainability challenges. Recent tracks: mangrove flood protection in Guayaquil, decarbonizing global trade green corridors, monitoring Alpine glaciers. No prior satellite-data experience required. In-person + virtual options.",
+    "eligibility": "University and community college students globally.",
+    "highlights": [
+      "No satellite-data experience needed",
+      "Real global sustainability challenges",
+      "In-person at ASU + virtual options",
+      "Workshops + mentorship throughout"
+    ],
+    "url": "https://www.spacehack4sustainability.com/",
+    "status": "ongoing",
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": "https://www.spacehack4sustainability.com/",
+    "tags": [
+      "us",
+      "asu",
+      "satellite",
+      "sustainability",
+      "annual"
+    ]
+  },
+  {
+    "id": "earth-hacks-2026",
+    "name": "Earth Hacks 2026",
+    "organizer": "Earth Hacks",
+    "companies": [
+      "Earth Hacks (nonprofit)"
+    ],
+    "level": "Tertiary",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Global",
+    "domains": [
+      "Sciences (STEM)",
+      "Business / Economics"
+    ],
+    "fields": [
+      "Sustainability"
+    ],
+    "date": "Multiple events throughout 2026",
+    "location": "College campuses worldwide + online",
+    "prize": "Varies per event — often partnerships + scholarships",
+    "summary": "Earth Hacks works with college students + organizations to host environmental hackathons focused on creating innovative, equitable, and just solutions to the climate crisis. Multiple events throughout 2026 — find one near you.",
+    "eligibility": "College students globally.",
+    "highlights": [
+      "Multiple events per year",
+      "Equity + justice focus",
+      "Partnerships + scholarship opportunities",
+      "Strong alumni network"
+    ],
+    "url": "https://earthhacks.io/",
+    "status": "ongoing",
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": "https://earthhacks.io/",
+    "tags": [
+      "global",
+      "climate",
+      "students",
+      "social-impact"
+    ]
+  },
+  {
+    "id": "mit-energy-climate-hack-2026",
+    "name": "MIT Energy & Climate Hack 2026",
+    "organizer": "MIT Energy & Climate Club",
+    "companies": [
+      "MIT"
+    ],
+    "level": "Tertiary",
+    "timeline": "Single-day",
+    "scope": "Global",
+    "domains": [
+      "Sciences (STEM)",
+      "Computer Science"
+    ],
+    "fields": [
+      "Sustainability"
+    ],
+    "date": "Annual (typically Spring)",
+    "location": "MIT, Cambridge MA",
+    "prize": "Cash prizes + investor connections",
+    "summary": "MIT's flagship climate hack focused on renewable energy, sustainable transportation, circular economy, sustainable land use. Build solutions for clean energy + reducing carbon footprints. High-quality MIT mentor pool.",
+    "eligibility": "Students globally.",
+    "highlights": [
+      "Held at MIT campus",
+      "Renewable energy + circular economy tracks",
+      "MIT mentor pool",
+      "Strong industry connections"
+    ],
+    "url": "https://www.mitenergyhack.org/",
+    "status": "ongoing",
+    "application_deadline": null,
+    "difficulty": "Intermediate",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": false,
+    "application_url": "https://www.mitenergyhack.org/",
+    "tags": [
+      "us",
+      "mit",
+      "climate",
+      "energy"
+    ]
+  },
+  {
+    "id": "women-techmakers-she-builds-ai",
+    "name": "Women Techmakers She Builds AI",
+    "organizer": "Google Women Techmakers",
+    "companies": [
+      "Google"
+    ],
+    "level": "Tertiary",
+    "timeline": "Multi-month (3-6mo)",
+    "scope": "Global",
+    "domains": [
+      "Computer Science"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "date": "Annual",
+    "location": "Online (global)",
+    "prize": "Featured in Google promotions + recognition",
+    "summary": "Google Women Techmakers' global hackathon to address UN SDG 5 (Gender Equality) using AI. Build with Google Gemini or Gemma. Open to ALL genders despite the framing — built around addressing gender equity challenges. Free trainings + events leading up to the hackathon.",
+    "eligibility": "Open to all genders (despite the framing).",
+    "highlights": [
+      "Open to all genders (gender equity is the topic)",
+      "Build with Gemini or Gemma",
+      "Address UN SDG 5",
+      "Free trainings + events as launchpad"
+    ],
+    "url": "https://womentechmakers.devpost.com/",
+    "status": "ongoing",
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": "https://womentechmakers.devpost.com/",
+    "tags": [
+      "global",
+      "google",
+      "diversity",
+      "ai",
+      "sdg-5"
+    ]
+  },
+  {
+    "id": "asu-wics-spring-2026",
+    "name": "ASU Women in Computer Science x Opportunity Hack Spring 2026",
+    "organizer": "ASU WiCS + Opportunity Hack",
+    "companies": [
+      "Arizona State University"
+    ],
+    "level": "Tertiary",
+    "timeline": "Single-day",
+    "scope": "Global",
+    "domains": [
+      "Computer Science"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "General Tech"
+    ],
+    "date": "Spring 2026 (in-person at ASU Tempe)",
+    "location": "Arizona State University, Tempe",
+    "prize": "Cash + monitor for each team member; ElevenLabs Scale tier (6 months) per team member",
+    "summary": "ASU WiCS partners with Opportunity Hack to solve real nonprofit problems. Two tracks: World Institute for Action Learning + Client Case Management. Open to all university students (you don't need to be at ASU or in WiCS). In-person only.",
+    "eligibility": "Any university student (undergrad or grad). Don't need to be in WiCS.",
+    "highlights": [
+      "Real nonprofit problem statements",
+      "$1980/team member ElevenLabs Scale tier",
+      "Cash + monitor prizes",
+      "Open to non-ASU students"
+    ],
+    "url": "https://wics-ohack-sp26-hackathon.devpost.com/",
+    "status": "completed",
+    "application_deadline": "2026-03-25",
+    "difficulty": "Intermediate",
+    "cost": "Free",
+    "prize_value_usd": 1980,
+    "beginner_friendly": false,
+    "application_url": "https://wics-ohack-sp26-hackathon.devpost.com/",
+    "tags": [
+      "us",
+      "asu",
+      "women",
+      "nonprofit",
+      "completed"
+    ]
+  },
+  {
+    "id": "hsbc-hackathon-2026",
+    "name": "HSBC Technology Hackathon 2026 (India)",
+    "organizer": "HSBC",
+    "companies": [
+      "HSBC Technology India"
+    ],
+    "level": "Tertiary",
+    "timeline": "Single-day",
+    "scope": "Regional (Asia)",
+    "domains": [
+      "Computer Science"
+    ],
+    "fields": [
+      "FinTech",
+      "AI / Machine Learning"
+    ],
+    "date": "12-hour online challenge — typically July annually",
+    "location": "Online (India)",
+    "prize": "Internships + Pre-Placement Offers + certifications",
+    "summary": "HSBC's 12-hour online coding challenge for students graduating in 2026 with B.E./B.Tech in CS or IT. Topics: AI/ML, Cryptography, Data Science, API/Microservice Engineering. Min 70% / 7 CGPA throughout. May lead to 4–6 month internship + PPO opportunity.",
+    "eligibility": "B.E./B.Tech CS/IT students graduating 2026, India, min 70% / 7 CGPA.",
+    "highlights": [
+      "Direct internship + PPO pipeline",
+      "12 hours fully online",
+      "AI/ML, Cryptography, Data Science tracks",
+      "HSBC Technology India recruitment"
+    ],
+    "url": "https://programs.t-hub.co/hsbc-hackathon/",
+    "status": "ongoing",
+    "application_deadline": null,
+    "difficulty": "Intermediate",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": false,
+    "application_url": "https://programs.t-hub.co/hsbc-hackathon/",
+    "tags": [
+      "india",
+      "hsbc",
+      "fintech",
+      "career",
+      "annual"
+    ]
+  },
+  {
+    "id": "ai-singapore-naisc-conference-2026",
+    "name": "AI Student Developer Conference 2026 (NAISC Finals)",
+    "organizer": "AI Singapore",
+    "companies": [
+      "AI Singapore",
+      "Huawei Cloud"
+    ],
+    "level": "Pre-University",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "date": "22–23 May 2026",
+    "location": "Singapore",
+    "prize": "NAISC track winners announced + showcase",
+    "summary": "The grand finale showcase for the National AI Student Challenge. Finalists across 8 tracks present in person to industry judges and audience. The best chance in Singapore to network with AI Singapore alumni + Huawei + industry challenge owners.",
+    "eligibility": "NAISC finalists. Public can attend showcase.",
+    "highlights": [
+      "Finals event — showcase of NAISC winners",
+      "AI Singapore + Huawei industry connections",
+      "Open to public observers",
+      "Networking with AI ecosystem"
+    ],
+    "url": "https://naisc.aisingapore.org/",
+    "status": "upcoming",
+    "application_deadline": null,
+    "difficulty": "Advanced",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": false,
+    "application_url": "https://naisc.aisingapore.org/",
+    "tags": [
+      "singapore",
+      "ai",
+      "students",
+      "finals"
+    ]
+  },
+  {
+    "id": "asia-juniors-summer-2026",
+    "name": "Asia Junior Championships — Debate (Summer Edition)",
+    "organizer": "EduDrift",
+    "companies": [
+      "EduDrift"
+    ],
+    "level": "Primary",
+    "timeline": "Single-day",
+    "scope": "Regional (Asia)",
+    "domains": [
+      "Humanities"
+    ],
+    "fields": [
+      "General Tech"
+    ],
+    "date": "June 2026",
+    "location": "Online",
+    "prize": "International judges + performance feedback",
+    "summary": "Junior WSDC format for elementary-age students (7–14) across Asia Pacific. Sister event to the Winter Edition. 150+ debaters from Australia, NZ, China, Japan, Singapore, Korea, Indonesia, India.",
+    "eligibility": "7–14 years from Asia Pacific. Teams of 3.",
+    "highlights": [
+      "Junior WSDC format",
+      "150+ debaters from across Asia Pacific",
+      "Online accessibility",
+      "Hall of Fame champions tradition"
+    ],
+    "url": "https://edudrift.com/online-competitions/apjr/",
+    "status": "upcoming",
+    "application_deadline": "2026-06-01",
+    "difficulty": "Beginner-Friendly",
+    "cost": "Paid",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": "https://edudrift.com/online-competitions/apjr/",
+    "tags": [
+      "asia",
+      "debate",
+      "primary",
+      "online"
+    ]
+  },
+  {
+    "id": "ipmd-2026",
+    "name": "International Olympiad on Astronomy & Astrophysics (IOAA) 2026",
+    "organizer": "IOAA Hanoi",
+    "companies": [
+      "Hanoi (Vietnam)",
+      "Singapore Team via SAO"
+    ],
+    "level": "Secondary",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Global",
+    "domains": [
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "General Tech"
+    ],
+    "date": "October 2026",
+    "location": "Hanoi, Vietnam",
+    "prize": "International medals + prestige",
+    "summary": "The 19th International Olympiad on Astronomy and Astrophysics. Singapore is represented by top 5 Gold medalists from the Singapore Astronomy Olympiad (SAO). Multi-day event with theory, data analysis, observational, and team rounds.",
+    "eligibility": "Top 5 SAO Gold medalists (Singapore selection).",
+    "highlights": [
+      "International prestige",
+      "Multi-round competition (theory + data + observation)",
+      "Hanoi 2026 venue",
+      "Pipeline: SAO Gold → IOAA"
+    ],
+    "url": "https://astronomy.sg/singapore-astronomy-olympiad/",
+    "status": "upcoming",
+    "application_deadline": null,
+    "difficulty": "Elite/Selective",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": false,
+    "application_url": "https://astronomy.sg/singapore-astronomy-olympiad/",
+    "tags": [
+      "vietnam",
+      "astronomy",
+      "international",
+      "olympiad"
+    ]
+  },
+  {
+    "id": "techex-enterprise-2026",
+    "name": "Techex Intelligent Enterprise Solutions Hackathon",
+    "organizer": "LabLab.ai",
+    "companies": [
+      "LabLab.ai",
+      "AI & Big Data Expo NA"
+    ],
+    "level": "Tertiary",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Global",
+    "domains": [
+      "Computer Science"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "date": "11–19 May 2026",
+    "location": "Online + San Jose McEnery Convention Center",
+    "prize": "$10,000 prize pool",
+    "summary": "Build enterprise-ready AI solutions during AI & Big Data Expo North America. Tracks: AI agents, RAG over enterprise data, AI security, Gemini-powered workflows, robotics + simulation, vision-language models. Winners announced live on stage May 19.",
+    "eligibility": "Open globally. Solo or team.",
+    "highlights": [
+      "$10,000 prize pool",
+      "Live winners announcement at AI & Big Data Expo NA",
+      "Tracks across enterprise AI patterns",
+      "Hybrid online + on-site SF Bay"
+    ],
+    "url": "https://lablab.ai/ai-hackathons/techex-intelligent-enterprise-solutions-hackathon",
+    "status": "ongoing",
+    "application_deadline": "2026-05-10",
+    "difficulty": "Intermediate",
+    "cost": "Free",
+    "prize_value_usd": 10000,
+    "beginner_friendly": false,
+    "application_url": "https://lablab.ai/ai-hackathons/techex-intelligent-enterprise-solutions-hackathon",
+    "tags": [
+      "us",
+      "online",
+      "ai",
+      "enterprise",
+      "lablab"
+    ]
+  },
+  {
+    "id": "build-impact-hackathon-2026",
+    "name": "Build for Impact Hackathon (AAAI 2026 Singapore)",
+    "organizer": "SGInnovate",
+    "companies": [
+      "AAAI 2026",
+      "OpenAI",
+      "Google",
+      "AI Singapore",
+      "AWS",
+      "Cloudflare",
+      "Stanford"
+    ],
+    "level": "Pre-University",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "date": "24–25 January 2026 (completed)",
+    "location": "32 Carpenter Street, Singapore",
+    "prize": "Recognition + AAAI engagement",
+    "summary": "Exclusive student hackathon during the 40th AAAI Conference on Artificial Intelligence + SG AI Research Week. Network with speakers from OpenAI, Google, AI Singapore, AWS, Cloudflare, Stanford. Designed for design-thinking + AI literacy. No technical expertise needed.",
+    "eligibility": "Pre-U (JC/Poly) + university students. Groups of 3-5.",
+    "highlights": [
+      "Networking with OpenAI, Google, Stanford",
+      "AAAI conference + SG AI Research Week parallel",
+      "No technical expertise needed",
+      "Design-thinking focus"
+    ],
+    "url": "https://www.sginnovate.com/event/2026-build-impact-hackathon",
+    "status": "completed",
+    "application_deadline": "2026-01-15",
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": "https://www.sginnovate.com/event/2026-build-impact-hackathon",
+    "tags": [
+      "singapore",
+      "students",
+      "ai",
+      "non-technical",
+      "completed"
+    ]
+  },
+  {
+    "id": "next-superai-detail-2026",
+    "name": "NEXT Hackathon @ SuperAI Singapore 2026",
+    "organizer": "SuperAI",
+    "companies": [
+      "SuperAI Singapore",
+      "AWS"
+    ],
+    "level": "Tertiary",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "date": "9–11 June 2026 (Hackathon Kickoff June 9; Demos June 11)",
+    "location": "Marina Bay Sands, Singapore (in-person required)",
+    "prize": "AWS credits + Free SuperAI conference access (US$999) + spotlight demos",
+    "summary": "200 builders for a 36-hour sprint at Asia's largest AI conference. Application-based admission — every person in the room is here to ship. Top 5 teams demo on the SuperAI stage. 100% free including food, drinks, and full SuperAI conference access. Visa support letters available for accepted internationals.",
+    "eligibility": "Application-based. Early/growth-stage startups, enterprise dev engineers, students, researchers. Max 4 per team. Solo OK.",
+    "highlights": [
+      "100% free (incl. SuperAI conf $999 value)",
+      "Top 5 demo on main stage",
+      "AWS credits + post-hack acceleration",
+      "Visa letters provided for accepted internationals",
+      "Marina Bay Sands venue"
+    ],
+    "url": "https://www.superai.com/next-hackathon",
+    "status": "upcoming",
+    "application_deadline": "2026-05-20",
+    "difficulty": "Advanced",
+    "cost": "Free",
+    "prize_value_usd": 5000,
+    "beginner_friendly": false,
+    "application_url": "https://www.superai.com/next-hackathon",
+    "tags": [
+      "singapore",
+      "ai",
+      "marina-bay-sands",
+      "selective",
+      "international"
+    ]
+  },
+  {
+    "id": "complete-ai-hackathon-2026",
+    "name": "Complete AI Hackathon (LabLab.ai)",
+    "organizer": "LabLab.ai",
+    "companies": [
+      "Complete.dev"
+    ],
+    "level": "Tertiary",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Global",
+    "domains": [
+      "Computer Science"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "date": "23 February – 1 March 2026 (completed)",
+    "location": "Online (LabLab.ai)",
+    "prize": "$3,500 in prizes + premium 3-month Complete.dev access",
+    "summary": "342 builders from 63+ countries used collaborative AI agents to design + build complete AI products in one week. Teams work alongside multiple AI agents in shared workspaces. Focus on real-world products that teams could actually ship. Prior recap: Complete.dev community of shippers.",
+    "eligibility": "Open globally.",
+    "highlights": [
+      "$3,500 prize pool + premium Complete.dev",
+      "AI agents as collaborators, not just tools",
+      "342 builders from 63+ countries",
+      "End-to-end product, not prototype"
+    ],
+    "url": "https://lablab.ai/ai-hackathons/complete-ai-agent-hackathon",
+    "status": "completed",
+    "application_deadline": "2026-02-22",
+    "difficulty": "Intermediate",
+    "cost": "Free",
+    "prize_value_usd": 3500,
+    "beginner_friendly": false,
+    "application_url": "https://lablab.ai/ai-hackathons/complete-ai-agent-hackathon",
+    "tags": [
+      "online",
+      "ai",
+      "lablab",
+      "agents",
+      "completed"
+    ]
+  },
+  {
+    "id": "lablab-next-startup-2026",
+    "name": "LabLab Next: Create Your Startup",
+    "organizer": "LabLab.ai",
+    "companies": [
+      "LabLab.ai",
+      "GAIA Startup Accelerator"
+    ],
+    "level": "Tertiary",
+    "timeline": "Multi-week (1-3mo)",
+    "scope": "Global",
+    "domains": [
+      "Computer Science",
+      "Business / Economics"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "date": "Rolling 10-day cohorts",
+    "location": "Online",
+    "prize": "GAIA Startup Accelerator entry for victors",
+    "summary": "10-day startup-launching hackathon. Take your AI prototype to MVP stage; collaborate with peers globally. Hackathon winners enter GAIA Startup Accelerator. Designed for builders who already have prototypes from earlier hackathons.",
+    "eligibility": "Open globally. Best for those with existing prototypes.",
+    "highlights": [
+      "10 days to MVP",
+      "Pipeline to GAIA Startup Accelerator",
+      "Free generative AI training resources",
+      "Worldwide AI community"
+    ],
+    "url": "https://lablab.ai/ai-hackathons/lablab-next-create-your-startup",
+    "status": "ongoing",
+    "application_deadline": null,
+    "difficulty": "Intermediate",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": false,
+    "application_url": "https://lablab.ai/ai-hackathons/lablab-next-create-your-startup",
+    "tags": [
+      "online",
+      "ai",
+      "startup",
+      "lablab",
+      "year-round"
+    ]
+  },
+  {
+    "id": "f1-singapore-grand-prix-2026",
+    "name": "Imagine Cup Singapore National Final",
+    "organizer": "Microsoft Singapore",
+    "companies": [
+      "Microsoft",
+      "Microsoft for Startups"
+    ],
+    "level": "Tertiary",
+    "timeline": "Multi-month (3-6mo)",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Business / Economics"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "date": "Spring 2026 (after global submission Jan 9)",
+    "location": "Singapore",
+    "prize": "National finalist support + path to global Imagine Cup",
+    "summary": "Microsoft Singapore's national track for the Imagine Cup. Singapore-based student teams compete locally before the global finals. Build with Microsoft AI services. Winners advance to global rounds for $50K-$100K prizes.",
+    "eligibility": "Singapore-based student teams.",
+    "highlights": [
+      "National Singapore track",
+      "Path to $100K Microsoft global prizes",
+      "Local mentorship + Singapore visibility",
+      "Up to $5K Azure credits"
+    ],
+    "url": "https://imaginecup.microsoft.com/",
+    "status": "ongoing",
+    "application_deadline": null,
+    "difficulty": "Advanced",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": false,
+    "application_url": "https://imaginecup.microsoft.com/",
+    "tags": [
+      "singapore",
+      "microsoft",
+      "students",
+      "national-track"
+    ]
+  },
+  {
+    "id": "raffles-science-olympiad-2026",
+    "name": "Raffles Science Olympiad (RSO)",
+    "organizer": "Raffles Institution",
+    "companies": [
+      "Raffles Institution"
+    ],
+    "level": "Primary",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "General Tech"
+    ],
+    "date": "Annual",
+    "location": "Raffles Institution, Singapore",
+    "prize": "National recognition; sense of wonder + science-positive values",
+    "summary": "Annual national competition organized by Raffles Institution to promote interest in Science among Singapore students. Tests knowledge, understanding, and critical thinking. Aims to engender a sense of wonder toward Science and foster positive values.",
+    "eligibility": "Singapore students (school-based registration).",
+    "highlights": [
+      "Run by Raffles Institution",
+      "Strong DSA portfolio signal for RI/RGS",
+      "Tests breadth + depth of science",
+      "Free, school-coordinated entry"
+    ],
+    "url": "https://www.ri.edu.sg/",
+    "status": "ongoing",
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": "https://www.ri.edu.sg/",
+    "tags": [
+      "singapore",
+      "primary",
+      "science",
+      "olympiad"
+    ]
+  },
+  {
+    "id": "spso-2026",
+    "name": "Singapore Primary Science Olympiad (SPSO)",
+    "organizer": "NUS High School of Mathematics and Science",
+    "companies": [
+      "NUS High"
+    ],
+    "level": "Primary",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "General Tech"
+    ],
+    "date": "Annual (typically March)",
+    "location": "NUS High, Singapore",
+    "prize": "First round of selection for IMSO Singapore team",
+    "summary": "National competition organized by NUS High School since 2009. Aims to promote active interest in Science among primary school students. Pitched at the Primary School Science Syllabus + general scientific reasoning. First round of selection for the National Science Team that represents Singapore at the International Mathematics and Science Olympiad (IMSO).",
+    "eligibility": "Primary school students in Singapore.",
+    "highlights": [
+      "Pipeline to IMSO international team",
+      "Run by NUS High",
+      "Tests reasoning beyond curriculum",
+      "Annual since 2009"
+    ],
+    "url": "https://www.nushigh.edu.sg/",
+    "status": "ongoing",
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": "https://www.nushigh.edu.sg/",
+    "tags": [
+      "singapore",
+      "primary",
+      "science",
+      "olympiad",
+      "imso-pathway"
+    ]
+  },
+  {
+    "id": "apmops-2026",
+    "name": "Asia Pacific Mathematical Olympiad for Primary Schools (APMOPS)",
+    "organizer": "Hwa Chong Institution",
+    "companies": [
+      "Hwa Chong Institution"
+    ],
+    "level": "Primary",
+    "timeline": "Single-day",
+    "scope": "Regional (Asia)",
+    "domains": [
+      "Mathematics"
+    ],
+    "fields": [
+      "General Tech"
+    ],
+    "date": "Annual (typically July)",
+    "location": "Hwa Chong + Asia-Pacific partner sites",
+    "prize": "Medals + recognition; APMOPS Champion title",
+    "summary": "Annual competition organized by Hwa Chong Institution. Generates greater interest in Mathematics among primary school students across Asia-Pacific. Sharpens problem-solving skills.",
+    "eligibility": "Primary school students.",
+    "highlights": [
+      "Hwa Chong-organized regional event",
+      "Asia-Pacific reach",
+      "Sharpens primary-level problem solving",
+      "DSA portfolio signal"
+    ],
+    "url": "https://hci.edu.sg/",
+    "status": "ongoing",
+    "application_deadline": null,
+    "difficulty": "Intermediate",
+    "cost": "Paid",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": "https://hci.edu.sg/",
+    "tags": [
+      "singapore",
+      "primary",
+      "math",
+      "asia-pacific"
+    ]
+  },
+  {
+    "id": "nmos-2026",
+    "name": "NUS High National Mathematical Olympiad of Singapore (NMOS)",
+    "organizer": "NUS High School + Singapore Mathematical Society",
+    "companies": [
+      "NUS High",
+      "Singapore Math Society"
+    ],
+    "level": "Primary",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Mathematics"
+    ],
+    "fields": [
+      "General Tech"
+    ],
+    "date": "Annual (typically Aug)",
+    "location": "Singapore",
+    "prize": "Medals + recognition",
+    "summary": "NUS High School + Singapore Mathematical Society collaboration. Cultivates enthusiasm for mathematics among Primary school students in Singapore. Challenges + stretches students' mathematical potential. Strong feeder for the NUS High pipeline.",
+    "eligibility": "Primary school students in Singapore.",
+    "highlights": [
+      "Run by NUS High School",
+      "Singapore Mathematical Society partnership",
+      "Stretches students beyond curriculum",
+      "DSA pipeline for NUS High"
+    ],
+    "url": "https://www.nushigh.edu.sg/",
+    "status": "ongoing",
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": "https://www.nushigh.edu.sg/",
+    "tags": [
+      "singapore",
+      "primary",
+      "math",
+      "olympiad"
+    ]
+  },
+  {
+    "id": "simoc-2026",
+    "name": "Singapore International Math Olympiad Challenge (SIMOC)",
+    "organizer": "SIMCC",
+    "companies": [
+      "SIMCC"
+    ],
+    "level": "Primary",
+    "timeline": "Single-day",
+    "scope": "Global",
+    "domains": [
+      "Mathematics"
+    ],
+    "fields": [
+      "General Tech"
+    ],
+    "date": "December 11–16, 2026",
+    "location": "Singapore (onsite)",
+    "prize": "Trophy + Medal + Certificate",
+    "summary": "Three-format math competition: Individual Contest, Team Contest, and Math Warriors' Challenge. Welcomes participants from primary through JC2 from 20+ countries across Asia, Europe, Americas. Onsite-only, held in Singapore.",
+    "eligibility": "Primary 1 to JC2. World region.",
+    "highlights": [
+      "Three formats — individual + team + warrior",
+      "20+ countries participate",
+      "Held in Singapore (onsite)",
+      "Trophy + medal awards"
+    ],
+    "url": "https://simoc.sg/",
+    "status": "upcoming",
+    "application_deadline": "2026-11-15",
+    "difficulty": "Intermediate",
+    "cost": "Paid",
+    "prize_value_usd": null,
+    "beginner_friendly": false,
+    "application_url": "https://simcc.org/",
+    "tags": [
+      "singapore",
+      "math",
+      "global",
+      "primary",
+      "secondary"
+    ]
+  },
+  {
+    "id": "horizon-mlh-launch-2026",
+    "name": "MLH Global Hack Week — Season Launch",
+    "organizer": "Major League Hacking",
+    "companies": [
+      "MLH"
+    ],
+    "level": "Tertiary",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Global",
+    "domains": [
+      "Computer Science"
+    ],
+    "fields": [
+      "General Tech"
+    ],
+    "date": "Annual (Season opener)",
+    "location": "Online",
+    "prize": "MLH XP points + season recognition",
+    "summary": "Celebrates the launch of MLH's hackathon season with special community announcements. XP earned for completing challenges (social, technical, design) — the more you do, the more you accumulate. Beginner-friendly daily challenges range from social media posts to building full demos.",
+    "eligibility": "Anyone — sign up free on events.mlh.io.",
+    "highlights": [
+      "Launches each MLH season",
+      "Special community announcements",
+      "Build challenges + check-in points",
+      "Online + global"
+    ],
+    "url": "https://events.mlh.io/",
+    "status": "ongoing",
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": "https://events.mlh.io/",
+    "tags": [
+      "global",
+      "online",
+      "mlh",
+      "beginner",
+      "launch"
+    ]
+  },
+  {
+    "id": "fellowships-anthropic-pioneer",
+    "name": "Anthropic Fellows Programs (general)",
+    "organizer": "Anthropic",
+    "companies": [
+      "Anthropic"
+    ],
+    "level": "Tertiary",
+    "timeline": "Multi-month (3-6mo)",
+    "scope": "Global",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "date": "Year-round (rolling cohorts)",
+    "location": "Various — SF + remote + research roles",
+    "prize": "Paid fellowship + research/engineering access at Anthropic",
+    "summary": "Anthropic runs research engineer + safety fellowship cohorts year-round (e.g., the Anthropic Research Fellows program for AI safety researchers). Pathway from external researcher to full-time hire. Check Anthropic careers page for current listings.",
+    "eligibility": "Varies per fellowship — research, engineering, safety.",
+    "highlights": [
+      "Direct access to frontier AI research",
+      "Pathway to Anthropic full-time",
+      "Research + engineering tracks",
+      "Year-round rolling cohorts"
+    ],
+    "url": "https://www.anthropic.com/careers",
+    "status": "ongoing",
+    "application_deadline": null,
+    "difficulty": "Elite/Selective",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": false,
+    "application_url": "https://www.anthropic.com/careers",
+    "tags": [
+      "global",
+      "ai",
+      "research",
+      "fellowship",
+      "year-round",
+      "anthropic"
+    ]
+  },
+  {
+    "id": "openai-residency-2026",
+    "name": "OpenAI Residency Program",
+    "organizer": "OpenAI",
+    "companies": [
+      "OpenAI"
+    ],
+    "level": "Tertiary",
+    "timeline": "Multi-month (3-6mo)",
+    "scope": "Global",
+    "domains": [
+      "Computer Science"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "date": "Annual cohort applications",
+    "location": "San Francisco (in-person)",
+    "prize": "Paid residency salary + pathway to full-time at OpenAI",
+    "summary": "OpenAI's flagship residency program for engineers and researchers transitioning into AI. Six-month paid program with full access to OpenAI's compute, data, and research community. Designed for those without traditional ML PhDs but with strong engineering or research backgrounds in adjacent fields.",
+    "eligibility": "Strong engineering or research background; no ML PhD required.",
+    "highlights": [
+      "Pathway for non-ML PhDs into frontier AI",
+      "Paid 6-month program",
+      "Full OpenAI compute + research access",
+      "High conversion to full-time"
+    ],
+    "url": "https://openai.com/careers",
+    "status": "ongoing",
+    "application_deadline": null,
+    "difficulty": "Elite/Selective",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": false,
+    "application_url": "https://openai.com/careers",
+    "tags": [
+      "us",
+      "sf",
+      "ai",
+      "openai",
+      "residency"
+    ]
+  },
+  {
+    "id": "fellowship-knight-hennessy",
+    "name": "Knight-Hennessy Scholars (Stanford)",
+    "organizer": "Stanford University",
+    "companies": [
+      "Stanford"
+    ],
+    "level": "Tertiary",
+    "timeline": "Multi-month (3-6mo)",
+    "scope": "Global",
+    "domains": [
+      "Business / Economics",
+      "Sciences (STEM)",
+      "Humanities"
+    ],
+    "fields": [
+      "General Tech"
+    ],
+    "date": "Annual (deadline October)",
+    "location": "Stanford University, USA",
+    "prize": "Full funding for any Stanford grad program (3 years)",
+    "summary": "Stanford's flagship graduate fellowship — fully funded for ANY Stanford graduate program. Builds a multidisciplinary cohort of leaders. Open globally, all majors. Highly competitive but applications welcome from any background — engineers, doctors, artists, policy folk.",
+    "eligibility": "Applying to any Stanford graduate program. Bachelor's in last 7 years.",
+    "highlights": [
+      "Full funding for ANY Stanford grad program",
+      "All majors welcome",
+      "3-year leadership development cohort",
+      "Highest-prestige US fellowship for grad school"
+    ],
+    "url": "https://knight-hennessy.stanford.edu/",
+    "status": "ongoing",
+    "application_deadline": "2026-10-08",
+    "difficulty": "Elite/Selective",
+    "cost": "Free",
+    "prize_value_usd": 250000,
+    "beginner_friendly": false,
+    "application_url": "https://knight-hennessy.stanford.edu/",
+    "tags": [
+      "us",
+      "stanford",
+      "fellowship",
+      "grad-school",
+      "all-majors"
+    ]
+  },
+  {
+    "id": "rhodes-scholarship-2026",
+    "name": "Rhodes Scholarship",
+    "organizer": "Rhodes Trust",
+    "companies": [
+      "Oxford University"
+    ],
+    "level": "Tertiary",
+    "timeline": "Multi-month (3-6mo)",
+    "scope": "Global",
+    "domains": [
+      "Humanities",
+      "Sciences (STEM)",
+      "Business / Economics"
+    ],
+    "fields": [
+      "General Tech"
+    ],
+    "date": "Annual (deadlines vary by country, typically Aug–Oct)",
+    "location": "Oxford University, UK",
+    "prize": "Full funding for graduate study at Oxford",
+    "summary": "The world's oldest international graduate fellowship. Up to 100 scholars per year selected from 60+ countries. Funds graduate study at Oxford. Beyond academic merit — looks for character, leadership, commitment to service. Singapore is one of the eligible jurisdictions.",
+    "eligibility": "Citizenship requirements vary by jurisdiction. Apply to your home country selection.",
+    "highlights": [
+      "Oldest international fellowship (since 1902)",
+      "Full graduate funding at Oxford",
+      "Singapore jurisdiction available",
+      "Beyond grades — character, leadership, service"
+    ],
+    "url": "https://www.rhodeshouse.ox.ac.uk/",
+    "status": "ongoing",
+    "application_deadline": "2026-10-01",
+    "difficulty": "Elite/Selective",
+    "cost": "Free",
+    "prize_value_usd": 250000,
+    "beginner_friendly": false,
+    "application_url": "https://www.rhodeshouse.ox.ac.uk/",
+    "tags": [
+      "global",
+      "oxford",
+      "fellowship",
+      "grad-school",
+      "elite"
+    ]
+  },
+  {
+    "id": "thiel-fellowship-2026",
+    "name": "Thiel Fellowship",
+    "organizer": "Thiel Foundation",
+    "companies": [
+      "Thiel Foundation"
+    ],
+    "level": "Tertiary",
+    "timeline": "Multi-month (3-6mo)",
+    "scope": "Global",
+    "domains": [
+      "Business / Economics",
+      "Computer Science"
+    ],
+    "fields": [
+      "General Tech"
+    ],
+    "date": "Annual (rolling)",
+    "location": "Anywhere — relocate to SF preferred",
+    "prize": "$100,000 grant to skip school + 2 years of mentorship",
+    "summary": "Pays exceptional young people ($100K) to skip or pause college and build something. Famously: Vitalik Buterin (Ethereum), Austin Russell (Luminar), Laura Deming (longevity). Under 23. Apply with a working idea, a track record, and a genuine willingness to leave the academic path.",
+    "eligibility": "Under 23. Any country. Must commit to NOT being in school during the fellowship.",
+    "highlights": [
+      "$100K to skip school",
+      "2 years of mentorship + network",
+      "Famous alums (Buterin, Russell)",
+      "Apply with idea + track record"
+    ],
+    "url": "https://thielfellowship.org/",
+    "status": "ongoing",
+    "application_deadline": null,
+    "difficulty": "Elite/Selective",
+    "cost": "Free",
+    "prize_value_usd": 100000,
+    "beginner_friendly": false,
+    "application_url": "https://thielfellowship.org/",
+    "tags": [
+      "global",
+      "drop-out",
+      "founder",
+      "fellowship",
+      "under-23"
+    ]
+  },
+  {
+    "id": "z-fellows-2026",
+    "name": "Z Fellows (Peter Thiel x Z Combinator)",
+    "organizer": "Z Fellows",
+    "companies": [
+      "Z Fellows"
+    ],
+    "level": "Tertiary",
+    "timeline": "Multi-week (1-3mo)",
+    "scope": "Global",
+    "domains": [
+      "Business / Economics",
+      "Computer Science"
+    ],
+    "fields": [
+      "General Tech"
+    ],
+    "date": "Rolling cohorts",
+    "location": "San Francisco",
+    "prize": "$10,000 + 1-week intensive in SF",
+    "summary": "Cory Levy's program: $10K + a focused week in SF for the most ambitious young builders. Designed to be the on-ramp from doing-well to building-something. Alumni go on to YC, raise rounds. Under 25 typically.",
+    "eligibility": "Young builders. Apply via z-fellows.com.",
+    "highlights": [
+      "$10K stipend",
+      "1-week intensive in SF",
+      "On-ramp to YC + investor network",
+      "Rolling cohorts"
+    ],
+    "url": "https://www.zfellows.com/",
+    "status": "ongoing",
+    "application_deadline": null,
+    "difficulty": "Elite/Selective",
+    "cost": "Free",
+    "prize_value_usd": 10000,
+    "beginner_friendly": false,
+    "application_url": "https://www.zfellows.com/",
+    "tags": [
+      "us",
+      "sf",
+      "founder",
+      "fellowship",
+      "young-builder"
+    ]
+  },
+  {
+    "id": "a16z-talent-x-opportunity",
+    "name": "a16z Talent x Opportunity Fund",
+    "organizer": "Andreessen Horowitz",
+    "companies": [
+      "a16z"
+    ],
+    "level": "Tertiary",
+    "timeline": "Multi-month (3-6mo)",
+    "scope": "Global",
+    "domains": [
+      "Business / Economics",
+      "Computer Science"
+    ],
+    "fields": [
+      "General Tech"
+    ],
+    "date": "Rolling",
+    "location": "USA / remote",
+    "prize": "Up to $175K investment + a16z mentorship",
+    "summary": "Founded specifically to back founders without traditional access to venture capital. Funds early-stage builders who are talented but lack the typical Stanford/MIT pedigree. Up to $175K + access to the a16z network.",
+    "eligibility": "Founders without traditional VC access. Rolling.",
+    "highlights": [
+      "Built for non-traditional founders",
+      "Up to $175K investment",
+      "a16z network access",
+      "Rolling applications"
+    ],
+    "url": "https://a16z.com/talent-x-opportunity/",
+    "status": "ongoing",
+    "application_deadline": null,
+    "difficulty": "Elite/Selective",
+    "cost": "Free",
+    "prize_value_usd": 175000,
+    "beginner_friendly": false,
+    "application_url": "https://a16z.com/talent-x-opportunity/",
+    "tags": [
+      "us",
+      "vc",
+      "diversity",
+      "rolling",
+      "non-traditional"
+    ]
+  },
+  {
+    "id": "sg-mas-fintech-festival-2026",
+    "name": "Singapore FinTech Festival 2026 — Global FinTech Hackcelerator",
+    "organizer": "Monetary Authority of Singapore (MAS)",
+    "companies": [
+      "MAS",
+      "Elevandi",
+      "AWS"
+    ],
+    "level": "Tertiary",
+    "timeline": "Multi-month (3-6mo)",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Business / Economics",
+      "Computer Science"
+    ],
+    "fields": [
+      "FinTech"
+    ],
+    "date": "Submissions May–July 2026; Festival November 2026",
+    "location": "Singapore Expo (festival)",
+    "prize": "S$50,000 cash prizes + investor connections",
+    "summary": "MAS's flagship fintech accelerator running parallel to Singapore FinTech Festival (largest fintech event in the world). Submit your fintech solution; top 21 finalists get cash, investor access, and a booth at Singapore FinTech Festival in November.",
+    "eligibility": "Fintech founders globally. Apply with working solution + corporate problem statement.",
+    "highlights": [
+      "Pipeline to Singapore FinTech Festival (60K+ attendees)",
+      "S$50K cash prizes",
+      "Investor + corporate intros",
+      "Hackcelerator finalist booth"
+    ],
+    "url": "https://www.fintechfestival.sg/",
+    "status": "upcoming",
+    "application_deadline": "2026-07-15",
+    "difficulty": "Advanced",
+    "cost": "Free",
+    "prize_value_usd": 38000,
+    "beginner_friendly": false,
+    "application_url": "https://www.fintechfestival.sg/",
+    "tags": [
+      "singapore",
+      "fintech",
+      "mas",
+      "festival"
+    ]
+  },
+  {
+    "id": "sg-asean-tech-empowerment-2026",
+    "name": "Tech for Good Empowerment Programme — IMDA",
+    "organizer": "Infocomm Media Development Authority Singapore",
+    "companies": [
+      "IMDA"
+    ],
+    "level": "Tertiary",
+    "timeline": "Multi-month (3-6mo)",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Business / Economics"
+    ],
+    "fields": [
+      "General Tech"
+    ],
+    "date": "Year-round cohort",
+    "location": "Singapore",
+    "prize": "Funding + mentorship for Tech for Good initiatives",
+    "summary": "IMDA's program supporting tech-for-good builders in Singapore. Funds projects addressing accessibility, mental health, climate, social inequality. Year-round application. Strong alignment with national Smart Nation agenda.",
+    "eligibility": "Singapore-based founders + builders.",
+    "highlights": [
+      "IMDA national-level support",
+      "Funding + mentorship",
+      "Tech for Good focus",
+      "Aligned with Smart Nation agenda"
+    ],
+    "url": "https://www.imda.gov.sg/",
+    "status": "ongoing",
+    "application_deadline": null,
+    "difficulty": "Intermediate",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": false,
+    "application_url": "https://www.imda.gov.sg/",
+    "tags": [
+      "singapore",
+      "imda",
+      "tech-for-good",
+      "year-round"
+    ]
+  },
+  {
+    "id": "google-deepmind-residency-2026",
+    "name": "Google DeepMind Research Residency",
+    "organizer": "Google DeepMind",
+    "companies": [
+      "Google DeepMind"
+    ],
+    "level": "Tertiary",
+    "timeline": "Multi-month (3-6mo)",
+    "scope": "Global",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "date": "Annual cohort",
+    "location": "London, Mountain View, NYC, Paris",
+    "prize": "Paid residency + DeepMind network",
+    "summary": "DeepMind's flagship residency for early-career researchers. Designed for those with strong research or engineering backgrounds outside traditional ML. Year-long program with mentorship from DeepMind scientists.",
+    "eligibility": "Strong research background. Bachelor's+ required.",
+    "highlights": [
+      "Multi-city options (London, MV, NYC, Paris)",
+      "Year-long paid program",
+      "DeepMind scientist mentors",
+      "Pathway to DeepMind full-time"
+    ],
+    "url": "https://www.deepmind.com/careers",
+    "status": "ongoing",
+    "application_deadline": null,
+    "difficulty": "Elite/Selective",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": false,
+    "application_url": "https://www.deepmind.com/careers",
+    "tags": [
+      "global",
+      "ai",
+      "deepmind",
+      "residency",
+      "research"
+    ]
+  },
+  {
+    "id": "kaggle-competitions-2026",
+    "name": "Kaggle Competitions (rolling)",
+    "organizer": "Kaggle (Google)",
+    "companies": [
+      "Kaggle"
+    ],
+    "level": "Tertiary",
+    "timeline": "Multi-month (3-6mo)",
+    "scope": "Global",
+    "domains": [
+      "Computer Science"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "date": "Year-round (multiple active competitions)",
+    "location": "Online",
+    "prize": "$10K – $1M+ per competition (varies)",
+    "summary": "The world's largest data science competition platform. Multiple active competitions with prize pools from $10K to over $1M. Topics range from medical imaging to NLP to time series forecasting. Beginner tutorials abundant. Strong DSA + portfolio signal.",
+    "eligibility": "Anyone with internet access.",
+    "highlights": [
+      "$10K – $1M+ per competition",
+      "Beginner tutorials abundant",
+      "Tier system (Master, Grandmaster) builds reputation",
+      "Open year-round"
+    ],
+    "url": "https://www.kaggle.com/competitions",
+    "status": "ongoing",
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": 1000000,
+    "beginner_friendly": true,
+    "application_url": "https://www.kaggle.com/competitions",
+    "tags": [
+      "online",
+      "global",
+      "data-science",
+      "ml",
+      "year-round"
+    ]
+  },
+  {
+    "id": "devpost-trending-2026",
+    "name": "Devpost Hackathons (browse hundreds)",
+    "organizer": "Devpost",
+    "companies": [
+      "Devpost"
+    ],
+    "level": "Tertiary",
+    "timeline": "Annual / ongoing",
+    "scope": "Global",
+    "domains": [
+      "Computer Science"
+    ],
+    "fields": [
+      "General Tech"
+    ],
+    "date": "Year-round (hundreds of active events)",
+    "location": "Online + various physical locations",
+    "prize": "Varies — $100 to $1M+ per event",
+    "summary": "Devpost is the largest online hackathon platform. Hundreds of active hackathons at any given time, from corporate-sponsored to student-led to single-week online sprints. Free signup. Best one-stop discovery for online hackathons globally.",
+    "eligibility": "Anyone with a Devpost account.",
+    "highlights": [
+      "Hundreds of active hackathons",
+      "Search by company, prize, technology",
+      "Hosts MLH events too",
+      "Free signup"
+    ],
+    "url": "https://devpost.com/hackathons",
+    "status": "ongoing",
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": "https://devpost.com/hackathons",
+    "tags": [
+      "online",
+      "global",
+      "platform",
+      "year-round"
+    ]
+  },
+  {
+    "id": "unstop-india-2026",
+    "name": "Unstop Hackathons (India + Global)",
+    "organizer": "Unstop",
+    "companies": [
+      "Unstop"
+    ],
+    "level": "Tertiary",
+    "timeline": "Annual / ongoing",
+    "scope": "Regional (Asia)",
+    "domains": [
+      "Computer Science",
+      "Business / Economics"
+    ],
+    "fields": [
+      "General Tech"
+    ],
+    "date": "Year-round (dozens active)",
+    "location": "Online + India campuses",
+    "prize": "Varies — internships, jobs, cash prizes",
+    "summary": "India's largest competition + hackathon platform with strong recruiter integrations. Hosts case competitions, hackathons, quizzes, and hiring contests. Many companies recruit directly from Unstop performers. Search by skill, company, prize.",
+    "eligibility": "Anyone — strong India focus + global open events.",
+    "highlights": [
+      "Strong India ecosystem",
+      "Recruiter-integrated",
+      "Case competitions + hackathons + quizzes",
+      "Internship pipeline"
+    ],
+    "url": "https://unstop.com/hackathons",
+    "status": "ongoing",
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": "https://unstop.com/hackathons",
+    "tags": [
+      "india",
+      "online",
+      "platform",
+      "career",
+      "year-round"
+    ]
+  },
+  {
+    "id": "devfolio-india-2026",
+    "name": "Devfolio Hackathons",
+    "organizer": "Devfolio",
+    "companies": [
+      "Devfolio"
+    ],
+    "level": "Tertiary",
+    "timeline": "Annual / ongoing",
+    "scope": "Global",
+    "domains": [
+      "Computer Science"
+    ],
+    "fields": [
+      "Web3 / Blockchain",
+      "AI / Machine Learning"
+    ],
+    "date": "Year-round",
+    "location": "Online + various",
+    "prize": "Varies — strong Web3 + fintech sponsorships",
+    "summary": "India's leading hackathon platform with strong Web3, fintech, AI focus. Top-tier events with seamless registration, team collaboration, mentor support. Showcase projects + connect with potential employers/investors via the community.",
+    "eligibility": "Anyone — strong India + global open.",
+    "highlights": [
+      "Strong Web3 + fintech focus",
+      "Mentor support built-in",
+      "Project showcase community",
+      "Investor + employer connections"
+    ],
+    "url": "https://devfolio.co/",
+    "status": "ongoing",
+    "application_deadline": null,
+    "difficulty": "Intermediate",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": false,
+    "application_url": "https://devfolio.co/",
+    "tags": [
+      "india",
+      "online",
+      "web3",
+      "platform",
+      "year-round"
+    ]
+  },
+  {
+    "id": "techstars-2026",
+    "name": "Techstars Accelerator (multiple programs)",
+    "organizer": "Techstars",
+    "companies": [
+      "Techstars"
+    ],
+    "level": "Tertiary",
+    "timeline": "Multi-month (3-6mo)",
+    "scope": "Global",
+    "domains": [
+      "Business / Economics"
+    ],
+    "fields": [
+      "General Tech"
+    ],
+    "date": "Multiple programs throughout 2026",
+    "location": "30+ cities globally",
+    "prize": "$120,000 ($20K cash + $100K convertible note)",
+    "summary": "One of the world's most active accelerators. 30+ programs annually across cities + verticals (climate, mobility, fintech, etc.). 13 weeks of mentorship + investment + Demo Day. Apply via specific program of interest.",
+    "eligibility": "Founders globally. Stage: idea → revenue. 13-week commitment required.",
+    "highlights": [
+      "$120K total ($20K cash + $100K note)",
+      "30+ programs across cities + verticals",
+      "Lifetime alumni network",
+      "Strong post-program follow-on funding"
+    ],
+    "url": "https://www.techstars.com/accelerators",
+    "status": "ongoing",
+    "application_deadline": null,
+    "difficulty": "Elite/Selective",
+    "cost": "Free",
+    "prize_value_usd": 120000,
+    "beginner_friendly": false,
+    "application_url": "https://www.techstars.com/accelerators",
+    "tags": [
+      "global",
+      "accelerator",
+      "founder",
+      "year-round"
+    ]
+  },
+  {
+    "id": "google-startups-accelerator-asean-2026",
+    "name": "Google for Startups Accelerator: Southeast Asia",
+    "organizer": "Google for Startups",
+    "companies": [
+      "Google"
+    ],
+    "level": "Tertiary",
+    "timeline": "Multi-month (3-6mo)",
+    "scope": "Regional (Asia)",
+    "domains": [
+      "Business / Economics",
+      "Computer Science"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "date": "Annual cohorts",
+    "location": "Singapore + ASEAN markets",
+    "prize": "$200K Google Cloud credits + Google mentorship",
+    "summary": "Google's flagship accelerator for ASEAN founders. 10-week program with mentorship from Google engineers + product leaders. Equity-free. $200K Google Cloud credits. Strong fit for AI-first startups.",
+    "eligibility": "ASEAN-based startups, Series A or earlier.",
+    "highlights": [
+      "EQUITY-FREE",
+      "$200K Google Cloud credits",
+      "10 weeks Google mentorship",
+      "AI-first startup focus"
+    ],
+    "url": "https://startup.google.com/programs/accelerator/",
+    "status": "ongoing",
+    "application_deadline": null,
+    "difficulty": "Intermediate",
+    "cost": "Free",
+    "prize_value_usd": 200000,
+    "beginner_friendly": false,
+    "application_url": "https://startup.google.com/programs/accelerator/",
+    "tags": [
+      "asean",
+      "singapore",
+      "google",
+      "accelerator",
+      "equity-free"
+    ]
+  },
+  {
+    "id": "smart-nation-challenges-sg-2026",
+    "name": "Smart Nation Challenges (Singapore)",
+    "organizer": "Government of Singapore",
+    "companies": [
+      "GovTech",
+      "Smart Nation Group"
+    ],
+    "level": "Tertiary",
+    "timeline": "Annual / ongoing",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Business / Economics"
+    ],
+    "fields": [
+      "General Tech"
+    ],
+    "date": "Multiple challenges throughout 2026",
+    "location": "Singapore",
+    "prize": "Procurement opportunities + government contracts",
+    "summary": "Government-backed open challenges for Singapore's Smart Nation initiative. Multiple problem statements across digital identity, healthcare, mobility, urban planning. Winners often secure government procurement contracts.",
+    "eligibility": "Open to companies + individuals.",
+    "highlights": [
+      "Government procurement pathway",
+      "Multiple parallel challenges",
+      "Aligned with Singapore Smart Nation",
+      "Real public-sector impact"
+    ],
+    "url": "https://www.smartnation.gov.sg/",
+    "status": "ongoing",
+    "application_deadline": null,
+    "difficulty": "Intermediate",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": false,
+    "application_url": "https://www.smartnation.gov.sg/",
+    "tags": [
+      "singapore",
+      "government",
+      "smart-nation",
+      "year-round"
+    ]
+  },
+  {
+    "id": "harvard-techie-2026",
+    "name": "HackHarvard 2026",
+    "organizer": "HackHarvard (student-run)",
+    "companies": [
+      "Harvard University"
+    ],
+    "level": "Tertiary",
+    "timeline": "Single-day",
+    "scope": "Global",
+    "domains": [
+      "Computer Science"
+    ],
+    "fields": [
+      "General Tech"
+    ],
+    "date": "October 2026",
+    "location": "Harvard University, Cambridge MA",
+    "prize": "Cash + tech prizes across multiple tracks",
+    "summary": "Harvard's flagship student hackathon. 36 hours, Boston tech scene. Categories range from AI to social good to hardware. Strong sponsor lineup (recent: Google, Meta, Capital One). MLH-affiliated.",
+    "eligibility": "College students globally. Apply via website.",
+    "highlights": [
+      "Harvard campus venue",
+      "Strong corporate sponsor lineup",
+      "Multiple track prizes",
+      "MLH-affiliated"
+    ],
+    "url": "https://hackharvard.io/",
+    "status": "upcoming",
+    "application_deadline": "2026-09-15",
+    "difficulty": "Intermediate",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": "https://hackharvard.io/",
+    "tags": [
+      "us",
+      "harvard",
+      "tertiary",
+      "annual"
+    ]
+  },
+  {
+    "id": "hackmit-2026",
+    "name": "HackMIT 2026",
+    "organizer": "HackMIT (student-run)",
+    "companies": [
+      "MIT"
+    ],
+    "level": "Tertiary",
+    "timeline": "Single-day",
+    "scope": "Global",
+    "domains": [
+      "Computer Science"
+    ],
+    "fields": [
+      "General Tech"
+    ],
+    "date": "September 2026",
+    "location": "MIT, Cambridge MA",
+    "prize": "Cash + tech prizes; corporate sponsor swag",
+    "summary": "MIT's flagship undergraduate hackathon. ~1,000 hackers, 36 hours, Stanford-tier ambition. Tracks include AI, hardware (with extensive component lab), gaming, social impact. MIT Media Lab + EECS + Sloan presence.",
+    "eligibility": "College students globally. Apply via portal.",
+    "highlights": [
+      "~1,000 hackers",
+      "Hardware component lab on-site",
+      "MIT Media Lab + EECS access",
+      "Most prestigious US college hackathon (besides TreeHacks)"
+    ],
+    "url": "https://hackmit.org/",
+    "status": "upcoming",
+    "application_deadline": "2026-08-15",
+    "difficulty": "Advanced",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": false,
+    "application_url": "https://hackmit.org/",
+    "tags": [
+      "us",
+      "mit",
+      "tertiary",
+      "hardware",
+      "annual"
+    ]
+  },
+  {
+    "id": "hack-the-north-2026",
+    "name": "Hack the North 2026",
+    "organizer": "University of Waterloo",
+    "companies": [
+      "Waterloo CSC"
+    ],
+    "level": "Tertiary",
+    "timeline": "Single-day",
+    "scope": "Global",
+    "domains": [
+      "Computer Science"
+    ],
+    "fields": [
+      "General Tech"
+    ],
+    "date": "September 2026",
+    "location": "University of Waterloo, Ontario, Canada",
+    "prize": "Cash + tech prizes",
+    "summary": "Canada's largest hackathon — 1,000+ attendees. Notable for being explicitly inclusive: ~1/3 of attendees are first-time hackers. Travel reimbursement for accepted international hackers. Embraces 'radical welcome' philosophy.",
+    "eligibility": "Students globally. Apply for travel reimbursement.",
+    "highlights": [
+      "1/3 of attendees are first-time hackers",
+      "Travel reimbursement for internationals",
+      "1,000+ hackers — Canada's largest",
+      "Radical welcome philosophy"
+    ],
+    "url": "https://hackthenorth.com/",
+    "status": "upcoming",
+    "application_deadline": "2026-08-15",
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": "https://hackthenorth.com/",
+    "tags": [
+      "canada",
+      "waterloo",
+      "tertiary",
+      "first-time-friendly",
+      "travel-reimburse"
+    ]
+  },
+  {
+    "id": "calhacks-2026",
+    "name": "Cal Hacks 2026 (Berkeley)",
+    "organizer": "Hackathons @ Berkeley",
+    "companies": [
+      "UC Berkeley"
+    ],
+    "level": "Tertiary",
+    "timeline": "Single-day",
+    "scope": "Global",
+    "domains": [
+      "Computer Science"
+    ],
+    "fields": [
+      "General Tech",
+      "AI / Machine Learning"
+    ],
+    "date": "Annual (Fall)",
+    "location": "UC Berkeley",
+    "prize": "Cash + tech prizes across multiple tracks",
+    "summary": "Berkeley's largest annual hackathon. 1,500+ hackers in past editions. Strong AI focus with Berkeley AI Lab presence. Multiple tracks: AI, hardware, social impact, web3. MLH-affiliated.",
+    "eligibility": "Students globally.",
+    "highlights": [
+      "Berkeley's largest hackathon",
+      "1,500+ hackers in past editions",
+      "Strong AI Lab presence",
+      "MLH-affiliated"
+    ],
+    "url": "https://calhacks.io/",
+    "status": "upcoming",
+    "application_deadline": "2026-09-15",
+    "difficulty": "Intermediate",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": false,
+    "application_url": "https://calhacks.io/",
+    "tags": [
+      "us",
+      "berkeley",
+      "tertiary",
+      "ai",
+      "annual"
+    ]
+  },
+  {
+    "id": "hackclub-events-2026",
+    "name": "Hack Club — Year-Round Events (Global)",
+    "organizer": "Hack Club",
+    "companies": [
+      "Hack Club"
+    ],
+    "level": "Secondary",
+    "timeline": "Annual / ongoing",
+    "scope": "Global",
+    "domains": [
+      "Computer Science"
+    ],
+    "fields": [
+      "General Tech"
+    ],
+    "date": "Year-round + special events",
+    "location": "Worldwide (60,000+ teen makers)",
+    "prize": "Project grants + travel stipends + community",
+    "summary": "Hack Club is a global network of 60,000+ teen makers. Year-round events: GitHub Summer of Making, world's longest hackathon, Canada's largest high school hackathon. The community where teens learn by building. Free + accessible.",
+    "eligibility": "Teen makers (high school).",
+    "highlights": [
+      "60,000+ teen maker community",
+      "GitHub Summer of Making",
+      "Project grants",
+      "Free + travel stipends"
+    ],
+    "url": "https://hackclub.com/",
+    "status": "ongoing",
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": "https://hackclub.com/",
+    "tags": [
+      "global",
+      "high-school",
+      "community",
+      "year-round",
+      "free"
+    ]
+  }
+]
