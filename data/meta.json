@@ -1,20 +1,6 @@
 {
   "last_sweep": "05 MAY 2026",
+  "last_sweep_iso": "2026-05-05T04:12:45.046299+00:00",
   "total_events": 124,
-  "new_this_run": 91,
-  "status_counts": {
-    "ongoing": 66,
-    "upcoming": 29,
-    "completed": 29
-  },
-  "difficulty_counts": {
-    "Beginner-Friendly": 35,
-    "Intermediate": 46,
-    "Advanced": 22,
-    "Elite/Selective": 21
-  },
-  "beginner_friendly_count": 39,
-  "free_events_count": 113,
-  "version": "2.0",
-  "notes": "Field expanded 4x with deadline urgency, beginner toggle, cost transparency, prize values, bookmarks, sort options, and deadline-doom widget. 91 new events spanning Singapore school olympiads, US college hackathons, ETHGlobal stops, MLH season, women-in-tech events, climate hackathons, healthcare AI, fellowships (Thiel/Rhodes/Knight-Hennessy), and more."
+  "new_this_run": 0
 }
