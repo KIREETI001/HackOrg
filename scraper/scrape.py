@@ -298,15 +298,63 @@ def hash_id(url: str, name: str) -> str:
 
 
 # ────────────────────────────────────────────────────────────
+# Validation
+# ────────────────────────────────────────────────────────────
+
+REQUIRED_FIELDS = ("id", "name", "url", "organizer")
+ALLOWED_STATUS = {"ongoing", "upcoming", "completed"}
+
+
+def validate_event(ev: dict) -> list[str]:
+    """Return list of validation errors (empty = valid)."""
+    errors = []
+    for f in REQUIRED_FIELDS:
+        v = ev.get(f)
+        if not v or not isinstance(v, str):
+            errors.append(f"missing/invalid required field: {f}")
+    if ev.get("status") and ev["status"] not in ALLOWED_STATUS:
+        errors.append(f"invalid status: {ev.get('status')}")
+    url = ev.get("url", "")
+    if url and not (url.startswith("http://") or url.startswith("https://")):
+        errors.append(f"url not http(s): {url[:60]}")
+    pv = ev.get("prize_value_usd")
+    if pv is not None and not isinstance(pv, (int, float)):
+        errors.append(f"prize_value_usd not numeric: {type(pv).__name__}")
+    return errors
+
+
+def atomic_write_json(path: Path, data) -> None:
+    """Write to .tmp then rename — atomic on POSIX, near-atomic on Windows."""
+    tmp = path.with_suffix(path.suffix + ".tmp")
+    with tmp.open("w", encoding="utf-8") as f:
+        json.dump(data, f, indent=2, ensure_ascii=False)
+    tmp.replace(path)
+
+
+def write_meta(*, total: int, new: int, failed: bool, error: str = "") -> None:
+    """Write meta.json. Always callable, even on failure."""
+    meta = {
+        "last_sweep": datetime.now().strftime("%d %b %Y").upper(),
+        "last_sweep_iso": datetime.now(timezone.utc).isoformat(),
+        "total_events": total,
+        "new_this_run": new,
+        "last_sweep_failed": failed,
+    }
+    if error:
+        meta["last_sweep_error"] = error[:500]
+    atomic_write_json(META_PATH, meta)
+
+
+# ────────────────────────────────────────────────────────────
 # Main
 # ────────────────────────────────────────────────────────────
 
 def main():
     print(f"=== Daily scan started at {datetime.now().isoformat()} ===\n")
 
-    # Load existing
+    # Load existing — if this fails the whole repo is broken; let it raise.
     if EVENTS_PATH.exists():
-        with EVENTS_PATH.open() as f:
+        with EVENTS_PATH.open(encoding="utf-8") as f:
             existing = json.load(f)
     else:
         existing = []
@@ -314,57 +362,63 @@ def main():
     seen_urls = {e.get("url") for e in existing}
     print(f"Loaded {len(existing)} existing events\n")
 
-    # Gather candidates from all sources
-    candidates = []
-    for source_name, fn in SOURCES:
-        print(f"→ {source_name}")
-        found = fn()
-        new = [c for c in found if c["url"] and c["url"] not in seen_urls]
-        print(f"  found {len(found)} ({len(new)} new)")
-        candidates.extend(new)
-        time.sleep(1)  # be polite
+    try:
+        # Gather candidates from all sources
+        candidates = []
+        for source_name, fn in SOURCES:
+            print(f"→ {source_name}")
+            found = fn()
+            new = [c for c in found if c["url"] and c["url"] not in seen_urls]
+            print(f"  found {len(found)} ({len(new)} new)")
+            candidates.extend(new)
+            time.sleep(1)
 
-    # Dedupe candidates by URL
-    seen = set()
-    unique_candidates = []
-    for c in candidates:
-        if c["url"] in seen:
-            continue
-        seen.add(c["url"])
-        unique_candidates.append(c)
+        # Dedupe candidates by URL
+        seen = set()
+        unique_candidates = []
+        for c in candidates:
+            if c["url"] in seen:
+                continue
+            seen.add(c["url"])
+            unique_candidates.append(c)
 
-    print(f"\nTotal new candidates: {len(unique_candidates)}")
-    # Cap to control API cost
-    to_process = unique_candidates[:MAX_NEW_PER_RUN]
-    print(f"Processing {len(to_process)} (capped at {MAX_NEW_PER_RUN})\n")
+        print(f"\nTotal new candidates: {len(unique_candidates)}")
+        to_process = unique_candidates[:MAX_NEW_PER_RUN]
+        print(f"Processing {len(to_process)} (capped at {MAX_NEW_PER_RUN})\n")
 
-    # Structure each
-    new_events = []
-    for i, c in enumerate(to_process, 1):
-        print(f"[{i}/{len(to_process)}] {c['name'][:60]}")
-        ev = structure_event(c["name"], c["url"])
-        if ev:
+        # Structure each
+        new_events = []
+        for i, c in enumerate(to_process, 1):
+            print(f"[{i}/{len(to_process)}] {c['name'][:60]}")
+            ev = structure_event(c["name"], c["url"])
+            if not ev:
+                continue
+            errs = validate_event(ev)
+            if errs:
+                print(f"    ✗ validation failed: {'; '.join(errs)}")
+                continue
             new_events.append(ev)
             print("    ✓ extracted")
-        time.sleep(1)
+            time.sleep(1)
 
-    # Merge — new events appended, existing kept
-    all_events = existing + new_events
+        # Merge — new events appended, existing kept
+        all_events = existing + new_events
 
-    # Save
-    with EVENTS_PATH.open("w", encoding="utf-8") as f:
-        json.dump(all_events, f, indent=2, ensure_ascii=False)
+        # Sanity check: re-validate the merged set; if too many failures, abort.
+        invalid = sum(1 for e in all_events if validate_event(e))
+        if invalid > len(all_events) * 0.10:  # >10% invalid = something is very wrong
+            raise RuntimeError(f"{invalid}/{len(all_events)} events failed validation — refusing to write")
 
-    meta = {
-        "last_sweep": datetime.now().strftime("%d %b %Y").upper(),
-        "last_sweep_iso": datetime.now(timezone.utc).isoformat(),
-        "total_events": len(all_events),
-        "new_this_run": len(new_events),
-    }
-    with META_PATH.open("w", encoding="utf-8") as f:
-        json.dump(meta, f, indent=2)
+        # Atomic writes
+        atomic_write_json(EVENTS_PATH, all_events)
+        write_meta(total=len(all_events), new=len(new_events), failed=False)
+        print(f"\n=== Done. {len(all_events)} total events ({len(new_events)} new this run) ===")
 
-    print(f"\n=== Done. {len(all_events)} total events ({len(new_events)} new this run) ===")
+    except Exception as e:
+        # Always update meta with failure flag so the frontend can show the stale banner.
+        write_meta(total=len(existing), new=0, failed=True, error=str(e))
+        print(f"\n!!! SWEEP FAILED: {e}", flush=True)
+        raise
 
 
 if __name__ == "__main__":

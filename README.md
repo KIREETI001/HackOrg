@@ -1,167 +1,135 @@
-# Field Station — Competition & Hackathon Scanner
+# Field Station — v3
 
-A daily-updated dossier of competitions, hackathons, accelerators, fellowships, and olympiads — every door you didn't know existed.
+**A deadline-first scanner for hackathons, fellowships, and accelerators.**
 
-> **The truth most people never figure out:** Almost nobody is gatekeeping you. The vast majority of these competitions, accelerators, and fellowships are *actively trying to find you*. They have prize budgets that need to be spent. They have application portals with empty seats. One application takes 30 minutes. Submit it.
+The product answers one question: *"What closes in the next 30 days that's relevant to me?"* You pick 2–4 tags, you see your radar, you click through and apply. That's it.
+
+- 102 live events for university students and beyond — focused on Singapore + Asia + US + global online events.
+- Updated daily by a Python scraper that surveys Devpost, dev.events, lablab.ai, SGInnovate, university hackathon pages, and accelerator portals.
+- No accounts. Profile + bookmarks live in `localStorage`.
+- Hidden by default: closed events. Toggle "Show closed" to see them.
+
+This v3 is a deliberate rewrite per [CRITIQUE.md](CRITIQUE.md) — see [PLAN.md](PLAN.md) for what was cut and why, and [ASSUMPTIONS.md](ASSUMPTIONS.md) for the calls made along the way.
 
 ---
 
-## What's tracked (v2.0 — 124 events)
+## Quickstart
 
-- **Singapore school olympiads** — Math (SMO, SASMO, NMOS, APMOPS), Physics (SPhO), Chemistry (SChO), Biology (SBO), Astronomy (SAO), Informatics (NOI), Primary Science (SPSO).
-- **Singapore tertiary** — NUS Hack&Roll, NUS Fintech Summit, NTU Beyond Binary, CCDS Pathways, NTU x Harvard HSIL.
-- **Major League Hacking season** — 200+ student events globally July 2025–June 2026.
-- **ETHGlobal Web3 stops** — Cannes, NYC, Lisbon, Tokyo, Mumbai (first India event).
-- **LabLab.ai online AI** — AMD, IBM Bob, Milan AI Week, Techex Enterprise, AI Genesis Dubai, Complete AI.
-- **US college hackathons** — TreeHacks (Stanford), HackMIT, HackPrinceton, Princeton Open Hackathon (NVIDIA GPU), Cal Hacks, Berkeley AI, Hack the North (Waterloo).
-- **Climate / sustainability** — Wilkes Climate Solutions, SpaceHACK ASU, Earth Hacks, MIT Energy & Climate Hack, Coding for Sustainability, SDG Hackathon.
-- **Healthcare AI** — Harvard HSIL, Boston University MedAI, Cornell Health Tech, Georgetown H2AI, Texas Healthcare Challenge, MedHack Frontiers Melbourne.
-- **Women / Diversity** — NTU Beyond Binary, GirlCode (ADA), Google Girl Hackathon, Women Techmakers She Builds AI, RoseHack, ASU WiCS.
-- **Founder fellowships** — Y Combinator Spring/Summer/Early Decision, Microsoft Imagine Cup, Thiel Fellowship, Z Fellows, Knight-Hennessy Scholars, Rhodes Scholarship, OpenAI Residency, Google DeepMind Residency, a16z TxO.
-- **Singapore government** — MAS FinTech Festival, IMDA Tech for Good, GovTech Hack for Public Good, Smart Nation Challenges, AI Singapore NAISC.
-- **India** — Smart India Hackathon, India Innovates (Bharat Mandapam), Smart Horizon NHCE, GirlCode, HSBC Hackathon, Devfolio, Unstop.
-- **Debate / Humanities** — SSSDC, Asia Pacific Debate Championships, Asia Junior Debate.
-- **Space** — NASA Space Apps Challenge, NASA ORBIT Challenge, IOAA.
+```bash
+git clone <repo>
+cd HackOrg
+npm install
+npm run dev   # → http://localhost:3000
+```
 
-## v2.0 features
+To run tests:
+```bash
+npm test      # node --test on test/*.test.mjs
+```
 
-This is a major upgrade from v1.0 (33 events, 5 dimensions of filtering).
+To run a production build:
+```bash
+npm run build && npm start
+```
 
-### New event fields
-- `application_deadline` — ISO date string when applications close
-- `difficulty` — Beginner-Friendly / Intermediate / Advanced / Elite-Selective
-- `cost` — Free / Paid / Varies
-- `prize_value_usd` — Numeric estimate for sorting by prize
-- `beginner_friendly` — Boolean for the "BEGINNER ONLY" toggle
-- `application_url` — Direct apply link (separate from main info page)
-- `tags` — Array of keyword tags for fast search
+To run the scraper locally (optional — needs an Anthropic API key):
+```bash
+cd scraper
+pip install -r requirements.txt
+export ANTHROPIC_API_KEY=sk-ant-...   # PowerShell: $env:ANTHROPIC_API_KEY="sk-ant-..."
+python scrape.py
+```
 
-### New UI features
-- **Deadline Watch widget** — Top-of-page urgency, shows next 3 deadlines with countdowns colored by urgency (red <7 days, amber <30 days, chartreuse otherwise).
-- **Rotating manifesto** — 7 inspirational lines that rotate every 5.5s in the hero, with a longer manifesto in the footer.
-- **Beginner Only / Free Only toggles** — One-click filtering.
-- **Sort menu** — Default (curated), By Deadline, By Prize Value, Alphabetical.
-- **Bookmarks** — Pin events of interest, then filter to BOOKMARKED. Stored in component state (no localStorage in artifact preview, persistent in production via storage API).
-- **Feeling Lucky button** — Random event from the open pool.
-- **Difficulty pill** — Visual indicator with 1-4 dots.
-- **Cost badge** — Quick visual scan for FREE vs PAID.
-- **Active filter chips** — See and clear all active filters at a glance.
-- **About modal** — Self-documenting for visitors who want to know how this works.
+---
+
+## 60-second demo script
+
+1. `npm run dev` → open <http://localhost:3000>.
+2. First-visit screen: **TagPicker**. Pick 2–4 tags (e.g. *AI, Singapore, Beginner-Friendly*). Click *See my deadlines →*.
+3. **Deadline Radar** appears at the top with up to 5 events matching your tags, sorted by days-until-deadline.
+4. Below the radar, the **Toolbar** shows the same tag chips (toggle live), a search box, a sort dropdown (Deadline / Prize / A→Z), and "Saved" + "Show closed" toggles.
+5. Click any event card → **slide-over EventDetail** panel with full dossier, hero deadline countdown, and apply link.
+6. Click the bookmark icon → reload the page → bookmark survives (it's in `localStorage`, real this time).
+7. Type a search query → list filters live. Clear it with the `×`.
+8. Toggle *Saved* → only bookmarked events. Toggle *Show closed* → past-deadline events reappear (dimmed).
+9. The footer shows the total event count and the last sweep date — pulled from `data/meta.json`.
+
+If `meta.last_sweep_iso` is more than 48 hours old (or `meta.last_sweep_failed === true`), a red **StaleBanner** appears at the top.
+
+---
+
+## What's in the repo
+
+```
+HackOrg/
+├── app/
+│   ├── layout.jsx          # fonts + metadata
+│   ├── page.jsx            # imports JSON, renders <Scanner/>
+│   └── globals.css         # CSS variables + base styles
+├── components/             # all of v3's UI, split out of the old 1,434-line monolith
+│   ├── Scanner.jsx           # shell — owns state, composes the rest
+│   ├── DeadlineRadar.jsx     # default top-of-page hero (5 closest deadlines)
+│   ├── TagPicker.jsx         # first-visit onboarding
+│   ├── Toolbar.jsx           # search + tag chips + sort + bookmark/closed toggles
+│   ├── EventCard.jsx         # one row in the grid
+│   ├── EventDetail.jsx       # slide-over dossier panel
+│   └── StaleBanner.jsx       # warning when meta.last_sweep_iso > 48h
+├── lib/
+│   ├── eventModel.mjs        # pure: deriveStatus, filterAndSort, daysUntil, allTags, ...
+│   ├── storage.js            # localStorage helpers (profile + bookmarks)
+│   └── tags.js               # canonical tag taxonomy
+├── test/
+│   ├── eventModel.test.mjs   # 18 pure-fn tests
+│   └── dataIntegrity.test.mjs # 6 schema/dataset tests
+├── data/
+│   ├── events.json         # 102 events
+│   └── meta.json           # last sweep timestamp + counts + failed flag
+├── scraper/
+│   ├── scrape.py           # Claude-powered extractor + validator + atomic writer
+│   └── requirements.txt
+├── CRITIQUE.md             # the first-principles teardown driving v3
+├── PLAN.md                 # what we're building and why
+└── ASSUMPTIONS.md          # calls made without asking
+```
 
 ---
 
 ## Architecture
 
 ```
-┌──────────────────────────────┐
-│   GitHub Actions (daily 01:00 UTC) │
-│   .github/workflows/daily-scan.yml │
-└──────────────┬───────────────┘
-               │
-               ▼
-┌──────────────────────────────┐    ┌──────────────────┐
-│   scraper/scrape.py          │───▶│   Anthropic API  │
-│   - Surveys discovery sources│    │   claude-haiku-4-5│
-│   - Per-page Claude extraction│   │   (~$1-3/month)  │
-└──────────────┬───────────────┘    └──────────────────┘
-               │
-               ▼
-┌──────────────────────────────┐
-│   data/events.json (commit)  │
-│   data/meta.json (commit)    │
-└──────────────┬───────────────┘
-               │
-               ▼
-┌──────────────────────────────┐
-│   Next.js (Vercel)           │
-│   app/page.jsx → CompetitionScanner │
-│   ISR revalidates every hour │
-└──────────────────────────────┘
+GitHub Actions cron (daily 01:00 UTC)
+    │
+    ▼
+scraper/scrape.py
+   - Discover candidates (Devpost / dev.events / SGInnovate)
+   - Claude extract (capped MAX_NEW_PER_RUN = 15)
+   - Validate against schema
+   - Atomic write (write to .tmp → rename)
+   - Always update meta.json (with last_sweep_failed flag on exception)
+    │
+    ▼
+data/events.json + data/meta.json   ← single source of truth
+    │
+    ▼
+Next.js (Vercel) — ISR revalidate=3600
+   app/page.jsx loads JSON → <Scanner/>
+   localStorage holds profile + bookmarks (no backend)
 ```
 
-Discovery sources currently surveyed:
-- Devpost (`/api/hackathons` JSON)
-- dev.events
-- SGInnovate
-- (extensible — see `discover_*` functions in scrape.py)
+**Status is derived at render time**, not stored. `lib/eventModel.mjs` computes:
+- `deadline < today` → `closed`
+- `deadline ≤ 30d` → `closing-soon`
+- otherwise → `open` (or `rolling` if no deadline)
 
----
-
-## Local setup
-
-```bash
-# Install
-npm install
-
-# Run dev server
-npm run dev   # http://localhost:3000
-
-# Build static
-npm run build && npm start
-```
-
-For the scraper:
-```bash
-cd scraper
-pip install -r requirements.txt
-export ANTHROPIC_API_KEY=sk-ant-...
-python scrape.py
-```
-
-The scraper writes to `../data/events.json` and `../data/meta.json`. The Next.js app reads from these files at build time + revalidates hourly.
-
----
-
-## Deploy to Vercel
-
-```bash
-npm i -g vercel
-vercel
-```
-
-Add `ANTHROPIC_API_KEY` to GitHub Actions secrets so the daily scan workflow can call Claude.
+This is why we no longer need the "manual status flip" passes from v1/v2.
 
 ---
 
 ## Adding new events / sources
 
-Two options:
+**A) Add to seed list:** edit `scraper/scrape.py` → `SOURCES` list. Add a `candidates_xyz()` function returning `[{"name", "url"}]` candidates.
 
-**A) Add to seed list:** Edit `scraper/scrape.py` → `KNOWN_SEED_URLS` list. Run scraper. Done.
-
-**B) Add a discovery function:** Add a new `discover_xyz()` function that returns a list of `(name, url)` tuples, and register it in the main flow. The scraper handles deduplication and Claude-based extraction automatically.
-
----
-
-## File map
-
-```
-scanner-starter/
-├── app/
-│   ├── layout.jsx          # Root layout + Google Fonts (Fraunces, Schibsted, JetBrains Mono)
-│   ├── page.jsx            # Imports data, renders CompetitionScanner
-│   └── globals.css         # Tailwind base
-├── components/
-│   └── CompetitionScanner.jsx   # ~1400 lines — the whole UI
-├── data/
-│   ├── events.json         # Master event dossier (124 events as of v2.0)
-│   └── meta.json           # Sweep timestamp + counts
-├── scraper/
-│   ├── scrape.py           # Daily Claude-powered extractor
-│   └── requirements.txt
-├── .github/workflows/
-│   └── daily-scan.yml      # GitHub Action (cron 01:00 UTC daily)
-└── README.md
-```
-
----
-
-## Cost & maintenance
-
-- **Anthropic API:** ~$0.05/run × 30 days = **~$1.50/month**.
-- **Vercel:** Free tier (Hobby) handles this easily.
-- **GitHub Actions:** Free for public repos.
-- **Maintenance:** None required. The scraper handles new events automatically. To curate, edit `data/events.json` directly and commit.
+**B) Add an event by hand:** edit `data/events.json` directly. The scraper merges by URL, so manual additions persist across runs. Pass a `source: "curated"` field if you want to remember it was hand-added.
 
 ---
 
@@ -170,14 +138,23 @@ scanner-starter/
 - **Background:** `#0F0E0C` (dark warm)
 - **Paper:** `#ECE4D2` (cream)
 - **Accent:** `#D8FF3D` (chartreuse — the chosen one)
-- **Status:** ongoing → chartreuse pulsing dot · upcoming → icy blue · completed → muted 55% opacity
-- **Urgency:** `<7d` red `#FF5F56` · `<30d` amber `#FFB347` · `>30d` chartreuse
+- **Urgent:** `#FF5F56` (≤7d)
+- **Soon:** `#FFB347` (≤30d)
 - **Display:** Fraunces (serif, italic for emphasis)
 - **Body:** Schibsted Grotesk
 - **Mono:** JetBrains Mono (all metadata, labels, terminal feel)
 
+CSS variables live in [app/globals.css](app/globals.css) — `var(--bg)`, `var(--paper)`, `var(--accent)`, `var(--urgent)`, `var(--soon)`, `var(--muted)`, `var(--line)`, `var(--card)`.
+
 ---
 
-*Made with care for anyone who's ever felt like the cool opportunities are happening somewhere they're not.*
+## Cost & maintenance
 
-*— v2.0 · 05 May 2026*
+- **Anthropic API:** ~$0.05/run × 30 days ≈ **$1.50/month**.
+- **Vercel:** free tier (Hobby) handles ISR + 102 static records easily.
+- **GitHub Actions:** free for public repos.
+- **Maintenance:** the scraper handles new events automatically. To curate, edit `data/events.json` directly and commit. Tests + schema validation catch most regressions.
+
+---
+
+*— v3.0 · 17 May 2026 (deadline-first rewrite)*
