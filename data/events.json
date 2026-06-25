@@ -4759,5 +4759,644 @@
     "id": "5a4f35f58ef0",
     "last_checked": "2026-05-23T11:00:49.304602+00:00",
     "application_url": "https://dwny-2026-hackathon.devpost.com/"
+  },
+  {
+    "name": "3DC x Agnes AI",
+    "organizer": "SUTD",
+    "companies": [
+      "Agnes AI",
+      "Devpost"
+    ],
+    "level": "Tertiary",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Business / Economics"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "status": "upcoming",
+    "date": "26 June 2026",
+    "location": "Singapore",
+    "prize": "$700 in cash prizes for top teams.",
+    "summary": "The 3DC x Agnes AI hackathon invites SUTD students to explore innovative uses of AI agents to address everyday challenges faced by students. Participants will create project submissions that reflect their understanding of the problem, incorporate innovative ideas, and demonstrate feasibility. With cash prizes and opportunities for mentorship, it's a unique chance to apply technical skills in a supportive environment.",
+    "eligibility": "Only SUTD students above the legal age of majority can join.",
+    "highlights": [
+      "Open to all SUTD students.",
+      "Focus on AI applications for student life.",
+      "Cash prizes awarded to winning teams.",
+      "Includes opportunity for mentorship from Agnes AI founders."
+    ],
+    "application_deadline": "2026-06-26",
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": 700,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "singapore",
+      "ai",
+      "student-run",
+      "hackathon",
+      "beginner-friendly"
+    ],
+    "url": "https://3dc-x-agnes-ai.devpost.com/",
+    "id": "19a218a13942",
+    "last_checked": "2026-06-25T10:40:41.899794+00:00"
+  },
+  {
+    "name": "AI YES: International Youth AI Competition",
+    "organizer": "International AI Youth Education Society",
+    "companies": [],
+    "level": "Pre-University",
+    "timeline": "Multi-month (3-6mo)",
+    "scope": "Global",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "status": "upcoming",
+    "date": "September 1, 2026",
+    "location": "Online",
+    "prize": "Three non-cash prizes awarded to winners.",
+    "summary": "The AI YES competition aims to empower young students aged 13 to 18 from around the world to solve real-world issues using AI technology. This unique competition encourages creativity through various tracks, including AI application development, innovation proposals, image storytelling, and video making. By fostering an inclusive environment, the event promotes collaboration among diverse participants and aims to inspire future leaders in AI.",
+    "eligibility": "Students aged 13 to 18 can participate in teams of 2 to 5 members.",
+    "highlights": [
+      "Focused on empowering youth in AI.",
+      "Multiple tracks offering different creative challenges.",
+      "Open to all students regardless of nationality.",
+      "Encourages collaboration and innovation among participants."
+    ],
+    "application_deadline": "2026-09-01",
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "ai",
+      "youth",
+      "competition",
+      "global",
+      "student-friendly"
+    ],
+    "url": "https://ai-yes-competition-30441.devpost.com/",
+    "id": "8e1538abdae7",
+    "last_checked": "2026-06-25T10:40:50.028042+00:00"
+  },
+  {
+    "name": "Youth Code x AI",
+    "organizer": "Youth Code Foundation",
+    "companies": [
+      "Apple",
+      "Google"
+    ],
+    "level": "Secondary",
+    "timeline": "Multi-week (1-3mo)",
+    "scope": "Global",
+    "domains": [
+      "Computer Science",
+      "Humanities"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "27 June 2026",
+    "location": "Online, Zoom",
+    "prize": "$2,700 in cash prizes",
+    "summary": "Youth Code x AI is an innovative hackathon aimed at high school students, focusing on the intersection of artificial intelligence and real-world challenges. Participants can explore various tracks, ranging from career planning to creative applications, helping them build skills and confidence in AI development. This event not only encourages technological creativity but also emphasizes social impact, with all proceeds funding prizes and support for community causes.",
+    "eligibility": "Open to students aged 13 and above from all countries, excluding specific standard exceptions.",
+    "highlights": [
+      "Focus on real-world applications of AI",
+      "Multiple innovative project tracks",
+      "All proceeds support participants and community causes",
+      "Beginner-friendly, encouraging first-time hackers"
+    ],
+    "application_deadline": "2026-06-27T23:30:00-04:00",
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": 2700,
+    "beginner_friendly": true,
+    "application_url": "https://youthcodexai.netlify.app",
+    "tags": [
+      "youth",
+      "ai",
+      "hackathon",
+      "beginner-friendly",
+      "technology",
+      "global"
+    ],
+    "url": "https://youth-code-x-ai-29376.devpost.com/",
+    "id": "75d3fb94166d",
+    "last_checked": "2026-06-25T10:40:57.086148+00:00"
+  },
+  {
+    "name": "AceSAT Education AI-Agent: Build for Impact",
+    "organizer": "AceSAT",
+    "companies": [],
+    "level": "Secondary",
+    "timeline": "Multi-week (1-3mo)",
+    "scope": "Global",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "status": "upcoming",
+    "date": "14-15 August 2026",
+    "location": "Online",
+    "prize": "Cash prizes totaling $100 will be awarded to participants.",
+    "summary": "The AceSAT Education AI-Agent hackathon invites students to develop AI-powered educational tools aimed at closing the educational gap for underserved schools. Participants can create innovative applications that provide personalized tutoring and learning support, impacting students' educational journeys. This hackathon offers a unique opportunity to contribute to meaningful change in education through technology.",
+    "eligibility": "Open to students aged 16 and above, but companies and professional organizations are not allowed to participate.",
+    "highlights": [
+      "Focus on building AI agents, not just chatbots",
+      "Engages participants in meaningful educational challenges",
+      "Involves developers, designers, and educators in collaboration",
+      "Opportunity to win cash prizes for innovative solutions"
+    ],
+    "application_deadline": "2026-08-15",
+    "difficulty": "Intermediate",
+    "cost": "Free",
+    "prize_value_usd": 100,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "hackathon",
+      "ai",
+      "education",
+      "global",
+      "student-run",
+      "impact"
+    ],
+    "url": "https://acesat-ai-agent.devpost.com/",
+    "id": "f96636e0a959",
+    "last_checked": "2026-06-25T10:41:03.590563+00:00"
+  },
+  {
+    "name": "Google AI Workshop Hackathon",
+    "organizer": "Google",
+    "companies": [],
+    "level": "Secondary",
+    "timeline": "Single-day",
+    "scope": "Global",
+    "domains": [
+      "Computer Science",
+      "Humanities"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "26 June 2026",
+    "location": "Online",
+    "prize": "Participants can win Google Pixel Buds 2A and certificates.",
+    "summary": "The Google AI Workshop Hackathon invites students to creatively collaborate to build a unique band identity while utilizing advanced AI tools. Teams of up to three members will have the chance to produce an original anthem, design a professional band poster, and showcase their work through a live performance. The workshop, held prior to the hackathon, prepares participants to maximize their use of Google's AI capabilities.",
+    "eligibility": "Participants must be students and above the legal age of majority in their country.",
+    "highlights": [
+      "Creative collaboration using AI tools.",
+      "Live performance showcase for unique band identities.",
+      "Opportunity to win tech prizes from Google.",
+      "Accessible to students worldwide."
+    ],
+    "application_deadline": "2026-06-26T18:00:00+05:30",
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": 0,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "ai",
+      "workshop",
+      "hackathon",
+      "music",
+      "student-friendly"
+    ],
+    "url": "https://google-ai-workshop-hackathon.devpost.com/",
+    "id": "5d4daac08adc",
+    "last_checked": "2026-06-25T10:41:11.218627+00:00"
+  },
+  {
+    "name": "Arm Create: AI Optimization Challenge",
+    "organizer": "Arm",
+    "companies": [
+      "Arm"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Multi-week (1-3mo)",
+    "scope": "Global",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "status": "upcoming",
+    "date": "14 August 2026",
+    "location": "Online",
+    "prize": "$8,000 in cash prizes for various categories",
+    "summary": "The Arm Create: AI Optimization Challenge invites developers to optimize AI for Arm-powered platforms across three tracks: Physical AI, Cloud AI, and Mobile AI. Participants are tasked with showcasing measurable improvements in model efficiency, quality, and performance. The event aims to foster innovation in AI applications across diverse environments and tools.",
+    "eligibility": "Participants must be of legal age in their country of residence.",
+    "highlights": [
+      "Focus on optimizing AI for Arm platforms",
+      "Three distinct challenge tracks to choose from",
+      "Substantial cash prizes for winners",
+      "Open to participants worldwide"
+    ],
+    "application_deadline": "2026-08-14",
+    "difficulty": "Intermediate",
+    "cost": "Free",
+    "prize_value_usd": 8000,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "ai",
+      "optimization",
+      "arm",
+      "hackathon",
+      "global"
+    ],
+    "url": "https://arm-ai-optimization-challenge.devpost.com/",
+    "id": "070ce7cc6251",
+    "last_checked": "2026-06-25T10:41:19.810318+00:00"
+  },
+  {
+    "name": "Agentic AI Build Week 2026",
+    "organizer": "GenAI Fund",
+    "companies": [
+      "Apple",
+      "Google",
+      "KFC",
+      "VNG Games",
+      "Amazon Web Services"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Regional (Asia)",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "status": "upcoming",
+    "date": "11-12 July 2026",
+    "location": "Ho Chi Minh City, Vietnam",
+    "prize": "Over $1,000,000 in non-cash prizes and exclusive event merchandise.",
+    "summary": "Agentic AI Build Week 2026 is a unique five-day buildathon tailored for AI builders in Southeast Asia. Unlike traditional hackathons, the challenges presented come directly from enterprise partners looking for deployable solutions. Participants will have the chance to create innovative AI agents and engage in meaningful conversations with businesses interested in their work.",
+    "eligibility": "Participants must be above the legal age of majority in their country and form teams to join.",
+    "highlights": [
+      "Direct engagement with enterprise partners for real-world challenges.",
+      "Access to comprehensive AI resources and mentorship.",
+      "Multiple tracks sponsored by leading companies.",
+      "Opportunities for deployment and active engagement post-event."
+    ],
+    "application_deadline": "2026-07-12",
+    "difficulty": "Advanced",
+    "cost": "Varies",
+    "prize_value_usd": 1000000,
+    "beginner_friendly": false,
+    "application_url": "https://agentic-ai-build-week-2026.devpost.com/",
+    "tags": [
+      "ai",
+      "southeast-asia",
+      "buildathon",
+      "open-professional",
+      "agentic-ai"
+    ],
+    "url": "https://agentic-ai-build-week-2026.devpost.com/",
+    "id": "d29689cb12b5",
+    "last_checked": "2026-06-25T10:41:26.391790+00:00"
+  },
+  {
+    "name": "NACOS X GDG AI Hackathon",
+    "organizer": "Google Developer Group Landmark University",
+    "companies": [
+      "Apple",
+      "Google",
+      "Outlook"
+    ],
+    "level": "Tertiary",
+    "timeline": "Multi-week (1-3mo)",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "status": "upcoming",
+    "date": "30 June 2026",
+    "location": "Landmark University, Nigeria",
+    "prize": "Three non-cash prizes ranging from ₦50,000 to ₦150,000.",
+    "summary": "The NACOS X GDG AI Hackathon encourages university students to leverage artificial intelligence in solving real-world problems on campus. Participants will collaborate in teams to create innovative tools aimed at enhancing the educational experience. The event not only fosters technical skills but also promotes creativity and teamwork among young innovators.",
+    "eligibility": "Only Landmark University students aged 13 and above can participate in this hackathon.",
+    "highlights": [
+      "Focuses exclusively on AI solutions for educational challenges.",
+      "Team collaboration with a requirement of 2 to 4 members.",
+      "Hands-on experience with AI technologies and project submission requirements.",
+      "Non-cash prizes fostering competitive spirit."
+    ],
+    "application_deadline": "2026-06-30",
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": 0,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "ai",
+      "hackathon",
+      "student-run",
+      "teamwork",
+      "education"
+    ],
+    "url": "https://nacos-x-gdg-ai-hackathon.devpost.com/",
+    "id": "b10fcf5397fd",
+    "last_checked": "2026-06-25T10:41:33.659585+00:00"
+  },
+  {
+    "name": "Global AI Hackathon Series with Qwen Cloud",
+    "organizer": "Devpost",
+    "companies": [
+      "Qwen Cloud",
+      "Alibaba Cloud"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Multi-week (1-3mo)",
+    "scope": "Global",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "status": "upcoming",
+    "date": "July 9, 2026",
+    "location": "Online",
+    "prize": "Compete for a total of over $70,000 in cash and cloud credits across five tracks.",
+    "summary": "The Global AI Hackathon with Qwen Cloud invites innovators to build sophisticated AI agents using advanced models and resources from Qwen Cloud. Participants will engage in five distinct tracks, challenging them to showcase their skills in creating production-ready applications. With impressive cash prizes and opportunities for blog features and program invites, this hackathon emphasizes engineering excellence and creativity in AI development.",
+    "eligibility": "Open to individuals who are above the legal age of majority in their country of residence.",
+    "highlights": [
+      "Total prizes exceeding $70,000 available.",
+      "Five specialized tracks focusing on different AI agent functionalities.",
+      "Participants gain access to unique Qwen Cloud resources and credits.",
+      "Opportunities to earn features in blogs and become ambassadors."
+    ],
+    "application_deadline": "2026-07-09",
+    "difficulty": "Intermediate",
+    "cost": "Paid",
+    "prize_value_usd": 70000,
+    "beginner_friendly": false,
+    "application_url": null,
+    "tags": [
+      "ai",
+      "hackathon",
+      "global",
+      "Qwen",
+      "devpost"
+    ],
+    "url": "https://qwencloud-hackathon.devpost.com/",
+    "id": "a3e096ddd94c",
+    "last_checked": "2026-06-25T10:41:41.478835+00:00"
+  },
+  {
+    "name": "Wake Up to Sleep: Aligning Health Innovation with the Science of Sleep",
+    "organizer": "SGInnovate",
+    "companies": [
+      "Teijin Pharma Ltd"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Sciences (STEM)",
+      "Humanities"
+    ],
+    "fields": [
+      "Healthcare"
+    ],
+    "status": "upcoming",
+    "date": "3 July 2026",
+    "location": "Kuala Lumpur, Singapore, 32 Carpenter Street, 059911",
+    "prize": null,
+    "summary": "This event aims to bridge the divide between clinical insights and practical health technologies regarding sleep health. Featuring a panel of experts from diverse backgrounds, attendees will gain insights into sleep disorders, innovative therapies, and emerging technologies in sleep medicine. The session promotes quality sleep as essential for health and well-being, encouraging participants to engage with leaders from health and technology sectors.",
+    "eligibility": "Open to professionals interested in health innovation and sleep science.",
+    "highlights": [
+      "Expert panel from sleep medicine and health technology.",
+      "Networking opportunities with industry leaders.",
+      "Focus on clinical science and health innovation.",
+      "Insights into next-generation therapies for sleep disorders."
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "sleep",
+      "health",
+      "innovation",
+      "networking",
+      "Singapore",
+      "free"
+    ],
+    "url": "https://www.sginnovate.com/event/wake-sleep-aligning-health-innovation-science-sleep",
+    "id": "a4714c72e15d",
+    "last_checked": "2026-06-25T10:41:49.261097+00:00"
+  },
+  {
+    "name": "SLINGSHOT 2026",
+    "organizer": "SGInnovate",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Multi-month (3-6mo)",
+    "scope": "Global",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "Cybersecurity",
+      "Sustainability",
+      "Healthcare"
+    ],
+    "status": "ongoing",
+    "date": "13 May - 30 Jun 2026",
+    "location": "Kuala Lumpur, Singapore, Online",
+    "prize": "Compete for over S$2.2 million in grant prizes.",
+    "summary": "SLINGSHOT 2026 marks a significant milestone as it celebrates a decade of innovation in Singapore. This event offers deep tech startups an opportunity to showcase their solutions and compete for substantial grant funding. With a strong global participation from start-ups, it creates an interactive platform for networking with investors and industry leaders, enabling collaborations that can scale technological solutions. The competitive environment encourages innovation and allows participants to pitch at a prestigious event culminated in the Finals.",
+    "eligibility": "Deep tech startups from around the world are invited to apply.",
+    "highlights": [
+      "Over S$2.2 million in grant prizes available.",
+      "Curated site visits and expert-led sessions in Singapore.",
+      "Networking opportunities with global investors and corporates.",
+      "Final pitch opportunity at SWITCH, Singapore's innovation event."
+    ],
+    "application_deadline": null,
+    "difficulty": "Intermediate",
+    "cost": "Free",
+    "prize_value_usd": 1620000,
+    "beginner_friendly": false,
+    "application_url": null,
+    "tags": [
+      "innovation",
+      "startup",
+      "grant",
+      "sustainability"
+    ],
+    "url": "https://www.sginnovate.com/event/slingshot-2026",
+    "id": "198856dd8636",
+    "last_checked": "2026-06-25T10:41:59.986528+00:00"
+  },
+  {
+    "name": "SCTP (SkillsFuture Career Transition Programme) Launch & Lead: Startup Strategy, Funding and Operations",
+    "organizer": "SGInnovate",
+    "companies": [],
+    "level": "Tertiary",
+    "timeline": "Multi-month (3-6mo)",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Business / Economics"
+    ],
+    "fields": [
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "18 June 2026 - 18 September 2026",
+    "location": "Singapore, ACE Ideation Centre (Events) 79 Ayer Rajah Crescent #01-13 LaunchPad @ one-north",
+    "prize": "Participants can enjoy up to 90% SSG subsidies and training allowances if they meet the criteria.",
+    "summary": "The SCTP is a hands-on training program running over three months, aimed at new entrepreneurs and mid-career switchers. With a focus on practical skills, it includes direct access to industry experts and real-world learning experiences. This program is designed to equip participants with critical strategies to launch and manage successful startups in Singapore's vibrant ecosystem.",
+    "eligibility": "Aspiring entrepreneurs and mid-career switchers are eligible to join.",
+    "highlights": [
+      "Direct access to expert instructors and industry practitioners",
+      "In-person classes and mentoring clinics",
+      "Hands-on practicum with startup companies",
+      "Real-world learning through case studies and applied projects"
+    ],
+    "application_deadline": "2026-05-31",
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "singapore",
+      "startup",
+      "entrepreneurship",
+      "business",
+      "training"
+    ],
+    "url": "https://www.sginnovate.com/event/sctp-skillsfuture-career-transistion-programme-launch-lead-startup-strategy-funding-and",
+    "id": "e984f7adf4ff",
+    "last_checked": "2026-06-25T10:42:07.268608+00:00"
+  },
+  {
+    "name": "Demos, not Memos - AI Powered Stack",
+    "organizer": "SGInnovate",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Business / Economics"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "General Tech"
+    ],
+    "status": "completed",
+    "date": "26 June 2026",
+    "location": "Kuala Lumpur, Singapore, 32 Carpenter Street, 059911",
+    "prize": null,
+    "summary": "The 'Demos, not Memos - AI Powered Stack' event features live demonstrations and discussions about the impact of AI on product development. Participants can expect insights from solopreneurs and small teams who are utilizing AI to streamline their processes. The event includes networking opportunities with other tech leaders and builders, making it a valuable experience for those interested in the evolving AI landscape.",
+    "eligibility": "The event is open to anyone interested in learning about AI in product development.",
+    "highlights": [
+      "Real stories from solopreneurs and small teams.",
+      "Practical insights on replacing lengthy memos with live demos.",
+      "Networking opportunities with industry professionals.",
+      "Focused discussion on high-velocity building with AI."
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "singapore",
+      "ai",
+      "networking",
+      "devops",
+      "free"
+    ],
+    "url": "https://www.sginnovate.com/event/demos-not-memos-ai-powered-stack-2026",
+    "id": "6f375220d6eb",
+    "last_checked": "2026-06-25T10:42:16.553171+00:00"
+  },
+  {
+    "name": "Ignite Innovation: Taiwan x Singapore Connect",
+    "organizer": "SGInnovate",
+    "companies": [
+      "Taiwan Stock Exchange",
+      "KPMG Taiwan",
+      "Yuanta Securities",
+      "ACE.SG"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Regional (Asia)",
+    "domains": [
+      "Business / Economics",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "Biotechnology",
+      "Healthcare"
+    ],
+    "status": "upcoming",
+    "date": "30 June 2026",
+    "location": "Singapore, SMU Yong Pung How School of Law",
+    "prize": null,
+    "summary": "Ignite Innovation: Taiwan x Singapore Connect is a pivotal event fostering collaboration between Taiwanese and Singaporean entities in the tech and capital markets. This full-day event focuses on leveraging Taiwan's capital ecosystem, facilitating strategic partnerships, and promoting international expansion. Attendees can engage directly with representatives from Taiwan Innovation Board-listed companies and explore collaborative opportunities with local startups and investors.",
+    "eligibility": "Open to venture capital firms, industry associations, and startups in relevant sectors.",
+    "highlights": [
+      "Connect with Taiwanese innovation leaders",
+      "Gain insights into Taiwan's capital market",
+      "Engage in direct networking opportunities",
+      "Explore cross-border collaboration potential"
+    ],
+    "application_deadline": null,
+    "difficulty": "Intermediate",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "singapore",
+      "taiwan",
+      "innovation",
+      "business",
+      "networking"
+    ],
+    "url": "https://www.sginnovate.com/event/ignite-innovation-taiwan-x-singapore-connect",
+    "id": "6fa303fe7470",
+    "last_checked": "2026-06-25T10:42:24.231422+00:00"
   }
 ]

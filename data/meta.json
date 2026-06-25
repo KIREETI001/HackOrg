@@ -1,27 +1,7 @@
 {
-  "last_sweep": "23 MAY 2026",
-  "last_sweep_iso": "2026-05-23T00:00:00.000Z",
-  "total_events": 106,
-  "new_this_run": 4,
-  "removed_this_run": 0,
-  "status_counts": {
-    "ongoing": 60,
-    "completed": 26,
-    "upcoming": 20
-  },
-  "difficulty_counts": {
-    "Intermediate": 42,
-    "Elite/Selective": 18,
-    "Beginner-Friendly": 26,
-    "Advanced": 20
-  },
-  "level_counts": {
-    "Tertiary": 79,
-    "Startup": 9,
-    "Open / Professional": 18
-  },
-  "beginner_friendly_count": 29,
-  "free_events_count": 103,
-  "version": "3.0",
-  "notes": "v3.0 (23 May 2026 sweep). Added 4 fresh entries: Sea x OpenAI Codex Hackathon Singapore (deadline 28 May), Build with Gemini XPRIZE (US$2M, deadline 17 Aug), USAII Global AI Hackathon 2026 (student virtual, deadline 6 Jun), DeveloperWeek New York 2026 Hackathon (hybrid TWA Hotel, deadline 10 Jun)."
+  "last_sweep": "25 JUN 2026",
+  "last_sweep_iso": "2026-06-25T10:42:25.236448+00:00",
+  "total_events": 120,
+  "new_this_run": 14,
+  "last_sweep_failed": false
 }
