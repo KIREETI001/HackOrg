@@ -17,7 +17,7 @@ from pathlib import Path
 
 import requests
 from bs4 import BeautifulSoup
-from anthropic import Anthropic
+from openai import OpenAI
 
 # ────────────────────────────────────────────────────────────
 # Config
@@ -29,8 +29,8 @@ DATA_DIR.mkdir(exist_ok=True)
 EVENTS_PATH = DATA_DIR / "events.json"
 META_PATH = DATA_DIR / "meta.json"
 
-CLAUDE_MODEL = "claude-haiku-4-5-20251001"  # fast + cheap for extraction
-MAX_NEW_PER_RUN = 15                         # cap to keep API cost predictable
+OPENAI_MODEL = "gpt-4o-mini"  # fast + cheap for extraction
+MAX_NEW_PER_RUN = 15           # cap to keep API cost predictable
 PAGE_FETCH_TIMEOUT = 15
 
 USER_AGENT = (
@@ -38,7 +38,7 @@ USER_AGENT = (
     "+https://github.com/yourusername/scanner)"
 )
 
-client = Anthropic(api_key=os.environ["ANTHROPIC_API_KEY"])
+client = OpenAI(api_key=os.environ["OPENAI_API_KEY"])
 
 
 # ────────────────────────────────────────────────────────────
@@ -246,12 +246,12 @@ def structure_event(name: str, url: str) -> dict | None:
     )
 
     try:
-        resp = client.messages.create(
-            model=CLAUDE_MODEL,
+        resp = client.chat.completions.create(
+            model=OPENAI_MODEL,
             max_tokens=1500,
             messages=[{"role": "user", "content": prompt}],
         )
-        raw = resp.content[0].text.strip()
+        raw = resp.choices[0].message.content.strip()
 
         # Strip code fence if present
         if raw.startswith("```"):

@@ -1,9 +1,9 @@
 name: Daily Competition Scan
 
 on:
-  # Daily at 01:00 UTC (09:00 SGT). Adjust as you like.
+  # Daily at 08:00 UTC (16:00 SGT).
   schedule:
-    - cron: "0 1 * * *"
+    - cron: "0 8 * * *"
   # Manual trigger from the Actions tab.
   workflow_dispatch:
 
@@ -29,7 +29,7 @@ jobs:
 
       - name: Run scanner
         env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         run: python scraper/scrape.py
 
       - name: Commit & push if changed
