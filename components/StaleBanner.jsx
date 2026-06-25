@@ -1,6 +1,7 @@
 "use client";
 
 import { AlertCircle } from "lucide-react";
+import TriggerScanButton from "./TriggerScanButton";
 
 const STALE_THRESHOLD_HOURS = 48;
 
@@ -27,6 +28,7 @@ export default function StaleBanner({ meta }) {
           {failed ? "Last data sweep failed" : "Data may be stale"} ·{" "}
           {meta.last_sweep ? `last sweep ${meta.last_sweep}` : "timestamp unknown"}
         </span>
+        <TriggerScanButton className="ml-auto text-[var(--urgent)] hover:opacity-80" />
       </div>
     </div>
   );

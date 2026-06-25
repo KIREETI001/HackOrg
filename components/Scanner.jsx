@@ -9,6 +9,7 @@ import EventCard from "./EventCard";
 import EventDetail from "./EventDetail";
 import { filterAndSort } from "@/lib/eventModel";
 import { loadProfile, saveProfile, loadBookmarks, saveBookmarks } from "@/lib/storage";
+import TriggerScanButton from "./TriggerScanButton";
 
 export default function Scanner({ events = [], meta = {} }) {
   // Profile / onboarding
@@ -152,6 +153,7 @@ export default function Scanner({ events = [], meta = {} }) {
           <span>
             Built as an antidote to "I never hear about cool things in time."
           </span>
+          <TriggerScanButton className="text-[var(--muted)] hover:text-[var(--paper)]" />
         </div>
       </footer>
 
