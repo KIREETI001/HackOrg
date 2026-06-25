@@ -32,10 +32,10 @@ export default function EventCard({ event, onSelect, isBookmarked, onToggleBookm
   return (
     <button
       onClick={() => onSelect(event)}
-      className="text-left group relative bg-[var(--card)] border border-[var(--line)] hover:border-[var(--accent)]/40 transition-all p-4 sm:p-5 flex flex-col h-full focus:outline-none focus:border-[var(--accent)]"
+      className="text-left group relative bg-[var(--card)] border border-[var(--line)] hover:border-[var(--accent)]/40 hover:-translate-y-0.5 hover:shadow-[0_4px_20px_rgba(0,0,0,0.45)] active:translate-y-0 active:scale-[0.99] active:shadow-none transition duration-150 ease-out p-4 sm:p-5 flex flex-col h-full focus:outline-none focus-visible:border-[var(--accent)]"
       style={{ opacity: dim ? 0.55 : 1 }}
     >
-      {/* Bookmark */}
+      {/* Bookmark — 32×32 hit area */}
       <span
         role="button"
         tabIndex={0}
@@ -50,7 +50,7 @@ export default function EventCard({ event, onSelect, isBookmarked, onToggleBookm
             onToggleBookmark(event.id);
           }
         }}
-        className="absolute top-3 right-3 p-1.5 rounded hover:bg-[var(--line)] transition-colors z-10 cursor-pointer"
+        className="absolute top-2.5 right-2.5 w-8 h-8 flex items-center justify-center rounded hover:bg-[var(--line)] transition-colors z-10 cursor-pointer"
         aria-label={isBookmarked ? "Remove bookmark" : "Bookmark"}
       >
         {isBookmarked ? (
@@ -70,7 +70,7 @@ export default function EventCard({ event, onSelect, isBookmarked, onToggleBookm
       </div>
 
       {/* Title */}
-      <h3 className="font-display text-lg sm:text-xl leading-tight text-[var(--paper)] mb-1.5 pr-7 group-hover:text-[var(--accent)] transition-colors">
+      <h3 className="font-display text-lg sm:text-xl leading-tight text-balance text-[var(--paper)] mb-1.5 pr-7 group-hover:text-[var(--accent)] transition-colors">
         {event.name}
       </h3>
 

@@ -3,62 +3,55 @@
 import { useEffect, useMemo, useState } from "react";
 import StaleBanner from "./StaleBanner";
 import DeadlineRadar from "./DeadlineRadar";
-import TagPicker from "./TagPicker";
+import StatusTabs from "./StatusTabs";
 import Toolbar from "./Toolbar";
 import EventCard from "./EventCard";
 import EventDetail from "./EventDetail";
-import { filterAndSort } from "@/lib/eventModel";
+import { filterAndSort, statusCounts } from "@/lib/eventModel";
 import { loadProfile, saveProfile, loadBookmarks, saveBookmarks } from "@/lib/storage";
 import TriggerScanButton from "./TriggerScanButton";
 
 export default function Scanner({ events = [], meta = {} }) {
-  // Profile / onboarding
   const [profileLoaded, setProfileLoaded] = useState(false);
   const [tags, setTags] = useState([]);
-  const [onboarded, setOnboarded] = useState(false);
-
-  // Bookmarks
   const [bookmarks, setBookmarks] = useState(() => new Set());
 
-  // UI state
   const [query, setQuery] = useState("");
-  const [showClosed, setShowClosed] = useState(false);
+  const [statusBucket, setStatusBucket] = useState("open");
   const [onlyBookmarks, setOnlyBookmarks] = useState(false);
   const [sortBy, setSortBy] = useState("deadline");
   const [selected, setSelected] = useState(null);
 
-  // Hydrate from localStorage after mount.
   useEffect(() => {
     const p = loadProfile();
-    setTags(p.tags);
-    setOnboarded(p.onboarded);
+    setTags(p.tags ?? []);
     setBookmarks(loadBookmarks());
     setProfileLoaded(true);
   }, []);
 
-  // Persist tag changes.
   useEffect(() => {
     if (!profileLoaded) return;
-    saveProfile({ tags, onboarded });
-  }, [tags, onboarded, profileLoaded]);
+    saveProfile({ tags, onboarded: true });
+  }, [tags, profileLoaded]);
 
-  // Persist bookmark changes.
   useEffect(() => {
     if (!profileLoaded) return;
     saveBookmarks(bookmarks);
   }, [bookmarks, profileLoaded]);
+
+  const counts = useMemo(() => statusCounts(events), [events]);
 
   const filtered = useMemo(
     () =>
       filterAndSort(events, {
         query,
         tags,
-        showClosed,
+        statusBucket,
         onlyBookmarks,
         bookmarkedIds: bookmarks,
         sortBy,
       }),
-    [events, query, tags, showClosed, onlyBookmarks, bookmarks, sortBy]
+    [events, query, tags, statusBucket, onlyBookmarks, bookmarks, sortBy]
   );
 
   function toggleBookmark(id) {
@@ -70,12 +63,6 @@ export default function Scanner({ events = [], meta = {} }) {
     });
   }
 
-  function completeOnboarding() {
-    setOnboarded(true);
-  }
-
-  const showOnboarding = profileLoaded && !onboarded;
-
   return (
     <div className="min-h-screen bg-[var(--bg)] text-[var(--paper)]">
       <StaleBanner meta={meta} />
@@ -86,47 +73,52 @@ export default function Scanner({ events = [], meta = {} }) {
           <div className="font-mono text-[10px] sm:text-[11px] tracking-[0.25em] text-[var(--accent)] uppercase mb-3">
             Field Station · v3
           </div>
-          <h1 className="font-display text-4xl sm:text-5xl lg:text-6xl leading-[1.05] text-[var(--paper)] mb-3 max-w-3xl">
+          <h1 className="font-display text-4xl sm:text-5xl lg:text-6xl leading-[1.05] text-balance text-[var(--paper)] mb-3 max-w-3xl">
             The next door that closes.{" "}
             <span className="italic font-light text-[var(--accent)]">Before it does.</span>
           </h1>
-          <p className="text-[14px] sm:text-[15px] text-[#B8B0A0] max-w-2xl">
-            {events.length} live hackathons, fellowships and accelerators for university students and beyond —{" "}
-            sorted by what closes next. Pick a couple of tags, see your radar.
+          <p className="text-[14px] sm:text-[15px] text-pretty text-[#B8B0A0] max-w-2xl">
+            {events.length} hackathons, fellowships and accelerators — sorted by what closes next.
           </p>
         </div>
       </header>
 
+      {/* Closing-soon strip — hidden on Ended tab (irrelevant there) */}
+      {statusBucket !== "ended" && (
+        <DeadlineRadar events={events} tags={tags} onSelect={setSelected} />
+      )}
+
+      {/* Sticky nav: status tabs + toolbar stacked together */}
+      <div className="sticky top-0 z-30 backdrop-blur bg-[var(--bg)]/95">
+        <div className="border-b border-[var(--line)] px-4 sm:px-6 lg:px-8">
+          <div className="max-w-[1280px] mx-auto">
+            <StatusTabs counts={counts} active={statusBucket} onChange={setStatusBucket} />
+          </div>
+        </div>
+
+        <Toolbar
+        query={query}
+        onQueryChange={setQuery}
+        tags={tags}
+        onTagsChange={setTags}
+        onlyBookmarks={onlyBookmarks}
+        onOnlyBookmarksChange={setOnlyBookmarks}
+        resultCount={filtered.length}
+        totalCount={counts[statusBucket] ?? events.length}
+        sortBy={sortBy}
+        onSortChange={setSortBy}
+      />
+      </div>
+
       <main className="px-4 sm:px-6 lg:px-8 pt-6 pb-16">
         <div className="max-w-[1280px] mx-auto">
-          {showOnboarding ? (
-            <TagPicker selected={tags} onChange={setTags} onDone={completeOnboarding} />
-          ) : (
-            <DeadlineRadar events={events} tags={tags} onSelect={setSelected} />
-          )}
-
-          <Toolbar
-            query={query}
-            onQueryChange={setQuery}
-            tags={tags}
-            onTagsChange={setTags}
-            showClosed={showClosed}
-            onShowClosedChange={setShowClosed}
-            onlyBookmarks={onlyBookmarks}
-            onOnlyBookmarksChange={setOnlyBookmarks}
-            resultCount={filtered.length}
-            totalCount={events.length}
-            sortBy={sortBy}
-            onSortChange={setSortBy}
-          />
-
           {filtered.length === 0 ? (
-            <div className="border border-dashed border-[var(--line)] p-10 text-center">
+            <div className="border border-dashed border-[var(--line)] p-10 text-center mt-2">
               <div className="font-mono text-[11px] tracking-[0.2em] text-[var(--muted)] uppercase mb-2">
                 No matches
               </div>
               <p className="text-[14px] text-[#B8B0A0]">
-                Try removing a tag, clearing the search, or toggling "Show closed."
+                Try removing a filter, clearing the search, or switching tabs.
               </p>
             </div>
           ) : (

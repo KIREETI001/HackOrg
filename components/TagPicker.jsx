@@ -31,7 +31,7 @@ export default function TagPicker({ selected, onChange, onDone }) {
             <button
               key={t.key}
               onClick={() => toggle(t.key)}
-              className={`font-mono text-[11px] tracking-[0.1em] uppercase px-3 py-1.5 border transition-colors ${
+              className={`font-mono text-[11px] tracking-[0.1em] uppercase px-3 py-1.5 border transition duration-150 active:scale-[0.96] ${
                 active
                   ? "bg-[var(--accent)] text-[var(--bg)] border-[var(--accent)]"
                   : "bg-transparent text-[#B8B0A0] border-[#2A2722] hover:border-[#4A453B]"
@@ -46,7 +46,7 @@ export default function TagPicker({ selected, onChange, onDone }) {
       <div className="flex flex-wrap items-center gap-3">
         <button
           onClick={onDone}
-          className="font-mono text-[11px] tracking-[0.15em] uppercase px-5 py-2.5 bg-[var(--accent)] text-[var(--bg)] font-semibold hover:bg-[#E5FF55] transition-colors"
+          className="font-mono text-[11px] tracking-[0.15em] uppercase px-5 py-2.5 bg-[var(--accent)] text-[var(--bg)] font-semibold hover:bg-[#E5FF55] active:scale-[0.97] transition duration-150"
         >
           See my deadlines →
         </button>

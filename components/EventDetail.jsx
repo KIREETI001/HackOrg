@@ -46,7 +46,7 @@ export default function EventDetail({ event, onClose, isBookmarked, onToggleBook
 
   return (
     <div
-      className="fixed inset-0 z-[100] flex justify-end"
+      className="fixed inset-0 z-[100] flex justify-end animate-fade-in"
       style={{ backgroundColor: "rgba(11,10,8,0.85)" }}
       onClick={onClose}
     >
@@ -82,7 +82,7 @@ export default function EventDetail({ event, onClose, isBookmarked, onToggleBook
         </div>
 
         <div className="px-6 sm:px-10 py-6">
-          <h2 className="font-display text-3xl sm:text-4xl text-[var(--paper)] leading-tight mb-2">
+          <h2 className="font-display text-3xl sm:text-4xl text-[var(--paper)] leading-tight text-balance mb-2">
             {event.name}
           </h2>
           <div className="font-mono text-[11px] tracking-[0.15em] text-[var(--accent)] uppercase mb-6">
@@ -123,21 +123,21 @@ export default function EventDetail({ event, onClose, isBookmarked, onToggleBook
           {/* Prize text (if present) */}
           {event.prize && (
             <Section label="Prize">
-              <p className="text-[14px] text-[#D9D2C2] leading-relaxed">{event.prize}</p>
+              <p className="text-[14px] text-[#D9D2C2] leading-relaxed text-pretty">{event.prize}</p>
             </Section>
           )}
 
           {/* Summary */}
           {event.summary && (
             <Section label="Summary">
-              <p className="text-[14px] text-[#D9D2C2] leading-relaxed">{event.summary}</p>
+              <p className="text-[14px] text-[#D9D2C2] leading-relaxed text-pretty">{event.summary}</p>
             </Section>
           )}
 
           {/* Eligibility */}
           {event.eligibility && (
             <Section label="Eligibility">
-              <p className="text-[14px] text-[#D9D2C2] leading-relaxed">{event.eligibility}</p>
+              <p className="text-[14px] text-[#D9D2C2] leading-relaxed text-pretty">{event.eligibility}</p>
             </Section>
           )}
 
@@ -150,7 +150,7 @@ export default function EventDetail({ event, onClose, isBookmarked, onToggleBook
                     <span className="text-[var(--accent)] font-mono text-[10px] mt-1 flex-shrink-0">
                       {String(i + 1).padStart(2, "0")}
                     </span>
-                    <span className="text-[14px] text-[#D9D2C2] leading-relaxed">{h}</span>
+                    <span className="text-[14px] text-[#D9D2C2] leading-relaxed text-pretty">{h}</span>
                   </li>
                 ))}
               </ul>
@@ -180,7 +180,7 @@ export default function EventDetail({ event, onClose, isBookmarked, onToggleBook
                 href={applyUrl}
                 target="_blank"
                 rel="noopener noreferrer"
-                className="flex items-center justify-center gap-2 px-5 py-3 bg-[var(--accent)] text-[var(--bg)] font-mono text-[11px] tracking-[0.15em] uppercase font-semibold hover:bg-[#E5FF55] transition-colors"
+                className="flex items-center justify-center gap-2 px-5 py-3 bg-[var(--accent)] text-[var(--bg)] font-mono text-[11px] tracking-[0.15em] uppercase font-semibold hover:bg-[#E5FF55] active:scale-[0.97] transition duration-150"
               >
                 <span>Apply / official site</span>
                 <ExternalLink className="w-3 h-3" />
@@ -191,7 +191,7 @@ export default function EventDetail({ event, onClose, isBookmarked, onToggleBook
                 href={event.url}
                 target="_blank"
                 rel="noopener noreferrer"
-                className="flex items-center justify-center gap-2 px-5 py-3 border border-[#2A2722] text-[var(--paper)] font-mono text-[11px] tracking-[0.15em] uppercase hover:border-[#4A453B] transition-colors"
+                className="flex items-center justify-center gap-2 px-5 py-3 border border-[#2A2722] text-[var(--paper)] font-mono text-[11px] tracking-[0.15em] uppercase hover:border-[#4A453B] active:scale-[0.97] transition duration-150"
               >
                 <span>More info</span>
                 <ExternalLink className="w-3 h-3" />
