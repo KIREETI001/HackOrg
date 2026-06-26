@@ -5398,5 +5398,1263 @@
     "url": "https://www.sginnovate.com/event/ignite-innovation-taiwan-x-singapore-connect",
     "id": "6fa303fe7470",
     "last_checked": "2026-06-25T10:42:24.231422+00:00"
+  },
+  {
+    "name": "Kiro Buildfest 2026 Singapore",
+    "organizer": "Kiro",
+    "companies": [
+      "Amazon Web Services"
+    ],
+    "level": "Tertiary",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Business / Economics"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "2-4 July 2026",
+    "location": "Singapore, venue not specified",
+    "prize": "Seven non-cash prizes across various categories including swag, certificates, and opportunities with AWS.",
+    "summary": "Kiro Buildfest 2026 is a unique hackathon that encourages university undergraduates to unleash their creativity using Kiro, an AI-driven development platform. Participants can build innovative projects over a span of three days, with a strong emphasis on structured development and the use of Kiro's features. This event stands out due to its open-ended theme, which allows for a wide range of creative solutions powered by advanced AI tools.",
+    "eligibility": "Open to university undergraduates from specific participating universities who are of legal age in their country.",
+    "highlights": [
+      "Focus on AI-driven development with Kiro tools.",
+      "Open-ended theme encourages creativity and innovation.",
+      "Opportunity for mentorship and internships with AWS.",
+      "Seven award categories to celebrate various aspects of project development."
+    ],
+    "application_deadline": "2026-07-04",
+    "difficulty": "Intermediate",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "singapore",
+      "ai",
+      "hackathon",
+      "university",
+      "creative"
+    ],
+    "url": "https://sg-kiro-buildfest.devpost.com/",
+    "id": "45cb641355f4",
+    "last_checked": "2026-06-26T10:50:55.094778+00:00"
+  },
+  {
+    "name": "Build with AI Makerere Hackathon",
+    "organizer": "GDG on Campus Makerere University",
+    "companies": [
+      "Google",
+      "Major League Hacking (MLH)",
+      "GitHub"
+    ],
+    "level": "Tertiary",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "status": "upcoming",
+    "date": "27 June 2026",
+    "location": "Kampala, Makerere University",
+    "prize": "Non-cash prizes include digital packages and credits worth $300 for the best projects.",
+    "summary": "The Build with AI Makerere Hackathon is a one-day event where students and developers can collaboratively create AI-powered solutions. Participants will utilize Gemini APIs and Google Cloud, gaining hands-on experience with cutting-edge tools. This beginner-friendly mini hackathon encourages innovation and teamwork, making it accessible to newcomers in AI technology.",
+    "eligibility": "University students, beginner developers, and anyone excited to build with AI can participate.",
+    "highlights": [
+      "Beginner-friendly environment with no prior hackathon experience required.",
+      "Hands-on workshops covering modern AI tools like Gemini APIs.",
+      "Opportunity to explore deployment on Google Cloud.",
+      "Mentorship and support from community leaders and technical experts."
+    ],
+    "application_deadline": "2026-06-27",
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": 300,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "uganda",
+      "ai",
+      "student-run",
+      "hackathon",
+      "beginners"
+    ],
+    "url": "https://bwai-makerere-hackathon.devpost.com/",
+    "id": "ad7fe6588ca7",
+    "last_checked": "2026-06-26T10:51:02.325680+00:00"
+  },
+  {
+    "name": "Github Readme Generation Hackathon",
+    "organizer": "Devpost",
+    "companies": [
+      "Apple",
+      "Google",
+      "Outlook"
+    ],
+    "level": "Tertiary",
+    "timeline": "Single-day",
+    "scope": "Global",
+    "domains": [
+      "Computer Science",
+      "Business / Economics"
+    ],
+    "fields": [
+      "General Tech",
+      "Healthcare"
+    ],
+    "status": "upcoming",
+    "date": "6 July 2026",
+    "location": "Online",
+    "prize": "3 non-cash prizes including certifications and access vouchers.",
+    "summary": "The Github Readme Generation Hackathon invites participants to create projects aligned with the UN’s Sustainable Development Goal 3. This unique challenge focuses on developing functional software without the traditional README file, utilizing the PresentMeApp for documentation. Participants will engage with modern coding practices while also contributing to global health initiatives through their projects.",
+    "eligibility": "Open to students above the legal age of majority in their country of residence.",
+    "highlights": [
+      "Focus on SDG 3 (Good Health and Well-being)",
+      "Utilizes PresentMeApp for documentation automation",
+      "Open to global participants",
+      "Emphasizes clean coding without README files"
+    ],
+    "application_deadline": "2026-07-06",
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "hackathon",
+      "github",
+      "sdg3",
+      "beginner-friendly",
+      "online"
+    ],
+    "url": "https://github-readme-generation.devpost.com/",
+    "id": "0722501b30d3",
+    "last_checked": "2026-06-26T10:51:08.255206+00:00"
+  },
+  {
+    "name": "Girls In STEM Global Hackathon",
+    "organizer": "Girls in STEM MENA & Central Asia",
+    "companies": [],
+    "level": "Pre-University",
+    "timeline": "Single-day",
+    "scope": "Global",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "Sustainability",
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "1-15 July 2026",
+    "location": "Online",
+    "prize": "Multiple non-cash prizes including certificates and digital badges.",
+    "summary": "The Girls In STEM Global Hackathon invites participants aged 13 to 25 to address local community challenges through innovative STEM solutions. It emphasizes creativity and offers a platform for young minds to showcase their skills and ideas. The event encourages collaboration and problem-solving, making STEM accessible and impactful. With a strong focus on social good, this hackathon aims to empower the next generation of leaders in science, technology, engineering, and mathematics.",
+    "eligibility": "Participants must be students aged 13 to 25 and can join individually or in teams of 1-4.",
+    "highlights": [
+      "Open to youths aged 13-25 from around the world.",
+      "Focuses on solving real local challenges through STEM.",
+      "Encourages beginners and those with no prior hackathon experience.",
+      "Offers recognition and non-cash prizes for various project categories."
+    ],
+    "application_deadline": "2026-07-15",
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "girls in stem",
+      "hackathon",
+      "social good",
+      "global",
+      "beginner-friendly"
+    ],
+    "url": "https://girlsinstemhackathon.devpost.com/",
+    "id": "9d1c658a5c82",
+    "last_checked": "2026-06-26T10:51:14.552588+00:00"
+  },
+  {
+    "name": "Shower Hacks",
+    "organizer": "Devpost",
+    "companies": [
+      "Apple",
+      "Google"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Global",
+    "domains": [
+      "Computer Science"
+    ],
+    "fields": [
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "3 October 2026",
+    "location": "Bay Area, venue not specified",
+    "prize": "The unique prize for the winner is the opportunity to take a shower.",
+    "summary": "Shower Hacks is a playful 12-hour hackathon that encourages creativity through unconventional building challenges. Participants can submit any code and present projects in person, evaluated primarily on their shock value and technical impressiveness. It's a humorous take on hackathons that invites global participation from tech enthusiasts without any serious constraints.",
+    "eligibility": "Open to anyone above the legal age of majority in their country of residence.",
+    "highlights": [
+      "Unique concept focusing on humor and creativity",
+      "Open to participants from all countries",
+      "Emphasis on provocative and inventive projects",
+      "Simple judging criteria ensuring a fun experience"
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": "https://showerhacks.devpost.com/",
+    "tags": [
+      "hackathon",
+      "creativity",
+      "fun",
+      "global",
+      "beginner-friendly"
+    ],
+    "url": "https://showerhacks.devpost.com/",
+    "id": "386e7b01e8ae",
+    "last_checked": "2026-06-26T10:51:21.532464+00:00"
+  },
+  {
+    "name": "Tech to Treasure Hackathon",
+    "organizer": "Tech to Treasure",
+    "companies": [
+      "Apple",
+      "Google",
+      "Salesforce"
+    ],
+    "level": "Secondary",
+    "timeline": "Single-day",
+    "scope": "Local (US)",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "Sustainability"
+    ],
+    "status": "upcoming",
+    "date": "31 July 2026",
+    "location": "Tully Community Branch Library, Bay Area",
+    "prize": "$450 in cash and various additional prizes totaling over $6800",
+    "summary": "The Tech to Treasure Hackathon invites students aged 13 to 19 to innovate solutions for environmental challenges. With a focused theme on sustainability, participants will engage in a day of collaboration, coding, and creativity. The event promises free food for all and an opportunity to win substantial cash and prizes, making it both educational and rewarding.",
+    "eligibility": "Students aged 13 to 19 in the US can participate.",
+    "highlights": [
+      "Focus on sustainability and environmental themes",
+      "No pre-work allowed, all projects built during the event",
+      "Free food provided for all participants",
+      "Prizes include cash and valuable subscriptions/services"
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": 450,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "sustainability",
+      "hackathon",
+      "student-run",
+      "beginner-friendly",
+      "AI"
+    ],
+    "url": "https://techtotreasure.devpost.com/",
+    "id": "1f095e2b8e16",
+    "last_checked": "2026-06-26T10:51:28.277530+00:00"
+  },
+  {
+    "name": "The Vakathon",
+    "organizer": "Devpost",
+    "companies": [
+      "Apple",
+      "Google"
+    ],
+    "level": "Tertiary",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Business / Economics"
+    ],
+    "fields": [
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "11 July 2026",
+    "location": "San Ramon, San Ramon Community Center",
+    "prize": "Total cash prizes of $5,000 with various awards for winners.",
+    "summary": "The Vakathon is an inclusive, one-day hackathon designed for participants of all skill levels, encouraging collaboration and innovation. With a focus on impact, participants are tasked with creating projects that benefit their community. Offering substantial cash prizes and recognition opportunities, it provides a platform for networking and skill development.",
+    "eligibility": "Participants must be aged 13 and older, and students are preferred.",
+    "highlights": [
+      "Inclusive hackathon open to all skill levels",
+      "Opportunity to work solo or in teams of up to four",
+      "Focus on creating community-impact projects",
+      "Substantial cash prizes and mentorship opportunities"
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Paid",
+    "prize_value_usd": 5000,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "hackathon",
+      "inclusive",
+      "community-impact",
+      "beginners-welcome",
+      "local-event"
+    ],
+    "url": "https://the-vakathon.devpost.com/",
+    "id": "16fecfafb843",
+    "last_checked": "2026-06-26T10:51:34.582728+00:00"
+  },
+  {
+    "name": "H.A.R.D. Hack 2027",
+    "organizer": "University of California - San Diego",
+    "companies": [
+      "Apple",
+      "Google"
+    ],
+    "level": "Tertiary",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Global",
+    "domains": [
+      "Computer Science",
+      "Engineering"
+    ],
+    "fields": [
+      "General Tech",
+      "Hardware"
+    ],
+    "status": "upcoming",
+    "date": "30-31 January 2027",
+    "location": "La Jolla, UC San Diego - Jacobs Hall",
+    "prize": "$300 in cash and additional prizes in the form of gift cards.",
+    "summary": "H.A.R.D. Hack 2027 is UC San Diego's premier hardware-focused hackathon, emphasizing innovation in hardware solutions. With a unique theme around 'Zombie Apocalypse', participants are challenged to develop survival and reconstruction technologies. This event supports all skill levels, providing mentorship and hands-on resources to help teams bring their ideas to life.",
+    "eligibility": "Open to college students from all countries, requiring teams of 2 to 4 members.",
+    "highlights": [
+      "Focus on hardware innovation with development tools provided.",
+      "Engage with industry mentors from leading tech companies.",
+      "Emphasis on beginner-friendly environment and support.",
+      "Exciting theme driving creativity and real-world problem-solving."
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Paid",
+    "prize_value_usd": 300,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "hardware",
+      "hackathon",
+      "ucsd",
+      "beginner-friendly",
+      "innovation",
+      "technology"
+    ],
+    "url": "https://h-a-r-d-hack-2027.devpost.com/",
+    "id": "a62422e7cb06",
+    "last_checked": "2026-06-26T10:51:41.066731+00:00"
+  },
+  {
+    "name": "Hack Atlantic",
+    "organizer": "Devpost",
+    "companies": [],
+    "level": "Tertiary",
+    "timeline": "Single-day",
+    "scope": "Global",
+    "domains": [
+      "Computer Science",
+      "Business / Economics"
+    ],
+    "fields": [
+      "FinTech",
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "27 September 2026",
+    "location": "Fredericton, New Brunswick",
+    "prize": "CAD 6,000 in cash prizes for the best hack.",
+    "summary": "Hack Atlantic encourages innovative solutions to local problems by bringing together college students from around the globe. The event promises not only a competitive atmosphere but also the chance to collaborate and network with peers. With a significant cash prize, it motivates participants to showcase their skills and creativity. The hackathon is designed to be beginner-friendly, ensuring that all aspiring developers feel welcome and included.",
+    "eligibility": "Open to all college students of legal age in their country, excluding standard exceptions.",
+    "highlights": [
+      "Over CAD 6,000 in prizes.",
+      "Single-day hackathon format.",
+      "Global participation.",
+      "Beginner-friendly environment."
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": 4500,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "hackathon",
+      "fintech",
+      "beginner-friendly",
+      "global",
+      "college students"
+    ],
+    "url": "https://hack-atlantic-2026.devpost.com/",
+    "id": "b9bc0f35f048",
+    "last_checked": "2026-06-26T10:51:47.177387+00:00"
+  },
+  {
+    "name": "BeanHacks",
+    "organizer": "Devpost",
+    "companies": [],
+    "level": "Tertiary",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Global",
+    "domains": [
+      "Business / Economics"
+    ],
+    "fields": [
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "30 June – 1 July 2026",
+    "location": "Online",
+    "prize": "One non-cash prize for the winning project.",
+    "summary": "BeanHacks invites college students to innovate solutions for improving coffee shop operations. Participants will tackle real-world challenges such as ordering systems and payment processes. The hackathon encourages creativity and practical solutions, with a focus on fostering a collaborative environment for students. It's designed to be accessible to all, regardless of major or technical skill level.",
+    "eligibility": "Open to all college students above the legal age of majority in their country.",
+    "highlights": [
+      "Focus on improving coffee shop efficiency.",
+      "Open to students of all majors and skill levels.",
+      "Encourages practical, innovative solutions.",
+      "Non-cash prize awarded for the best project."
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "hackathon",
+      "coffee",
+      "student-friendly",
+      "innovation",
+      "global"
+    ],
+    "url": "https://beanhacks.devpost.com/",
+    "id": "43d85e68aed7",
+    "last_checked": "2026-06-26T10:51:54.297896+00:00"
+  },
+  {
+    "name": "IncludAI - The Neurodiversity Hackathon",
+    "organizer": "IncludEDU",
+    "companies": [
+      "Stanford NNEA"
+    ],
+    "level": "Tertiary",
+    "timeline": "Multi-week (1-3mo)",
+    "scope": "Global",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "status": "upcoming",
+    "date": "1-8 August 2026",
+    "location": "Online, Public",
+    "prize": "$3,000 in cash prizes for winning projects.",
+    "summary": "The IncludAI Hackathon invites students to create AI tools specifically tailored for neurodivergent learners. Emphasizing collaboration, projects must integrate feedback from neurodivergent users from the outset, ensuring that designs prioritize their needs. This hackathon is distinctive for its accessibility-first approach and its encouragement of creativity across diverse entries.",
+    "eligibility": "Students above the legal age of majority in their country of residence are eligible to join.",
+    "highlights": [
+      "Designed with neurodivergent users for authentic impact.",
+      "Multiple tracks focusing on education, mental health, and creativity.",
+      "A full week for project development, promoting thorough exploration and iteration.",
+      "Winners present their projects at the Stanford Neurodiversity Summit in September."
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": 3000,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "neurodiversity",
+      "ai",
+      "hackathon",
+      "student-led",
+      "education"
+    ],
+    "url": "https://includai-2026.devpost.com/",
+    "id": "8e4d0c761366",
+    "last_checked": "2026-06-26T10:52:00.865658+00:00"
+  },
+  {
+    "name": "Eureka ITEA Proposal Outline Day Singapore Information Session",
+    "organizer": "SGInnovate",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [],
+    "fields": [
+      "AI / Machine Learning",
+      "Blockchain",
+      "Data Analytics"
+    ],
+    "status": "upcoming",
+    "date": "30 June 2026",
+    "location": "Online",
+    "prize": null,
+    "summary": "The Eureka ITEA Proposal Outline Day is an online information session designed to assist entities in proposal preparation and consortium formation. This event aims to foster collaboration among various stakeholders, including industry leaders, startups, and academia. It's part of the ITEA initiative, which focuses on software innovation and offers a platform for turning ideas into viable projects.",
+    "eligibility": "Open to all interested parties looking to engage in proposal development.",
+    "highlights": [
+      "Focus on software innovation and proposal preparation",
+      "Networking opportunities with industry leaders and startups",
+      "Free online session accessible from anywhere",
+      "Supports collaboration on funded projects"
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": "https://teams.microsoft.com/meet/390904433207734?p=phzriT4JLsL4twwmN1",
+    "tags": [
+      "singapore",
+      "online",
+      "collaboration",
+      "software innovation",
+      "beginners-welcome"
+    ],
+    "url": "https://www.sginnovate.com/event/eureka-itea-proposal-outline-day-singapore-information-session",
+    "id": "aa7c5cb83444",
+    "last_checked": "2026-06-26T10:52:08.019974+00:00"
+  },
+  {
+    "name": "Roast My TechStack #7",
+    "organizer": "SGInnovate",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "2 July 2026",
+    "location": "Kuala Lumpur, Singapore, 32 Carpenter Street, 059911",
+    "prize": null,
+    "summary": "Roast My TechStack is a unique interactive event focused on architecture design discussions among builders. Participants present their tech stacks, share challenges, and engage with the audience in a dynamic format that promotes learning and constructive conversation. This event stands out due to its engaging approach to technical critiques, fostering a community of builders eager to share insights and overcome obstacles together.",
+    "eligibility": "Open to all builders interested in discussing their technology stacks and architecture.",
+    "highlights": [
+      "Interactive discussions on architecture design.",
+      "Opportunities to share challenges faced in tech development.",
+      "Engagement with a community of builders and tech enthusiasts.",
+      "Dynamic format fostering key learning moments."
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "singapore",
+      "ai",
+      "architecture",
+      "community",
+      "tech-talk"
+    ],
+    "url": "https://www.sginnovate.com/event/roast-my-techstack-7",
+    "id": "d1f276e4eb68",
+    "last_checked": "2026-06-26T10:52:14.922390+00:00"
+  },
+  {
+    "name": "CISO Launchpad",
+    "organizer": "SGInnovate",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "Cybersecurity"
+    ],
+    "status": "upcoming",
+    "date": "3 July 2026",
+    "location": "Kuala Lumpur, NTUC OMB",
+    "prize": "This workshop is complimentary to attend.",
+    "summary": "CISO Launchpad is a one-day workshop tailored for IT and cybersecurity professionals aimed at bridging the gap between technical skills and leadership roles. Participants will engage in practical sessions focused on strategic thinking, communication, and navigating pathways to advanced leadership within cybersecurity. The event promises a transformative experience, providing attendees with a personalized leadership roadmap for their careers.",
+    "eligibility": "IT/ICT professionals, cybersecurity engineers, analysts, and anyone preparing for leadership roles can attend.",
+    "highlights": [
+      "Focused on transitioning from a technical to a leadership mindset",
+      "Engaging hands-on workshop format",
+      "Designed for professionals aiming for senior cybersecurity roles",
+      "Complimentary registration with limited seats available"
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "singapore",
+      "cybersecurity",
+      "leadership",
+      "workshop",
+      "free"
+    ],
+    "url": "https://www.sginnovate.com/event/ciso-launchpad",
+    "id": "b5436d8aef2f",
+    "last_checked": "2026-06-26T10:52:21.611716+00:00"
+  },
+  {
+    "name": "AI Frontier Workshop",
+    "organizer": "SGInnovate",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "Cybersecurity"
+    ],
+    "status": "upcoming",
+    "date": "4 July 2026",
+    "location": "Kuala Lumpur, Singapore, #03 - 308 JustCo @ Marina Square, 039594",
+    "prize": null,
+    "summary": "The AI Frontier Workshop is a half-day event designed for individuals eager to explore the evolving landscape of artificial intelligence and cybersecurity. With no prior coding experience required, participants will engage in discussions on the implications of AI across various industries. The workshop emphasizes the importance of being prepared for the changes brought about by AI advancements.",
+    "eligibility": "Open to anyone interested in learning about AI and cybersecurity, regardless of experience level.",
+    "highlights": [
+      "Focus on AI's impact across industries",
+      "No coding experience required",
+      "Engaging discussions with industry experts",
+      "Networking opportunities with like-minded individuals"
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "singapore",
+      "ai",
+      "cybersecurity",
+      "workshop",
+      "beginner-friendly"
+    ],
+    "url": "https://www.sginnovate.com/event/ai-frontier-workshop",
+    "id": "91e6c0c327ee",
+    "last_checked": "2026-06-26T10:52:28.613592+00:00"
+  },
+  {
+    "name": "STACKx Cybersecurity 2026",
+    "organizer": "Government Technology Agency of Singapore",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "Cybersecurity",
+      "AI / Machine Learning"
+    ],
+    "status": "completed",
+    "date": "17 April 2026",
+    "location": "Singapore, Sands Expo and Convention Centre",
+    "prize": "There are no cash prizes mentioned.",
+    "summary": "STACKx Cybersecurity 2026 is a key gathering for government and industry leaders to discuss crucial topics in the cybersecurity landscape. This event features a range of sessions focused on the intersection of AI and cybersecurity, emphasizing the importance of trust in the digital age. Attendees can gain insights into practical frameworks for leadership and the evolving dynamics of cyber resilience in today's technical environment.",
+    "eligibility": "Attendance is open to all professionals interested in cybersecurity and AI.",
+    "highlights": [
+      "Focus on trust in AI-driven cybersecurity.",
+      "Expert-led keynotes and panel discussions.",
+      "Breakout tracks on innovative cybersecurity practices.",
+      "Opportunities for networking within the cybersecurity community."
+    ],
+    "application_deadline": null,
+    "difficulty": "Intermediate",
+    "cost": "Paid",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": "https://www.tech.gov.sg/events/stackx-cybersecurity-2026/",
+    "tags": [
+      "singapore",
+      "cybersecurity",
+      "ai",
+      "networking",
+      "professional"
+    ],
+    "url": "https://www.tech.gov.sg/events/stackx-cybersecurity-2026/",
+    "id": "458971798056",
+    "last_checked": "2026-06-26T10:52:46.036266+00:00"
+  },
+  {
+    "name": "GovTech Innovation Day 2025",
+    "organizer": "Government Technology Agency of Singapore",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Business / Economics"
+    ],
+    "fields": [
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "13 November 2025",
+    "location": "Marina Bay Sands, Singapore",
+    "prize": "Participants can gain insights and recognition through various challenges like the Prompt Royale competition.",
+    "summary": "GovTech Innovation Day 2025 is an exciting platform aimed at enhancing Singapore’s government services through technology. This one-day event offers public officers and community members the opportunity to connect, learn, and engage with the latest innovations in digital governance. Attendees can participate in presentations, panel discussions, and hands-on challenges designed to foster innovation and collaboration.",
+    "eligibility": "Public officers and the general public are welcome to join, with tailored sessions for both groups.",
+    "highlights": [
+      "Prompt Royale Finale competition for high-level prompt engineering.",
+      "Keynote presentations from leaders in government and industry.",
+      "Interactive Lightning Talks featuring innovators.",
+      "Showcase of emerging solutions from GovTech teams."
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "singapore",
+      "innovation",
+      "government",
+      "technology",
+      "free"
+    ],
+    "url": "https://www.tech.gov.sg/events/govtech-innovation-day-2025/",
+    "id": "8c5b9e7acbf8",
+    "last_checked": "2026-06-26T10:52:53.476251+00:00"
+  },
+  {
+    "name": "Singapore AI CTF 2025",
+    "organizer": "Government Technology Agency of Singapore (GovTech Singapore)",
+    "companies": [
+      "Cyber Security Agency of Singapore"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "Cybersecurity"
+    ],
+    "status": "upcoming",
+    "date": "11-21 October 2025",
+    "location": "Singapore, Marina Bay Sands",
+    "prize": "Up to SGD 10,000 in prizes for various categories.",
+    "summary": "The Singapore AI CTF is an innovative capture-the-flag competition that focuses on AI security challenges, including machine learning vulnerabilities. With a rich participation from both local and international teams, the event aims to enhance skills in cybersecurity through practical challenges. The event comprises a virtual preliminary round followed by finals held at a prominent cybersecurity event, providing participants with both recognition and rewards.",
+    "eligibility": "Open to all teams, with a special category for Pre-University students from Singapore.",
+    "highlights": [
+      "Unique AI security challenges developed in-house.",
+      "Split into Open and Pre-University categories.",
+      "Prizes totaling SGD 10,000 for top performers.",
+      "Encourages participation from international teams."
+    ],
+    "application_deadline": "2025-09-17",
+    "difficulty": "Intermediate",
+    "cost": "Free",
+    "prize_value_usd": 7400,
+    "beginner_friendly": true,
+    "application_url": "https://www.tech.gov.sg/events/singapore-ai-ctf-2025/",
+    "tags": [
+      "singapore",
+      "ai",
+      "cybersecurity",
+      "capture-the-flag",
+      "competition"
+    ],
+    "url": "https://www.tech.gov.sg/events/singapore-ai-ctf-2025/",
+    "id": "21aaed76d4c1",
+    "last_checked": "2026-06-26T10:53:02.874415+00:00"
+  },
+  {
+    "name": "Inclusive Design Week 2025",
+    "organizer": "Government Technology Agency of Singapore (GovTech Singapore)",
+    "companies": [
+      "DBS Bank",
+      "Cognizant Technology Solutions",
+      "Google"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Humanities",
+      "Business / Economics"
+    ],
+    "fields": [
+      "General Tech"
+    ],
+    "status": "completed",
+    "date": "29-31 July 2025",
+    "location": "UOB Ability Hub, Enabling Village and Virtual",
+    "prize": "N/A",
+    "summary": "Inclusive Design Week is a significant event focused on digital inclusion, particularly for public officers in Singapore. It features a series of workshops, panel discussions, and case studies aimed at promoting digital accessibility and inclusivity. With various experts sharing insights and tools, the event aims to enable participants to contribute to building a more inclusive Singapore.",
+    "eligibility": "Open to public officers only.",
+    "highlights": [
+      "Focus on digital accessibility and inclusivity.",
+      "Expert speakers from government and industry.",
+      "Hands-on workshops and case studies.",
+      "Networking opportunities with like-minded professionals."
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": "https://go.gov.sg/idw-reg-gt",
+    "tags": [
+      "singapore",
+      "inclusivity",
+      "digital accessibility",
+      "government",
+      "workshop"
+    ],
+    "url": "https://www.tech.gov.sg/events/inclusive-design-week-2025/",
+    "id": "1217d1f66477",
+    "last_checked": "2026-06-26T10:53:10.284418+00:00"
+  },
+  {
+    "name": "GovTech STACKx Cybersecurity 2025",
+    "organizer": "Government Technology Agency of Singapore (GovTech Singapore)",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)",
+      "Business / Economics"
+    ],
+    "fields": [
+      "Cybersecurity",
+      "AI / Machine Learning"
+    ],
+    "status": "completed",
+    "date": "15 April 2025",
+    "location": "Singapore",
+    "prize": null,
+    "summary": "GovTech STACKx Cybersecurity 2025 brought together industry experts to discuss pressing cybersecurity trends and threats impacting the digital landscape. The event featured multiple tracks focusing on AI in cybersecurity, resilient cloud solutions, and the evolving role of CISOs. It served as an essential platform for networking among professionals from both government and industry sectors.",
+    "eligibility": "Open to government leaders, agency CIOs, business users, tech professionals, and industry practitioners.",
+    "highlights": [
+      "Focused on the latest trends and innovations in cybersecurity",
+      "Featured expert presentations and breakout tracks",
+      "Networking opportunities for industry and government professionals",
+      "Addressed challenges from sophisticated cyber threats"
+    ],
+    "application_deadline": null,
+    "difficulty": null,
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "singapore",
+      "cybersecurity",
+      "govtech",
+      "networking"
+    ],
+    "url": "https://www.tech.gov.sg/events/stackx-cybersecurity-2025/",
+    "id": "6977faed146b",
+    "last_checked": "2026-06-26T10:53:19.652082+00:00"
+  },
+  {
+    "name": "GovTech x OpenAI Hackathon 2024",
+    "organizer": "Government Technology Agency of Singapore (GovTech Singapore)",
+    "companies": [
+      "OpenAI"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "status": "upcoming",
+    "date": "22 November 2024",
+    "location": "Singapore, Lifelong Learning Institute",
+    "prize": "Top three teams can win OpenAI API credits worth up to USD 25,000.",
+    "summary": "The GovTech x OpenAI Hackathon 2024 is set to empower developers to create impactful AI solutions in a competitive environment. Participants will collaborate with peers and receive guidance from industry leaders like OpenAI’s technical specialists. This hackathon emphasizes innovation, teamwork, and practical applications of AI for the public good.",
+    "eligibility": "This event is exclusively for developers residing in Singapore.",
+    "highlights": [
+      "Prizes worth a total of USD 50,000 in OpenAI credits",
+      "Guidance from industry experts and technical specialists",
+      "Collaborative environment fostering team innovation",
+      "Physical attendance required to enhance networking and teamwork"
+    ],
+    "application_deadline": "2024-11-12",
+    "difficulty": "Advanced",
+    "cost": "Free",
+    "prize_value_usd": 50000,
+    "beginner_friendly": false,
+    "application_url": null,
+    "tags": [
+      "singapore",
+      "ai",
+      "hackathon",
+      "openai",
+      "developers"
+    ],
+    "url": "https://www.tech.gov.sg/events/govtech-openai-hackathon-2024/",
+    "id": "9b879a1a196f",
+    "last_checked": "2026-06-26T10:53:27.438576+00:00"
+  },
+  {
+    "name": "GovTech STACK Developer Conference 2024",
+    "organizer": "Government Technology Agency of Singapore",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Business / Economics"
+    ],
+    "fields": [
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "6-7 November 2024",
+    "location": "Singapore, venue unspecified",
+    "prize": "N/A",
+    "summary": "The GovTech STACK Developer Conference 2024 is a significant event that connects government officials, industry leaders, and the tech community. Scheduled for November 6-7, it will feature keynote speakers, workshops, and discussions on pressing topics like AI and cloud technology. This biennial conference serves as a platform for collaboration and innovation in the tech sector.",
+    "eligibility": "Open to professionals from various sectors in technology and government.",
+    "highlights": [
+      "Keynote and plenary speakers from public and private sectors",
+      "Lightning talks on trending technology topics",
+      "Workshops and product showcases",
+      "Networking opportunities with industry leaders"
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Varies",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "singapore",
+      "govtech",
+      "conference",
+      "technology",
+      "networking"
+    ],
+    "url": "https://www.tech.gov.sg/events/govtech-stack-developer-conference-2024/",
+    "id": "0c1ea9be2a54",
+    "last_checked": "2026-06-26T10:53:35.918877+00:00"
+  },
+  {
+    "name": "Singapore AI CTF 2024",
+    "organizer": "Government Technology Agency of Singapore (GovTech Singapore)",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "Cybersecurity"
+    ],
+    "status": "upcoming",
+    "date": "26 October - 5 November 2024",
+    "location": "Marina Bay Sands, Singapore",
+    "prize": "Total prize pool of SGD 34,000 distributed across two categories.",
+    "summary": "The Singapore AI CTF is an exciting jeopardy-style competition focused on tackling AI security challenges. Participants will engage in a series of challenges that test their skills in areas like machine learning vulnerabilities and adversarial attacks. Designed for both open and pre-university teams, the event aims to foster expertise in cybersecurity, emphasizing practical and theoretical knowledge in AI. The competition features a preliminary virtual round followed by an in-person finals, creating a dynamic and interactive learning experience.",
+    "eligibility": "Open to all teams, with a specific category for Pre-University students based in Singapore.",
+    "highlights": [
+      "Focus on real-world AI security challenges.",
+      "Engagement with industry experts during the finals.",
+      "Substantial prize pool incentivizing participation.",
+      "Opportunity for participants to network with tech enthusiasts."
+    ],
+    "application_deadline": "2024-10-02",
+    "difficulty": "Intermediate",
+    "cost": "Free",
+    "prize_value_usd": 25500,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "singapore",
+      "ai",
+      "ctf",
+      "cybersecurity",
+      "open",
+      "student-friendly"
+    ],
+    "url": "https://www.tech.gov.sg/events/singapore-ai-ctf-2024/",
+    "id": "938e38ff32af",
+    "last_checked": "2026-06-26T10:53:43.728700+00:00"
+  },
+  {
+    "name": "ATxSummit Showcase 2024",
+    "organizer": "Government Technology Agency of Singapore",
+    "companies": [
+      "Open Gov Products"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "General Tech",
+      "Sustainability"
+    ],
+    "status": "upcoming",
+    "date": "30-31 May 2024",
+    "location": "Singapore, Capella Singapore",
+    "prize": null,
+    "summary": "The ATxSummit Showcase 2024 is a pivotal tech event that focuses on innovative solutions addressing digital inclusion and anti-scam measures. Organized by the Government Technology Agency of Singapore, it brings together key stakeholders to explore advancements in smart city technologies. This event highlights GovTech’s commitment to leveraging technology for public good, emphasizing collaborative efforts for a better Singapore.",
+    "eligibility": "Open to all individuals interested in technological advancements and their applications in society.",
+    "highlights": [
+      "Focus on anti-scam technology and digital inclusion.",
+      "Showcasing innovations from key Singaporean tech entities.",
+      "Engagement with international delegates discussing global solutions.",
+      "Exploration of smart city initiatives and their implementations."
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "singapore",
+      "tech showcase",
+      "smart city",
+      "digital inclusion",
+      "anti-scam",
+      "government"
+    ],
+    "url": "https://www.tech.gov.sg/events/atxsummit-showcase-2024/",
+    "id": "441fbf6782cd",
+    "last_checked": "2026-06-26T10:53:52.031996+00:00"
+  },
+  {
+    "name": "A11y Week 2024",
+    "organizer": "Government Technology Agency of Singapore",
+    "companies": [
+      "Apple",
+      "Microsoft",
+      "Smart BFA"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Humanities"
+    ],
+    "fields": [
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "15-17 May 2024",
+    "location": "Singapore, Old Hill Street Police Station (MCI & MCCY Building) and Apple Developer Center",
+    "prize": "N/A",
+    "summary": "A11y Week 2024 is a digital inclusion learning festival aimed particularly at public officers in Singapore. The event emphasizes building a more inclusive society through workshops, presentations, and interactive exhibitions. Attendees will engage with prominent companies like Apple and Microsoft, learning innovative approaches to accessibility and inclusion.",
+    "eligibility": "Public officers, particularly those involved in digital inclusion efforts, are encouraged to join.",
+    "highlights": [
+      "Features hands-on workshops and interactive sessions.",
+      "Celebration of Global Accessibility Awareness Day.",
+      "Networking opportunities with industry leaders and experts.",
+      "Focus on practical steps towards fostering empathy and accessibility."
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": "https://go.gov.sg/aw24-reg",
+    "tags": [
+      "singapore",
+      "accessibility",
+      "digital-inclusion",
+      "workshops",
+      "government"
+    ],
+    "url": "https://www.tech.gov.sg/events/a11y-week-2024/",
+    "id": "7de1b2e80877",
+    "last_checked": "2026-06-26T10:54:01.261759+00:00"
+  },
+  {
+    "name": "GovTech STACKx Smart City 2024",
+    "organizer": "Government Technology Agency of Singapore",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Business / Economics"
+    ],
+    "fields": [
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "27 March 2024",
+    "location": "Singapore, Suntec Convention Centre",
+    "prize": null,
+    "summary": "GovTech STACKx Smart City 2024 is a premier event focused on the future of smart urban living. Scheduled for one day, this event will feature keynote presentations and discussions led by industry experts and government officials. Attendees will gain insights into innovative technologies that drive smart city initiatives and have opportunities to network with professionals in the field.",
+    "eligibility": "Open to government leaders, tech professionals, and industry practitioners interested in smart city developments.",
+    "highlights": [
+      "Keynote presentations from leading experts",
+      "Panel discussions on Smart City topics",
+      "Presentations by GovTech's technology teams",
+      "Opportunities for networking with like-minded professionals"
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "singapore",
+      "smart-city",
+      "technology",
+      "networking",
+      "open-professional"
+    ],
+    "url": "https://www.tech.gov.sg/events/stackx-smart-city-2024/",
+    "id": "9a53e77220ce",
+    "last_checked": "2026-06-26T10:54:11.136039+00:00"
+  },
+  {
+    "name": "GovTech STACKx Data and AI 2023",
+    "organizer": "Government Technology Agency of Singapore",
+    "companies": [
+      "Temasek"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "General Tech"
+    ],
+    "status": "completed",
+    "date": "18 July 2023",
+    "location": "Singapore, Suntec Singapore Convention and Exhibition Centre",
+    "prize": null,
+    "summary": "GovTech STACKx Data and AI 2023 was an engaging event that brought together experts, government leaders, and industry professionals to explore the intersection of AI and data. Attendees benefited from keynote presentations, panel discussions, and technical workshops focused on the latest AI trends and technologies. This event served as a platform for showcasing how AI can positively impact the public sector and related industries.",
+    "eligibility": "The event was open to everyone interested in AI and data, including professionals and students.",
+    "highlights": [
+      "Keynote by distinguished AI leaders",
+      "Panel discussions with industry experts",
+      "Hands-on technical workshops",
+      "Focus on government applications of AI"
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "singapore",
+      "ai",
+      "data",
+      "government",
+      "technology"
+    ],
+    "url": "https://www.tech.gov.sg/events/stackx-data-and-ai-2023/",
+    "id": "a22d029b9658",
+    "last_checked": "2026-06-26T10:54:22.017953+00:00"
+  },
+  {
+    "name": "Hack&Roll",
+    "organizer": "NUS Hackers",
+    "companies": [],
+    "level": "Tertiary",
+    "timeline": "Annual / ongoing",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Business / Economics"
+    ],
+    "fields": [
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "Annual",
+    "location": "Singapore, National University of Singapore",
+    "prize": "Participants have the chance to win various prizes for their innovative projects.",
+    "summary": "Hack&Roll is the largest student-run hackathon in Singapore, focusing on fostering creativity and innovation among students. Unlike many hackathons, it does not impose specific themes; instead, it encourages participants to build projects simply for the joy of creation. The event not only emphasizes technical skills but also aims to cultivate a fun and inclusive atmosphere for all hackers.",
+    "eligibility": "Open to students from various backgrounds, focusing on those who wish to explore building projects.",
+    "highlights": [
+      "No specific topics, encouraging creativity and freedom.",
+      "Largest student-run hackathon in Singapore.",
+      "Fun and inclusive environment for all participants.",
+      "Opportunities for mentorship and networking."
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "singapore",
+      "hackathon",
+      "student-run",
+      "beginner-friendly",
+      "innovation"
+    ],
+    "url": "https://nushackers.org/events",
+    "id": "b838fec36564",
+    "last_checked": "2026-06-26T10:54:42.691511+00:00"
   }
 ]
