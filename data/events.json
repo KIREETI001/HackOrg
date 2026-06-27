@@ -6656,5 +6656,720 @@
     "url": "https://nushackers.org/events",
     "id": "b838fec36564",
     "last_checked": "2026-06-26T10:54:42.691511+00:00"
+  },
+  {
+    "name": "AI Communication Bridge Hackathon",
+    "organizer": "Devpost",
+    "companies": [
+      "Apple",
+      "Google",
+      "Outlook",
+      "Moringa School",
+      "Bricklabs AI"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Global",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "27 June 2026",
+    "location": "Online",
+    "prize": "One non-cash prize of free voice credits for winners along with merchandise.",
+    "summary": "The AI Communication Bridge Hackathon invites developers to create innovative solutions that unify communications across platforms using AI. Participants will work on projects that integrate SMS, social media, and voice communication into a cohesive system. With a focus on multi-platform integration, the event aims to enhance how information is shared across various channels. This hackathon encourages collaboration and creativity in developing tech solutions that prioritize seamless communication.",
+    "eligibility": "Participants must be above the legal age of majority in their country of residence and work in teams.",
+    "highlights": [
+      "Focus on artificial intelligence in communication.",
+      "Collaborative environment encouraging developer innovation.",
+      "Sponsorship from major tech companies.",
+      "Opportunity to integrate various communication platforms."
+    ],
+    "application_deadline": "2026-06-27",
+    "difficulty": "Intermediate",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "hackathon",
+      "ai",
+      "communication",
+      "global",
+      "developer-friendly"
+    ],
+    "url": "https://ai-communication-bridge.devpost.com/",
+    "id": "651a4a4b02d5",
+    "last_checked": "2026-06-27T10:08:23.917966+00:00"
+  },
+  {
+    "name": "Industrial AI Hackathon",
+    "organizer": "Devpost",
+    "companies": [
+      "Antler VC",
+      "Zapdos Labs"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Global",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "status": "upcoming",
+    "date": "27 June 2026",
+    "location": "Online, Devpost",
+    "prize": "The winner will receive a cash prize of $1,000.",
+    "summary": "The $1,000 Industrial AI Hackathon invites participants to create AI agents aimed at addressing significant operational challenges in the industrial sector. This event emphasizes the practical application of AI technologies to solve real-world problems. Participants will compete for the chance to showcase their innovative solutions to industry experts.",
+    "eligibility": "Open to individuals above the legal age of majority in their country of residence, excluding certain exceptions.",
+    "highlights": [
+      "Focus on solving real operational problems",
+      "Opportunity to win $1,000 cash prize",
+      "Judged by industry experts",
+      "Hybrid format allows for remote participation"
+    ],
+    "application_deadline": "2026-06-27",
+    "difficulty": "Intermediate",
+    "cost": "Free",
+    "prize_value_usd": 1000,
+    "beginner_friendly": true,
+    "application_url": "https://1-000-industrial-ai-hackathon.devpost.com/",
+    "tags": [
+      "ai",
+      "hackathon",
+      "industrial",
+      "online",
+      "global"
+    ],
+    "url": "https://1-000-industrial-ai-hackathon.devpost.com/",
+    "id": "7630636c46e3",
+    "last_checked": "2026-06-27T10:08:31.823613+00:00"
+  },
+  {
+    "name": "Zerve Hackathon 2026",
+    "organizer": "HackerEarth",
+    "companies": [
+      "Zerve"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Multi-month (3-6mo)",
+    "scope": "Global",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "By 13 September 2026",
+    "location": "Online",
+    "prize": "$10,000 in total prizes for top submissions",
+    "summary": "The Zerve Hackathon 2026 invites participants to build innovative projects utilizing the Zerve platform. With a total prize pool of $10,000, entrants can explore various tracks related to data prediction, finance, and social trends, making it appealing to a wide range of data professionals. The event promotes creativity and problem-solving, encouraging participants to submit real-world applications that showcase the platform's capabilities.",
+    "eligibility": "Open to data and AI professionals worldwide.",
+    "highlights": [
+      "Total prize pool of $10,000 with multiple prize categories",
+      "Participants can choose from five diverse tracks or create their own",
+      "No entry fee required; 300 free credits provided to each participant",
+      "Encourages innovation with a focus on practical applications"
+    ],
+    "application_deadline": "2026-09-13",
+    "difficulty": "Intermediate",
+    "cost": "Free",
+    "prize_value_usd": 10000,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "hackathon",
+      "data-science",
+      "ai",
+      "global",
+      "innovation"
+    ],
+    "url": "https://www.hackerearth.com/challenges/hackathon/zerve-hackathon-2026-4/",
+    "id": "45160385622f",
+    "last_checked": "2026-06-27T10:08:51.523788+00:00"
+  },
+  {
+    "name": "ScriptedBy{Her} 2.0",
+    "organizer": "Meesho",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Multi-week (1-3mo)",
+    "scope": "Global",
+    "domains": [
+      "Computer Science",
+      "Business / Economics"
+    ],
+    "fields": [
+      "General Tech"
+    ],
+    "status": "completed",
+    "date": "8-19 June 2026",
+    "location": "Online",
+    "prize": "Prize details were not specified.",
+    "summary": "ScriptedBy{Her} 2.0 is an online hackathon hosted by Meesho that encourages developers to showcase their skills. With a registration window that attracted over 36,300 participants, the event highlights innovation in technology while fostering inclusivity. Teams of 1 to 3 members can collaborate and compete to create unique solutions over a two-week period. The competition emphasizes not just technical prowess but also creativity and teamwork.",
+    "eligibility": "Open to individuals who can form teams of 1 to 3 participants.",
+    "highlights": [
+      "Hosted by a leading marketplace in India, Meesho.",
+      "Attracted a large number of participants from diverse backgrounds.",
+      "Encourages teamwork and collaboration.",
+      "Focuses on innovative solutions in the tech space."
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "global",
+      "hackathon",
+      "online",
+      "teamwork",
+      "innovation"
+    ],
+    "url": "https://www.hackerearth.com/challenges/hackathon/scriptedbyher-2026/",
+    "id": "8c782149163f",
+    "last_checked": "2026-06-27T10:09:00.636715+00:00"
+  },
+  {
+    "name": "Microsoft Build AI",
+    "organizer": "Microsoft",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Multi-week (1-3mo)",
+    "scope": "Global",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "General Tech"
+    ],
+    "status": "completed",
+    "date": "5 May – 14 June 2026",
+    "location": "India, Online",
+    "prize": "Total prize pool of ₹600,000 for innovative solutions.",
+    "summary": "Microsoft Build AI invited professionals to tackle real-world challenges across various AI-themed tracks. Spanning over six weeks, participants engaged in a blend of ideation and practical execution, focusing on delivering functional AI solutions. The program emphasized the importance of impactful innovation within the AI landscape, encouraging collaborative teamwork and creative problem-solving.",
+    "eligibility": "Professionals with 3+ years of work experience could join individually or in teams.",
+    "highlights": [
+      "Six dynamic challenge tracks focused on real-world problems.",
+      "Encouraged innovative solutions using the Microsoft AI ecosystem.",
+      "Workshops led by experts to accelerate project development.",
+      "Prizes and recognition for the best-performing teams."
+    ],
+    "application_deadline": null,
+    "difficulty": "Advanced",
+    "cost": "Free",
+    "prize_value_usd": 7200,
+    "beginner_friendly": false,
+    "application_url": null,
+    "tags": [
+      "ai",
+      "hackathon",
+      "microsoft",
+      "online",
+      "innovation",
+      "professional"
+    ],
+    "url": "https://www.hackerearth.com/challenges/hackathon/microsoft-build-ai-2027/",
+    "id": "a22783200cc0",
+    "last_checked": "2026-06-27T10:09:11.362866+00:00"
+  },
+  {
+    "name": "TinyFish $2M Pre-Accelerator Hackathon",
+    "organizer": "HackerEarth",
+    "companies": [
+      "TinyFish",
+      "Mango Capital",
+      "Google for Startups",
+      "Vercel",
+      "ElevenLabs",
+      "Fireworks.ai",
+      "MongoDB"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Multi-month (3-6mo)",
+    "scope": "Global",
+    "domains": [
+      "Computer Science"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "status": "completed",
+    "date": "25 February - 29 March 2026",
+    "location": "Online",
+    "prize": "Total prizes of $5,000 awarded to top three teams and direct entry into an accelerator program.",
+    "summary": "The TinyFish $2M Pre-Accelerator Hackathon is a global competition aiming to build applications powered by the TinyFish Web Agent API. Participants can win cash prizes and a Golden Ticket for direct entry into the TinyFish Accelerator. This distinct event emphasizes solving real-world problems using innovative technology, especially in managing complex web interactions.",
+    "eligibility": "Open to all developers interested in building applications that utilize the TinyFish API.",
+    "highlights": [
+      "Access to a $2M seed pool from Mango Capital.",
+      "Participants receive mentorship from world-class business experts.",
+      "Direct engineering support from 15+ partner companies.",
+      "Golden Ticket allows successful teams to skip the application queue for the accelerator."
+    ],
+    "application_deadline": null,
+    "difficulty": "Intermediate",
+    "cost": "Free",
+    "prize_value_usd": 5000,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "hackathon",
+      "ai",
+      "global",
+      "developer",
+      "tinyfish"
+    ],
+    "url": "https://www.hackerearth.com/challenges/hackathon/the-tiny-fish-hackathon-2026/",
+    "id": "6a48cf3b7c4b",
+    "last_checked": "2026-06-27T10:09:19.418874+00:00"
+  },
+  {
+    "name": "The Big Code",
+    "organizer": "Google",
+    "companies": [],
+    "level": "Tertiary",
+    "timeline": "Multi-month (3-6mo)",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "General Tech"
+    ],
+    "status": "completed",
+    "date": "20 February - 12 March 2026",
+    "location": "Virtual",
+    "prize": "Winners receive cash prizes and Google Pixel devices.",
+    "summary": "The Big Code is a prestigious coding competition designed for engineering students across India. It challenges participants through various rigorous stages, culminating in an AI-themed hackathon. Participants not only test their technical skills but also have the opportunity to showcase their innovative solutions to real-world problems. The event encourages collaboration and learning among the country's top engineering talent.",
+    "eligibility": "Open to engineering students in their 1st, 2nd, or pre-final year studying circuit branches.",
+    "highlights": [
+      "Multi-stage competition format includes qualifying rounds and a final hackathon.",
+      "Participants can win cash prizes and Google Pixel devices.",
+      "Opportunity for finalists to present solutions at the Google office.",
+      "Emphasis on algorithmic skills and problem-solving abilities."
+    ],
+    "application_deadline": "2026-03-12",
+    "difficulty": "Intermediate",
+    "cost": "Free",
+    "prize_value_usd": 10000,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "coding",
+      "hackathon",
+      "AI",
+      "engineering",
+      "national challenge",
+      "competition"
+    ],
+    "url": "https://www.hackerearth.com/challenges/hackathon/the-big-code/",
+    "id": "fc3c300362e5",
+    "last_checked": "2026-06-27T10:09:27.560285+00:00"
+  },
+  {
+    "name": "Innovation for Education Equity Hackathon",
+    "organizer": "ShikshaLokam",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Multi-week (1-3mo)",
+    "scope": "Regional (Asia)",
+    "domains": [
+      "Computer Science",
+      "Humanities"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "General Tech"
+    ],
+    "status": "completed",
+    "date": "2-22 January 2026",
+    "location": "Online",
+    "prize": "Winners share a total prize pool of ₹4,50,000.",
+    "summary": "The Innovation for Education Equity Hackathon encourages participants to develop technological solutions addressing various educational challenges. Set against the backdrop of India's education landscape, this year's event drew significant participation, aiming for systemic change through innovation. Collaborators will work on real-world issues, crafting open-source tools designed to benefit millions of students.",
+    "eligibility": "Open to anyone passionate about education equity and technology.",
+    "highlights": [
+      "Work on real challenges faced by education stakeholders.",
+      "Collaborate and network with experts from tech and education.",
+      "Get recognized for innovative solutions with a substantial prize pool.",
+      "Mentorship provided by industry professionals for winning teams."
+    ],
+    "application_deadline": "2025-12-22",
+    "difficulty": "Intermediate",
+    "cost": "Free",
+    "prize_value_usd": 5400,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "education",
+      "hackathon",
+      "innovation",
+      "technology",
+      "equity"
+    ],
+    "url": "https://www.hackerearth.com/challenges/hackathon/shikshalokam-2/",
+    "id": "16c278c21b2c",
+    "last_checked": "2026-06-27T10:09:38.174569+00:00"
+  },
+  {
+    "name": "Tesco Retail Media InnovAItion Jam",
+    "organizer": "HackerEarth",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Multi-week (1-3mo)",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Business / Economics"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "7 November - 5 January 2026",
+    "location": "Online",
+    "prize": "Total prize pool of INR 175,000 with main prizes of INR 100,000 and INR 75,000 for the top two teams.",
+    "summary": "The Tesco Retail Media InnovAItion Jam is an online hackathon designed to inspire innovative solutions for retail media using generative AI. Participants are challenged to create a prototype of a creative tool that enhances the advertisement process for smaller advertisers, focusing on both compliance and creativity. With a supportive environment, the event encourages collaboration among participants and presents valuable networking opportunities.",
+    "eligibility": "Open to all developers looking to showcase their creativity and technical skills.",
+    "highlights": [
+      "Opportunity to win INR 175,000 in prizes",
+      "Focus on empowering advertisers with generative AI tools",
+      "Encourages collaboration in a vibrant team setting",
+      "Experience networking opportunities with industry experts"
+    ],
+    "application_deadline": null,
+    "difficulty": "Intermediate",
+    "cost": "Free",
+    "prize_value_usd": 2100,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "hackathon",
+      "generative AI",
+      "retail",
+      "online",
+      "innovation"
+    ],
+    "url": "https://www.hackerearth.com/challenges/hackathon/tesco-retail-media-innovaition-jam/",
+    "id": "36fcefecc5f7",
+    "last_checked": "2026-06-27T10:09:46.737042+00:00"
+  },
+  {
+    "name": "Batam - Singapore Hackathon 2026",
+    "organizer": "Batam Innovation Center",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Regional (Asia)",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)",
+      "Business / Economics"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "Sustainability",
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "15-16 August 2026",
+    "location": "Kec. Batam Kota, Politeknik Negeri Batam",
+    "prize": "Prize details not specified.",
+    "summary": "The Batam - Singapore Hackathon 2026 invites participants to tackle real challenges impacting urban development on island cities. Focused on high-impact technologies such as AI and sustainability, this event encourages collaboration among regional innovators and industry leaders. With a limited number of teams and a tropical island setting, the hackathon aims to foster creative solutions that can benefit the broader Southeast Asian region.",
+    "eligibility": "Open to participants aged 18 and above.",
+    "highlights": [
+      "Focus on solving real urban challenges.",
+      "Collaboration with industry stakeholders.",
+      "Opportunity to build production-grade prototypes.",
+      "Limited team spots to ensure quality and diversity."
+    ],
+    "application_deadline": null,
+    "difficulty": "Intermediate",
+    "cost": "Varies",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": "https://builderbase.com/v2/event/batam-singapore-hackathon-2026",
+    "tags": [
+      "hackathon",
+      "sustainability",
+      "ai",
+      "indonesia",
+      "regional",
+      "innovation"
+    ],
+    "url": "https://www.eventbrite.sg/e/batam-singapore-hackathon-2026-tickets-1990684422696",
+    "id": "4bb6368bbea9",
+    "last_checked": "2026-06-27T10:10:05.679598+00:00"
+  },
+  {
+    "name": "Think Like an AI Hacker: Intro to Offensive AI Security",
+    "organizer": "Wissen International",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "Cybersecurity",
+      "AI / Machine Learning"
+    ],
+    "status": "upcoming",
+    "date": "24 July 2026",
+    "location": "Suntec Singapore Convention & Exhibition Centre, Singapore",
+    "prize": null,
+    "summary": "This workshop offers a comprehensive introduction to AI-powered ethical hacking and offensive security strategies. Designed for beginners and early-career professionals, participants will gain practical hands-on experience in modern ethical hacking concepts and explore the impactful intersection of AI and cybersecurity. The program is uniquely structured to provide insights into both offensive tactics and defensive operations, meeting the needs of those entering the cybersecurity landscape.",
+    "eligibility": "Open to students, early career professionals, and anyone interested in ethical hacking and cybersecurity.",
+    "highlights": [
+      "Hands-on pentesting workshop focused on AI in cybersecurity",
+      "Combines modern ethical hacking with AI techniques",
+      "Access to 150 virtual labs for extended practice",
+      "Facilitated discussions on risks, ethics, and governance in AI"
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Paid",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "singapore",
+      "cybersecurity",
+      "ai",
+      "workshop",
+      "beginner-friendly"
+    ],
+    "url": "https://www.eventbrite.com/e/think-like-an-ai-hacker-intro-to-offensive-ai-security-tickets-1989917336320",
+    "id": "f751672e7077",
+    "last_checked": "2026-06-27T10:10:18.915611+00:00"
+  },
+  {
+    "name": "Young Innovators 3D Bootcamp",
+    "organizer": "Think Design Make",
+    "companies": [],
+    "level": "Pre-University",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "Multiple dates available",
+    "location": "Acetech Centre, Singapore",
+    "prize": "Participants will leave with their own custom 3D-printed object.",
+    "summary": "The Young Innovators 3D Bootcamp provides a hands-on introduction to 3D printing and design for children aged 12-16. This workshop allows young creators to explore their imagination and creativity using beginner-friendly tools. Participants learn to design 3D models and operate printers, taking home their unique creations.",
+    "eligibility": "The workshop is designed for curious kids aged 12-16, with no prior experience required.",
+    "highlights": [
+      "Hands-on experience with 3D printing technology",
+      "Learn to create models using TinkerCAD",
+      "Take home a custom 3D-printed object",
+      "No prior experience required"
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Paid",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "singapore",
+      "3d-printing",
+      "kids",
+      "workshop",
+      "beginner-friendly"
+    ],
+    "url": "https://www.eventbrite.sg/e/young-innovators-3d-bootcamp-tickets-1980935292786",
+    "id": "ab098bc12230",
+    "last_checked": "2026-06-27T10:10:28.446913+00:00"
+  },
+  {
+    "name": "HackerX - Singapore",
+    "organizer": "HackerX",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Business / Economics"
+    ],
+    "fields": [
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "9 July 2026",
+    "location": "Singapore, Job Fair Singapore",
+    "prize": null,
+    "summary": "HackerX - Singapore is an invite-only recruiting event tailored for developers, focusing on connecting top talent with employers in an efficient and personalized manner. The event adopts a speed-dating format that allows employers to meet multiple candidates in quick succession, ensuring a productive networking experience. By targeting specific skills in areas like AI and Data Science, it caters to the needs of both job seekers and recruiters alike.",
+    "eligibility": "Open to employers looking to connect with developers in Singapore.",
+    "highlights": [
+      "Speed-dating format for efficient candidate connections",
+      "Targeted recruitment based on specific skill needs",
+      "Conducted by a globally recognized organizer",
+      "Focus on key technical skill sets in demand"
+    ],
+    "application_deadline": null,
+    "difficulty": "Intermediate",
+    "cost": "Paid",
+    "prize_value_usd": null,
+    "beginner_friendly": false,
+    "application_url": null,
+    "tags": [
+      "singapore",
+      "networking",
+      "developer recruitment",
+      "AI",
+      "business"
+    ],
+    "url": "https://www.eventbrite.com/e/hackerx-singapore-employer-ticket-79-tickets-1980051118196",
+    "id": "19e5c809416e",
+    "last_checked": "2026-06-27T10:10:37.207382+00:00"
+  },
+  {
+    "name": "Startup Pitch & Themed Networking Singapore",
+    "organizer": "Ascent Valley",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Business / Economics"
+    ],
+    "fields": [
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "25 August 2026",
+    "location": "Serangoon, Joji’s Diner",
+    "prize": "Featured contributors can gain spotlight exposure through Ascent Valley's platform.",
+    "summary": "This event offers a unique opportunity for entrepreneurs to present and refine their startup ideas through live pitches and themed networking. Attendees will engage in structured discussions with peers from various industries, aimed at providing valuable feedback. The evening is designed to foster connections among founders, investors, and operators, making it a vital part of the startup ecosystem in Singapore.",
+    "eligibility": "The event is open to founders and aspiring entrepreneurs, regardless of whether they have a startup.",
+    "highlights": [
+      "Interactive networking with peers and potential investors.",
+      "Live pitches from curated startups for feedback.",
+      "Thematic discussions that enhance idea clarity.",
+      "Opportunity for featured contributors to gain broader exposure."
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Paid",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "singapore",
+      "networking",
+      "startup",
+      "business",
+      "pitch"
+    ],
+    "url": "https://www.eventbrite.com/e/startup-pitch-themed-networking-singapore-unlock-your-idea-tickets-1991484908972",
+    "id": "46e7f506034d",
+    "last_checked": "2026-06-27T10:10:44.025713+00:00"
+  },
+  {
+    "name": "Clone the Founder with AI: 2-Day Intensive Masterclass",
+    "organizer": "Ai Hustle - BK HAN",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Business / Economics"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "status": "upcoming",
+    "date": "25-26 July 2026",
+    "location": "Singapore, BeyondX Building",
+    "prize": null,
+    "summary": "The 'Clone the Founder with AI' masterclass offers a unique opportunity for participants to engage in hands-on AI training to develop their personal founder clones. Scheduled over two full days, the event is designed for individuals looking to enhance their skills in AI within an informal and collaborative environment. Attendees will benefit from expert guidance and connect with like-minded individuals passionate about technology and entrepreneurship.",
+    "eligibility": "Open to anyone interested in learning about AI and entrepreneurship.",
+    "highlights": [
+      "Hands-on AI learning experience.",
+      "Networking opportunities with like-minded individuals.",
+      "Expert guidance from industry professionals.",
+      "Informal and interactive setting."
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Paid",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "singapore",
+      "ai",
+      "business",
+      "masterclass",
+      "beginner-friendly"
+    ],
+    "url": "https://www.eventbrite.sg/e/clone-the-founder-with-ai-2-day-intensive-masterclass-tickets-1991334745830",
+    "id": "c16e943511d5",
+    "last_checked": "2026-06-27T10:10:50.016024+00:00"
+  },
+  {
+    "name": "DesignTinkers 4-day Camp 2 (Jul)",
+    "organizer": "DesignTinkers Pte Ltd",
+    "companies": [],
+    "level": "Pre-University",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Humanities",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "21-24 July 2026",
+    "location": "Singapore, The Flow @ East Coast",
+    "prize": "No prizes are indicated for this camp.",
+    "summary": "The DesignTinkers 4-day Camp invites children to unleash their creativity through hands-on design and prototyping projects. Participants will engage in learning activities that cultivate innovation, problem-solving skills, and digital literacy using tools like TinkerCAD and 3D printing. Each day features fresh challenges that encourage exploration, making it an ideal choice for young aspiring innovators. This camp stands out for its focus on both creativity and technical knowledge, aimed at building confidence in future projects.",
+    "eligibility": "Children interested in creative projects are welcome to join the camp.",
+    "highlights": [
+      "4-day immersive experience focusing on design.",
+      "Hands-on learning with 3D printing.",
+      "Creativity and innovation-oriented activities.",
+      "Guided by experienced instructors."
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Paid",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "singapore",
+      "design",
+      "children",
+      "tech",
+      "education"
+    ],
+    "url": "https://www.eventbrite.sg/e/designtinkers-4-day-camp-2-jul-tickets-1991268718340",
+    "id": "0709b0205128",
+    "last_checked": "2026-06-27T10:10:59.813149+00:00"
   }
 ]
