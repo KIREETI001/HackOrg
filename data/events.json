@@ -7371,5 +7371,316 @@
     "url": "https://www.eventbrite.sg/e/designtinkers-4-day-camp-2-jul-tickets-1991268718340",
     "id": "0709b0205128",
     "last_checked": "2026-06-27T10:10:59.813149+00:00"
+  },
+  {
+    "name": "AI Hack 2026",
+    "organizer": "Devpost",
+    "companies": [],
+    "level": "Tertiary",
+    "timeline": "Single-day",
+    "scope": "Global",
+    "domains": [
+      "Computer Science"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "status": "upcoming",
+    "date": "29 June 2026",
+    "location": "Online",
+    "prize": "Five non-cash prizes including certificates and community recognition.",
+    "summary": "AI Hack 2026 is a global hackathon aimed at students passionate about artificial intelligence and technology. Participants will collaborate to create innovative solutions that address real-world challenges. The event encourages creativity and technical growth in a supportive environment, welcoming both beginners and experienced developers.",
+    "eligibility": "Open to students above the legal age of majority in their country of residence.",
+    "highlights": [
+      "Inclusive environment for all skill levels.",
+      "Focus on practical implementation and real-world impact.",
+      "Opportunity to showcase projects to industry professionals.",
+      "Multiple special awards for unique projects."
+    ],
+    "application_deadline": "2026-06-29",
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "hackathon",
+      "ai",
+      "students",
+      "innovation",
+      "global"
+    ],
+    "url": "https://the-ai-hack.devpost.com/",
+    "id": "8858646bab2c",
+    "last_checked": "2026-06-28T10:27:25.011166+00:00"
+  },
+  {
+    "name": "Kaya AI IIT India Hackathon 2026",
+    "organizer": "Kaya AI",
+    "companies": [
+      "Kaya AI"
+    ],
+    "level": "Tertiary",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "status": "upcoming",
+    "date": "10-11 July 2026",
+    "location": "India, IIT",
+    "prize": "Total prize pool of ₹350,000 for top teams.",
+    "summary": "The Kaya AI IIT India Hackathon 2026 invites students to build innovative AI-powered solutions for the construction industry, one of the largest sectors in need of digital transformation. Participants will address real-life challenges in tracks like Physical AI, Supply Chain, and Procurement, utilizing cutting-edge AI technologies. This hackathon not only promotes technical skills but also fosters collaboration among engineering minds from leading institutions.",
+    "eligibility": "Open to students of legal age, team participation required with 2 to 4 members.",
+    "highlights": [
+      "Focus on real-world problems in construction.",
+      "Offers substantial cash prizes for winners.",
+      "Encourages innovative and creative AI solutions.",
+      "Collaboration among India’s brightest engineering students."
+    ],
+    "application_deadline": "2026-07-10",
+    "difficulty": "Intermediate",
+    "cost": "Paid",
+    "prize_value_usd": 4200,
+    "beginner_friendly": false,
+    "application_url": null,
+    "tags": [
+      "ai",
+      "hackathon",
+      "construction",
+      "IIT",
+      "India"
+    ],
+    "url": "https://kaya-ai-iit-hackathon-2026.devpost.com/",
+    "id": "5eb287232a47",
+    "last_checked": "2026-06-28T10:27:31.578701+00:00"
+  },
+  {
+    "name": "Build the Future with AI — From Code to No-Code",
+    "organizer": "Devpost",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Global",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "Web3 / Blockchain"
+    ],
+    "status": "upcoming",
+    "date": "30 June 2026",
+    "location": "Online",
+    "prize": "Seven non-cash prizes including memberships and certificates.",
+    "summary": "The 'Build the Future with AI' hackathon invites participants to create innovative projects using AI, web technologies, and no-code tools. Designed for all skill levels, this global competition encourages students to solve real-world issues through collaboration and creativity. With diverse categories for prizes, participants have the opportunity to showcase their skills and gain recognition.",
+    "eligibility": "Students above the legal age of majority in their country can participate.",
+    "highlights": [
+      "Open to students worldwide, embracing all skill levels.",
+      "Focus on real-world solutions using AI and web technologies.",
+      "Opportunity to earn certificates and visibility on social media.",
+      "Collaboration encouraged, with options to work individually or in teams."
+    ],
+    "application_deadline": "2026-06-30",
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "global",
+      "ai",
+      "no-code",
+      "hackathon",
+      "student-friendly"
+    ],
+    "url": "https://build-the-future-with-ai.devpost.com/",
+    "id": "ce9f176c21a2",
+    "last_checked": "2026-06-28T10:27:37.811433+00:00"
+  },
+  {
+    "name": "Healthcare AI Symposium 2026",
+    "organizer": "SGInnovate",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Sciences (STEM)",
+      "Humanities"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "Healthcare"
+    ],
+    "status": "upcoming",
+    "date": "8-10 July 2026",
+    "location": "Singapore, Singapore",
+    "prize": null,
+    "summary": "The Healthcare AI Symposium 2026 is set to gather diverse stakeholders from the healthcare innovation ecosystem to explore advancements in AI and digital health. This three-day event includes a full-day masterclass and emphasizes collaboration among healthcare professionals, academics, and industry leaders. Participants will gain insights into the future of intelligent health through discussions and networking opportunities.",
+    "eligibility": "Open to anyone interested in healthcare innovation and technology.",
+    "highlights": [
+      "Focused on AI, MedTech, and digital health advancements.",
+      "Includes expert speakers from top healthcare institutions.",
+      "Offers a full-day masterclass with limited slots.",
+      "Promotes collaboration across various sectors and disciplines."
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Varies",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "healthcare",
+      "ai",
+      "symposium",
+      "singapore",
+      "innovation"
+    ],
+    "url": "https://www.sginnovate.com/event/healthcare-ai-symposium-2026",
+    "id": "6dea71a36c8f",
+    "last_checked": "2026-06-28T10:27:45.912837+00:00"
+  },
+  {
+    "name": "Friday Hacks",
+    "organizer": "NUS Hackers",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Business / Economics"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "Cybersecurity",
+      "General Tech"
+    ],
+    "status": "completed",
+    "date": "Annual",
+    "location": "Singapore",
+    "prize": "N/A",
+    "summary": "Friday Hacks is a series of themed hack sessions that bring together tech enthusiasts to explore innovative projects and discussions. Each session features different topics in technology such as AI, cybersecurity, and software development. Engaging with experts and hands-on activities, participants deepen their knowledge while networking with peers.",
+    "eligibility": "Open to all individuals interested in technology.",
+    "highlights": [
+      "Diverse topics ranging from AI to General Tech.",
+      "Strong community engagement and networking opportunities.",
+      "Focus on hands-on learning and practical applications.",
+      "Organized by a reputable student-led group at NUS."
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "singapore",
+      "hackathon",
+      "technology",
+      "networking",
+      "community"
+    ],
+    "url": "https://nushackers.org/archive/friday-hacks",
+    "id": "4af04888e562",
+    "last_checked": "2026-06-28T10:29:17.993224+00:00"
+  },
+  {
+    "name": "Friday Hacks",
+    "organizer": "NUS Hackers",
+    "companies": [
+      "Google",
+      "Quora",
+      "Palantir",
+      "Thought Works",
+      "Pivotal Labs",
+      "Nokia",
+      "Carousell",
+      "Viki"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Multi-day (1-3mo)",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "General Tech"
+    ],
+    "status": "ongoing",
+    "date": "Ongoing",
+    "location": "National University of Singapore",
+    "prize": null,
+    "summary": "Friday Hacks is a weekly meetup held at the National University of Singapore that focuses on sharing technical knowledge and facilitating discussions on research and hacks. Each session features one or two technical talks followed by a hacking session, making it a platform where both students and industry professionals can share their experiences. The event aims to cultivate a community that values open knowledge sharing, and it attracts a diverse audience of tech enthusiasts.",
+    "eligibility": "Anyone is welcome to attend and share their knowledge.",
+    "highlights": [
+      "Weekly technical talks at NUS.",
+      "Open to all – no special invitation required.",
+      "Diverse topics ranging from personal projects to new research.",
+      "Community-centric atmosphere with food provided."
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "singapore",
+      "tech",
+      "community",
+      "beginners",
+      "weekly"
+    ],
+    "url": "https://www.nushackers.org/fridayhacks/",
+    "id": "b599f9212c73",
+    "last_checked": "2026-06-28T10:30:26.677728+00:00"
+  },
+  {
+    "name": "National Olympiad in Informatics 2026",
+    "organizer": "National University of Singapore",
+    "companies": [],
+    "level": "Secondary",
+    "timeline": "Annual / ongoing",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science"
+    ],
+    "fields": [],
+    "status": "ongoing",
+    "date": "Annual",
+    "location": "Singapore",
+    "prize": "Prizes are awarded to top performers in the competition.",
+    "summary": "The National Olympiad in Informatics (NOI) is a premier event aimed at secondary school students in Singapore to showcase their skills in computer science. Participants engage in problem-solving and programming challenges that test their knowledge and abilities. This competition not only facilitates skill development but also serves as a stepping stone for students interested in furthering their studies in computer science and related fields.",
+    "eligibility": "Secondary school students in Singapore are eligible to participate.",
+    "highlights": [
+      "Focuses on secondary school students",
+      "Encourages problem-solving and programming skills",
+      "Offers opportunities for further studies in computer science",
+      "Open registration for participants through school channels"
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "singapore",
+      "computer science",
+      "secondary",
+      "no experience required"
+    ],
+    "url": "https://noisg.comp.nus.edu.sg/noi/",
+    "id": "54a7b61ae59f",
+    "last_checked": "2026-06-28T10:30:50.114344+00:00"
   }
 ]
