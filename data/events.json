@@ -7682,5 +7682,746 @@
     "url": "https://noisg.comp.nus.edu.sg/noi/",
     "id": "54a7b61ae59f",
     "last_checked": "2026-06-28T10:30:50.114344+00:00"
+  },
+  {
+    "name": "Open Atlas - AI for Social Good Hackathon 2026",
+    "organizer": "Open Atlas",
+    "companies": [
+      "OpenAI",
+      "Anthropic",
+      "GoUpBroad",
+      "OpenInvests",
+      "OpenHired",
+      "StudentsLanding",
+      "Render"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Multi-month (3-6mo)",
+    "scope": "Global",
+    "domains": [
+      "Computer Science",
+      "Business / Economics",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "Healthcare",
+      "FinTech"
+    ],
+    "status": "upcoming",
+    "date": "20 June - 20 August 2026",
+    "location": "Milpitas, CA, India Community Centre",
+    "prize": "$10,000 in cash and additional prizes",
+    "summary": "The Open Atlas Hackathon invites participants to create AI solutions that tackle real-world social issues such as immigration and healthcare. Competitors gain access to mentorship from AI professionals and various resources, culminating in a live pitch event in Milpitas. With a strong emphasis on social impact, teams can engage with significant challenges and aim for substantial cash prizes.",
+    "eligibility": "Participants must be above the legal age of majority in their country of residence, US only.",
+    "highlights": [
+      "Focus on social good, addressing significant societal challenges.",
+      "Access to mentorship from leading AI engineers.",
+      "Live pitching opportunity to industry judges and potential employers.",
+      "No registration fee, promoting equal participation."
+    ],
+    "application_deadline": "2026-08-20",
+    "difficulty": "Intermediate",
+    "cost": "Free",
+    "prize_value_usd": 10000,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "ai",
+      "socialgood",
+      "hackathon",
+      "us",
+      "free"
+    ],
+    "url": "https://oa-ai-for-social-good.devpost.com/",
+    "id": "1a34624e1916",
+    "last_checked": "2026-06-29T12:32:44.193746+00:00"
+  },
+  {
+    "name": "The Talent Hack",
+    "organizer": "Deutsche Telekom Digital Labs Private Limited",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Multi-week (1-3mo)",
+    "scope": "Global",
+    "domains": [
+      "Computer Science"
+    ],
+    "fields": [
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "10-15 July 2026",
+    "location": "Online",
+    "prize": "Details on prizes are not specified on the page.",
+    "summary": "The Talent Hack is an online technical challenge that invites participants to showcase their skills across various tech areas. Hosted by Deutsche Telekom Digital Labs, this event emphasizes real-world applications and opportunities for career advancement in tech. Participants will compete individually, allowing for a broad range of skills to be demonstrated in a competitive yet supportive environment.",
+    "eligibility": "Open to anyone interested in showcasing their technical skills.",
+    "highlights": [
+      "Hosted by a leading digital telecom company.",
+      "Open to participants globally.",
+      "Opportunity for career advancement.",
+      "Focus on real-world technical skills."
+    ],
+    "application_deadline": null,
+    "difficulty": "Intermediate",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": false,
+    "application_url": null,
+    "tags": [
+      "online",
+      "tech challenge",
+      "global",
+      "Deutsche Telekom",
+      "intermediate",
+      "opportunity"
+    ],
+    "url": "https://www.hackerearth.com/challenges/hackathon/the-talent-hack-build-compete-get-hired/",
+    "id": "3da6f07346f3",
+    "last_checked": "2026-06-29T12:33:01.603318+00:00"
+  },
+  {
+    "name": "Build Your First Successful AI SaaS Startup Today! - Workshop",
+    "organizer": "Blueqix",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Business / Economics",
+      "Computer Science"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "status": "ongoing",
+    "date": "Multiple dates",
+    "location": "Singapore, TBD",
+    "prize": null,
+    "summary": "This workshop is tailored for aspiring entrepreneurs wanting to embark on their AI SaaS journey. Attendees will emerge with practical frameworks to validate and launch their products, while gaining essential insights into market needs and user acquisition strategies. With interactive learning and real-world case studies, participants can develop a personalized action plan to ensure their startup's success. The program emphasizes hands-on exercises and expert guidance to help participants avoid common pitfalls in startup development.",
+    "eligibility": "Aspiring entrepreneurs, developers, product managers, and innovators can join, regardless of prior experience.",
+    "highlights": [
+      "Interactive learning with live exercises and discussions",
+      "Case studies from successful AI SaaS startups",
+      "Practical frameworks and templates provided",
+      "Focus on gaining confidence to attract paying customers"
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Varies",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "singapore",
+      "ai",
+      "startup",
+      "workshop",
+      "business"
+    ],
+    "url": "https://www.eventbrite.com/e/build-your-first-successful-ai-saas-startup-today-workshop-tickets-887025476077",
+    "id": "303ece06c16a",
+    "last_checked": "2026-06-29T12:33:27.500859+00:00"
+  },
+  {
+    "name": "Prompt to Profit — Learn Generative AI for Business and Innovation",
+    "organizer": "Blueqix",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Business / Economics",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "status": "upcoming",
+    "date": "Multiple dates",
+    "location": "Singapore, TBD",
+    "prize": null,
+    "summary": "This workshop offers entrepreneurs and business leaders the chance to explore the opportunities presented by generative AI. Participants will learn to craft engaging content, automate processes, and innovate with AI-driven products. The hands-on format emphasizes practical strategies, real-world case studies, and the potential for monetization in various business contexts. It's designed for anyone looking to drive growth and efficiency through AI.",
+    "eligibility": "Open to entrepreneurs, business leaders, marketers, and innovators interested in leveraging AI.",
+    "highlights": [
+      "Hands-on exercises for practical learning",
+      "Real-world case studies of AI applications",
+      "Focus on monetization strategies for AI-driven initiatives",
+      "Interactive format encouraging collaboration and idea sharing"
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Paid",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "singapore",
+      "ai",
+      "business",
+      "workshop",
+      "innovation"
+    ],
+    "url": "https://www.eventbrite.com/e/prompt-to-profit-learn-generative-ai-for-business-and-innovation-tickets-1846039998329",
+    "id": "e502ea98767a",
+    "last_checked": "2026-06-29T12:33:32.809873+00:00"
+  },
+  {
+    "name": "Relational Code 101: Mastering AI Business Intelligence in 90 Minutes",
+    "organizer": "KC Chettiar",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Business / Economics"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "status": "upcoming",
+    "date": "8 July 2026",
+    "location": "Singapore, Lifelong Learning Institute",
+    "prize": "Free admission with a complimentary Solar Driver™ door gift.",
+    "summary": "Relational Code 101 is a masterclass focusing on strategic thinking in AI and business intelligence, providing attendees with innovative frameworks to align resources towards growth. The event emphasizes understanding relationships rather than traditional coding logic, enabling participants to make clearer decisions in complex environments. Designed for a diverse audience, it welcomes anyone curious about the future of intelligence, independent of their technical background.",
+    "eligibility": "Open to founders, entrepreneurs, AI professionals, business leaders, researchers, students, and anyone interested in AI.",
+    "highlights": [
+      "Free admission with limited seating available.",
+      "No prior coding experience is required.",
+      "Hands-on live demonstration of Relational Code in action.",
+      "Networking opportunities with AI professionals and innovators."
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "singapore",
+      "ai",
+      "business",
+      "free",
+      "beginner-friendly",
+      "networking"
+    ],
+    "url": "https://www.eventbrite.sg/e/relational-code-101-mastering-ai-business-intelligence-in-90-minutes-tickets-1992182783333",
+    "id": "94c216929f99",
+    "last_checked": "2026-06-29T12:33:53.559202+00:00"
+  },
+  {
+    "name": "Kids Coding Camp: Learn by Coding Fun Games, Animations",
+    "organizer": "LCCL Coding Academy",
+    "companies": [],
+    "level": "Primary",
+    "timeline": "Multi-week (1-3mo)",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science"
+    ],
+    "fields": [
+      "General Tech"
+    ],
+    "status": "ongoing",
+    "date": "29 June - 2 July 2026",
+    "location": "Singapore, LCCL Coding Academy",
+    "prize": "Certificate awarded for completing a level.",
+    "summary": "The Kids Coding Camp provides a comprehensive introduction to coding fundamentals through engaging games and animations. Each session is designed to cater to different age groups, ensuring personalized mentorship and progression in coding skills. Children participate in small learning groups, allowing for tailored instruction and a focus on closing learning gaps.",
+    "eligibility": "Open to children aged 7 to 11 years old.",
+    "highlights": [
+      "Small teacher-student ratio of 1:6",
+      "Progression up to level 3 over several camps",
+      "Hands-on experience with laptops and materials provided",
+      "In-person learning environment"
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Paid",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "singapore",
+      "kids-coding",
+      "beginner-friendly",
+      "animations",
+      "games"
+    ],
+    "url": "https://www.eventbrite.sg/e/returning-kids-coding-camp-learn-by-coding-fun-games-animations-4-day-tickets-1252645068119",
+    "id": "27518b73323f",
+    "last_checked": "2026-06-29T12:34:01.604963+00:00"
+  },
+  {
+    "name": "Kids Coding Camp: Learn by Coding Fun Games, Animations & Apps",
+    "organizer": "LCCL Coding Academy",
+    "companies": [],
+    "level": "Primary",
+    "timeline": "Multi-week (1-3mo)",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science"
+    ],
+    "fields": [
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "29 June - 3 July 2026",
+    "location": "Singapore, LCCL Coding Academy, 583 Orchard Road #13-01 Forum Office Tower",
+    "prize": "Certificate awarded for completing a level",
+    "summary": "The Kids Coding Camp offers an engaging way for children aged 7-11 to learn coding fundamentals through fun games, animations, and apps. With a small teacher-student ratio, campers are supported to learn at their own pace over multiple sessions. The camp emphasizes skill development through a progressive curriculum, ensuring participants are well-prepared as they advance through levels.",
+    "eligibility": "Children aged 7-11 years can join the program.",
+    "highlights": [
+      "Designed specifically for young learners aged 7-11",
+      "Small class sizes for personalized attention",
+      "Progressive curriculum from beginner to advanced levels",
+      "Certificates awarded upon completion of each level"
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Paid",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "singapore",
+      "coding",
+      "kids",
+      "beginner-friendly",
+      "education"
+    ],
+    "url": "https://www.eventbrite.sg/e/returning-kids-coding-camp-learn-by-coding-fun-games-animations-apps-tickets-1251025273269",
+    "id": "04b74cbaf0b7",
+    "last_checked": "2026-06-29T12:34:10.484562+00:00"
+  },
+  {
+    "name": "Minecraft Coding Trial Classes",
+    "organizer": "Empire AI Singapore",
+    "companies": [],
+    "level": "Pre-University",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "Multiple dates",
+    "location": "Singapore, Empire AI Novena Campus, Goldhill Shopping Centre",
+    "prize": "Participants receive a free T-shirt for joining the trial class.",
+    "summary": "The Minecraft Coding Trial Classes offer a beginner-friendly introduction to coding and game development for children ages 8 to 12. Using the popular game Minecraft, kids engage in hands-on learning that blends creativity with technical skills. The classes are designed to foster curiosity in science, engineering, and problem-solving, making coding accessible and fun for young learners.",
+    "eligibility": "Children aged 8 to 12 are welcome to join the trial classes.",
+    "highlights": [
+      "Hands-on experience with coding through Minecraft",
+      "Beginner-friendly environment encouraging creativity",
+      "No devices needed, just fun learning",
+      "Trial class includes a free T-shirt"
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Paid",
+    "prize_value_usd": 20,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "singapore",
+      "coding",
+      "kids",
+      "minecraft",
+      "beginner-friendly"
+    ],
+    "url": "https://www.eventbrite.sg/e/coding-school-for-kids-near-me-minecraft-coding-trial-classes-ages-812-tickets-1983603316918",
+    "id": "fcfd7cc4fba8",
+    "last_checked": "2026-06-29T12:34:19.465329+00:00"
+  },
+  {
+    "name": "Roblox Coding Trial Classes",
+    "organizer": "Empire AI Singapore",
+    "companies": [],
+    "level": "Pre-University",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "Multiple dates",
+    "location": "Singapore, Empire AI River Valley",
+    "prize": "Each participant receives a free T-shirt.",
+    "summary": "The Roblox Coding Trial Classes aim to introduce children aged 9 to 19 to the world of coding and game design. Participants engage in hands-on projects that enhance problem-solving and logical thinking while learning to create their own Roblox games. Designed to be beginner-friendly, these classes require no prior experience and promise an engaging, interactive learning environment.",
+    "eligibility": "Classes are open to children aged 9 to 19, suitable for all skill levels.",
+    "highlights": [
+      "Beginner-friendly game design and coding.",
+      "Hands-on projects using Roblox Studio and Lua.",
+      "Focus on creativity and logical thinking skills.",
+      "Free T-shirt for attendees."
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Paid",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "singapore",
+      "coding",
+      "kids",
+      "game design",
+      "roblox",
+      "beginner-friendly"
+    ],
+    "url": "https://www.eventbrite.sg/e/coding-school-for-kids-near-me-roblox-coding-trial-classes-ages-919-tickets-1983600972907",
+    "id": "5ace0694fb28",
+    "last_checked": "2026-06-29T12:34:25.378486+00:00"
+  },
+  {
+    "name": "Kids Coding Camp: Learn by Coding Fun Games, Animations",
+    "organizer": "LCCL Coding Academy",
+    "companies": [],
+    "level": "Pre-University",
+    "timeline": "Multi-week (1-3mo)",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science"
+    ],
+    "fields": [
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "1-4 July 2026, 8-11 July 2026, 15-18 July 2026, 22-25 July 2026",
+    "location": "Singapore, LccL Coding Academy, 583 Orchard Road #13-01 Forum Office Tower",
+    "prize": "Certificate awarded for completing a level.",
+    "summary": "The Kids Coding Camp, organized by LCCL Coding Academy, is designed for children aged 7 to 11, focusing on coding through interactive fun games and animations. With a commitment to personalized learning, the camp boasts a low teacher-student ratio to ensure that each child progresses at their own pace. The curriculum allows for gradual advancement through different levels, making it an ideal choice for young beginners. The approachable format and supportive environment make coding accessible and engaging for all participants.",
+    "eligibility": "Children aged 7 to 11 years old with no prior coding experience.",
+    "highlights": [
+      "Small class sizes with a 1:6 teacher-student ratio.",
+      "Hands-on learning with fun games and animations.",
+      "Flexible intakes over several weeks.",
+      "Certificate of completion for each level achieved."
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Paid",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "singapore",
+      "coding",
+      "kids",
+      "beginner-friendly",
+      "animations"
+    ],
+    "url": "https://www.eventbrite.sg/e/beginners-kids-coding-camp-learn-by-coding-fun-games-animations-4-day-tickets-1252648367989",
+    "id": "a292683458e6",
+    "last_checked": "2026-06-29T12:34:34.357761+00:00"
+  },
+  {
+    "name": "Minecraft Coding Trial Classes for Kids",
+    "organizer": "Empire AI Singapore",
+    "companies": [],
+    "level": "Pre-University",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "General Tech"
+    ],
+    "status": "ongoing",
+    "date": "Multiple dates",
+    "location": "River Valley, Empire AI",
+    "prize": "Free T-shirt for participants.",
+    "summary": "The Minecraft Coding Trial Classes offer an engaging introduction to coding and game development for children aged 8 to 12 in Singapore. This program combines education with creativity, allowing kids to explore coding through the popular game Minecraft. It emphasizes hands-on learning in a fun environment and encourages problem-solving and logical thinking.",
+    "eligibility": "Children aged 8 to 12 can join the classes.",
+    "highlights": [
+      "Beginner-friendly introduction to coding",
+      "Interactive learning through Minecraft",
+      "Emphasis on creativity and problem-solving",
+      "Hands-on experience in game design"
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Paid",
+    "prize_value_usd": 20,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "singapore",
+      "coding",
+      "kids",
+      "minecraft",
+      "beginner-friendly"
+    ],
+    "url": "https://www.eventbrite.sg/e/coding-school-for-kids-near-me-minecraft-coding-trial-classes-ages-812-tickets-1983600978925",
+    "id": "65a4b0f2d119",
+    "last_checked": "2026-06-29T12:34:39.785766+00:00"
+  },
+  {
+    "name": "Coding & Robotics: OSMO Trial",
+    "organizer": "The Young Maker (Education Hub)",
+    "companies": [],
+    "level": "Pre-University",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "4 July 2026",
+    "location": "Singapore, The Young Maker (Stars of Kovan)",
+    "prize": "N/A",
+    "summary": "The Coding & Robotics: OSMO Trial offers a unique introduction to coding for children aged 4-6. This hands-on experience using the OSMO platform allows kids to explore coding concepts in a fun and engaging way. The trial is designed to boost problem-solving skills and creativity, making it perfect for young learners. The event promises a creative and interactive environment to foster early STEM learning.",
+    "eligibility": "Open to children ages 4-6 with no prior coding experience required.",
+    "highlights": [
+      "Beginner-friendly experience for young children.",
+      "Hands-on learning combining physical interaction with digital play.",
+      "Encourages creativity and collaboration through interactive challenges.",
+      "Free trial class designed for all skill levels."
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "singapore",
+      "coding",
+      "kids",
+      "stem",
+      "beginner-friendly",
+      "hands-on"
+    ],
+    "url": "https://www.eventbrite.sg/e/coding-robotics-osmo-trial-ages-4-6-stars-of-kovan-tickets-1991851995939",
+    "id": "59a7d7fbee82",
+    "last_checked": "2026-06-29T12:34:48.584721+00:00"
+  },
+  {
+    "name": "Kids Coding Camp: Learn by Coding Fun Games, Animations & Apps",
+    "organizer": "LCCL Coding Academy",
+    "companies": [],
+    "level": "Pre-University",
+    "timeline": "Multi-week (1-3mo)",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science"
+    ],
+    "fields": [
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "29 Jun - 3 Jul 2026",
+    "location": "Singapore, LccL Coding Academy",
+    "prize": "Certificate awarded for completing a level.",
+    "summary": "This Kids Coding Camp provides a unique opportunity for beginners to dive into coding through engaging activities. With a curriculum designed to progress from basic to advanced concepts, participants are mentored according to their own pace. The camp includes small learning groups to ensure personalized attention, making it an excellent choice for young learners looking to build a solid foundation in coding.",
+    "eligibility": "Open to children aged 7 to 11, with no prior coding experience required.",
+    "highlights": [
+      "5-day immersive camp with interactive learning.",
+      "Small teacher-student ratio for personalized attention.",
+      "Multiple intakes available throughout the year.",
+      "Focus on learning through fun games and animations."
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Paid",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "singapore",
+      "kids",
+      "coding",
+      "beginner-friendly",
+      "camp"
+    ],
+    "url": "https://www.eventbrite.sg/e/beginners-kids-coding-camp-learn-by-coding-fun-games-animations-apps-tickets-1252639922729",
+    "id": "94b8fe9bac9a",
+    "last_checked": "2026-06-29T12:34:53.778476+00:00"
+  },
+  {
+    "name": "Coding & Robotics: Scratch Trial",
+    "organizer": "The Young Maker (Education Hub)",
+    "companies": [],
+    "level": "Pre-University",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "5 July 2026",
+    "location": "Singapore, The Young Maker (Stars of Kovan)",
+    "prize": "No monetary prizes, but a great hands-on learning experience.",
+    "summary": "The Scratch Trial is an engaging introductory coding class tailored for children aged 7-11. This hands-on session not only teaches coding concepts using Scratch but also promotes problem-solving skills, creativity, and teamwork among participants. Designed to be fun and interactive, it fosters a love for technology through engaging activities, making it perfect for first-time learners.",
+    "eligibility": "Children aged 7-11 who are either complete beginners or have some coding experience can join.",
+    "highlights": [
+      "Interactive coding and robotics experience for kids.",
+      "No prior coding experience required.",
+      "Focus on hands-on learning and creativity.",
+      "Promotes critical thinking and teamwork."
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "singapore",
+      "coding",
+      "robotics",
+      "children",
+      "beginner-friendly"
+    ],
+    "url": "https://www.eventbrite.sg/e/coding-robotics-scratch-trial-ages-7-11-stars-of-kovan-tickets-1991852150401",
+    "id": "af46feae85af",
+    "last_checked": "2026-06-29T12:34:59.293065+00:00"
+  },
+  {
+    "name": "Lego Robotics Trial Classes",
+    "organizer": "Empire AI Singapore",
+    "companies": [],
+    "level": "Pre-University",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "Multiple dates",
+    "location": "8 Mohamed Sultan Road #03-01, River Valley, Singapore, 238958",
+    "prize": null,
+    "summary": "Empire AI Singapore offers Lego Robotics Trial Classes designed for children ages 4 to 12, focusing on coding and robotics. These beginner-friendly classes use hands-on activities to promote learning in engineering and science through creative play with LEGO bricks. With sessions tailored for various age groups, this program nurtures problem-solving and innovation skills essential for today's learning environment.",
+    "eligibility": "Children aged 4 to 12 are eligible to join these trial classes.",
+    "highlights": [
+      "Beginner-friendly coding and robotics classes for kids.",
+      "Hands-on activities that combine fun with learning.",
+      "Focus on essential STEM and problem-solving skills.",
+      "Multiple age-appropriate programs available."
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Paid",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "singapore",
+      "robotics",
+      "kids",
+      "coding",
+      "beginner-friendly"
+    ],
+    "url": "https://www.eventbrite.sg/e/coding-school-for-kids-near-me-lego-robotics-trial-classes-ages-4-12-tickets-1983600988955",
+    "id": "df60b9719ed0",
+    "last_checked": "2026-06-29T12:35:05.782744+00:00"
+  },
+  {
+    "name": "Lego Robotics Trial Classes",
+    "organizer": "Empire AI Singapore",
+    "companies": [],
+    "level": "Pre-University",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "General Tech"
+    ],
+    "status": "ongoing",
+    "date": "Multiple dates",
+    "location": "Singapore, Goldhill Shopping Centre, 151B Thomson Road, Level 3",
+    "prize": "Participants receive a free t-shirt.",
+    "summary": "The Lego Robotics Trial Classes offer a hands-on approach to coding and robotics for children aged 4 to 12. This program encourages creativity and problem-solving through engaging activities with LEGO® materials. It's an excellent opportunity for kids to learn foundational engineering and science concepts in a fun environment.",
+    "eligibility": "Children aged 4 to 12 can participate in the trial classes.",
+    "highlights": [
+      "Beginner-friendly coding and robotics classes",
+      "Hands-on learning with LEGO® materials",
+      "Fosters creativity and critical thinking",
+      "Free t-shirt for participants"
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Paid",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "singapore",
+      "robotics",
+      "children",
+      "STEM",
+      "beginner-friendly"
+    ],
+    "url": "https://www.eventbrite.sg/e/coding-school-for-kids-near-me-lego-robotics-trial-classes-ages-4-12-tickets-1983604183510",
+    "id": "b33df1294a75",
+    "last_checked": "2026-06-29T12:35:10.951322+00:00"
+  },
+  {
+    "name": "Play The Zombie Hunt AI Adaptation With New Friends",
+    "organizer": "Better Say Yess",
+    "companies": [
+      "VGrat"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Humanities"
+    ],
+    "fields": [
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "18 July 2026",
+    "location": "Paya Lebar MRT Station, 15 Paya Lebar Road, Singapore, 409049",
+    "prize": "Top scorers will win $150 Grab vouchers and may be considered for a position at VGrat.",
+    "summary": "This unique event combines a high-stakes card game with networking opportunities for ambitious individuals. Participants engage in a themed challenge set in a future where AI rules, enabling social connections while testing strategy and creativity. The event promises prizes and an exploratory pathway into potential career opportunities in wealth management.",
+    "eligibility": "Participants must be ages 21 and above to join.",
+    "highlights": [
+      "Engaging high-stakes card game.",
+      "Networking with like-minded peers.",
+      "Prizes for top performers.",
+      "Potential career opportunities with VGrat."
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": 150,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "singapore",
+      "networking",
+      "card game",
+      "ai",
+      "free"
+    ],
+    "url": "https://www.eventbrite.sg/e/play-the-zombie-hunt-ai-adaptation-with-new-friends-tickets-1992304588656",
+    "id": "ab5daed100d6",
+    "last_checked": "2026-06-29T12:35:16.496940+00:00"
   }
 ]
