@@ -8423,5 +8423,188 @@
     "url": "https://www.eventbrite.sg/e/play-the-zombie-hunt-ai-adaptation-with-new-friends-tickets-1992304588656",
     "id": "ab5daed100d6",
     "last_checked": "2026-06-29T12:35:16.496940+00:00"
+  },
+  {
+    "name": "Now Ship It: A Founders’ Breakfast on Scaling Vibecoded Products",
+    "organizer": "JDI Group",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Business / Economics"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "status": "upcoming",
+    "date": "9 July 2026",
+    "location": "Kuala Lumpur, Singapore, Lorong AI @ One-North",
+    "prize": "N/A",
+    "summary": "This event fosters an intimate environment for 20 vibecoder founders to engage with experienced CTOs about scaling their products. The conversation focuses on real challenges in product development, including technical debt and strategic infrastructure decisions. It's a unique opportunity for non-technical founders to gain invaluable insights from peers who have successfully navigated similar paths, without the pressure of pitching.",
+    "eligibility": "Curated gathering limited to 20 revenue-stage founders in the vibecoding space.",
+    "highlights": [
+      "Candid discussions with experienced CTOs.",
+      "Focused on non-technical founders making informed technical decisions.",
+      "Breakfast provided for a casual networking atmosphere.",
+      "Limited invite-only format ensuring personalized interactions."
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Paid",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "vibecoded",
+      "founders",
+      "breakfast",
+      "AI",
+      "networking"
+    ],
+    "url": "https://www.sginnovate.com/event/now-ship-it-founders-breakfast-scaling-vibecoded-products",
+    "id": "21121c63d9d7",
+    "last_checked": "2026-06-30T10:56:55.665129+00:00"
+  },
+  {
+    "name": "Shanghai WeStart TOP100 Competition - Singapore Division",
+    "organizer": "SGInnovate",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Business / Economics",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "15 July 2026",
+    "location": "Singapore, The Meeting Point Event Hall, 73B Ayer Rajah Cres., 139966",
+    "prize": "Top winners can receive up to RMB 1 million from the Shanghai SME Technology Innovation Fund.",
+    "summary": "The Shanghai WeStart TOP100 Competition provides a unique platform for startups aiming to enter the Chinese market. The Singapore Pitch Day features live pitches from high-potential startups, offering insights into cross-border technology trends. This event acts as a crucial link for international innovators to access support and funding necessary for expansion in Shanghai.",
+    "eligibility": "Startups looking to scale and enter the Chinese market are encouraged to participate.",
+    "highlights": [
+      "Watch top-tier startups pitch innovative ideas live.",
+      "Network with investors and industry leaders shaping the tech landscape.",
+      "Gain insights into the latest cross-border technology trends.",
+      "Access potential funding opportunities and mentorship."
+    ],
+    "application_deadline": "2026-05-31",
+    "difficulty": "Intermediate",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "singapore",
+      "startup",
+      "pitch",
+      "innovation",
+      "networking",
+      "business"
+    ],
+    "url": "https://www.sginnovate.com/event/shanghai-westart-top100-competition-singapore-division",
+    "id": "20f195c3cf7f",
+    "last_checked": "2026-06-30T10:57:06.454296+00:00"
+  },
+  {
+    "name": "Hack for Public Good",
+    "organizer": "Open Government Products",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Annual / ongoing",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Business / Economics"
+    ],
+    "fields": [
+      "General Tech"
+    ],
+    "status": "ongoing",
+    "date": "Annual",
+    "location": "Singapore",
+    "prize": "Recognition for innovative solutions contributing to public services.",
+    "summary": "Hack for Public Good is an annual hackathon that promotes collaboration among public sector officers to innovate and develop impactful technology solutions. Over the course of the event, participants work in teams to create projects aimed at transforming public services. The initiative not only builds community engagement but also emphasizes the importance of technology in enhancing citizen interaction with government services.",
+    "eligibility": "All government officers and stakeholders interested in leveraging technology for public good can participate.",
+    "highlights": [
+      "Brings together OGP officers to collaborate on innovative solutions.",
+      "Focus on building technology that benefits public service.",
+      "Encourages the development of projects that enhance citizen engagement.",
+      "Annual event fostering community and continuous improvement."
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "singapore",
+      "public good",
+      "technology",
+      "innovation",
+      "hackathon"
+    ],
+    "url": "https://hack.gov.sg/",
+    "id": "8424d44b194e",
+    "last_checked": "2026-06-30T10:57:15.209580+00:00"
+  },
+  {
+    "name": "GovTech STACK Developer Conference 2022",
+    "organizer": "Government Technology Agency of Singapore",
+    "companies": [
+      "Salesforce",
+      "Amazon Web Services",
+      "Thoughtworks",
+      "Microsoft",
+      "Databricks",
+      "Hashicorp",
+      "GitLab"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Humanities",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "General Tech",
+      "Cloud Technology",
+      "Data"
+    ],
+    "status": "completed",
+    "date": "15-16 November 2022",
+    "location": "Singapore, Suntec Convention Centre",
+    "prize": null,
+    "summary": "The GovTech STACK Developer Conference 2022 was Singapore’s premier government-led event for developers, designed to connect the government with industry leaders and the tech community. The hybrid conference featured expert keynote speakers discussing advancements in cloud technology, smart cities, and data strategies. Taking place over two days, it offered a platform for innovators to explore future technologies and networking opportunities.",
+    "eligibility": "Open to developers, tech enthusiasts, and industry professionals.",
+    "highlights": [
+      "Featuring industry leaders and keynotes on cutting-edge tech",
+      "Opportunities for hands-on workshops",
+      "Insightful discussions on cloud and smart city trends",
+      "A blend of in-person and virtual participation options"
+    ],
+    "application_deadline": null,
+    "difficulty": "Intermediate",
+    "cost": "Paid",
+    "prize_value_usd": null,
+    "beginner_friendly": false,
+    "application_url": "https://www.govtechstack.sg",
+    "tags": [
+      "singapore",
+      "technology",
+      "developer-conference",
+      "cloud",
+      "workshops"
+    ],
+    "url": "https://www.tech.gov.sg/events/stack-developer-conference-2022/",
+    "id": "d251a545b9d0",
+    "last_checked": "2026-06-30T10:57:35.804152+00:00"
   }
 ]
