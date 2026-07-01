@@ -8606,5 +8606,358 @@
     "url": "https://www.tech.gov.sg/events/stack-developer-conference-2022/",
     "id": "d251a545b9d0",
     "last_checked": "2026-06-30T10:57:35.804152+00:00"
+  },
+  {
+    "name": "Agentic AI Innovation Challenge 2026",
+    "organizer": "Devpost",
+    "companies": [
+      "Apple",
+      "Google",
+      "Microsoft",
+      "FedEx",
+      "TikTok",
+      "Motorola",
+      "Netflix",
+      "ServiceNow",
+      "Credit Karma"
+    ],
+    "level": "Tertiary",
+    "timeline": "Multi-week (1-3mo)",
+    "scope": "Global",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "15 July 2026",
+    "location": "Online",
+    "prize": "Three non-cash prizes along with recognition certificates and social media promotion.",
+    "summary": "The Agentic AI Innovation Challenge 2026 offers a platform for students to develop innovative AI agents that address real-world issues across various sectors, including healthcare and sustainability. This online hackathon encourages creativity and real-world impact, challenging participants to build solutions that can reason and act autonomously. With a diverse judging panel and an array of prizes, this event promises to highlight and reward outstanding technological innovations.",
+    "eligibility": "Open to students above the legal age of majority in their country of residence.",
+    "highlights": [
+      "Focuses on developing autonomous AI agents.",
+      "Open to global participation.",
+      "Judging by industry professionals from top tech firms.",
+      "Offers multiple avenues for recognition and prizes."
+    ],
+    "application_deadline": "2026-07-15",
+    "difficulty": "Intermediate",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": false,
+    "application_url": null,
+    "tags": [
+      "ai",
+      "hackathon",
+      "innovation",
+      "global",
+      "student"
+    ],
+    "url": "https://agentic-ai-innovation-2026.devpost.com/",
+    "id": "beca1b0553e6",
+    "last_checked": "2026-07-01T11:23:48.153614+00:00"
+  },
+  {
+    "name": "Roblox Coding Trial Classes",
+    "organizer": "Empire AI Singapore",
+    "companies": [],
+    "level": "Pre-University",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "Multiple dates",
+    "location": "Singapore, Empire AI Novena Campus, Goldhill Shopping Centre",
+    "prize": "None specified.",
+    "summary": "The Roblox Coding Trial Classes offer a unique opportunity for children aged 9 to 19 to dive into game design and coding. This hands-on program is designed to cultivate creativity and problem-solving skills in young learners. Participants will explore the world of Roblox using the Lua programming language, turning their gaming aspirations into reality.",
+    "eligibility": "The classes are suitable for kids aged 9 to 19, with no prior coding experience required.",
+    "highlights": [
+      "Beginner-friendly coding and game design classes.",
+      "Hands-on interactive projects to develop problem-solving skills.",
+      "Opportunity to learn Lua programming for game development.",
+      "Trial class available to spark interest in coding."
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Paid",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "singapore",
+      "coding",
+      "game design",
+      "kids",
+      "beginner-friendly"
+    ],
+    "url": "https://www.eventbrite.sg/e/coding-school-for-kids-near-me-roblox-coding-trial-classes-ages-919-tickets-1983602725148",
+    "id": "895630fb6c47",
+    "last_checked": "2026-07-01T11:24:41.603700+00:00"
+  },
+  {
+    "name": "Coding & Robotics: Scratch Trial",
+    "organizer": "The Young Maker (Education Hub)",
+    "companies": [],
+    "level": "Pre-University",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "General Tech"
+    ],
+    "status": "completed",
+    "date": "4 July 2026",
+    "location": "Singapore, The Young Maker (Stars of Kovan)",
+    "prize": "This event is a free trial class focused on introducing coding to children.",
+    "summary": "The Scratch Trial class provides a unique opportunity for children ages 7-11 to explore coding in a fun and interactive environment. This one-hour session encourages creativity while teaching coding concepts through hands-on activities. With no prior experience required, the trial is designed to foster problem-solving skills and build confidence in young learners. Parents are welcome to accompany their children as they embark on this exciting tech journey.",
+    "eligibility": "Children aged 7-11 who want to learn coding.",
+    "highlights": [
+      "Hands-on learning with visual programming",
+      "Age-appropriate introduction to STEM education",
+      "Promotes teamwork through collaborative projects",
+      "No previous coding experience needed"
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "singapore",
+      "coding",
+      "robotics",
+      "children",
+      "free"
+    ],
+    "url": "https://www.eventbrite.sg/e/coding-robotics-scratch-trial-ages-7-11-stars-of-kovan-tickets-1991852009981",
+    "id": "92e65a193777",
+    "last_checked": "2026-07-01T11:24:50.813385+00:00"
+  },
+  {
+    "name": "Drone Soccer Championship Finals",
+    "organizer": "Perennial Business City",
+    "companies": [],
+    "level": "Secondary",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "24-26 July 2026",
+    "location": "Singapore, Perennial Business City",
+    "prize": "Cash prizes and medals for the top three teams in each category.",
+    "summary": "The Drone Soccer Championship Finals will showcase competitive gameplay across two categories, catering to secondary school and club teams. Held over three days, the event emphasizes teamwork and technology in a thrilling atmosphere. Participants will compete for cash prizes, enhancing the excitement of this emerging sport.",
+    "eligibility": "Teams from secondary schools and clubs can participate in this championship.",
+    "highlights": [
+      "Two categories for different skill levels",
+      "Engaging experience blending technology and sports",
+      "Cash prizes for winners and runners-up",
+      "In-person competition at Perennial Business City"
+    ],
+    "application_deadline": null,
+    "difficulty": "Intermediate",
+    "cost": "Varies",
+    "prize_value_usd": 3000,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "singapore",
+      "drone-soccer",
+      "sports",
+      "competition",
+      "intermediate"
+    ],
+    "url": "https://www.eventbrite.sg/e/drone-soccer-championship-finals-from-24-26-july-2026-tickets-1990628425206",
+    "id": "15cfa66a3386",
+    "last_checked": "2026-07-01T11:24:56.957775+00:00"
+  },
+  {
+    "name": "10th SIBF 2026: Concert Division Competition",
+    "organizer": "Wind Bands Association of Singapore",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Humanities"
+    ],
+    "fields": [
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "25 July 2026",
+    "location": "Singapore, Yong Siew Toh Conservatory of Music",
+    "prize": "Participating ensembles receive evaluation from an esteemed panel of judges.",
+    "summary": "The 10th SIBF Concert Division Competition is a prestigious musical event showcasing outstanding wind bands and ensembles. It offers a unique platform for performers to present innovative concert experiences rather than focusing solely on technical evaluation. This competition celebrates artistic expression and aims to elevate standards in wind band performance while fostering international collaboration.",
+    "eligibility": "Ensembles from youth, community, university, and professional levels are invited to participate.",
+    "highlights": [
+      "Premier platform for exceptional wind ensembles",
+      "Focus on innovative concert presentation",
+      "Evaluation by renowned judges in the music industry",
+      "Celebration of artistry and musical storytelling"
+    ],
+    "application_deadline": null,
+    "difficulty": null,
+    "cost": "Paid",
+    "prize_value_usd": null,
+    "beginner_friendly": false,
+    "application_url": null,
+    "tags": [
+      "singapore",
+      "music",
+      "competition",
+      "wind bands",
+      "arts"
+    ],
+    "url": "https://www.eventbrite.com/e/10th-sibf-2026-concert-division-competition-tickets-1992496305085",
+    "id": "61979dd2433b",
+    "last_checked": "2026-07-01T11:25:03.528312+00:00"
+  },
+  {
+    "name": "Early Creators: 5-6 y.o. Coding & Problem Solving",
+    "organizer": "LCCL Coding Academy",
+    "companies": [],
+    "level": "Pre-University",
+    "timeline": "Multi-week (1-3mo)",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Humanities"
+    ],
+    "fields": [
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "Multiple dates throughout July and August 2026",
+    "location": "Singapore, LccL Coding Academy, 583 Orchard Road #13-01 Forum Office Tower",
+    "prize": "Completion certificate for students finishing the curriculum.",
+    "summary": "This coding camp is tailored for young children aged 5-6, focusing on foundational skills in coding and problem-solving. It offers an engaging learning environment with a low student-to-teacher ratio, ensuring personalized guidance. No prior experience is required, making it an excellent opportunity for young learners to get introduced to technology in a fun and supportive setting.",
+    "eligibility": "Children aged 5-6 years old are eligible to join the camp.",
+    "highlights": [
+      "Designed specifically for young children.",
+      "Small class sizes to enhance learning effectiveness.",
+      "No prior coding experience necessary.",
+      "Focus on foundational skills for future competitions."
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Varies",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "singapore",
+      "coding",
+      "kids",
+      "beginners",
+      "problem-solving"
+    ],
+    "url": "https://www.eventbrite.sg/e/beginners-early-creators-5-6-yo-coding-problem-solving-registration-1252655138239",
+    "id": "3354dc82e5c2",
+    "last_checked": "2026-07-01T11:25:10.675052+00:00"
+  },
+  {
+    "name": "Early Creators: 5-6 y.o. Coding & Problem Solving",
+    "organizer": "LCCL Coding Academy",
+    "companies": [],
+    "level": "Pre-University",
+    "timeline": "Multi-week (1-3mo)",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Humanities"
+    ],
+    "fields": [
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "1-4 July 2026",
+    "location": "Singapore, LccL Coding Academy",
+    "prize": "Completion certificates for participants who complete the curriculum.",
+    "summary": "This coding camp is specifically designed for young children aged 5 to 6 years, focusing on coding and problem-solving skills. It offers a nurturing environment with a low teacher-student ratio, ensuring personalized attention. The camp acts as a preparatory program for future competitions and lays down a solid foundation for tech literacy in early education.",
+    "eligibility": "Children aged 5 to 6 years are welcome to join, with no prior experience required.",
+    "highlights": [
+      "Focused on coding and problem-solving for young children",
+      "Low teacher-student ratio for personalized learning",
+      "No prior coding experience required",
+      "Completion certificates for students who finish the curriculum"
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Paid",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "singapore",
+      "coding",
+      "children",
+      "beginner-friendly",
+      "problem-solving"
+    ],
+    "url": "https://www.eventbrite.sg/e/beginners-early-creators-5-6-yo-coding-problem-solving-4-day-registration-1252673834159",
+    "id": "4b809a6fe332",
+    "last_checked": "2026-07-01T11:25:16.819146+00:00"
+  },
+  {
+    "name": "Web3 x Blockchain Tech Talk",
+    "organizer": "TAC Club",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Business / Economics",
+      "Computer Science"
+    ],
+    "fields": [
+      "Web3 / Blockchain"
+    ],
+    "status": "upcoming",
+    "date": "21 July 2026",
+    "location": "Singapore, online",
+    "prize": null,
+    "summary": "The Web3 x Blockchain Tech Talk is an online networking event designed to connect professionals and entrepreneurs with interests in the Web3 and Blockchain sectors. Participants will explore the opportunities and challenges these technologies present, with insights from experts. This event promotes meaningful discussions and collaboration amid a community eager to learn and grow together.",
+    "eligibility": "Founders, startups, and professionals interested in Web3 and Blockchain are encouraged to join.",
+    "highlights": [
+      "Opportunity to network with industry professionals",
+      "Gain insights from experts on Web3 and Blockchain",
+      "Interactive discussions in a friendly environment",
+      "No cost to participate"
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "singapore",
+      "web3",
+      "networking",
+      "blockchain",
+      "free",
+      "online"
+    ],
+    "url": "https://www.eventbrite.com/e/web3-x-blockchain-tech-talk-free-online-tickets-1992447286469",
+    "id": "2621a695a4e2",
+    "last_checked": "2026-07-01T11:25:34.172116+00:00"
   }
 ]
