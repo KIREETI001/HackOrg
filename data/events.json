@@ -8959,5 +8959,138 @@
     "url": "https://www.eventbrite.com/e/web3-x-blockchain-tech-talk-free-online-tickets-1992447286469",
     "id": "2621a695a4e2",
     "last_checked": "2026-07-01T11:25:34.172116+00:00"
+  },
+  {
+    "name": "The ESOP Primer: From Plan Design, Policy, to Valuations",
+    "organizer": "SGInnovate",
+    "companies": [
+      "Qapita",
+      "MissionBridge",
+      "WongPartnership"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Business / Economics"
+    ],
+    "fields": [
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "15 July 2026",
+    "location": "Kuala Lumpur, Singapore",
+    "prize": "No prizes are offered for this event.",
+    "summary": "The ESOP Primer workshop focuses on essential aspects of implementing successful Employee Stock Option Programs. Designed for founders and decision-makers, this event provides insights from equity experts on effective management, policy formulation, and valuation practices for ESOPs. Participants can engage with professionals over dinner to clarify their queries, enhancing their understanding of ESOP frameworks in Southeast Asia.",
+    "eligibility": "This workshop is geared towards founders and decision-makers in companies looking to improve or establish their ESOP.",
+    "highlights": [
+      "In-depth workshops covering ESOP management, policy, and valuation",
+      "Networking opportunities with equity experts",
+      "Open to founders and decision-makers seeking to understand ESOPs",
+      "Engagement over dinner to address specific queries"
+    ],
+    "application_deadline": null,
+    "difficulty": "Intermediate",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "singapore",
+      "esop",
+      "business",
+      "networking",
+      "workshop"
+    ],
+    "url": "https://www.sginnovate.com/event/esop-primer-plan-design-policy-valuations",
+    "id": "4a8faffbfa43",
+    "last_checked": "2026-07-03T10:36:22.083527+00:00"
+  },
+  {
+    "name": "Startupbootcamp Sustainability Singapore 2026 Demo Day",
+    "organizer": "Startupbootcamp",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Business / Economics",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "Sustainability",
+      "FinTech",
+      "AgriTech"
+    ],
+    "status": "upcoming",
+    "date": "16 July 2026",
+    "location": "Kuala Lumpur, Singapore, Online",
+    "prize": "N/A",
+    "summary": "The Startupbootcamp Sustainability Singapore 2026 Demo Day showcases the culmination of an intensive accelerator program for ten innovative startups. Attendees will witness pitches that tackle pressing environmental and social challenges, focusing on sustainability, FinTech, Food & AgriTech, and Supply Chain management. The event promises networking opportunities with industry leaders and potential investors, highlighting ground-breaking solutions poised to influence the future of a sustainable economy.",
+    "eligibility": "Investors, corporate leaders, and mentors are invited to participate.",
+    "highlights": [
+      "Showcase of ten innovative startups in sustainability sectors.",
+      "Opportunity to connect with investors and corporate partners.",
+      "Insights into scalable solutions for regional challenges.",
+      "Networking with leaders in the sustainability and technology sectors."
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": "https://www.startupbootcamp.com.au/demo-day/SS26/register",
+    "tags": [
+      "sustainability",
+      "demo day",
+      "startup",
+      "singapore",
+      "innovative solutions"
+    ],
+    "url": "https://www.sginnovate.com/event/startupbootcamp-sustainability-singapore-2026-demo-day",
+    "id": "2ff5c5c3f610",
+    "last_checked": "2026-07-03T10:36:31.764256+00:00"
+  },
+  {
+    "name": "Hack&Roll 2026",
+    "organizer": "NUS Hackers",
+    "companies": [],
+    "level": "Pre-University",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "General Tech"
+    ],
+    "status": "completed",
+    "date": "15 February 2026",
+    "location": "National University of Singapore",
+    "prize": "Participants had the opportunity to win various prizes for their innovative projects.",
+    "summary": "Hack&Roll 2026 was Singapore’s largest student-run hackathon, attracting participants from various backgrounds. The event focused on fostering creativity and innovation among students, encouraging them to showcase their technical skills. Participants engaged in a 24-hour intensive coding session, culminating in project presentations and awards.",
+    "eligibility": "Open to students from various educational institutions.",
+    "highlights": [
+      "Largest student-run hackathon in Singapore.",
+      "Emphasis on collaboration and creativity.",
+      "Opportunities for networking with peers and industry professionals.",
+      "Charity element to support local initiatives."
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "singapore",
+      "hackathon",
+      "student-run",
+      "beginner-friendly"
+    ],
+    "url": "https://nushackers.org/",
+    "id": "1f2aaf079eab",
+    "last_checked": "2026-07-03T10:37:04.178675+00:00"
   }
 ]
