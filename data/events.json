@@ -9092,5 +9092,143 @@
     "url": "https://nushackers.org/",
     "id": "1f2aaf079eab",
     "last_checked": "2026-07-03T10:37:04.178675+00:00"
+  },
+  {
+    "name": "Global AI Filmmaking Hackathon",
+    "organizer": "EAST2046",
+    "companies": [
+      "TapNow",
+      "Bionic Awards"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Multi-week (1-3mo)",
+    "scope": "Global",
+    "domains": [
+      "Computer Science",
+      "Humanities"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "4-11 July 2026",
+    "location": "London, Imperial College London and LSE",
+    "prize": "£1,000 in cash prizes divided among various categories.",
+    "summary": "The Global AI Filmmaking Hackathon invites creators to blend AI with filmmaking, exploring how data transforms narrative into emotional cinema. Participants will work in teams to produce short films that leverage provided datasets and AI methods. The event includes mentorship from industry experts, offering a unique opportunity to innovate in the realm of AI-driven storytelling.",
+    "eligibility": "Open to students of legal age in their country, while companies and professional organizations are not eligible to participate.",
+    "highlights": [
+      "Access to specialized datasets and unique AI tools.",
+      "Collaborations and mentorship from a BAFTA-winning filmmaker.",
+      "Focus on innovative storytelling that intertwines data and cinema.",
+      "Final films may be showcased by Bionic Awards, enhancing exposure."
+    ],
+    "application_deadline": "2026-07-10",
+    "difficulty": "Intermediate",
+    "cost": "Free",
+    "prize_value_usd": 1300,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "ai",
+      "filmmaking",
+      "hackathon",
+      "london",
+      "students"
+    ],
+    "url": "https://global-ai-film-hackathon.devpost.com/",
+    "id": "ba96af39b715",
+    "last_checked": "2026-07-04T10:09:30.105700+00:00"
+  },
+  {
+    "name": "Few Operators Will Show You How They Really Scale AI",
+    "organizer": "SGInnovate",
+    "companies": [
+      "Matar Holding Company"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)",
+      "Business / Economics"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "Data Analytics"
+    ],
+    "status": "upcoming",
+    "date": "7 July 2026",
+    "location": "Online",
+    "prize": null,
+    "summary": "This event features a fireside chat with Said Nour Toure from Matar Holding Company, focusing on the practicalities of scaling AI in food manufacturing. Participants will gain insights into the innovative approaches being taken to enhance production efficiency and minimize downtime. The discussion will cover the interplay of technology, people, and processes in successful AI implementation. It's a unique opportunity for professionals interested in the intersection of AI and industrial operations.",
+    "eligibility": "Open to professionals and individuals interested in AI and food manufacturing.",
+    "highlights": [
+      "Insights from an industry leader in food manufacturing.",
+      "Focus on real-world applications of AI in production.",
+      "Interactive discussion format for engagement.",
+      "Relevance to current trends in food security and industrial efficiency."
+    ],
+    "application_deadline": null,
+    "difficulty": "Intermediate",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "ai",
+      "food manufacturing",
+      "online",
+      "sginnovate",
+      "business",
+      "data analytics"
+    ],
+    "url": "https://www.sginnovate.com/event/few-operators-will-show-you-how-they-really-scale-ai-one-gcc-food-leader-will",
+    "id": "49db2ca59dbc",
+    "last_checked": "2026-07-04T10:09:39.268678+00:00"
+  },
+  {
+    "name": "SHELLGym",
+    "organizer": "SGInnovate",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "Cybersecurity"
+    ],
+    "status": "upcoming",
+    "date": "18 July 2026",
+    "location": "Kuala Lumpur, CyberSG TIG Collaboration Centre, 139951",
+    "prize": null,
+    "summary": "SHELLGym is a practical cybersecurity event aimed at individuals looking to enhance their skills in a collaborative environment. Participants can engage with various exercises such as Windows forensics and reverse engineering, tailored for both beginners and experienced individuals. This unique format allows attendees to work alongside like-minded peers and progress at their own pace while acquiring hands-on experience.",
+    "eligibility": "Open to anyone interested in enhancing their cybersecurity skills.",
+    "highlights": [
+      "Hands-on exercises in a collaborative environment",
+      "Guided walkthroughs of real-life cybersecurity challenges",
+      "Opportunities to network with professionals and peers",
+      "Accessible for both beginners and experienced individuals"
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "singapore",
+      "cybersecurity",
+      "workshop",
+      "beginner-friendly",
+      "hands-on"
+    ],
+    "url": "https://www.sginnovate.com/event/shellgym-0",
+    "id": "f330f52e79dd",
+    "last_checked": "2026-07-04T10:09:53.969003+00:00"
   }
 ]
