@@ -9230,5 +9230,265 @@
     "url": "https://www.sginnovate.com/event/shellgym-0",
     "id": "f330f52e79dd",
     "last_checked": "2026-07-04T10:09:53.969003+00:00"
+  },
+  {
+    "name": "Relational Code 101: Mastering AI Business Intelligence (2nd Intake)",
+    "organizer": "KC Chettiar",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Business / Economics"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "status": "upcoming",
+    "date": "22 July 2026",
+    "location": "Singapore, Lifelong Learning Institute",
+    "prize": "Participants receive a complimentary Solar Driver™ Door Gift.",
+    "summary": "Relational Code 101 is an engaging masterclass designed for those curious about the strategic application of AI in business intelligence. With a focus on relationships rather than traditional coding logic, this session aims to equip attendees with skills to enhance decision-making and leverage AI effectively. The course emphasizes that anyone can grasp its concepts, regardless of technical background.",
+    "eligibility": "Anyone with curiosity and a willingness to think differently can join, no prior coding experience required.",
+    "highlights": [
+      "Learn a new framework for understanding intelligence.",
+      "Focus on strategic thinking and AI alignment.",
+      "No coding experience necessary.",
+      "Live demonstration of practical applications."
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "singapore",
+      "ai",
+      "business",
+      "free",
+      "workshop"
+    ],
+    "url": "https://www.eventbrite.sg/e/relational-code-101-mastering-ai-business-intelligence-2nd-intake-tickets-1992899143987",
+    "id": "d46a6b1d424f",
+    "last_checked": "2026-07-05T10:12:57.503931+00:00"
+  },
+  {
+    "name": "AI-Driven Development Meets EU CRA: Are You Ready?",
+    "organizer": "Eventbrite",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Business / Economics"
+    ],
+    "fields": [
+      "Cybersecurity",
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "9 July 2026",
+    "location": "Singapore, WeWork - Office Space & Coworking",
+    "prize": null,
+    "summary": "This seminar focuses on the intersection of AI-driven development and new cybersecurity regulations, particularly the EU Cyber Resilience Act. It offers attendees critical insights into adapting development processes to comply with evolving global standards. Participants will learn how to implement scalable compliance practices and enhance their software supply chain resilience. The event is particularly relevant for organizations seeking to maintain competitiveness in a rapidly changing regulatory landscape.",
+    "eligibility": "Open to professionals and organizations interested in cybersecurity and compliance.",
+    "highlights": [
+      "Explore evolving global cybersecurity regulations.",
+      "Learn to address risks related to AI-assisted development.",
+      "Implement automated compliance practices.",
+      "Network with industry professionals in a collaborative space."
+    ],
+    "application_deadline": null,
+    "difficulty": "Intermediate",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "singapore",
+      "cybersecurity",
+      "compliance",
+      "ai",
+      "seminar"
+    ],
+    "url": "https://www.eventbrite.com/e/ai-driven-development-meets-eu-cra-are-you-ready-tickets-1989633299759",
+    "id": "aa521eb93e98",
+    "last_checked": "2026-07-05T10:13:05.899149+00:00"
+  },
+  {
+    "name": "Singapore Tech Mixer and Social",
+    "organizer": "Singapore Tech Social",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Ongoing",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Business / Economics"
+    ],
+    "fields": [
+      "General Tech"
+    ],
+    "status": "ongoing",
+    "date": "Multiple dates",
+    "location": "Molly Malone's Irish Pub, 56 Circular Rd, Singapore",
+    "prize": "No prize offered as this is a networking event.",
+    "summary": "The Singapore Tech Mixer and Social is a weekly gathering designed to foster networking among tech professionals across various fields. Attendees can connect over drinks, share ideas, and explore job opportunities in a casual environment. This event welcomes individuals at all experience levels, making it an inclusive space for burgeoning talent and seasoned experts alike.",
+    "eligibility": "Open to anyone interested in technology and networking.",
+    "highlights": [
+      "Casual networking environment with afterwork drinks.",
+      "Opportunities for job referrals and industry insights.",
+      "Skill-sharing sessions and discussions on tech trends.",
+      "Mentorship possibilities for juniors and seniors."
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Paid",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "singapore",
+      "tech",
+      "networking",
+      "ai",
+      "beginner-friendly"
+    ],
+    "url": "https://www.eventbrite.com/e/singapore-tech-mixer-and-social-tech-ai-data-it-tickets-1992987848304",
+    "id": "2bf763b0d2e2",
+    "last_checked": "2026-07-05T10:13:20.286903+00:00"
+  },
+  {
+    "name": "Johor Bahru Tech Mixer and Social",
+    "organizer": "Johor Bahru Tech Social",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Ongoing",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Business / Economics"
+    ],
+    "fields": [
+      "General Tech"
+    ],
+    "status": "ongoing",
+    "date": "Fridays, ongoing",
+    "location": "Johor Bahru, Space Cafe, Holiday Villa JBCC",
+    "prize": null,
+    "summary": "The Johor Bahru Tech Mixer and Social aims to create a vibrant networking environment for tech professionals. With afterwork drinks and casual networking opportunities, attendees can connect with others in the tech industry, share ideas, and discover job opportunities. The atmosphere is designed to welcome everyone, from seasoned professionals to those just starting their careers in tech.",
+    "eligibility": "All tech professionals, students, and graduates are welcome to participate.",
+    "highlights": [
+      "Casual networking environment with afterwork drinks",
+      "Opportunities to connect with industry professionals",
+      "Skill sharing and discussions on current tech trends",
+      "Mentorship connections and collaboration opportunities"
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Paid",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "networking",
+      "tech",
+      "Johor Bahru",
+      "beginner-friendly",
+      "afterwork"
+    ],
+    "url": "https://www.eventbrite.com/e/johor-bahru-tech-mixer-and-social-tech-ai-data-it-tickets-1992609942979",
+    "id": "344c9a82786b",
+    "last_checked": "2026-07-05T10:13:29.077961+00:00"
+  },
+  {
+    "name": "Founders Talk x AI Talk to Grow your Startup",
+    "organizer": "TAC Club",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Business / Economics",
+      "Computer Science"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "status": "upcoming",
+    "date": "21 July 2026",
+    "location": "Online",
+    "prize": null,
+    "summary": "This online event brings together startup founders and business professionals eager to leverage AI for growth. Participants will engage in discussions on the challenges of scaling businesses while discovering innovative tech solutions. It serves as an excellent networking opportunity to foster partnerships among like-minded individuals.",
+    "eligibility": "Founders, CEOs, and startup professionals interested in AI are welcome to join.",
+    "highlights": [
+      "Expert insights on integrating AI into business strategies.",
+      "Networking opportunities with diverse startup founders.",
+      "Interactive discussions in a relaxed setting.",
+      "Access to valuable advice for startup growth."
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "singapore",
+      "ai",
+      "startup",
+      "networking",
+      "free"
+    ],
+    "url": "https://www.eventbrite.com/e/founders-talk-x-ai-talk-to-grow-your-startup-free-online-tickets-1992414682951",
+    "id": "cac8737c0865",
+    "last_checked": "2026-07-05T10:13:42.841889+00:00"
+  },
+  {
+    "name": "Marketing AI Talk and Business Networking",
+    "organizer": "TECH SHOW ASIA COMMUNITY",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Business / Economics",
+      "Computer Science"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "status": "upcoming",
+    "date": "21 July 2026",
+    "location": "Online",
+    "prize": null,
+    "summary": "The Marketing AI Talk and Business Networking event offers a unique platform for professionals and entrepreneurs to explore how artificial intelligence can transform businesses. It provides opportunities for networking, learning, and collaboration among attendees from various industries. This exclusive online event emphasizes interactive discussions and practical insights from experts to help participants navigate AI applications in their operations.",
+    "eligibility": "Open to founders, startups, and AI enthusiasts looking to integrate AI into their business strategies.",
+    "highlights": [
+      "Connect with like-minded professionals across diverse industries",
+      "Gain insights on automating business processes using AI",
+      "Engage in interactive discussions in a relaxed environment",
+      "Explore opportunities for partnerships and collaborations"
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "singapore",
+      "ai",
+      "networking",
+      "business",
+      "online",
+      "free"
+    ],
+    "url": "https://www.eventbrite.com/e/marketing-ai-talk-and-business-networking-free-online-tickets-1992414332904",
+    "id": "17025f0d0592",
+    "last_checked": "2026-07-05T10:13:50.956943+00:00"
   }
 ]
