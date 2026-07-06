@@ -9490,5 +9490,263 @@
     "url": "https://www.eventbrite.com/e/marketing-ai-talk-and-business-networking-free-online-tickets-1992414332904",
     "id": "17025f0d0592",
     "last_checked": "2026-07-05T10:13:50.956943+00:00"
+  },
+  {
+    "name": "OneInbox AI Internship Hackathon 2026",
+    "organizer": "OneInbox",
+    "companies": [
+      "Apple",
+      "Google",
+      "Outlook"
+    ],
+    "level": "Tertiary",
+    "timeline": "Multi-week (1-3mo)",
+    "scope": "Global",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "status": "upcoming",
+    "date": "2-25 July 2026",
+    "location": "Bengaluru, OJONE",
+    "prize": "Paid internship opportunities with stipends of ₹20,000–₹25,000 per month.",
+    "summary": "The OneInbox AI Internship Hackathon is designed to connect aspiring engineers with internship opportunities in AI. It features a two-round format, where participants first design solutions in an online challenge before demonstrating them in a live setting to the OneInbox engineering team. The event focuses on practical problem-solving, offering candidates a chance to showcase their technical skills in real-world scenarios.",
+    "eligibility": "Open to students who are of legal age in their country of residence.",
+    "highlights": [
+      "Global reach attracting talent from various countries.",
+      "Focus on engineering problems that reflect real-world challenges.",
+      "Opportunity to secure internships based on performance.",
+      "Structured format with clear evaluation criteria."
+    ],
+    "application_deadline": "2026-07-20",
+    "difficulty": "Intermediate",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": false,
+    "application_url": null,
+    "tags": [
+      "ai",
+      "hackathon",
+      "internship",
+      "engineering",
+      "global"
+    ],
+    "url": "https://oneinbox-ai-internship-30647.devpost.com/",
+    "id": "4eec07c753a2",
+    "last_checked": "2026-07-06T12:04:50.574997+00:00"
+  },
+  {
+    "name": "OregonHacks",
+    "organizer": "OregonHacks",
+    "companies": [],
+    "level": "Pre-University",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Humanities"
+    ],
+    "fields": [
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "15-16 August 2026",
+    "location": "Portland, Oregon",
+    "prize": "$100 in cash prizes distributed across multiple winners.",
+    "summary": "OregonHacks invites students from the Portland-Metro area to participate in a welcoming and inclusive hackathon focused on social good. This event is designed for beginners and provides a friendly environment for young developers to showcase their creativity and technical skills. Participants will create technology that positively impacts their community, with the ultimate goal of fostering innovation and collaboration among peers.",
+    "eligibility": "Only students aged 13 to 24 from the Portland-Metro area can participate.",
+    "highlights": [
+      "Beginner-friendly event focusing on first-time hackers.",
+      "Opportunities for collaboration with peers.",
+      "Focus on projects that solve real community problems.",
+      "Prizes for winners to encourage innovation."
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": 100,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "portland",
+      "hackathon",
+      "beginner-friendly",
+      "social-good",
+      "youth",
+      "technology"
+    ],
+    "url": "https://oregonhacks.devpost.com/",
+    "id": "93772b2c0184",
+    "last_checked": "2026-07-06T12:04:57.979431+00:00"
+  },
+  {
+    "name": "TableCon Quest 2026",
+    "organizer": "Eliphant Pte Ltd",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [],
+    "fields": [],
+    "status": "upcoming",
+    "date": "1-2 August 2026",
+    "location": "Suntec Singapore Convention & Exhibition Centre, Singapore",
+    "prize": null,
+    "summary": "TableCon Quest 2026 offers an engaging experience for tabletop gaming enthusiasts, with a variety of RPG sessions scheduled throughout the two-day event. It aims to bring together gamers of all ages for an immersive and interactive experience. Participants can enjoy both structured sessions and casual gameplay, making it suitable for both newcomers and experienced players in the tabletop gaming community.",
+    "eligibility": "All ages are welcome to participate in the event.",
+    "highlights": [
+      "Diverse RPG sessions available on both days.",
+      "In-person event located at a major convention center.",
+      "Open to all ages, fostering inclusive participation.",
+      "A unique opportunity to engage in tabletop gaming culture."
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Paid",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "singapore",
+      "tabletop gaming",
+      "RPG",
+      "fun",
+      "event"
+    ],
+    "url": "https://www.eventbrite.sg/e/tablecon-quest-2026-tickets-1985118966266",
+    "id": "12f751dc8930",
+    "last_checked": "2026-07-06T12:05:40.065510+00:00"
+  },
+  {
+    "name": "Cityluxe x Thorn & Key Whisk & Wonder: A Journaling RPG Afternoon",
+    "organizer": "Cityluxe",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Humanities"
+    ],
+    "fields": [
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "11 July 2026",
+    "location": "Singapore, Cityluxe WorkRoom",
+    "prize": null,
+    "summary": "Join a unique solo journaling RPG workshop that encourages creativity and imagination through writing. This session provides an opportunity for participants to craft a whimsical character running a magical café and explore engaging prompts. It is designed to be beginner-friendly, fostering an inclusive environment for creativity without prior experience needed.",
+    "eligibility": "Open to anyone with curiosity and a willingness to explore, no experience required.",
+    "highlights": [
+      "Interactive solo journaling RPG experience",
+      "Focus on creativity and storytelling",
+      "Designed for beginners with no prior experience necessary",
+      "Small-group setting promotes personal engagement"
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Paid",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "singapore",
+      "journaling",
+      "rpg",
+      "beginner-friendly",
+      "creative"
+    ],
+    "url": "https://www.eventbrite.sg/e/cityluxe-x-thorn-key-whisk-wonder-a-journaling-rpg-afternoon-tickets-1992415346937",
+    "id": "95cb91310446",
+    "last_checked": "2026-07-06T12:05:49.492601+00:00"
+  },
+  {
+    "name": "3D Modelling Workshop for Kids",
+    "organizer": "The Young Maker (Education Hub)",
+    "companies": [],
+    "level": "Pre-University",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "14 July 2026",
+    "location": "Singapore, The Young Maker (Lowland Road)",
+    "prize": "Participants will take home their own digital 3D model.",
+    "summary": "This workshop introduces kids to the exciting world of 3D modelling using Tinkercad. It provides hands-on experience in creating custom 3D designs, encouraging creativity and design thinking. Students will learn foundational skills in digital modelling while working on their projects, fostering confidence and independence.",
+    "eligibility": "The workshop is designed for kids with no prior experience in 3D modelling.",
+    "highlights": [
+      "Beginner-friendly environment focused on kids",
+      "Hands-on experience with Tinkercad for 3D design",
+      "Participants create and take home their own 3D models",
+      "Short duration of 3 hours makes it accessible and engaging"
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "singapore",
+      "3d-modelling",
+      "workshop",
+      "kids",
+      "beginner-friendly"
+    ],
+    "url": "https://www.eventbrite.sg/e/bootcamp-3-hour-3d-modelling-workshop-for-kids-tickets-1993255940174",
+    "id": "a7f0bfe50cd2",
+    "last_checked": "2026-07-06T12:06:04.440367+00:00"
+  },
+  {
+    "name": "Play Zombie Hunt (AI Version) In The 2138 Borderland",
+    "organizer": "Better Say Yess",
+    "companies": [
+      "VGrat"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Humanities"
+    ],
+    "fields": [
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "18 July 2026",
+    "location": "Paya Lebar MRT Station, Singapore",
+    "prize": "Top scorers will win $150 Grab vouchers.",
+    "summary": "Play Zombie Hunt is an interactive elimination card game that combines strategy with social deduction in a futuristic setting. Participants will engage in battles as humans or AI, making alliances and challenging their peers. This event is an excellent opportunity for networking with like-minded individuals while competing for exciting prizes.",
+    "eligibility": "Participants must be 21 years of age or older to join.",
+    "highlights": [
+      "Engaging game based on popular Zombie Hunt",
+      "Opportunity to connect with ambitious peers",
+      "Themed around a unique futuristic narrative",
+      "Complimentary food and beverages provided"
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": 150,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "singapore",
+      "game",
+      "networking",
+      "free",
+      "card-game",
+      "general-tech"
+    ],
+    "url": "https://www.eventbrite.sg/e/play-zombie-hunt-ai-version-in-the-2138-borderland-tickets-1992304588656",
+    "id": "a23086ef2eb7",
+    "last_checked": "2026-07-06T12:06:18.387393+00:00"
   }
 ]
