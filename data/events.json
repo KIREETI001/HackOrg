@@ -9748,5 +9748,188 @@
     "url": "https://www.eventbrite.sg/e/play-zombie-hunt-ai-version-in-the-2138-borderland-tickets-1992304588656",
     "id": "a23086ef2eb7",
     "last_checked": "2026-07-06T12:06:18.387393+00:00"
+  },
+  {
+    "name": "YouCam API Skin AI & Apparel VTO Hackathon",
+    "organizer": "Perfect Corp",
+    "companies": [
+      "Devpost"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Multi-week (1-3mo)",
+    "scope": "Global",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "AR/VR",
+      "E-commerce/Retail"
+    ],
+    "status": "upcoming",
+    "date": "17 August 2026",
+    "location": "Online",
+    "prize": "$6,000 in total cash prizes plus API credits",
+    "summary": "The YouCam API Skin AI & Apparel VTO Hackathon invites participants to innovate in the realm of skincare and fashion retail using advanced AI and AR technologies. Teams are encouraged to build prototypes that demonstrate practical applications of YouCam's APIs, with a focus on providing clear consumer value. With substantial prizes on offer, including $5,000 for the first place, this hackathon aims to foster creativity and technical skill among developers and visionaries.",
+    "eligibility": "Participants must be above the legal age of majority in their country of residence.",
+    "highlights": [
+      "Access to advanced AI and AR technologies",
+      "Opportunity to win significant cash prizes",
+      "Unique challenge to integrate multiple YouCam APIs",
+      "Showcase innovations for the future of skincare and fashion retail"
+    ],
+    "application_deadline": "2026-08-17T11:45:00-04:00",
+    "difficulty": "Intermediate",
+    "cost": "Free",
+    "prize_value_usd": 6000,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "hackathon",
+      "ai",
+      "fashion",
+      "ar",
+      "ecommerce",
+      "online"
+    ],
+    "url": "https://youcam-api.devpost.com/",
+    "id": "c634fe93f346",
+    "last_checked": "2026-07-07T10:54:51.324715+00:00"
+  },
+  {
+    "name": "Founders' Roundtable Lunch: Managing Finances at the Growth Stage",
+    "organizer": "SGInnovate",
+    "companies": [
+      "Microsoft",
+      "Openspace Capital",
+      "Carta"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Business / Economics"
+    ],
+    "fields": [
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "14 July 2026",
+    "location": "Singapore, Hong Leong Building, 16 Raffles Quay, #24-01, Carta Singapore",
+    "prize": null,
+    "summary": "This roundtable offers a unique opportunity for seed-stage founders to engage in candid discussions about managing finances during the critical growth phase. With an intimate setting, attendees can expect valuable insights from industry leaders on various financial topics relevant to scaling startups. The focus on real-world experiences and peer discussions creates a tailored learning environment that can significantly benefit participating entrepreneurs.",
+    "eligibility": "Open to seed-stage founders with US$100K+ ARR or those raising/scaling through Series A–B.",
+    "highlights": [
+      "Intimate discussions with experts in growth-stage finance.",
+      "Candid conversations held under Chatham House Rule.",
+      "Curated seating to enhance the relevance of discussions.",
+      "Focus on practical financial strategies for scaling."
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "singapore",
+      "finances",
+      "startup",
+      "founders",
+      "networking"
+    ],
+    "url": "https://www.sginnovate.com/event/founders-roundtable-lunch-managing-finances-growth-stage",
+    "id": "76b72d98d026",
+    "last_checked": "2026-07-07T10:54:59.901629+00:00"
+  },
+  {
+    "name": "NBS x SAP Labs East Asia Singapore Leadership Dialogue - The Future of Enterprise in an AI-Native World",
+    "organizer": "Nanyang Business School",
+    "companies": [
+      "SAP Labs East Asia"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Business / Economics",
+      "Humanities"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "status": "upcoming",
+    "date": "20 July 2026",
+    "location": "Singapore, SAP Asia Pte Ltd Headquarters Office",
+    "prize": null,
+    "summary": "The NBS x SAP event focuses on the transformative role of AI in business enterprises. It features expert discussions and practical insights into current AI trends and implementation strategies. Attendees will benefit from a networking opportunity to connect with industry leaders and professionals. This session is particularly timely as organizations prepare for the future influenced by AI technologies.",
+    "eligibility": "The event is open to business leaders, professionals, entrepreneurs, academics, researchers, and students interested in AI.",
+    "highlights": [
+      "Expert presentations on the evolution of AI in business.",
+      "Panel discussions with industry leaders.",
+      "Networking opportunities with professionals and innovators.",
+      "Free to attend with prior registration."
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "singapore",
+      "ai",
+      "business",
+      "networking",
+      "open-to-public"
+    ],
+    "url": "https://www.sginnovate.com/event/nbs-x-sap-labs-east-asia-singapore-leadership-dialogue-future-enterprise-ai-native-world",
+    "id": "4228a393717b",
+    "last_checked": "2026-07-07T10:55:09.103287+00:00"
+  },
+  {
+    "name": "MedTech Actuator Origin 2026",
+    "organizer": "SGInnovate",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Multi-month (3-6mo)",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Sciences (STEM)",
+      "Business / Economics"
+    ],
+    "fields": [
+      "Healthcare",
+      "General Tech"
+    ],
+    "status": "completed",
+    "date": "23 July - 24 September 2026",
+    "location": "Kuala Lumpur, Singapore, 1 Science Park Drive, #01-21/22, 118221",
+    "prize": "Compete for a cash and in-kind prize pack along with a fast-tracked entry into the MedTech Actuator Bespoke Accelerator.",
+    "summary": "The MedTech Actuator Origin 2026 is a prominent venture-building program focused on healthcare innovation in Singapore. This event brings together clinicians, researchers, and entrepreneurs over two months, culminating in a showcase gala where finalists present their ideas to potential investors. With over a decade of success, the program aims to continue fostering breakthroughs in the medtech space and aims to support the creation of impactful startups in the region.",
+    "eligibility": "Early-stage innovators and startups in biotech, medtech, or digital health can apply to participate.",
+    "highlights": [
+      "Thirteenth edition focusing on medical ventures.",
+      "Over 5,000 participants have benefited from past iterations.",
+      "Opportunity to pitch at a prestigious gala event.",
+      "Connect with distinguished partners in the global health innovation ecosystem."
+    ],
+    "application_deadline": "2026-07-06",
+    "difficulty": "Intermediate",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": "https://medtechactuator.com/origin-singapore/",
+    "tags": [
+      "healthcare",
+      "medtech",
+      "startup",
+      "singapore",
+      "venture-building"
+    ],
+    "url": "https://www.sginnovate.com/event/medtech-actuator-origin-2026",
+    "id": "fc3673be9ab0",
+    "last_checked": "2026-07-07T10:55:18.533924+00:00"
   }
 ]
