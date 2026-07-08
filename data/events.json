@@ -9931,5 +9931,172 @@
     "url": "https://www.sginnovate.com/event/medtech-actuator-origin-2026",
     "id": "fc3673be9ab0",
     "last_checked": "2026-07-07T10:55:18.533924+00:00"
+  },
+  {
+    "name": "Riftbound Regional Qualifier: Singapore",
+    "organizer": "UVS Games",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Business / Economics"
+    ],
+    "fields": [
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "4-6 September 2026",
+    "location": "Singapore EXPO, Expo hall 3",
+    "prize": "Opportunity to advance to the next level of competition.",
+    "summary": "The Riftbound Regional Qualifier in Singapore promises an exhilarating weekend where top players compete for recognition and advancement. Spectators and participants alike can expect intense gameplay and strategic battles. With different tiers of competitor badges available, players can choose the level of engagement that suits their skills and interests. This event is a must-attend for any gaming enthusiast in the region.",
+    "eligibility": "Any player with a valid Riot Account can join the competition.",
+    "highlights": [
+      "Intense matches showcasing elite players.",
+      "Multiple tiers of participation badges for varying levels.",
+      "Opportunity to network with top gamers.",
+      "Conducted in a premier venue in Singapore."
+    ],
+    "application_deadline": null,
+    "difficulty": "Intermediate",
+    "cost": "Varies",
+    "prize_value_usd": null,
+    "beginner_friendly": false,
+    "application_url": null,
+    "tags": [
+      "singapore",
+      "gaming",
+      "riftbound",
+      "esports",
+      "competition",
+      "multi-day"
+    ],
+    "url": "https://www.eventbrite.com/e/riftbound-regional-qualifier-singapore-tickets-1992780327604",
+    "id": "c62402b6ff53",
+    "last_checked": "2026-07-08T10:17:49.916061+00:00"
+  },
+  {
+    "name": "Asia Pacific Invitational Math Olympiad Challenge",
+    "organizer": "SISH Institute",
+    "companies": [],
+    "level": "Pre-University",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Mathematics"
+    ],
+    "fields": [],
+    "status": "upcoming",
+    "date": "4 August 2026",
+    "location": "Singapore, SISH Institute",
+    "prize": "Attractive prizes and medals to be won.",
+    "summary": "The Asia Pacific Invitational Math Olympiad Challenge invites primary and secondary school students to showcase their mathematical skills. This fun, in-person event allows participants to compete with peers from around the region. It’s a great opportunity for students to challenge themselves and enjoy problem-solving in a friendly atmosphere.",
+    "eligibility": "Open to primary and secondary school students.",
+    "highlights": [
+      "Compete with the brightest math minds in the region",
+      "In-person event promoting camaraderie and learning",
+      "Opportunity to win attractive prizes and medals",
+      "Two-hour challenge to test math skills"
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Paid",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "singapore",
+      "math",
+      "pre-university",
+      "competition",
+      "in-person"
+    ],
+    "url": "https://www.eventbrite.sg/e/asia-pacific-invitational-math-olympiad-challenge-tickets-1991341000538",
+    "id": "3f9ccfe01467",
+    "last_checked": "2026-07-08T10:18:01.117587+00:00"
+  },
+  {
+    "name": "HRtech AI Talk and Business Networking",
+    "organizer": "TAC Club",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Business / Economics",
+      "Computer Science"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "status": "upcoming",
+    "date": "21 July 2026",
+    "location": "Online",
+    "prize": "No prize associated with this event.",
+    "summary": "The HRtech AI Talk and Business Networking event offers a platform for professionals to explore how AI is revolutionizing the workplace. Attendees will have the opportunity to network and share insights with industry experts and fellow AI enthusiasts. Designed for founders, startups, and business professionals, this event aims to foster collaborative discussions and innovative ideas around integrating AI into various business processes.",
+    "eligibility": "Open to all who are interested in AI and its applications in business.",
+    "highlights": [
+      "Connect with AI enthusiasts and professionals",
+      "Gain insights from industry experts",
+      "Explore collaborative opportunities",
+      "Enjoy a relaxed online networking environment"
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "singapore",
+      "ai",
+      "networking",
+      "business",
+      "free",
+      "online"
+    ],
+    "url": "https://www.eventbrite.com/e/hrtech-ai-talk-and-business-networking-free-online-tickets-1992445523195",
+    "id": "d131f3008ab8",
+    "last_checked": "2026-07-08T10:18:20.210277+00:00"
+  },
+  {
+    "name": "Industry Engagement 2025",
+    "organizer": "Government Technology Agency of Singapore (GovTech Singapore)",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Business / Economics"
+    ],
+    "fields": [],
+    "status": "completed",
+    "date": "14 May 2025",
+    "location": "Sands Expo Convention, Singapore",
+    "prize": null,
+    "summary": "Industry Engagement 2025 was an in-person event that facilitated strategic dialogue between industry and government leaders to drive Singapore's digital transformation. Attendees had opportunities to engage in one-on-one sessions with government agencies and gain insights into future initiatives. The event highlighted public sector digitalization opportunities and fostered collaboration aimed at shaping Singapore's digital landscape.",
+    "eligibility": "Open to business leaders, industry partners, and public sector stakeholders.",
+    "highlights": [
+      "Showcased strategic priorities of GovTech.",
+      "Facilitated direct engagement between solution providers and government agencies.",
+      "Included insightful keynote addresses and panel discussions.",
+      "Offered opportunities to explore digital solutions for public sector challenges."
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "singapore",
+      "digital transformation",
+      "govtech",
+      "industry collaboration",
+      "business opportunities"
+    ],
+    "url": "https://www.tech.gov.sg/events/industry-engagement-2025/",
+    "id": "61d690952990",
+    "last_checked": "2026-07-08T10:18:35.945170+00:00"
   }
 ]
