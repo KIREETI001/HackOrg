@@ -10098,5 +10098,220 @@
     "url": "https://www.tech.gov.sg/events/industry-engagement-2025/",
     "id": "61d690952990",
     "last_checked": "2026-07-08T10:18:35.945170+00:00"
+  },
+  {
+    "name": "Designing Intelligent Applications for Health and Well Being at SJTU",
+    "organizer": "Shanghai Jiao Tong University",
+    "companies": [],
+    "level": "Tertiary",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "status": "upcoming",
+    "date": "9 July 2026",
+    "location": "Shanghai, Shanghai Jiao Tong University",
+    "prize": "1 non-cash prize awarded to the winning team.",
+    "summary": "This event focuses on designing intelligent applications utilizing visual intelligence powered by AI. Participants will engage in developing user experiences that are adaptive and intuitive, learning key design principles for integrating these advanced technologies. The workshop will be led by Dr. Gabriel Lipkowitz, an expert in interactive 3D design.",
+    "eligibility": "Open to students of legal age from all countries, with some exceptions.",
+    "highlights": [
+      "Workshop led by AI and design expert Dr. Gabriel Lipkowitz.",
+      "Hands-on experience in crafting AI-integrated applications.",
+      "Focus on user experience design principles.",
+      "Opportunity to develop skills in visual intelligence applications."
+    ],
+    "application_deadline": "2026-07-09",
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "ai",
+      "hackathon",
+      "health-tech",
+      "student-run",
+      "beginner-friendly"
+    ],
+    "url": "https://shanghai-jiao-tong-university.devpost.com/",
+    "id": "0b60c9bda398",
+    "last_checked": "2026-07-09T10:59:10.448074+00:00"
+  },
+  {
+    "name": "Beyond AI Agents: Build Your Own Digital Chief Excellence Officer",
+    "organizer": "KC Chettiar",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Business / Economics",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "status": "upcoming",
+    "date": "30 July 2026",
+    "location": "Lifelong Learning Institute, Singapore",
+    "prize": null,
+    "summary": "This masterclass offers a unique approach to designing AI that drives organizational excellence, shifting from traditional task-focused agents to Executive Agentic AI. Participants will learn to create executive AI capable of strategic decision-making and continuous improvement. The course targets business leaders and professionals seeking to enhance their organization’s capabilities through advanced AI technologies.",
+    "eligibility": "Open to business leaders, executives, and anyone involved in organizational improvement.",
+    "highlights": [
+      "First masterclass on designing AI executives.",
+      "Focus on continuous improvement and strategic leadership.",
+      "Hands-on learning with practical frameworks for AI design.",
+      "In-person event fostering collaboration among professionals."
+    ],
+    "application_deadline": null,
+    "difficulty": "Intermediate",
+    "cost": "Paid",
+    "prize_value_usd": null,
+    "beginner_friendly": false,
+    "application_url": null,
+    "tags": [
+      "singapore",
+      "ai",
+      "business",
+      "professional",
+      "executive",
+      "leadership"
+    ],
+    "url": "https://www.eventbrite.sg/e/beyond-ai-agents-build-your-own-digital-chief-excellence-officer-tickets-1992998159144",
+    "id": "270ee58e0bfa",
+    "last_checked": "2026-07-09T11:00:01.369798+00:00"
+  },
+  {
+    "name": "Minecraft Magic: June Holidays Coding Workshop",
+    "organizer": "The Young Maker (Education Hub)",
+    "companies": [],
+    "level": "Pre-University",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science"
+    ],
+    "fields": [
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "22-23 July 2026",
+    "location": "Singapore, The Young Maker (Stars of Kovan)",
+    "prize": "N/A",
+    "summary": "This Minecraft Coding Workshop offers children aged 7-12 an engaging way to learn coding through interactive sessions. Designed for beginners, it combines creativity and foundational programming skills as kids explore and innovate within the Minecraft universe. With hands-on activities and collaborative projects, this workshop promises an enjoyable learning experience that encourages teamwork and creativity.",
+    "eligibility": "Children aged 7 to 12 are welcome to join.",
+    "highlights": [
+      "No prior coding experience required.",
+      "Interactive and fun learning environment.",
+      "Collaboration and creative project development.",
+      "Hands-on sessions with a focus on practical coding skills."
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Paid",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "singapore",
+      "minecraft",
+      "coding",
+      "kids",
+      "beginner-friendly"
+    ],
+    "url": "https://www.eventbrite.sg/e/minecraft-magic-june-holidays-coding-workshop-for-kids-aged-7-12-tickets-1993548560409",
+    "id": "7ebcdfbfe39b",
+    "last_checked": "2026-07-09T11:00:08.071549+00:00"
+  },
+  {
+    "name": "Minecraft Magic: 2 Day Holiday Coding Workshop for Kids Aged 7-12",
+    "organizer": "The Young Maker (Education Hub)",
+    "companies": [],
+    "level": "Pre-University",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science"
+    ],
+    "fields": [
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "16-17 July 2026",
+    "location": "Singapore, The Young Maker (Stars of Kovan)",
+    "prize": "No traditional prize structure; focus on learning outcomes and creativity.",
+    "summary": "This engaging two-day workshop provides an exciting opportunity for kids aged 7-12 to learn coding through the creative platform of Minecraft. Participants will explore fundamental coding concepts in a fun and interactive environment, encouraging both learning and collaboration. The workshop emphasizes creativity while building foundational skills, ensuring a memorable experience for all attendees.",
+    "eligibility": "Children aged 7-12, with no prior coding experience needed.",
+    "highlights": [
+      "Interactive learning through hands-on coding sessions.",
+      "Engages creativity using the Minecraft platform.",
+      "Opportunities for children to collaborate and share ideas.",
+      "Focused on foundational coding skills without prerequisites."
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Paid",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "singapore",
+      "coding",
+      "kids",
+      "minecraft",
+      "workshop"
+    ],
+    "url": "https://www.eventbrite.sg/e/minecraft-magic-2-day-holiday-coding-workshop-for-kids-aged-7-12-sok-tickets-1993547957606",
+    "id": "8833b463e572",
+    "last_checked": "2026-07-09T11:00:15.133085+00:00"
+  },
+  {
+    "name": "AI In The Wild: Building Software Factories & Personal Assistants",
+    "organizer": "SGInnovate",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Humanities"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "22 July 2026",
+    "location": "Kuala Lumpur, Singapore, 32 Carpenter Street, 059911",
+    "prize": "No prize summary provided.",
+    "summary": "This event focuses on practical applications of Generative AI in everyday workflows. Attendees will explore building tailored digital solutions and personal assistants. With industry experts sharing insights, participants will gain valuable knowledge to initiate their own AI projects. The session promises hands-on experiences that empower users to integrate AI into various aspects of their work.",
+    "eligibility": "Open to anyone interested in learning about Generative AI applications.",
+    "highlights": [
+      "Hands-on exploration of Generative AI applications.",
+      "Expert speakers from Google and Kiteworks.",
+      "Focused on practical engineering behind AI agents.",
+      "Networking opportunities with like-minded individuals."
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "singapore",
+      "ai",
+      "workshop",
+      "generative-ai",
+      "free"
+    ],
+    "url": "https://www.sginnovate.com/event/ai-wild-building-software-factories-personal-assistants",
+    "id": "ffa1488322ca",
+    "last_checked": "2026-07-09T11:00:43.365371+00:00"
   }
 ]
