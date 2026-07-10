@@ -10313,5 +10313,92 @@
     "url": "https://www.sginnovate.com/event/ai-wild-building-software-factories-personal-assistants",
     "id": "ffa1488322ca",
     "last_checked": "2026-07-09T11:00:43.365371+00:00"
+  },
+  {
+    "name": "STACK Conference 2026",
+    "organizer": "Government Technology Agency of Singapore",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Business / Economics"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "4-5 November 2026",
+    "location": "Singapore, GovTech",
+    "prize": null,
+    "summary": "The STACK Conference 2026 promises to be an expansive gathering aimed at fostering collaboration between the government, industry, and the tech community. This year's event introduces the STACK Expo, offering enriched opportunities for learning and networking. Participants can engage in workshops and keynotes across a variety of tech-focused topics, highlighting innovations in AI, cloud computing, and digital inclusivity.",
+    "eligibility": "Open to developers, architects, designers, and tech professionals.",
+    "highlights": [
+      "Inaugural STACK Expo for enhanced learning experiences",
+      "Technical workshops offering hands-on sessions",
+      "Keynotes from influential private and public sector leaders",
+      "Focus on cutting-edge topics like AI autonomy and cloud resilience"
+    ],
+    "application_deadline": "2026-09-30",
+    "difficulty": "Beginner-Friendly",
+    "cost": "Varies",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "singapore",
+      "technology",
+      "networking",
+      "ai",
+      "government"
+    ],
+    "url": "https://www.tech.gov.sg/events/stack-conference-2026/",
+    "id": "e9febba72e64",
+    "last_checked": "2026-07-10T10:52:50.052478+00:00"
+  },
+  {
+    "name": "Industry Engagement (IE) 2026",
+    "organizer": "Government Technology Agency of Singapore",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Business / Economics",
+      "Computer Science"
+    ],
+    "fields": [
+      "General Tech"
+    ],
+    "status": "completed",
+    "date": "19 May 2026",
+    "location": "Singapore, Sands Expo Convention Centre @ Marina Bay Sands",
+    "prize": null,
+    "summary": "Industry Engagement (IE) 2026 is a half-day event that brings together business leaders, industry partners, and government stakeholders to discuss Singapore's digital transformation. The event features keynote speeches, panel discussions, and networking opportunities aimed at fostering collaboration and strategic partnerships. Attendees gain insights into emerging digitalization initiatives that will influence the future of public sector services in Singapore.",
+    "eligibility": "Open to all stakeholders in the digital and public sectors.",
+    "highlights": [
+      "Keynote address by GovTech Chief Executive.",
+      "Engagement booths for networking opportunities.",
+      "Panel discussions focused on AI and digital transformation.",
+      "Lightning talks on government digital services."
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "singapore",
+      "digital transformation",
+      "public sector",
+      "networking",
+      "free"
+    ],
+    "url": "https://www.tech.gov.sg/events/industry-engagement-2026/",
+    "id": "68541cf7b888",
+    "last_checked": "2026-07-10T10:52:56.780505+00:00"
   }
 ]
