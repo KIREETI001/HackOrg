@@ -10400,5 +10400,94 @@
     "url": "https://www.tech.gov.sg/events/industry-engagement-2026/",
     "id": "68541cf7b888",
     "last_checked": "2026-07-10T10:52:56.780505+00:00"
+  },
+  {
+    "name": "AI for Social Good: Hack with MLH & DigitalOcean",
+    "organizer": "Major League Hacking",
+    "companies": [
+      "DigitalOcean"
+    ],
+    "level": "Secondary",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Global",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "status": "completed",
+    "date": "10-11 July 2026",
+    "location": "San Francisco, California, USA",
+    "prize": "$5,250 in cash prizes and additional rewards for various categories.",
+    "summary": "The AI for Social Good hackathon invites developers to create impactful projects that benefit society using AI technologies. This in-person event emphasizes collaboration among participants of all skill levels, from seasoned professionals to newcomers eager to explore coding. With dedicated prize tracks focusing on social good, it aims to foster innovation while providing networking opportunities with experienced mentors and industry leaders.",
+    "eligibility": "Participants aged 13 and above from various countries are welcome to join.",
+    "highlights": [
+      "In-person event focusing on social good projects.",
+      "Prize categories encourage creativity and innovation.",
+      "Supported by industry leaders like DigitalOcean.",
+      "Catering provided throughout the event."
+    ],
+    "application_deadline": "2026-07-11",
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": 5250,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "hackathon",
+      "ai",
+      "social good",
+      "beginner-friendly",
+      "mlh",
+      "digitalocean"
+    ],
+    "url": "https://ai-for-social-good-mlh.devpost.com/",
+    "id": "176f723beadd",
+    "last_checked": "2026-07-11T09:27:49.684005+00:00"
+  },
+  {
+    "name": "From AI Chaos To Enterprise Value: A 4-Track Roadmap AI Webinar",
+    "organizer": "BridgingMinds",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Business / Economics",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "status": "upcoming",
+    "date": "23 July 2026",
+    "location": "Online",
+    "prize": "Participate for a chance to win NTUC / Grab E-Vouchers and Jabra Earbuds.",
+    "summary": "This webinar offers a practical 4-track framework for organizations starting or scaling their AI initiatives. It aims to provide valuable insights on implementing AI across various business functions. With expert speakers from the industry, attendees will learn how to leverage AI strategically and responsibly. This event is not just informative, but also interactive, allowing participants to engage directly.",
+    "eligibility": "Open to business leaders, technology professionals, and anyone interested in AI adoption strategies.",
+    "highlights": [
+      "Expert insights on AI strategies and implementations.",
+      "Interactive session with industry leaders.",
+      "Focus on governance and risk management in AI.",
+      "Opportunities to win prizes for participation."
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "webinar",
+      "ai",
+      "business",
+      "open",
+      "free"
+    ],
+    "url": "https://www.sginnovate.com/event/ai-chaos-enterprise-value-4-track-roadmap-ai-webinar-participate-and-win",
+    "id": "5156d2129155",
+    "last_checked": "2026-07-11T09:27:58.778061+00:00"
   }
 ]
