@@ -10489,5 +10489,133 @@
     "url": "https://www.sginnovate.com/event/ai-chaos-enterprise-value-4-track-roadmap-ai-webinar-participate-and-win",
     "id": "5156d2129155",
     "last_checked": "2026-07-11T09:27:58.778061+00:00"
+  },
+  {
+    "name": "Turn Your Grandparent into an AI Wizard",
+    "organizer": "Ningpo Guild",
+    "companies": [],
+    "level": "Pre-University",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Humanities"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "status": "upcoming",
+    "date": "1 August 2026",
+    "location": "Singapore, Ningpo Guild",
+    "prize": null,
+    "summary": "This engaging workshop invites grandparent-grandchild pairs to learn about AI in a hands-on environment. Participants will create a bilingual storybook and an AI helper, all while fostering intergenerational bonding. The class is freely welcoming to beginners and conducted in a comfortable pace, ensuring everyone can participate regardless of prior technical knowledge.",
+    "eligibility": "Open to grandparent-grandchild pairs as well as solo participants aged 10 and above.",
+    "highlights": [
+      "Hands-on AI workshop for absolute beginners",
+      "Bilingual instruction in English and Mandarin",
+      "Create a bilingual storybook and an AI helper",
+      "Includes lunch and a small group setting for personalized assistance"
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Paid",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "singapore",
+      "ai",
+      "family-friendly",
+      "beginner-friendly"
+    ],
+    "url": "https://www.eventbrite.sg/e/turn-your-grandparent-into-an-ai-wizard-tickets-1989969378981",
+    "id": "6df98a355fa8",
+    "last_checked": "2026-07-12T09:51:14.285279+00:00"
+  },
+  {
+    "name": "Coding & Robotics: 1-Day Artificial Intelligence Workshop for Kids",
+    "organizer": "The Young Maker (Education Hub)",
+    "companies": [],
+    "level": "Pre-University",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "status": "upcoming",
+    "date": "24 July 2026",
+    "location": "Singapore, The Young Maker (Stars of Kovan)",
+    "prize": "N/A",
+    "summary": "This one-day workshop offers an engaging introduction to artificial intelligence for children aged 8-12. Utilizing tools like Teachable Machine, kids will learn to train their own image recognition models while enhancing critical thinking and creativity. This hands-on experience is designed to spark interest in technology and innovation, making it a perfect start for young learners.",
+    "eligibility": "Children aged 8-12 with no prior experience required are welcome to join.",
+    "highlights": [
+      "Hands-on learning through interactive projects",
+      "Children will train a real AI image recognition model",
+      "Encourages problem-solving and logical thinking",
+      "Fun and engaging activities make learning about AI exciting"
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Paid",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "singapore",
+      "ai",
+      "workshop",
+      "kids",
+      "beginner-friendly"
+    ],
+    "url": "https://www.eventbrite.sg/e/coding-robotics-1-day-artificial-intelligence-workshop-for-kids-sok-tickets-1993548535334",
+    "id": "ed149d68c1e1",
+    "last_checked": "2026-07-12T09:51:34.009537+00:00"
+  },
+  {
+    "name": "Creators AI Talk and Business Networking",
+    "organizer": "TAC Club",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Business / Economics",
+      "Humanities"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "23 July 2026",
+    "location": "Singapore, Online event",
+    "prize": null,
+    "summary": "The Creators AI Talk and Business Networking event is an online opportunity for creators, influencers, and tech professionals to connect and discuss the impact of AI on the creators' economy. Attendees will gain valuable insights from industry experts and explore partnership opportunities in a collaborative environment. With a focus on practical applications of AI in various sectors, this event is designed to empower participants to innovate and grow their businesses.",
+    "eligibility": "Open to creators, influencers, startup founders, and tech professionals interested in the role of AI in their industries.",
+    "highlights": [
+      "Connect with diverse professionals in the AI and creators' field",
+      "Learn about automating creative workflows with AI technology",
+      "Gain insights from experts through interactive discussions",
+      "Expand your network of like-minded individuals in a friendly setting"
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "singapore",
+      "ai",
+      "networking",
+      "online-event",
+      "business"
+    ],
+    "url": "https://www.eventbrite.com/e/creators-ai-talk-and-business-networking-free-online-tickets-1992186138368",
+    "id": "dd0b5910e7a0",
+    "last_checked": "2026-07-12T09:51:40.427621+00:00"
   }
 ]
