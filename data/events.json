@@ -10617,5 +10617,147 @@
     "url": "https://www.eventbrite.com/e/creators-ai-talk-and-business-networking-free-online-tickets-1992186138368",
     "id": "dd0b5910e7a0",
     "last_checked": "2026-07-12T09:51:40.427621+00:00"
+  },
+  {
+    "name": "Reddit's Games with a Hook Hackathon",
+    "organizer": "Reddit",
+    "companies": [
+      "Phaser"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Multi-week (1-3mo)",
+    "scope": "Global",
+    "domains": [
+      "Computer Science",
+      "Business / Economics"
+    ],
+    "fields": [
+      "General Tech",
+      "Gaming"
+    ],
+    "status": "completed",
+    "date": "17 June - 15 July 2026",
+    "location": "Online",
+    "prize": "$40,000 in total cash prizes",
+    "summary": "The Games with a Hook Hackathon invites developers worldwide to create innovative games for the Reddit community. Utilizing Reddit's Developer Platform, participants can leverage various web technologies and game engines to build engaging experiences. The event emphasizes not just game creation, but also meaningful community interaction and retention mechanics, offering substantial prizes for the best submissions.",
+    "eligibility": "Open to individuals above the legal age of majority in their country of residence, from all territories except certain exceptions.",
+    "highlights": [
+      "Total cash prizes of $40,000 available",
+      "Focus on community engagement and game retention",
+      "Multiple awards available for specific achievements",
+      "Beginner-friendly with accessible development resources"
+    ],
+    "application_deadline": "2026-07-15",
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": 40000,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "reddit",
+      "gaming",
+      "hackathon",
+      "beginner-friendly",
+      "devvit"
+    ],
+    "url": "https://redditgameswithahook.devpost.com/",
+    "id": "335bd0316154",
+    "last_checked": "2026-07-14T09:57:32.094475+00:00"
+  },
+  {
+    "name": "Daytona HackSprint w/ Braintrust - SF",
+    "organizer": "Devpost",
+    "companies": [
+      "Braintrust",
+      "ElevenLabs"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "status": "upcoming",
+    "date": "24 July 2026",
+    "location": "San Francisco, CA, USA",
+    "prize": "$5,500 in cash and additional prizes for winners.",
+    "summary": "The Daytona HackSprint brings together innovators in AI for a focused one-day event where participants can create projects on cutting-edge AI technologies. It emphasizes originality and real-world impact, fostering collaboration among top talent in the industry. Participants can compete individually or in teams, with a wide array of prizes designed to promote creativity and technical achievements.",
+    "eligibility": "Participants must be of legal age in their country of residence and based in the US.",
+    "highlights": [
+      "Intense one-day hackathon focused on AI projects.",
+      "Substantial prize pool including cash and credits.",
+      "Collaboration with top companies in the field.",
+      "Opportunities to showcase innovative solutions."
+    ],
+    "application_deadline": null,
+    "difficulty": "Intermediate",
+    "cost": "Paid",
+    "prize_value_usd": 5500,
+    "beginner_friendly": false,
+    "application_url": "https://luma.com/hacksprint-sf",
+    "tags": [
+      "hackathon",
+      "AI",
+      "San Francisco",
+      "Devpost",
+      "cash prizes"
+    ],
+    "url": "https://daytona-hacksprint-sf-jul-2026.devpost.com/",
+    "id": "c599fe46707b",
+    "last_checked": "2026-07-14T09:57:39.951675+00:00"
+  },
+  {
+    "name": "STACK 2018 Developer Conference",
+    "organizer": "Government Technology Agency of Singapore (GovTech Singapore)",
+    "companies": [
+      "Google",
+      "Microsoft",
+      "Salesforce",
+      "Pivotal",
+      "Amazon Web Services",
+      "ThoughtWorks",
+      "SP Group"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Business / Economics"
+    ],
+    "fields": [
+      "General Tech"
+    ],
+    "status": "completed",
+    "date": "2-3 October 2018",
+    "location": "Singapore, Suntec Convention Hall",
+    "prize": "No prize information available.",
+    "summary": "STACK 2018 was the inaugural developer conference organized by GovTech Singapore, focusing on providing insights into the latest technological innovations. The event featured prominent speakers from leading tech companies, who shared knowledge through keynotes and panel discussions. Participants had the opportunity to engage in workshops that emphasized the government's digital initiatives and platforms.",
+    "eligibility": "The conference was open to developers, programmers, and technologists from both public and private sectors.",
+    "highlights": [
+      "Inaugural developer conference in Singapore.",
+      "Keynotes from top technologists at major global tech firms.",
+      "Focus on Singapore's digital products and innovations.",
+      "Hands-on workshops covering various tech topics."
+    ],
+    "application_deadline": null,
+    "difficulty": "Intermediate",
+    "cost": "Paid",
+    "prize_value_usd": null,
+    "beginner_friendly": false,
+    "application_url": null,
+    "tags": [
+      "singapore",
+      "developer",
+      "technology",
+      "workshops"
+    ],
+    "url": "https://www.tech.gov.sg/events/stack-2018-developer-conference/",
+    "id": "94740513199c",
+    "last_checked": "2026-07-14T09:58:08.801537+00:00"
   }
 ]
