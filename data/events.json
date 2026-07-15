@@ -10759,5 +10759,98 @@
     "url": "https://www.tech.gov.sg/events/stack-2018-developer-conference/",
     "id": "94740513199c",
     "last_checked": "2026-07-14T09:58:08.801537+00:00"
+  },
+  {
+    "name": "Dublin Hacx",
+    "organizer": "Devpost",
+    "companies": [
+      "Apple",
+      "Google",
+      "SAP"
+    ],
+    "level": "Secondary",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "status": "upcoming",
+    "date": "3 October 2026",
+    "location": "San Ramon, CA, SAP Office",
+    "prize": "One non-cash prize awarded to the best overall project.",
+    "summary": "Dublin Hacx is an exciting opportunity for high school students to engage in a hackathon designed for all skill levels. Over the course of 12 hours, attendees will collaborate with peers, guided by mentors, to create innovative projects. The event fosters a vibrant community atmosphere, enhanced with workshops, mentoring, and plenty of food and resources.",
+    "eligibility": "Participation is open to high school students who are above the legal age of majority in their country.",
+    "highlights": [
+      "First high school hackathon in Dublin",
+      "Mentorship and workshops provided throughout the event",
+      "Free registration, including food and materials",
+      "Open to students of all skill levels"
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": 0,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "dublin",
+      "high-school",
+      "hackathon",
+      "beginner-friendly",
+      "ai"
+    ],
+    "url": "https://dublin-hacx.devpost.com/",
+    "id": "d7b5434e3050",
+    "last_checked": "2026-07-15T10:02:00.368594+00:00"
+  },
+  {
+    "name": "AI Tinkerers x Cognition: Future of Software",
+    "organizer": "SGInnovate",
+    "companies": [
+      "Cognition"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "16 July 2026",
+    "location": "Kuala Lumpur, Singapore, 32 Carpenter Street, 059911",
+    "prize": "No monetary prizes are offered, but valuable technical insights and networking opportunities are available.",
+    "summary": "The AI Tinkerers x Cognition event offers a unique hands-on opportunity for participants to engage with cutting-edge AI technologies. Attendees will explore the capabilities of Devin, an autonomous software engineering agent, through real engineering tasks. The event emphasizes collaboration and technical exploration, making it ideal for both industry professionals and AI enthusiasts. With a community-focused approach, it encourages open discussions and shared learning experiences.",
+    "eligibility": "Open to anyone interested in AI and software engineering.",
+    "highlights": [
+      "Hands-on exploration of AI-driven software engineering",
+      "Networking opportunities with industry professionals",
+      "Insights into the practical applications of AI technology",
+      "Community-driven event fostering technical conversations"
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "singapore",
+      "ai",
+      "software engineering",
+      "community",
+      "hands-on"
+    ],
+    "url": "https://www.sginnovate.com/event/ai-tinkerers-x-cognition-future-software",
+    "id": "004c71f2ac0a",
+    "last_checked": "2026-07-15T10:02:08.918246+00:00"
   }
 ]
