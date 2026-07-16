@@ -10852,5 +10852,284 @@
     "url": "https://www.sginnovate.com/event/ai-tinkerers-x-cognition-future-software",
     "id": "004c71f2ac0a",
     "last_checked": "2026-07-15T10:02:08.918246+00:00"
+  },
+  {
+    "name": "Build With AI Hack Days @RU",
+    "organizer": "IEEE Student Branch Rajshahi University",
+    "companies": [
+      "Google",
+      "Major League Hacking",
+      "Machine Learning Bangladesh"
+    ],
+    "level": "Tertiary",
+    "timeline": "Single-day",
+    "scope": "Local (Bangladesh)",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "status": "completed",
+    "date": "16 July 2026",
+    "location": "Rajshahi, Bangladesh",
+    "prize": "Participants can win non-cash prizes including a $50 Visa Gift Card and various stickers.",
+    "summary": "The Build With AI Hack Days @RU is an engaging mini hackathon focused on creating applications using the Gemini API. Targeting college students, it encourages creative problem-solving and innovation in AI technologies. This event enables participants to harness powerful Google developer tools within a limited timeframe, providing a unique opportunity to build and showcase functional applications that captivate the audience.",
+    "eligibility": "Ages 18+, limited to college students from specific countries.",
+    "highlights": [
+      "Hands-on experience with Google's Gemini API",
+      "Focused on building real AI-powered applications",
+      "No prior coding experience required",
+      "Non-cash prizes for winners and participation incentives"
+    ],
+    "application_deadline": "2026-07-16",
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "ai",
+      "hackathon",
+      "google",
+      "student",
+      "bangladesh"
+    ],
+    "url": "https://build-with-ai-hack-days-ru.devpost.com/",
+    "id": "85885264f8a5",
+    "last_checked": "2026-07-16T10:08:07.292753+00:00"
+  },
+  {
+    "name": "Build with DataHub: The Agent Hackathon",
+    "organizer": "DataHub",
+    "companies": [
+      "Apple",
+      "Google",
+      "Pinterest",
+      "Netflix"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Global",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "10 August 2026",
+    "location": "Online",
+    "prize": "$20,500 in cash prizes",
+    "summary": "The Agent Hackathon invites participants to build innovative AI agents using DataHub's open-source platform. It focuses on creating real-world applications that interact with and understand complex organizational data. With various challenges to tackle, this hackathon encourages creativity and practical problem-solving in the AI landscape.",
+    "eligibility": "Participants must be above the legal age of majority in their country of residence.",
+    "highlights": [
+      "Build AI agents leveraging DataHub's metadata platform.",
+      "Collaborate globally with diverse teams.",
+      "Win a share of $20,500 in prizes.",
+      "Get feedback from industry experts and earn recognition."
+    ],
+    "application_deadline": "2026-08-10",
+    "difficulty": "Intermediate",
+    "cost": "Paid",
+    "prize_value_usd": 20500,
+    "beginner_friendly": false,
+    "application_url": null,
+    "tags": [
+      "hackathon",
+      "AI",
+      "datahub",
+      "open-source",
+      "global"
+    ],
+    "url": "https://datahub.devpost.com/",
+    "id": "736c266688d0",
+    "last_checked": "2026-07-16T10:08:13.456601+00:00"
+  },
+  {
+    "name": "Loop Engineering Hackathon",
+    "organizer": "tokens&",
+    "companies": [
+      "Apple",
+      "Google",
+      "Outlook",
+      "AWS",
+      "Builder Loft"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Global",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "status": "upcoming",
+    "date": "17 July 2026",
+    "location": "San Francisco, venue unspecified",
+    "prize": "Total prizes amounting to $6,750 in cash plus additional platform credits.",
+    "summary": "The Loop Engineering Hackathon invites participants to create self-directing agent loops that can autonomously evolve throughout the build cycle. This event is designed to challenge builders to rapidly prototype and demonstrate their innovative solutions to industry leaders. With a focus on practical applications of AI/ML technology, the hackathon fosters creativity and collaboration in a competitive environment.",
+    "eligibility": "Open to all individuals above the legal age of majority in their country of residence.",
+    "highlights": [
+      "Focus on self-directing agent technology.",
+      "Opportunities to win significant cash prizes.",
+      "Participation from major industry sponsors.",
+      "Networking opportunities with professionals in the field."
+    ],
+    "application_deadline": null,
+    "difficulty": "Intermediate",
+    "cost": "Free",
+    "prize_value_usd": 6750,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "hackathon",
+      "ai",
+      "machine-learning",
+      "san-francisco",
+      "competition"
+    ],
+    "url": "https://loop-engineering-hackathon.devpost.com/",
+    "id": "638b34b32a5b",
+    "last_checked": "2026-07-16T10:08:22.460540+00:00"
+  },
+  {
+    "name": "MIMS Robotics Competition",
+    "organizer": "Minds In Motion",
+    "companies": [
+      "Apple",
+      "Google",
+      "Aurora Public Library"
+    ],
+    "level": "Pre-University",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "4 August 2026",
+    "location": "Aurora",
+    "prize": "Total prize pool of $1,750 in cash prizes.",
+    "summary": "The MIMS Robotics Competition invites participants aged 13 to 18 to showcase their skills in building projectile launchers using VEX IQ robotics systems. Teams will compete in an exciting arena, testing their creations against each other for a chance to win part of the prize pool. The event emphasizes fun, learning, and teamwork, making it accessible to all skill levels with support from experienced volunteers.",
+    "eligibility": "Participants must be aged 13 to 18 and from specific countries/territories.",
+    "highlights": [
+      "Free entry with no registration fee",
+      "Teams can consist of up to 8 members",
+      "On-site competition with hands-on assistance",
+      "Multiple cash prizes for top performances"
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": 1750,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "robotics",
+      "STEM",
+      "competition",
+      "beginner-friendly",
+      "projectile-launcher"
+    ],
+    "url": "https://mims-robotics-competition.devpost.com/",
+    "id": "8cb107582e5d",
+    "last_checked": "2026-07-16T10:08:26.466459+00:00"
+  },
+  {
+    "name": "Masterclass Series: Intro to Offensive AI Security Hands-On Workshop",
+    "organizer": "SGInnovate",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "Cybersecurity",
+      "AI / Machine Learning"
+    ],
+    "status": "upcoming",
+    "date": "24 July 2026",
+    "location": "Kuala Lumpur, Suntec Convention Centre",
+    "prize": "Participants will receive a comprehensive package including 6 months virtual lab access and exclusive memberships.",
+    "summary": "This hands-on workshop provides a unique opportunity to dive deep into the emerging field of Offensive AI Security. Attendees will engage in immersive activities that focus on real-world AI vulnerabilities and the techniques used by attackers. By experiencing firsthand how modern AI systems can be compromised, participants will build essential skills to navigate the cybersecurity landscape of the future.",
+    "eligibility": "Open to cybersecurity professionals, IT managers, tech enthusiasts, and anyone interested in AI security, with no prior AI experience required.",
+    "highlights": [
+      "Intensive, hands-on learning experience.",
+      "Exposure to real-world AI exploitation techniques.",
+      "Limited to 20 participants for personalized attention.",
+      "Includes additional benefits like memberships and vouchers."
+    ],
+    "application_deadline": "2026-06-12",
+    "difficulty": "Beginner-Friendly",
+    "cost": "Paid",
+    "prize_value_usd": 365,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "singapore",
+      "ai",
+      "cybersecurity",
+      "hands-on",
+      "workshop"
+    ],
+    "url": "https://www.sginnovate.com/event/masterclass-series-intro-offensive-ai-security-hands-workshop",
+    "id": "5c84f0d2931d",
+    "last_checked": "2026-07-16T10:08:35.456826+00:00"
+  },
+  {
+    "name": "SCRI Clinical Trials Symposium 2026",
+    "organizer": "SGInnovate",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Global",
+    "domains": [
+      "Sciences (STEM)",
+      "Business / Economics"
+    ],
+    "fields": [
+      "Healthcare",
+      "AI / Machine Learning"
+    ],
+    "status": "upcoming",
+    "date": "30-31 July 2026",
+    "location": "Kuala Lumpur, Singapore, Marina Bay Sands Expo & Convention Centre",
+    "prize": "N/A",
+    "summary": "The SCRI Clinical Trials Symposium 2026 is set to be a significant gathering for global clinical research, focusing on innovation and collaboration in clinical trials. With a theme centered around advancing inclusivity and impactful outcomes, it promises keynotes and panels with industry leaders. The event will explore groundbreaking solutions and new technologies, aiming to address pressing challenges in the clinical research sector.",
+    "eligibility": "Open to all professionals involved in clinical research and healthcare.",
+    "highlights": [
+      "Two days of dynamic keynotes and discussions",
+      "Focus on advancing innovation and inclusion in clinical trials",
+      "Networking opportunities with global leaders in healthcare",
+      "Workshops on advanced clinical trial designs and health technology"
+    ],
+    "application_deadline": null,
+    "difficulty": "Intermediate",
+    "cost": "Varies",
+    "prize_value_usd": null,
+    "beginner_friendly": false,
+    "application_url": null,
+    "tags": [
+      "healthcare",
+      "clinical trials",
+      "innovation",
+      "AI",
+      "Singapore"
+    ],
+    "url": "https://www.sginnovate.com/event/scri-clinical-trials-symposium-2026",
+    "id": "bfd887e87662",
+    "last_checked": "2026-07-16T10:08:42.690646+00:00"
   }
 ]
