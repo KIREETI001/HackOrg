@@ -11131,5 +11131,96 @@
     "url": "https://www.sginnovate.com/event/scri-clinical-trials-symposium-2026",
     "id": "bfd887e87662",
     "last_checked": "2026-07-16T10:08:42.690646+00:00"
+  },
+  {
+    "name": "Backblaze Generative Media Hackathon",
+    "organizer": "Backblaze",
+    "companies": [
+      "Apple",
+      "Google"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Multi-week (1-3mo)",
+    "scope": "Global",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM), Business / Economics"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "3 August 2026",
+    "location": "Online",
+    "prize": "$10,000 in cash and additional prizes available for winners.",
+    "summary": "The Backblaze Generative Media Hackathon invites developers to create innovative AI media applications using Backblaze B2 and Genblaze. Participants can leverage generative models to tackle real user challenges in media workflows, focusing on production-ready solutions. The event encourages creativity and technical proficiency with a significant cash prize for outstanding projects.",
+    "eligibility": "Open to participants above the legal age of majority in their country of residence.",
+    "highlights": [
+      "Generous prize pool of $10,000 in cash.",
+      "Focus on real-world utility and production readiness.",
+      "Encourages the use of cutting-edge AI technologies.",
+      "Global participation accessible online."
+    ],
+    "application_deadline": "2026-08-03",
+    "difficulty": "Intermediate",
+    "cost": "Free",
+    "prize_value_usd": 10000,
+    "beginner_friendly": false,
+    "application_url": null,
+    "tags": [
+      "hackathon",
+      "AI",
+      "media",
+      "generative",
+      "cloud"
+    ],
+    "url": "https://backblaze-generative-media.devpost.com/",
+    "id": "0fdfcf2d1275",
+    "last_checked": "2026-07-17T09:56:17.669436+00:00"
+  },
+  {
+    "name": "Beyond the Model: Building a B2B AI Startup that Enterprises will Actually Buy",
+    "organizer": "SGInnovate",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Business / Economics",
+      "Computer Science"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "status": "upcoming",
+    "date": "30 July 2026",
+    "location": "Kuala Lumpur, Singapore",
+    "prize": null,
+    "summary": "This event focuses on the intricacies of developing a B2B AI startup that can successfully attract enterprise clients. Attendees will gain insights into transitioning from concept to demand-driven solutions, learning from experienced founders and sector experts. The agenda includes discussions on cost management, enterprise sales strategies, and optimizing operations for sustainable growth.",
+    "eligibility": "Open to entrepreneurs and individuals interested in AI startups.",
+    "highlights": [
+      "Learn from experienced AI founders and industry experts",
+      "Explore practical strategies for cost management and sales",
+      "Participate in a panel discussion focused on scaling startups",
+      "Network with like-minded professionals and entrepreneurs"
+    ],
+    "application_deadline": null,
+    "difficulty": "Intermediate",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": "https://luma.com/iphtn256",
+    "tags": [
+      "singapore",
+      "ai",
+      "startup",
+      "intermediate",
+      "networking",
+      "business"
+    ],
+    "url": "https://www.sginnovate.com/event/beyond-model-building-b2b-ai-startup-enterprises-will-actually-buy",
+    "id": "9cf7d6e62a61",
+    "last_checked": "2026-07-17T09:56:27.398072+00:00"
   }
 ]
