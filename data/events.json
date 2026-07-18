@@ -11222,5 +11222,147 @@
     "url": "https://www.sginnovate.com/event/beyond-model-building-b2b-ai-startup-enterprises-will-actually-buy",
     "id": "9cf7d6e62a61",
     "last_checked": "2026-07-17T09:56:27.398072+00:00"
+  },
+  {
+    "name": "Prometheus July AI Challenge",
+    "organizer": "Prometheus",
+    "companies": [
+      "Apple",
+      "Google",
+      "Outlook"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Multi-week (1-3mo)",
+    "scope": "Global",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "status": "upcoming",
+    "date": "July 30, 2026",
+    "location": "Online",
+    "prize": "$1,500 in cash prizes for top projects.",
+    "summary": "The Prometheus July AI Challenge is designed for innovators interested in AI and Machine Learning. Participants can create projects that leverage AI to improve educational tools. This challenge not only allows competitors to showcase their skills but also to collaborate and learn in a dynamic online environment.",
+    "eligibility": "Participants must be students aged 13 and older; professional companies are excluded.",
+    "highlights": [
+      "Focus on AI and educational tools.",
+      "Open to students globally.",
+      "Cash prizes and certificates for winners.",
+      "Beginner friendly with support for teams."
+    ],
+    "application_deadline": "2026-07-30",
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": 1500,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "ai",
+      "hackathon",
+      "education",
+      "beginner-friendly",
+      "global"
+    ],
+    "url": "https://prometheus-july-ai-challenge.devpost.com/",
+    "id": "93fbd2cb2986",
+    "last_checked": "2026-07-18T09:23:53.517519+00:00"
+  },
+  {
+    "name": "Evorozen Apex: NextGen AI Buildathon",
+    "organizer": "Evorozen",
+    "companies": [
+      "Apple",
+      "Google",
+      "Outlook"
+    ],
+    "level": "Tertiary",
+    "timeline": "Multi-month (3-6mo)",
+    "scope": "Global",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "status": "upcoming",
+    "date": "17 July - 20 September 2026",
+    "location": "Online",
+    "prize": "Winners receive non-cash prizes including API grants and exclusive partnerships.",
+    "summary": "The Evorozen Apex: NextGen AI Buildathon is a unique 60-day program aiming to transform raw AI project ideas into fully-functional startups. Participants must utilize the Evorozen Neural Pulse API, a revolutionary technology that simplifies backend setup, allowing for rapid development of scalable applications. The hackathon encourages real user engagement and comprehensive presentation of projects, focusing on technical excellence and user acquisition.",
+    "eligibility": "Open to individuals aged 13 and older; students only.",
+    "highlights": [
+      "Focus on building production-ready AI applications.",
+      "Utilize the advanced Evorozen Neural Pulse API for backend functionality.",
+      "Participants must demonstrate real-time user engagement.",
+      "Win unique non-cash prizes, including API access and distribution partnerships."
+    ],
+    "application_deadline": "2026-09-20",
+    "difficulty": "Intermediate",
+    "cost": "Free",
+    "prize_value_usd": 500,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "ai",
+      "buildathon",
+      "startup",
+      "global",
+      "evorozen"
+    ],
+    "url": "https://evorozen-apex.devpost.com/",
+    "id": "1d81cf5b0c8b",
+    "last_checked": "2026-07-18T09:24:02.404195+00:00"
+  },
+  {
+    "name": "Hackathon New Delhi: Build AI Agents",
+    "organizer": "Elastic",
+    "companies": [
+      "Apple",
+      "Google",
+      "Outlook",
+      "ThoughtWorks Technologies"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "status": "upcoming",
+    "date": "18 July 2026",
+    "location": "New Delhi, Venue not specified",
+    "prize": "₹30,000 in swag for the winning team.",
+    "summary": "The Hackathon New Delhi invites participants to develop AI agents over a four-hour build session. Focused on real-world problems faced by New Delhi, this event prioritizes judgment over tool fluency. Competitors work solo or in teams, exploring curated problem themes revealed on-site. Participants must bring their own data and be ready for an intense challenge that emphasizes creativity and respect for data sources.",
+    "eligibility": "Open to individuals above the legal age of majority in their country of residence.",
+    "highlights": [
+      "Real-world problem themes revealed on-site.",
+      "Solo or team participation option.",
+      "Focus on creativity and respect for data sources.",
+      "In-person event with direct mentorship available."
+    ],
+    "application_deadline": "2026-07-18T11:30:00Z",
+    "difficulty": "Intermediate",
+    "cost": "Free",
+    "prize_value_usd": 360,
+    "beginner_friendly": true,
+    "application_url": "https://luma.com/xmn74jyd",
+    "tags": [
+      "new delhi",
+      "ai",
+      "hackathon",
+      "coding",
+      "beginner-friendly"
+    ],
+    "url": "https://hackathon-elk-gcp.devpost.com/",
+    "id": "452f46bf6b5b",
+    "last_checked": "2026-07-18T09:24:08.795480+00:00"
   }
 ]
