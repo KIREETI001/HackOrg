@@ -11364,5 +11364,98 @@
     "url": "https://hackathon-elk-gcp.devpost.com/",
     "id": "452f46bf6b5b",
     "last_checked": "2026-07-18T09:24:08.795480+00:00"
+  },
+  {
+    "name": "Hack with AI",
+    "organizer": "Code Crate",
+    "companies": [
+      "Apple",
+      "Google",
+      "Outlook",
+      "NRI Group of Institutions",
+      "Bhopal Public"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Global",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)",
+      "Business / Economics"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "status": "upcoming",
+    "date": "19 July 2026",
+    "location": "Online",
+    "prize": "₹ 5,000 in cash plus additional prizes.",
+    "summary": "Hack with AI is a fast-paced hackathon designed to empower participants to innovate and create AI-powered solutions. Open to a diverse range of individuals from students to professionals, the event emphasizes collaboration and creativity. Participants are encouraged to utilize advanced AI technologies to tackle real-world challenges and showcase their projects.",
+    "eligibility": "Open to individuals above the legal age of majority from all countries, excluding standard exceptions.",
+    "highlights": [
+      "Beginner-friendly event welcoming all skill levels.",
+      "Opportunity to win cash prizes and tech gadgets.",
+      "Access to mentorship and networking with peers and industry judges.",
+      "Focus on practical AI application in real-world scenarios."
+    ],
+    "application_deadline": "2026-07-19",
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": 60,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "hackathon",
+      "ai",
+      "beginner-friendly",
+      "online",
+      "innovation"
+    ],
+    "url": "https://hack-with-ai-by-code-crate.devpost.com/",
+    "id": "6d7096035317",
+    "last_checked": "2026-07-19T09:51:17.165776+00:00"
+  },
+  {
+    "name": "Vietnam's Fleets Are Scaling. Is Your Maintenance Keeping Up?",
+    "organizer": "SGInnovate",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Sciences (STEM)",
+      "Business / Economics"
+    ],
+    "fields": [
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "31 July 2026",
+    "location": "Online",
+    "prize": null,
+    "summary": "This online event will host a discussion focusing on the evolution of maintenance strategies in the maritime sector, especially as fleets scale. Participants will gain insights from Tuan Nguyen, an experienced operations manager, who will share practical strategies for predictive maintenance over traditional reactive approaches. This event is timely, highlighting the pressing need for fleet operators to adapt to the fast-paced changes in the industry to stay competitive.",
+    "eligibility": "Open to all interested in the maritime industry and maintenance strategies.",
+    "highlights": [
+      "Insightful discussion with industry expert Tuan Nguyen.",
+      "Focus on predictive maintenance strategies.",
+      "Addressing challenges faced by maritime operators.",
+      "Tailored for professionals in logistics and maritime sectors."
+    ],
+    "application_deadline": null,
+    "difficulty": "Intermediate",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "maritime",
+      "logistics",
+      "maintenance",
+      "online",
+      "free"
+    ],
+    "url": "https://www.sginnovate.com/event/vietnams-fleets-are-scaling-your-maintenance-keeping",
+    "id": "abd6b3ebe251",
+    "last_checked": "2026-07-19T09:51:25.966985+00:00"
   }
 ]
