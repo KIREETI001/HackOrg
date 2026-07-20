@@ -11457,5 +11457,104 @@
     "url": "https://www.sginnovate.com/event/vietnams-fleets-are-scaling-your-maintenance-keeping",
     "id": "abd6b3ebe251",
     "last_checked": "2026-07-19T09:51:25.966985+00:00"
+  },
+  {
+    "name": "AWS Bedrock LLM Day Singapore",
+    "organizer": "SGInnovate",
+    "companies": [
+      "Amazon",
+      "Anthropic",
+      "OpenAI",
+      "Trust Bank",
+      "OCBC",
+      "Illumina",
+      "SoftwareOne",
+      "OneByZero",
+      "Deloitte",
+      "Accenture"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "status": "upcoming",
+    "date": "5 August 2026",
+    "location": "Kuala Lumpur, Singapore, 2 Central Boulevard, 018916",
+    "prize": null,
+    "summary": "AWS Bedrock LLM Day is set to explore the advancements in generative AI, focusing on Amazon Bedrock's capabilities. The event includes hands-on workshops and showcases practical insights on using new technologies to drive innovation. Attendees will gain valuable knowledge from industry leaders and have opportunities to interact with key AI partners for practical applications of generative AI.",
+    "eligibility": "The event is aimed at technical decision-makers and builders including CTOs, VPs of Engineering, developers, and software engineers.",
+    "highlights": [
+      "Insight into the latest service launches on Amazon Bedrock.",
+      "Customer spotlights from prominent companies like Trust Bank and OCBC.",
+      "Interactive workshops for practical learning.",
+      "Networking opportunities with key AI partners."
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "singapore",
+      "ai",
+      "workshop",
+      "generative-ai",
+      "networking"
+    ],
+    "url": "https://www.sginnovate.com/event/aws-bedrock-llm-day-singapore",
+    "id": "93b833ca7c6a",
+    "last_checked": "2026-07-20T10:51:21.597618+00:00"
+  },
+  {
+    "name": "Shanghai Pudong \"Pearl Cup\" - Singapore Demo Day",
+    "organizer": "SGInnovate",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "Healthcare"
+    ],
+    "status": "upcoming",
+    "date": "20 August 2026",
+    "location": "Singapore, 32 Carpenter Street, 059911",
+    "prize": "Not specified, but offers networking opportunities with venture capitalists.",
+    "summary": "The Shanghai Pudong \"Pearl Cup\" - Singapore Demo Day is set to showcase 30 innovative startups focusing on deep tech advancements. This event is tailored for VCs and corporate leaders who are looking for the next big breakthrough and offers a platform for direct engagement with key players from Shanghai Pudong's tech ecosystem. Attendees can expect structured pitch sessions and ample networking opportunities to create valuable connections.",
+    "eligibility": "Open to startup founders seeking growth opportunities and VCs interested in new investments.",
+    "highlights": [
+      "Showcase of 30 deep tech startups",
+      "4-minute pitches followed by Q&A sessions",
+      "High-level networking with investors",
+      "Opportunity to access China's massive tech market"
+    ],
+    "application_deadline": "2026-07-31",
+    "difficulty": "Intermediate",
+    "cost": "Varies",
+    "prize_value_usd": null,
+    "beginner_friendly": false,
+    "application_url": "https://luma.com/miubppku",
+    "tags": [
+      "singapore",
+      "deep-tech",
+      "startup",
+      "vc",
+      "networking",
+      "ai"
+    ],
+    "url": "https://www.sginnovate.com/event/shanghai-pudong-pearl-cup-singapore-demo-day",
+    "id": "3b387c8fc526",
+    "last_checked": "2026-07-20T10:51:29.645029+00:00"
   }
 ]
