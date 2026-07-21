@@ -11556,5 +11556,104 @@
     "url": "https://www.sginnovate.com/event/shanghai-pudong-pearl-cup-singapore-demo-day",
     "id": "3b387c8fc526",
     "last_checked": "2026-07-20T10:51:29.645029+00:00"
+  },
+  {
+    "name": "SISPIK HACKS",
+    "organizer": "Singapore School Pantai Indah Kapuk",
+    "companies": [
+      "Apple",
+      "Google",
+      "Outlook"
+    ],
+    "level": "Pre-University",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Humanities"
+    ],
+    "fields": [
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "8-9 August 2026",
+    "location": "Singapore School Pantai Indah Kapuk",
+    "prize": "Total of $252 in cash prizes awarded to the top three teams.",
+    "summary": "SISPIK HACKS offers high school students a unique opportunity to engage in a competitive yet supportive environment. This hackathon encourages participants to develop solutions to real-world problems, fostering creativity and teamwork. With a focus on collaboration, teams of three to four members can network and innovate together while competing for substantial cash prizes.",
+    "eligibility": "Open to high school students aged 13 and above, with teams of three to four members required.",
+    "highlights": [
+      "Designed specifically for high school students",
+      "Encourages teamwork and collaboration",
+      "Focus on solving real-world problems",
+      "Offers cash prizes for top performances"
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": 252,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "singapore",
+      "hackathon",
+      "high-school",
+      "beginner-friendly"
+    ],
+    "url": "https://sispik-hacks-1-0.devpost.com/",
+    "id": "aade3b78bacf",
+    "last_checked": "2026-07-21T10:24:36.691587+00:00"
+  },
+  {
+    "name": "JacHacks SF",
+    "organizer": "Jaseci Labs",
+    "companies": [
+      "Apple",
+      "Google",
+      "Outlook",
+      "Founders Inc.",
+      "NVIDIA",
+      "Base44",
+      "Lovable",
+      "Koyal AI",
+      "NSF"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Business / Economics"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "status": "upcoming",
+    "date": "26 July 2026",
+    "location": "San Francisco, Founders Inc.",
+    "prize": "$8,100 in cash prizes across various tracks.",
+    "summary": "JacHacks SF is a unique one-day hackathon dedicated to building projects with Jac, an innovative AI-native programming language. Participants will have the opportunity to rapidly create and showcase their projects, leveraging the distinctive capabilities of Jac. The event features workshops, mentorship, and chances for networking, ensuring attendees receive guidance and support throughout the hackathon.",
+    "eligibility": "Participants must be above the legal age of majority in their country of residence and based in the US.",
+    "highlights": [
+      "Focus on using the world's first agentic programming language, Jac.",
+      "Includes a workshop that helps participants learn Jac in just one hour.",
+      "Live judging with a hands-on demo approach.",
+      "Networking opportunities with industry leaders and potential recruiters."
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": 8100,
+    "beginner_friendly": true,
+    "application_url": "https://luma.com/9x1573sw",
+    "tags": [
+      "AI",
+      "hackathon",
+      "San Francisco",
+      "beginners-welcome",
+      "tech"
+    ],
+    "url": "https://jachacks-sf.devpost.com/",
+    "id": "1834476023e1",
+    "last_checked": "2026-07-21T10:24:43.924743+00:00"
   }
 ]
