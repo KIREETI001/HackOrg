@@ -11655,5 +11655,135 @@
     "url": "https://jachacks-sf.devpost.com/",
     "id": "1834476023e1",
     "last_checked": "2026-07-21T10:24:43.924743+00:00"
+  },
+  {
+    "name": "TechInnovation x AIMX Singapore 2026",
+    "organizer": "IPI Singapore",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "Sustainability",
+      "Healthcare"
+    ],
+    "status": "upcoming",
+    "date": "26-27 August 2026",
+    "location": "Singapore, Sands Expo & Convention Centre",
+    "prize": null,
+    "summary": "TechInnovation x AIMX Singapore 2026 is a pivotal event focused on facilitating the adoption of AI technologies in various industries. Scheduled for late August 2026, this two-day conference will feature sessions from global leaders in AI, live demonstrations of cutting-edge technologies, and opportunities for technological matchmaking. The event emphasizes connecting businesses with industry-ready solutions tailored to aid in digital transformation, highlighting themes such as sustainability and healthcare.",
+    "eligibility": "Open to industry professionals and organizations interested in AI adoption.",
+    "highlights": [
+      "Two-day conference with global AI leaders and practitioners.",
+      "Active technology matching for enterprises and AI solution providers.",
+      "Thought leadership sessions on AI applications in various sectors.",
+      "Opportunities for networking within the AIMX global ecosystem."
+    ],
+    "application_deadline": null,
+    "difficulty": "Intermediate",
+    "cost": "Varies",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "singapore",
+      "ai",
+      "technology adoption",
+      "sustainability",
+      "networking"
+    ],
+    "url": "https://www.sginnovate.com/event/techinnovation-x-aimx-singapore-2026",
+    "id": "3b3c4077201f",
+    "last_checked": "2026-07-23T10:22:25.292668+00:00"
+  },
+  {
+    "name": "AI Talent Connect",
+    "organizer": "SGInnovate",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "status": "upcoming",
+    "date": "27 August 2026",
+    "location": "Singapore, 32 Carpenter Street",
+    "prize": null,
+    "summary": "AI Talent Connect is a unique event designed to connect talent with deep tech opportunities in the evolving AI landscape. Attendees will engage with industry leaders, innovative startups, and learning partners through panel discussions and sharing sessions. This event provides insights into emerging trends and career opportunities in AI, helping participants position themselves for future success.",
+    "eligibility": "Professionals and individuals interested in AI job opportunities can join.",
+    "highlights": [
+      "Network with deep tech startups and founders in AI.",
+      "Gain insights from industry experts on career opportunities.",
+      "Engage in panel discussions about emerging trends.",
+      "Limited slots available, encouraging early registration."
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "singapore",
+      "ai",
+      "networking",
+      "career opportunities",
+      "technology"
+    ],
+    "url": "https://www.sginnovate.com/event/ai-talent-connect",
+    "id": "5823c4c6b1de",
+    "last_checked": "2026-07-23T10:22:30.513427+00:00"
+  },
+  {
+    "name": "STACK Conference 2026",
+    "organizer": "Government Technology Agency of Singapore",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Business / Economics"
+    ],
+    "fields": [
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "4-5 November 2026",
+    "location": "Singapore",
+    "prize": "No prizes mentioned.",
+    "summary": "The STACK Conference 2026 is a significant event orchestrated by GovTech, catering to the intersection of government, industry, and technology. It emphasizes workshops, talks, and opportunities for networking, fostering collaboration among diverse stakeholders. This year's conference promises rich content and insights that tackle current challenges and innovations in the tech landscape.",
+    "eligibility": "Open to all public and private sector participants interested in technology and digital government.",
+    "highlights": [
+      "Connect with government and tech leaders.",
+      "Engaging workshops and expert talks.",
+      "Networking opportunities for professionals.",
+      "Showcasing the latest innovations in tech."
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "singapore",
+      "tech",
+      "networking",
+      "innovation",
+      "government"
+    ],
+    "url": "https://www.tech.gov.sg/events/",
+    "id": "57f6f1011958",
+    "last_checked": "2026-07-23T10:22:37.721481+00:00"
   }
 ]
