@@ -11785,5 +11785,150 @@
     "url": "https://www.tech.gov.sg/events/",
     "id": "57f6f1011958",
     "last_checked": "2026-07-23T10:22:37.721481+00:00"
+  },
+  {
+    "name": "Self-Evolving Agents Hackathon",
+    "organizer": "Devpost",
+    "companies": [
+      "Apple",
+      "Google",
+      "Guild AI",
+      "Replay",
+      "Actian",
+      "Band"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Global",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "24 July 2026",
+    "location": "Online",
+    "prize": "$19,000+ in cash prizes",
+    "summary": "The Self-Evolving Agents Hackathon invites participants to explore and build self-evolving agents and multi-agent systems in a collaborative setting. With a full day dedicated to innovation, participants will work closely with mentors and access cutting-edge tools from notable companies. The event encourages creativity and technical skill development, culminating in project demonstrations and prize awards.",
+    "eligibility": "Open to individuals above the legal age of majority in their country of residence.",
+    "highlights": [
+      "Engage with engineers and founders.",
+      "Access to advanced APIs and infrastructure.",
+      "Prizes awarded across multiple categories.",
+      "Single-day intensive build experience."
+    ],
+    "application_deadline": null,
+    "difficulty": "Intermediate",
+    "cost": "Paid",
+    "prize_value_usd": 19000,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "hackathon",
+      "AI",
+      "self-evolving agents",
+      "online",
+      "global"
+    ],
+    "url": "https://self-evolving-agents.devpost.com/",
+    "id": "8308e4b24681",
+    "last_checked": "2026-07-24T10:15:50.793514+00:00"
+  },
+  {
+    "name": "Asia Bio Partnering Forum",
+    "organizer": "SGInnovate",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Regional (Asia)",
+    "domains": [
+      "Sciences (STEM)",
+      "Business / Economics"
+    ],
+    "fields": [
+      "Healthcare",
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "1-2 September 2026",
+    "location": "Kuala Lumpur, Marina Bay Sands Convention Center",
+    "prize": null,
+    "summary": "The Asia Bio Partnering Forum serves as a significant networking event for biopharma and medtech sectors, focusing on fostering partnerships among innovators and leading industry players. Scheduled for September 1-2, 2026, in Singapore, the forum aims to enhance investment opportunities across the Asia Pacific region. This event builds on the success of the previous ChinaBio™ Partnering Forum, attracting institutional investors and corporate executives to discuss strategic dealmaking.",
+    "eligibility": "Open to industry professionals, investors, and innovators in the biotech and medtech fields.",
+    "highlights": [
+      "Focus on biopharma and medtech advancements",
+      "Brings together key leaders and investors from around the globe",
+      "Opportunities for strategic partnerships and investments",
+      "Part of a successful series of partnering forums"
+    ],
+    "application_deadline": null,
+    "difficulty": "Intermediate",
+    "cost": "Varies",
+    "prize_value_usd": null,
+    "beginner_friendly": false,
+    "application_url": null,
+    "tags": [
+      "biotech",
+      "healthcare",
+      "networking",
+      "partnerships",
+      "investment",
+      "asia"
+    ],
+    "url": "https://www.sginnovate.com/event/asia-bio-partnering-forum",
+    "id": "1c7c852416e7",
+    "last_checked": "2026-07-24T10:15:58.604278+00:00"
+  },
+  {
+    "name": "NAMIC Start-up Innovation Forum 2026",
+    "organizer": "SGInnovate",
+    "companies": [
+      "Enterprise Singapore",
+      "SLINGSHOT",
+      "National Robotics Programme",
+      "Agency for Science, Technology and Research"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)",
+      "Business / Economics"
+    ],
+    "fields": [
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "1 September 2026",
+    "location": "Kuala Lumpur, Singapore, 32 Carpenter Street, 059911",
+    "prize": "Participants can receive up to S$2.2M in grant awards.",
+    "summary": "The NAMIC Start-up Innovation Forum 2026 is a premier event designed to foster the growth of deep tech startups in Singapore and the broader region. It features innovative startups pitching their ideas to a panel of judges, with a chance to advance to the SLINGSHOT 2026 Grand Finals. This gathering highlights the intersection of advanced manufacturing technologies and entrepreneurial innovation, showcasing solutions across various high-tech industries.",
+    "eligibility": "Open to deep tech startups and innovators from multiple industries.",
+    "highlights": [
+      "Largest deep tech pitching event in APAC.",
+      "Opportunity for startups to fast-track into top competitions.",
+      "Focus on advanced and digital manufacturing innovations.",
+      "Supported by key government and research organizations."
+    ],
+    "application_deadline": null,
+    "difficulty": "Intermediate",
+    "cost": "Free",
+    "prize_value_usd": 1617000,
+    "beginner_friendly": false,
+    "application_url": "https://namic.sg/events/startup-innovation-forum-2026/",
+    "tags": [
+      "singapore",
+      "startup",
+      "deep-tech",
+      "innovation",
+      "manufacturing"
+    ],
+    "url": "https://www.sginnovate.com/event/namic-start-innovation-forum-2026",
+    "id": "160c7cd6f36c",
+    "last_checked": "2026-07-24T10:16:05.065841+00:00"
   }
 ]
