@@ -11930,5 +11930,193 @@
     "url": "https://www.sginnovate.com/event/namic-start-innovation-forum-2026",
     "id": "160c7cd6f36c",
     "last_checked": "2026-07-24T10:16:05.065841+00:00"
+  },
+  {
+    "name": "Build with AI Extended",
+    "organizer": "Devpost",
+    "companies": [
+      "Apple",
+      "Google",
+      "Outlook",
+      "Agence Togo Digital"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Global",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "25 July 2026",
+    "location": "Online",
+    "prize": "Non-cash prize including exclusive goodies and cloud credits.",
+    "summary": "The 'Build with AI Extended' hackathon invites participants to innovate using AI technology. It fosters collaboration among developers, designers, and tech enthusiasts to create impactful solutions. Participants will have limited time to develop projects, showcasing their skills in coding and design.",
+    "eligibility": "Participants must be above the legal age of majority in their country of residence.",
+    "highlights": [
+      "Focus on AI and its practical applications.",
+      "Opportunity to collaborate with global participants.",
+      "Exclusive goodies and cloud credits for the winning team.",
+      "Short timeline to challenge creativity and technical skills."
+    ],
+    "application_deadline": "2026-07-25",
+    "difficulty": "Intermediate",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "hackathon",
+      "ai",
+      "global",
+      "online",
+      "tech"
+    ],
+    "url": "https://build-with-ai-extended.devpost.com/",
+    "id": "75ea8c848e1c",
+    "last_checked": "2026-07-25T09:45:35.074095+00:00"
+  },
+  {
+    "name": "AI 4 Earth Hackathon",
+    "organizer": "GatewayGS",
+    "companies": [],
+    "level": "Secondary",
+    "timeline": "Multi-week (1-3mo)",
+    "scope": "Global",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "Sustainability"
+    ],
+    "status": "upcoming",
+    "date": "15 August 2026",
+    "location": "Online",
+    "prize": "Cash prizes and recognition for top projects.",
+    "summary": "The AI 4 Earth Hackathon invites participants to develop AI-driven solutions to environmental issues, encouraging creativity and practical impact. Participants aged 13 and above can join individually or in teams, focusing on sustainability challenges. This event is designed to be beginner-friendly while still appealing to experienced developers passionate about climate technology.",
+    "eligibility": "Open to students aged 13 and above from all countries.",
+    "highlights": [
+      "Focus on addressing real-world environmental problems.",
+      "Beginner-friendly format welcoming all skill levels.",
+      "Opportunities for recognition and prizes.",
+      "Diverse project types encouraged, from apps to AI agents."
+    ],
+    "application_deadline": "2026-08-15",
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": 25,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "ai",
+      "sustainability",
+      "hackathon",
+      "beginners",
+      "global"
+    ],
+    "url": "https://gatewaygs-ai-4-earth-hackathon.devpost.com/",
+    "id": "32232e123321",
+    "last_checked": "2026-07-25T09:45:40.967045+00:00"
+  },
+  {
+    "name": "The Email Game",
+    "organizer": "WithAI Research",
+    "companies": [
+      "Apple",
+      "Google",
+      "Outlook"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Global",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "Cybersecurity"
+    ],
+    "status": "upcoming",
+    "date": "1 August 2026",
+    "location": "Online / remote",
+    "prize": "$1,700 in total prizes for top participants",
+    "summary": "The Email Game is a unique live competition requiring participants to build autonomous email agents that compete in a real-time environment. Agents are challenged to collect cryptographic signatures and must navigate anonymity during gameplay. The winner is determined through a points system based on efficiency and accuracy, adding layers of strategy and urgency.",
+    "eligibility": "Participants must be above the legal age of majority in their country of residence.",
+    "highlights": [
+      "Focus on real-time AI-driven email interactions.",
+      "Participants build agents to compete rather than submit projects.",
+      "Cash prizes totaling $1,700 for top-performing teams.",
+      "Open to competitors globally, fostering a diverse participant pool."
+    ],
+    "application_deadline": "2026-08-01",
+    "difficulty": "Intermediate",
+    "cost": "Free",
+    "prize_value_usd": 1700,
+    "beginner_friendly": true,
+    "application_url": "https://the-email-game.devpost.com/",
+    "tags": [
+      "ai",
+      "hackathon",
+      "email",
+      "cybersecurity",
+      "online"
+    ],
+    "url": "https://the-email-game.devpost.com/",
+    "id": "d10de2733f43",
+    "last_checked": "2026-07-25T09:45:45.696809+00:00"
+  },
+  {
+    "name": "Build for Good Accelerator 2025",
+    "organizer": "Singapore Government",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Multi-month (3-6mo)",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)",
+      "Business / Economics"
+    ],
+    "fields": [
+      "General Tech",
+      "Sustainability",
+      "Healthcare"
+    ],
+    "status": "upcoming",
+    "date": "2025",
+    "location": "Singapore",
+    "prize": "Participants have the opportunity to work on impactful projects that address local needs.",
+    "summary": "The Build for Good Accelerator 2025 aims to empower participants to develop innovative solutions addressing critical societal challenges. The program focuses on a variety of areas, including accessibility and eldercare, encouraging creativity and technical skills. With multiple runs and projects launched, it demonstrates a commitment to fostering community-driven advancements in technology and services.",
+    "eligibility": "Open to individuals and teams interested in developing impactful projects.",
+    "highlights": [
+      "Supports projects in accessibility and eldercare",
+      "Encourages collaboration among local talents",
+      "Emphasizes community impact",
+      "Provides a platform for innovative tech solutions."
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Varies",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "singapore",
+      "accelerator",
+      "community-driven",
+      "sustainability",
+      "healthcare",
+      "beginner-friendly"
+    ],
+    "url": "https://www.build.gov.sg/",
+    "id": "e3c62e8f03d4",
+    "last_checked": "2026-07-25T09:45:49.387556+00:00"
   }
 ]
