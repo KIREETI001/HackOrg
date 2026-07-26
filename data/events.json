@@ -12118,5 +12118,49 @@
     "url": "https://www.build.gov.sg/",
     "id": "e3c62e8f03d4",
     "last_checked": "2026-07-25T09:45:49.387556+00:00"
+  },
+  {
+    "name": "AICOO Hackathon",
+    "organizer": "Aicoo",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Global",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "Cybersecurity"
+    ],
+    "status": "upcoming",
+    "date": "29 July 2026",
+    "location": "Online",
+    "prize": "The winner will receive $2,000 in Aicoo API credit.",
+    "summary": "The AICOO Hackathon invites participants to innovate and build products using Aicoo's infrastructure and API. Focusing on enhancing agent-to-agent communication, this hackathon encourages developers to think creatively about coordinating product solutions that incorporate AI. Participants are expected to leverage the platform's capabilities to solve real-world problems through collaborative teamwork.",
+    "eligibility": "Open to students above the legal age of majority in their country of residence.",
+    "highlights": [
+      "Focus on building real products using Aicoo's API.",
+      "Encourages collaboration and team formation prior to the event.",
+      "Practical applications in various fields, including social media and HR tools.",
+      "Non-cash prize of Aicoo API credits for the winner."
+    ],
+    "application_deadline": "2026-07-29",
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": 2000,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "aicoo",
+      "hackathon",
+      "open",
+      "ai",
+      "cybersecurity"
+    ],
+    "url": "https://aicoo-hackathon.devpost.com/",
+    "id": "3ea7e8045ad8",
+    "last_checked": "2026-07-26T09:57:34.618433+00:00"
   }
 ]
