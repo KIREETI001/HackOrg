@@ -12162,5 +12162,197 @@
     "url": "https://aicoo-hackathon.devpost.com/",
     "id": "3ea7e8045ad8",
     "last_checked": "2026-07-26T09:57:34.618433+00:00"
+  },
+  {
+    "name": "NTU InnovateX Hackathon 2026",
+    "organizer": "NTU Centre in Computational Technologies for Finance (CCTF)",
+    "companies": [
+      "SNZ",
+      "Devpost"
+    ],
+    "level": "Tertiary",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Global",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "Web3 / Blockchain"
+    ],
+    "status": "upcoming",
+    "date": "21-23 August 2026",
+    "location": "Singapore, Nanyang Technological University",
+    "prize": "$20,000 in total cash prizes.",
+    "summary": "The NTU InnovateX Hackathon 2026 targets innovative minds keen on developing Web3 solutions. Participants are challenged to build prototypes addressing real-world problems within two primary tracks focused on Payments and Financial Infrastructure and AI-driven Web3 applications. This event offers a collaborative space for students and professionals to connect and showcase their skills.",
+    "eligibility": "Participants must be above the legal age of majority in their country of residence and teams are required.",
+    "highlights": [
+      "Total prize pool of $20,000.",
+      "Focus on Web3 and AI innovation.",
+      "Collaboration between students and industry professionals.",
+      "On-site final presentation to judges at Nanyang Technological University."
+    ],
+    "application_deadline": "2026-08-14",
+    "difficulty": "Intermediate",
+    "cost": "Paid",
+    "prize_value_usd": 20000,
+    "beginner_friendly": false,
+    "application_url": null,
+    "tags": [
+      "hackathon",
+      "web3",
+      "ai",
+      "global",
+      "students",
+      "ntucctf"
+    ],
+    "url": "https://ntu-cctf-snz-innovatex-2026.devpost.com/",
+    "id": "1e26649a17cc",
+    "last_checked": "2026-07-27T11:19:37.511103+00:00"
+  },
+  {
+    "name": "Hyphen-Hacks",
+    "organizer": "Lick-Wilmerding High School",
+    "companies": [
+      "Apple",
+      "Google",
+      "Microsoft",
+      "Cisco"
+    ],
+    "level": "Pre-University",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "10 October 2026",
+    "location": "San Francisco, Lick-Wilmerding High School",
+    "prize": "A non-cash prize for the top three teams, with an approximate total value around $500.",
+    "summary": "Hyphen-Hacks is a student-led hackathon designed specifically for high school students across the Bay Area. Participants are encouraged to develop innovative software and hardware projects over the course of a single day. This collaborative environment not only fosters teamwork but also aids in developing STEM and entrepreneurial skills among young talents.",
+    "eligibility": "High school students aged 13 to 19 can participate, while professional organizations are excluded.",
+    "highlights": [
+      "Designed for high school students only",
+      "Hands-on experience building impactful projects",
+      "Educational and competitive environment",
+      "Collaborative approach to tackle real-world problems"
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": 500,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "hackathon",
+      "high school",
+      "STEM",
+      "student-led",
+      "Bay Area",
+      "software"
+    ],
+    "url": "https://hyphen-hacks26.devpost.com/",
+    "id": "6ebb318f8916",
+    "last_checked": "2026-07-27T11:19:43.126203+00:00"
+  },
+  {
+    "name": "GIA Tokyo Acceleration Programme online consultation",
+    "organizer": "SGInnovate",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Global",
+    "domains": [
+      "Business / Economics"
+    ],
+    "fields": [
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "28-31 July 2026",
+    "location": "Online",
+    "prize": "N/A",
+    "summary": "The GIA Tokyo Consultation Sessions offer early-stage startups the chance to receive personalized advice on market entry into Japan. This program focuses on equipping founders with essential knowledge about the Japanese market and the support provided through the GIA Tokyo Acceleration Programme. Participants will be able to ask specific questions related to their expansion plans during dedicated consultation hours.",
+    "eligibility": "Early-stage founders looking to expand their business into Japan are encouraged to join.",
+    "highlights": [
+      "Personalized guidance on entering the Japanese market.",
+      "Daily consultation sessions from 28-31 July 2026.",
+      "Opportunity to discuss specific business expansion plans.",
+      "Insight into the GIA Tokyo Programme and its benefits."
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "japan",
+      "startups",
+      "consultation",
+      "online",
+      "business"
+    ],
+    "url": "https://www.sginnovate.com/event/gia-tokyo-acceleration-programme-online-consultation",
+    "id": "a5718c9d6522",
+    "last_checked": "2026-07-27T11:19:50.691269+00:00"
+  },
+  {
+    "name": "Agentic Payments & Treasury Summit 2026",
+    "organizer": "SGInnovate",
+    "companies": [
+      "Microsoft",
+      "Franklin Templeton",
+      "StraitsX",
+      "Ondo Finance",
+      "Triple-A",
+      "PwC",
+      "Sygnum Bank",
+      "InvestaX"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Regional (Asia)",
+    "domains": [
+      "Business / Economics",
+      "Computer Science"
+    ],
+    "fields": [
+      "FinTech",
+      "AI / Machine Learning"
+    ],
+    "status": "upcoming",
+    "date": "7 August 2026",
+    "location": "Kuala Lumpur, Microsoft Office Singapore - Frasers Tower, 182 Cecil Street, #13-01, 069547",
+    "prize": null,
+    "summary": "The Agentic Payments & Treasury Summit 2026 focuses on the evolving role of AI in financial automation. As AI agents transition from recommendation tools to executives of financial operations, the summit will provide insights on the necessary frameworks for governance, identity, and risk management. Esteemed speakers from various sectors will engage in discussions that are pivotal for industry leaders and technology providers preparing for this shift.",
+    "eligibility": "Senior professionals in finance and technology are encouraged to attend.",
+    "highlights": [
+      "Keynote by Namrata Jolly from Microsoft",
+      "Panel discussions on agentic payments and treasury",
+      "Networking opportunities with industry leaders",
+      "Focus on AI's impact on financial operations"
+    ],
+    "application_deadline": null,
+    "difficulty": "Intermediate",
+    "cost": "Paid",
+    "prize_value_usd": null,
+    "beginner_friendly": false,
+    "application_url": null,
+    "tags": [
+      "finance",
+      "ai",
+      "regional",
+      "summit",
+      "networking"
+    ],
+    "url": "https://www.sginnovate.com/event/agentic-payments-treasury-summit-2026",
+    "id": "1fedab55b05c",
+    "last_checked": "2026-07-27T11:20:03.227628+00:00"
   }
 ]
