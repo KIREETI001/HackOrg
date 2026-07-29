@@ -12354,5 +12354,47 @@
     "url": "https://www.sginnovate.com/event/agentic-payments-treasury-summit-2026",
     "id": "1fedab55b05c",
     "last_checked": "2026-07-27T11:20:03.227628+00:00"
+  },
+  {
+    "name": "Roast My TechStack #8",
+    "organizer": "SGInnovate",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "status": "upcoming",
+    "date": "6 August 2026",
+    "location": "Kuala Lumpur, Singapore, 32 Carpenter Street, 059911",
+    "prize": null,
+    "summary": "Roast My TechStack #8 is an engaging event designed for builders to showcase their ideas and architectural designs in a collaborative environment. Participants present their tech stacks for 15 minutes, followed by audience discussions aimed at teasing out tradeoffs and optimizations. This unique format encourages a lively exchange of ideas and learning opportunities amidst the tech community in Singapore.",
+    "eligibility": "Anyone interested in discussing technology and architecture is welcome to join.",
+    "highlights": [
+      "Interactive showcase of technology stacks.",
+      "Opportunity for detailed peer review and feedback.",
+      "Casual yet technical atmosphere promotes learning.",
+      "Focus on architecture decisions and tradeoffs."
+    ],
+    "application_deadline": null,
+    "difficulty": "Intermediate",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "singapore",
+      "ai",
+      "techstack",
+      "innovation",
+      "free"
+    ],
+    "url": "https://www.sginnovate.com/event/roast-my-techstack-8",
+    "id": "5143e63e992d",
+    "last_checked": "2026-07-29T10:37:49.615693+00:00"
   }
 ]
