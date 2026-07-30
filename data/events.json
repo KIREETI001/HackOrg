@@ -12396,5 +12396,93 @@
     "url": "https://www.sginnovate.com/event/roast-my-techstack-8",
     "id": "5143e63e992d",
     "last_checked": "2026-07-29T10:37:49.615693+00:00"
+  },
+  {
+    "name": "PeddieHacks 2026",
+    "organizer": "Peddie School Computer Science Club",
+    "companies": [],
+    "level": "Secondary",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Global",
+    "domains": [
+      "Computer Science",
+      "Humanities"
+    ],
+    "fields": [
+      "General Tech",
+      "AI / Machine Learning"
+    ],
+    "status": "upcoming",
+    "date": "14-16 August 2026",
+    "location": "Online",
+    "prize": "Over $800 in cash prizes along with various tech memberships and resources.",
+    "summary": "PeddieHacks 2026 is a 48-hour virtual hackathon designed for students aged 13 to 20, aiming to foster collaboration between novice and experienced programmers. Participants will work on creative solutions to real-world challenges and engage in interactive workshops. The event emphasizes inclusivity, ensuring a platform for all skill levels, making it an exciting opportunity for budding tech enthusiasts.",
+    "eligibility": "Open to all students aged 13 to 20, regardless of experience level.",
+    "highlights": [
+      "48-hour duration fosters intensive collaboration.",
+      "Workshops led by industry professionals enhance learning.",
+      "Virtual format allows global participation.",
+      "Cash prizes and tech memberships incentivize innovation."
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": 800,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "hackathon",
+      "virtual",
+      "students",
+      "beginner-friendly",
+      "coding"
+    ],
+    "url": "https://peddiehacks-2026.devpost.com/",
+    "id": "ae2a60098355",
+    "last_checked": "2026-07-30T10:24:04.999976+00:00"
+  },
+  {
+    "name": "BES + SGInnovate Social Night - Engineering Better Healthcare",
+    "organizer": "SGInnovate",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Sciences (STEM)",
+      "Humanities"
+    ],
+    "fields": [
+      "Healthcare",
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "19 August 2026",
+    "location": "Kuala Lumpur, Singapore",
+    "prize": null,
+    "summary": "This event offers a platform for interdisciplinary collaboration, connecting industry leaders and academic experts in biomedical engineering. Participants will engage in discussions aimed at translating innovations in biomedical engineering into impactful patient solutions. The evening will also include a networking session with opportunities to form valuable connections within the healthcare and innovation ecosystem.",
+    "eligibility": "Open to professionals and students interested in biomedical engineering and healthcare innovation.",
+    "highlights": [
+      "Engaging fireside chat with industry and academic leaders",
+      "Focus on real-world applications of biomedical engineering",
+      "Networking session with food and beverages",
+      "Involvement of key figures in the healthcare and medtech sectors"
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "healthcare",
+      "biomedical",
+      "networking",
+      "sginnovate",
+      "medtech"
+    ],
+    "url": "https://www.sginnovate.com/event/bes-sginnovate-social-night-engineering-better-healthcare-biomedical-engineering-patient",
+    "id": "1ec7a0383508",
+    "last_checked": "2026-07-30T10:24:16.699038+00:00"
   }
 ]
