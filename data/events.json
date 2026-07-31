@@ -12484,5 +12484,143 @@
     "url": "https://www.sginnovate.com/event/bes-sginnovate-social-night-engineering-better-healthcare-biomedical-engineering-patient",
     "id": "1ec7a0383508",
     "last_checked": "2026-07-30T10:24:16.699038+00:00"
+  },
+  {
+    "name": "CodeNova 2026 – National AI & Innovation Hackathon",
+    "organizer": "Devpost",
+    "companies": [
+      "Apple",
+      "Google",
+      "Outlook"
+    ],
+    "level": "Tertiary",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "Healthcare",
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "31 July - 2 August 2026",
+    "location": "Online",
+    "prize": "Non-cash prizes including trophies and certificates, along with potential internship opportunities.",
+    "summary": "CodeNova 2026 is an exciting 3-day hackathon dedicated to fostering innovation through artificial intelligence. It invites students to collaborate and create groundbreaking solutions targeted at real-world issues in sectors like healthcare and education. Participants are encouraged to leverage their creativity and technical skills while competing for various prizes, including certificates and internships, aimed at enhancing their future careers.",
+    "eligibility": "Students above the legal age of majority in their country of residence can participate as teams of 2 to 4 members.",
+    "highlights": [
+      "Focus on real-world challenges in AI and innovation.",
+      "Collaboration among students from across India.",
+      "Prizes include trophies, recognition, and internship opportunities.",
+      "Three non-cash prizes awarded for outstanding solutions."
+    ],
+    "application_deadline": "2026-07-31",
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "hackathon",
+      "ai",
+      "innovation",
+      "student-run",
+      "teamwork"
+    ],
+    "url": "https://codenova-2026.devpost.com/",
+    "id": "a7452595f447",
+    "last_checked": "2026-07-31T10:37:32.753503+00:00"
+  },
+  {
+    "name": "The Atlassian X Mistral X AISoc Hack",
+    "organizer": "AISoc",
+    "companies": [
+      "Atlassian",
+      "Mistral"
+    ],
+    "level": "Tertiary",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "status": "upcoming",
+    "date": "31 July - 1 August 2026",
+    "location": "Kensington, Australia, UNSW Campus",
+    "prize": "$1,200 in cash and additional prizes for winners",
+    "summary": "The Atlassian X Mistral X AISoc Hack empowers participants to explore innovative solutions using AI within a 24-hour hackathon format. It offers networking opportunities with industry representatives and focuses on practical problem-solving in a competitive environment. Participants will create projects leveraging Mistral's APIs, with a robust evaluation based on creativity, execution, and scalability.",
+    "eligibility": "Open to teams of 4 to 5 members above the legal age of majority in their country of residence.",
+    "highlights": [
+      "24-hour hackathon challenge",
+      "Exclusive access to industry insights from Atlassian and Mistral",
+      "Prizes totaling $1,200 plus additional rewards",
+      "Beginner-friendly atmosphere with support for all skill levels"
+    ],
+    "application_deadline": "2026-08-01",
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": 1200,
+    "beginner_friendly": true,
+    "application_url": "https://campus.hellorubric.com/?eid=70190",
+    "tags": [
+      "hackathon",
+      "AI",
+      "beginners",
+      "UNSW",
+      "local"
+    ],
+    "url": "https://aisoc-atlassian-mistral.devpost.com/",
+    "id": "f652c043f91a",
+    "last_checked": "2026-07-31T10:37:38.980723+00:00"
+  },
+  {
+    "name": "AI Clinic & Business Tea Time",
+    "organizer": "SGInnovate",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Business / Economics",
+      "Computer Science"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "status": "upcoming",
+    "date": "12 August 2026",
+    "location": "Kuala Lumpur, Singapore, RoboAct Office #06-06, Link@AMK 3 Ang Mo Kio Street 62, S569139",
+    "prize": null,
+    "summary": "The AI Clinic & Business Tea Time is a unique networking event targeted at business professionals looking to leverage AI in their operations. Attendees can engage in meaningful conversations and discussions, while enjoying refreshments in a relaxed atmosphere. This event offers a platform to exchange ideas on automation and AI applications, with live demonstrations and insights tailored to specific business challenges, enhancing professional connections.",
+    "eligibility": "The event is open to business owners, decision-makers, and professionals interested in AI.",
+    "highlights": [
+      "Networking opportunities with industry peers",
+      "Live demonstrations of AI applications",
+      "Focus on practical automation solutions",
+      "Relaxed atmosphere encouraging open discussions"
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "singapore",
+      "ai",
+      "networking",
+      "business",
+      "free"
+    ],
+    "url": "https://www.sginnovate.com/event/networking-ai-clinic-business-tea-time",
+    "id": "c8deae6e2d10",
+    "last_checked": "2026-07-31T10:37:49.504369+00:00"
   }
 ]
