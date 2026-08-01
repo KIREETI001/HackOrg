@@ -12622,5 +12622,148 @@
     "url": "https://www.sginnovate.com/event/networking-ai-clinic-business-tea-time",
     "id": "c8deae6e2d10",
     "last_checked": "2026-07-31T10:37:49.504369+00:00"
+  },
+  {
+    "name": "TikTok TechJam 2026",
+    "organizer": "TikTok",
+    "companies": [
+      "Apple",
+      "Google",
+      "Outlook"
+    ],
+    "level": "Tertiary",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Global",
+    "domains": [
+      "Computer Science",
+      "Business / Economics"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "Cybersecurity",
+      "E-commerce/Retail"
+    ],
+    "status": "upcoming",
+    "date": "29 August – 1 September 2026",
+    "location": "Singapore, TikTok Singapore",
+    "prize": "$34,500 in cash prizes.",
+    "summary": "TikTok TechJam 2026 invites college students to participate in an exhilarating 72-hour hackathon aimed at creating innovative solutions for real-world challenges. With a grand prize of $15,000, participants can work individually or in teams of up to five. The event also offers technical workshops that provide valuable insights and prepare contestants for competition while connecting them with potential career opportunities at TikTok.",
+    "eligibility": "Participants must be 18 years or older and current college students.",
+    "highlights": [
+      "72-hour challenge with 5 distinct problems.",
+      "Grand prize of $15,000 for the top project.",
+      "Opportunity to learn from TikTok engineers.",
+      "Connect with hiring teams for future job opportunities."
+    ],
+    "application_deadline": "2026-08-23",
+    "difficulty": "Intermediate",
+    "cost": "Paid",
+    "prize_value_usd": 34500,
+    "beginner_friendly": true,
+    "application_url": "https://bit.ly/TikTokTechJam2026Registration",
+    "tags": [
+      "hackathon",
+      "AI",
+      "cybersecurity",
+      "E-commerce",
+      "college students",
+      "TikTok"
+    ],
+    "url": "https://tiktoktechjam2026.devpost.com/",
+    "id": "2691e3e57ff1",
+    "last_checked": "2026-08-01T09:57:31.898561+00:00"
+  },
+  {
+    "name": "CALL-E: Your Code Is Calling",
+    "organizer": "Devpost",
+    "companies": [
+      "Apple",
+      "Google",
+      "Outlook",
+      "CALL-E"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Multi-week (1-3mo)",
+    "scope": "Global",
+    "domains": [
+      "Computer Science",
+      "Business / Economics"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "14 September 2026",
+    "location": "Online",
+    "prize": "$10,000 cash prizes",
+    "summary": "CALL-E invites developers worldwide to create AI agents capable of making real phone calls. This unique competition emphasizes practical applications over theoretical concepts, allowing participants to build and deploy functional applications that address business challenges. With a diverse prize structure, the hackathon encourages innovative thinking and provides valuable feedback opportunities from the CALL-E team.",
+    "eligibility": "Open to all individuals above the legal age of majority in their country of residence.",
+    "highlights": [
+      "Compete for a share of $10,000 in cash prizes.",
+      "Build functional applications that utilize AI to solve real-world problems.",
+      "Get hands-on experience with CALL-E's advanced SDK and APIs.",
+      "Provide valuable feedback to help shape the future of CALL-E."
+    ],
+    "application_deadline": "2026-09-14",
+    "difficulty": "Intermediate",
+    "cost": "Paid",
+    "prize_value_usd": 10000,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "hackathon",
+      "ai",
+      "developers",
+      "global",
+      "innovation"
+    ],
+    "url": "https://call-e.devpost.com/",
+    "id": "67aa737a2d12",
+    "last_checked": "2026-08-01T09:57:40.749131+00:00"
+  },
+  {
+    "name": "CyberSG Connect: Trustworthy and Secure AI Agents",
+    "organizer": "SGInnovate",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "Cybersecurity",
+      "AI / Machine Learning"
+    ],
+    "status": "upcoming",
+    "date": "21 August 2026",
+    "location": "Kuala Lumpur, Singapore",
+    "prize": null,
+    "summary": "CyberSG Connect aims to address the pressing security and governance challenges posed by AI agents as they move towards wider adoption. The event will bring together experts from various fields, including academia and cybersecurity, to discuss the latest threats, risks, and solutions for secure AI deployment. Attendees will gain valuable insights into the frameworks needed for trustworthy AI adoption, contributing to a deeper understanding of these transformative technologies.",
+    "eligibility": "The event is open to anyone interested in AI safety and security topics.",
+    "highlights": [
+      "Expert perspectives from leaders in AI and cybersecurity.",
+      "Focus on real-world deployment and governance of AI agents.",
+      "Engaging discussions on emerging security threats.",
+      "Networking opportunities with industry professionals."
+    ],
+    "application_deadline": null,
+    "difficulty": "Intermediate",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "singapore",
+      "ai",
+      "cybersecurity",
+      "free",
+      "networking"
+    ],
+    "url": "https://www.sginnovate.com/event/cybersg-connect-trustworthy-and-secure-ai-agents",
+    "id": "0b39bead92eb",
+    "last_checked": "2026-08-01T09:57:55.124204+00:00"
   }
 ]
