@@ -12765,5 +12765,50 @@
     "url": "https://www.sginnovate.com/event/cybersg-connect-trustworthy-and-secure-ai-agents",
     "id": "0b39bead92eb",
     "last_checked": "2026-08-01T09:57:55.124204+00:00"
+  },
+  {
+    "name": "HTCJ Aviation Futures Innovation Challenge",
+    "organizer": "Hack The Concrete Jungle",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Multi-week (1-3mo)",
+    "scope": "Global",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "Sustainability",
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "8 October 2026",
+    "location": "San Diego Convention Center",
+    "prize": "One non-cash prize awarded for best innovation in advanced air mobility.",
+    "summary": "The HTCJ Aviation Futures Innovation Challenge invites participants to revolutionize the future of aviation by integrating AI, mobility, and industry expertise. It emphasizes collaboration among students, professionals, and entrepreneurs to develop innovative solutions that address pressing aviation challenges. This competition stands out for its focus on real-world applicability, bridging technology with practical aviation applications.",
+    "eligibility": "Participants must be above the legal age of majority in their country of residence.",
+    "highlights": [
+      "Focus on AI, aviation, and aerospace innovation.",
+      "Collaboration between diverse groups, including students and industry professionals.",
+      "Opportunity to present solutions to industry leaders and investors.",
+      "Involves tackling real-world aviation challenges."
+    ],
+    "application_deadline": "2026-10-08",
+    "difficulty": "Intermediate",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "aviation",
+      "hackathon",
+      "ai",
+      "sustainability",
+      "global"
+    ],
+    "url": "https://htcj-aviation-futures.devpost.com/",
+    "id": "a17c8c4ee760",
+    "last_checked": "2026-08-03T11:21:26.916534+00:00"
   }
 ]
