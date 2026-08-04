@@ -12810,5 +12810,103 @@
     "url": "https://htcj-aviation-futures.devpost.com/",
     "id": "a17c8c4ee760",
     "last_checked": "2026-08-03T11:21:26.916534+00:00"
+  },
+  {
+    "name": "Agentic Cinema: The Blockbuster Hackathon",
+    "organizer": "Devpost",
+    "companies": [
+      "Google",
+      "IBM",
+      "Grafana",
+      "Parallel",
+      "Clickhouse",
+      "Replit"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Multi-week (1-3mo)",
+    "scope": "Global",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)",
+      "Business / Economics"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "7 September 2026",
+    "location": "Online",
+    "prize": "$75,000 in cash prizes awarded across multiple tracks.",
+    "summary": "Agentic Cinema invites tech enthusiasts and AI builders to a unique hackathon that merges technology with cinematic storytelling. Participants will use the Google Cloud Gemini platform to create agentic workflows and innovative solutions for the media and entertainment industry. This competition emphasizes two key aspects: collaboration with leading tech partners and the opportunity to showcase solutions to industry experts.",
+    "eligibility": "Participants must be above the legal age of majority in their country of residence.",
+    "highlights": [
+      "Collaborate with major tech companies like Google and IBM.",
+      "Multiple prize tracks to encourage diverse participation.",
+      "Innovative focus on AI applications in the entertainment sector.",
+      "Opportunity to pitch directly to industry leaders and gain exposure."
+    ],
+    "application_deadline": "2026-09-07",
+    "difficulty": "Intermediate",
+    "cost": "Paid",
+    "prize_value_usd": 75000,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "hackathon",
+      "AI",
+      "Google",
+      "blockbuster",
+      "media",
+      "online"
+    ],
+    "url": "https://agentic-cinema.devpost.com/",
+    "id": "041c46a13778",
+    "last_checked": "2026-08-04T10:37:28.105349+00:00"
+  },
+  {
+    "name": "AIMX Singapore 2026 x TechInnovation 2026",
+    "organizer": "SGInnovate",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Global",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "Healthcare",
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "26-27 August 2026",
+    "location": "Singapore, Marina Bay Sands Expo & Convention",
+    "prize": "No specific prizes mentioned.",
+    "summary": "AIMX Singapore 2026 x TechInnovation 2026 is a premier global platform dedicated to the artificial intelligence ecosystem. It features keynotes, discussions, and demonstrations that explore the transformative impact of AI. The event fosters collaboration and promotes ethical practices in AI while providing opportunities for networking and hands-on learning. This dynamic forum is designed for all levels of AI engagement, emphasizing practical implementation and sustainable digital solutions.",
+    "eligibility": "Open to all individuals and organizations interested in AI, regardless of their journey.",
+    "highlights": [
+      "Premier global platform for AI innovation and collaboration.",
+      "Features keynotes and panel discussions from industry leaders.",
+      "Focus on practical AI solutions and sustainable capabilities.",
+      "Variety of networking opportunities and hands-on workshops."
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "ai",
+      "innovation",
+      "networking",
+      "tech",
+      "sustainability"
+    ],
+    "url": "https://www.sginnovate.com/event/aimx-singapore-2026-x-techinnovation-2026",
+    "id": "a1318e3a2ad4",
+    "last_checked": "2026-08-04T10:37:34.449199+00:00"
   }
 ]
