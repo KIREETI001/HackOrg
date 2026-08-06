@@ -12908,5 +12908,97 @@
     "url": "https://www.sginnovate.com/event/aimx-singapore-2026-x-techinnovation-2026",
     "id": "a1318e3a2ad4",
     "last_checked": "2026-08-04T10:37:34.449199+00:00"
+  },
+  {
+    "name": "Build With AI Hack Days",
+    "organizer": "IEEE Computer Society SEU SBC",
+    "companies": [
+      "Major League Hacking",
+      "Machine Learning Bangladesh"
+    ],
+    "level": "Tertiary",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "status": "completed",
+    "date": "6 August 2026",
+    "location": "Southeast University, Bangladesh",
+    "prize": "Two non-cash prizes for outstanding submissions, including gift cards and stickers.",
+    "summary": "The Build With AI Hack Days is a high-energy, one-day hackathon where college students from Southeast University gather to create AI-powered applications using Google's innovative tools. Participants will work closely with the Gemini API and other resources to deliver functional, creative projects within a tight timeframe. This event emphasizes hands-on experience and real-world problem solving, making it a unique opportunity for budding developers.",
+    "eligibility": "College students above the legal age of majority in their country of residence.",
+    "highlights": [
+      "In-person mini hackathon focused on AI applications.",
+      "Access to advanced Google AI tools and APIs.",
+      "Prizes awarded for top projects.",
+      "Encourages innovative problem-solving and creativity."
+    ],
+    "application_deadline": "2026-08-07",
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": 50,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "ai",
+      "hackathon",
+      "student-run",
+      "southeast-university",
+      "beginner-friendly"
+    ],
+    "url": "https://build-with-ai-hack-days-seu.devpost.com/",
+    "id": "7fe9146ca7a7",
+    "last_checked": "2026-08-06T10:37:37.813271+00:00"
+  },
+  {
+    "name": "China Market Expansion via Chengdu with Innoforge/SSCIP",
+    "organizer": "SGInnovate",
+    "companies": [
+      "Innoforge",
+      "SSCIP"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Business / Economics",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "13 August 2026",
+    "location": "Singapore, 32 Carpenter Street, 059911",
+    "prize": "N/A",
+    "summary": "This event aims to open pathways for businesses interested in entering the Chinese market, specifically through Chengdu. It brings together industry experts and partners to provide insights and networking opportunities. Attendees will learn about the opportunities in Chengdu and receive guidance from seasoned professionals on navigating the China market.",
+    "eligibility": "Open to technopreneurs, business leaders, corporate leaders, engineers, and startup founders interested in the China market.",
+    "highlights": [
+      "Opportunity to network with industry experts.",
+      "Insights on entering the Chinese market.",
+      "Discussion on advanced technology sectors.",
+      "Light refreshments and networking opportunities."
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "singapore",
+      "business",
+      "china-market",
+      "networking",
+      "technopreneurs"
+    ],
+    "url": "https://www.sginnovate.com/event/china-market-expansion-chengdu-innoforgesscip",
+    "id": "0995a578d25d",
+    "last_checked": "2026-08-06T10:37:50.265945+00:00"
   }
 ]
