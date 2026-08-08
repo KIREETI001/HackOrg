@@ -13044,5 +13044,48 @@
     "url": "https://www.sginnovate.com/event/live-investor-narrative-review-how-tell-startup-story-gets-investors-lean",
     "id": "90cb2051095d",
     "last_checked": "2026-08-07T08:57:54.358331+00:00"
+  },
+  {
+    "name": "SpaceXAI Grokathon",
+    "organizer": "SpaceXAI",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Global",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "status": "ongoing",
+    "date": "8 August 2026",
+    "location": "San Francisco, old X office on Market Street",
+    "prize": "One non-cash prize to be announced for the winner.",
+    "summary": "The SpaceXAI Grokathon is an exciting 12-hour in-person hackathon focused on building innovative AI applications. Participants will have access to exclusive Grok models and the X API, providing a unique opportunity to create groundbreaking projects. With space for creative ideas and ambitious concepts, this event encourages developers to push the boundaries of technology in a collaborative environment.",
+    "eligibility": "Open to individuals above the legal age of majority in their country of residence, from all countries/territories, excluding standard exceptions.",
+    "highlights": [
+      "Exclusive access to Grok models and the X API",
+      "Collaborative atmosphere with SpaceXAI experts",
+      "Focus on creativity and ambitious projects",
+      "Opportunity to showcase innovative AI applications"
+    ],
+    "application_deadline": null,
+    "difficulty": "Intermediate",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": false,
+    "application_url": null,
+    "tags": [
+      "AI",
+      "hackathon",
+      "SpaceXAI",
+      "San Francisco",
+      "innovation"
+    ],
+    "url": "https://spacexai-grokathon.devpost.com/",
+    "id": "60462d5a3e72",
+    "last_checked": "2026-08-08T08:39:01.973598+00:00"
   }
 ]
