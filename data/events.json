@@ -13087,5 +13087,95 @@
     "url": "https://spacexai-grokathon.devpost.com/",
     "id": "60462d5a3e72",
     "last_checked": "2026-08-08T08:39:01.973598+00:00"
+  },
+  {
+    "name": "AI Passport Ideathon",
+    "organizer": "Egoist Machines",
+    "companies": [
+      "Apple",
+      "Google",
+      "Outlook"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Multi-week (1-3mo)",
+    "scope": "Global",
+    "domains": [
+      "Computer Science",
+      "Business / Economics"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "status": "upcoming",
+    "date": "12 August 2026",
+    "location": "Online",
+    "prize": "Five non-cash prizes including mentorship and tech gadgets.",
+    "summary": "The AI Passport Ideathon invites participants to create innovative use cases for the AI Passport, an initiative by Egoist Machines. This one-week online hackathon encourages submissions in two tracks: Build and Concept, allowing for a range of project types. Not only do participants stand to win tech prizes, but they also have a chance to secure an internship with a YC-backed team, making this event a unique opportunity for aspiring innovators to showcase their skills.",
+    "eligibility": "Participants must be students and above the legal age of majority in their country of residence.",
+    "highlights": [
+      "Focus on innovative applications for AI Passport.",
+      "Offers both build and concept submission tracks.",
+      "Mentorship opportunities included with prizes.",
+      "Chance for winners to interview for internships."
+    ],
+    "application_deadline": "2026-08-12T23:45:00+01:00",
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "ai",
+      "hackathon",
+      "beginner-friendly",
+      "online",
+      "students"
+    ],
+    "url": "https://ai-passport-ideathon.devpost.com/",
+    "id": "0747a0bc9d10",
+    "last_checked": "2026-08-09T08:40:33.575993+00:00"
+  },
+  {
+    "name": "Understanding Health through Data - Strategic Research Area in Epidemiology and Biostatistics",
+    "organizer": "Singapore Clinical Research Institute",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Sciences (STEM)",
+      "Humanities"
+    ],
+    "fields": [
+      "Healthcare"
+    ],
+    "status": "upcoming",
+    "date": "19 August 2026",
+    "location": "Kuala Lumpur, Singapore, Online",
+    "prize": null,
+    "summary": "This virtual event presents a significant opportunity to learn about the Strategic Research Area in Epidemiology and Biostatistics at Karolinska Institutet. A/Prof Elizabeth Arkema will discuss innovative approaches to health research that enhance understanding of disease determinants. Attendees will gain insight into the integration of large-scale health data and its impact on population health. The session highlights landmark studies and strategic funding aimed at advancing epidemiological research.",
+    "eligibility": "The event is open to anyone interested in public health and research methodologies.",
+    "highlights": [
+      "Focus on cutting-edge epidemiological research",
+      "Insights from a leading expert in epidemiology",
+      "Free virtual attendance from anywhere",
+      "Exploration of unique data resources in health research"
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": "https://www.sginnovate.com/event/understanding-health-through-data-strategic-research-area-epidemiology-and-biostatistics",
+    "tags": [
+      "health",
+      "epidemiology",
+      "data",
+      "online",
+      "seminar"
+    ],
+    "url": "https://www.sginnovate.com/event/understanding-health-through-data-strategic-research-area-epidemiology-and-biostatistics",
+    "id": "270f90bbcea1",
+    "last_checked": "2026-08-09T08:40:39.784421+00:00"
   }
 ]
