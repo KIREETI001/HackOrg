@@ -13222,5 +13222,145 @@
     "url": "https://www.sginnovate.com/event/showcace-building-startup-lasts-ai-era",
     "id": "caf2c5fe7c85",
     "last_checked": "2026-08-11T08:53:23.117536+00:00"
+  },
+  {
+    "name": "Spatial Hack AI",
+    "organizer": "National University of Singapore",
+    "companies": [
+      "Apple",
+      "Google",
+      "Outlook"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "16-19 August 2026",
+    "location": "Singapore, Apple Developer Center",
+    "prize": "1 non-cash prize for the overall winner.",
+    "summary": "Spatial Hack AI is an exciting four-day hackathon focused on developing innovative apps for spatial computing using artificial intelligence. Hosted at the Apple Developer Center, this event is set to inspire creativity and collaboration among participants. Teams from around the world will compete to design cutting-edge applications specifically for the Apple Vision Pro. Participants are encouraged to convey their ideas through videos, screenshots, and more, highlighting the importance of storytelling in their submissions.",
+    "eligibility": "Participants must be of legal age in their country and form teams to compete.",
+    "highlights": [
+      "Focus on spatial computing and AI.",
+      "In-person event at a prestigious venue.",
+      "Opportunities to showcase innovative app ideas.",
+      "Connect with industry leaders and peers."
+    ],
+    "application_deadline": "2026-08-19",
+    "difficulty": "Intermediate",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "singapore",
+      "ai",
+      "hackathon",
+      "spatial computing",
+      "apple vision pro",
+      "team-based"
+    ],
+    "url": "https://spatial-hack-ai.devpost.com/",
+    "id": "94e92355f2d8",
+    "last_checked": "2026-08-12T09:10:07.775776+00:00"
+  },
+  {
+    "name": "The Orchestra",
+    "organizer": "Agent Orchestrator",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Global",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "status": "upcoming",
+    "date": "13 August 2026",
+    "location": "Online",
+    "prize": "$200 in cash for top three winners and additional prizes",
+    "summary": "The Orchestra represents Agent Orchestrator's inaugural online hackathon, inviting participants to build innovative projects using their platform. Competitors can leverage the Agent Orchestrator workspace for planning, coding, and project execution. Registration is essential through Lu.ma, along with participation in the official Discord for collaboration and updates.",
+    "eligibility": "Participants must be students of legal age in their country of residence.",
+    "highlights": [
+      "First online hackathon for Agent Orchestrator",
+      "Open to students globally",
+      "Cash prizes for top projects",
+      "Beginner-friendly environment"
+    ],
+    "application_deadline": "2026-08-13",
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": 200,
+    "beginner_friendly": true,
+    "application_url": "https://luma.com/iw1v5erp",
+    "tags": [
+      "online",
+      "ai",
+      "hackathon",
+      "student-friendly",
+      "cash-prizes"
+    ],
+    "url": "https://ao-orchestra.devpost.com/",
+    "id": "418a042d7368",
+    "last_checked": "2026-08-12T09:10:15.277756+00:00"
+  },
+  {
+    "name": "Vibe Coding Arena 2026",
+    "organizer": "Arab Open University - Egypt Branch",
+    "companies": [
+      "Apple",
+      "Google",
+      "Outlook"
+    ],
+    "level": "Secondary",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Humanities"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "20 August 2026",
+    "location": "Cairo, Arab Open University",
+    "prize": "Participants can compete for 8 non-cash prizes and opportunities for mentorship and internships.",
+    "summary": "Vibe Coding Arena 2026 is an engaging hackathon designed for student developers to rapidly turn ideas into functional prototypes in just 3.5 hours. Participants will form small teams to tackle real-world problems using approved Vibe Coding tools, emphasizing innovation and technical implementation. Beyond the immediate challenges, the event offers valuable mentorship and internship opportunities, making it a great platform for aspiring developers to shine.",
+    "eligibility": "Open to participants above the legal age of majority in their country of residence, requiring teams of 2 to 3 members.",
+    "highlights": [
+      "Only 3.5 hours to create a working product",
+      "Starts with a sprint at 9:30 AM",
+      "Non-cash prizes and valuable mentorship offered",
+      "Inclusivity for all skill levels with approved tools"
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": 0,
+    "beginner_friendly": true,
+    "application_url": "https://events.mlh.com/events/14417-vibe-coding-arena-2026-cairo-hackday",
+    "tags": [
+      "cairo",
+      "hackathon",
+      "ai",
+      "student-run",
+      "beginner-friendly"
+    ],
+    "url": "https://vibe-coding-arena-2026-30996.devpost.com/",
+    "id": "f959fb15c194",
+    "last_checked": "2026-08-12T09:10:20.893995+00:00"
   }
 ]
