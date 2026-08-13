@@ -13362,5 +13362,92 @@
     "url": "https://vibe-coding-arena-2026-30996.devpost.com/",
     "id": "f959fb15c194",
     "last_checked": "2026-08-12T09:10:20.893995+00:00"
+  },
+  {
+    "name": "Hermes AI Agent Night: The AI Operating System",
+    "organizer": "SGInnovate",
+    "companies": [
+      "The AI Capitol"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "status": "upcoming",
+    "date": "18 August 2026",
+    "location": "Kuala Lumpur, Singapore, 32 Carpenter Street, 059911",
+    "prize": null,
+    "summary": "Hermes AI Agent Night is set to be an engaging evening focusing on the practical applications of AI agents in business. Attendees can expect live demonstrations showcasing the Hermes AI framework, along with discussions on deployment and scaling. The event is designed for professionals interested in how AI can streamline workflows, making it a unique opportunity for networking and knowledge sharing.",
+    "eligibility": "The event is geared towards CTOs, AI engineers, founders, and business leaders interested in AI technologies.",
+    "highlights": [
+      "Live demonstrations of Hermes AI agents in action",
+      "Architecture walkthrough on AI systems",
+      "Networking opportunity with industry leaders",
+      "Discussion on the practical challenges of AI production"
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "singapore",
+      "ai",
+      "networking",
+      "technology",
+      "open-event"
+    ],
+    "url": "https://www.sginnovate.com/event/hermes-ai-agent-night-ai-operating-system",
+    "id": "06be44d53a69",
+    "last_checked": "2026-08-13T09:10:18.258844+00:00"
+  },
+  {
+    "name": "Founder Institute VIP Networking Event",
+    "organizer": "Founder Institute",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Business / Economics",
+      "Humanities"
+    ],
+    "fields": [
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "24 August 2026",
+    "location": "Kuala Lumpur, Hub Synergy Point",
+    "prize": null,
+    "summary": "The Founder Institute VIP Networking Event is designed for aspiring founders and early-stage entrepreneurs eager to connect and gain insights into the startup ecosystem. Attendees will hear from Jeffrey Paine of Golden Gate Ventures, offering a unique perspective on securing funding and building impactful businesses. Following the fireside chat, participants can network informally with other founders and industry experts, fostering valuable connections. This event emphasizes hands-on learning and community engagement, which are central to the Startup Accelerator's mission.",
+    "eligibility": "Open to aspiring founders, early-stage entrepreneurs, and anyone interested in joining a startup.",
+    "highlights": [
+      "Exclusive insights from a leading venture capital expert.",
+      "Opportunities to network with fellow entrepreneurs.",
+      "Focus on building impactful tech startups.",
+      "Informative and interactive format encourages participant engagement."
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "networking",
+      "startup",
+      "founders",
+      "entrepreneurship",
+      "singapore"
+    ],
+    "url": "https://www.sginnovate.com/event/founder-institute-vip-networking-event",
+    "id": "7783122150d8",
+    "last_checked": "2026-08-13T09:10:25.255913+00:00"
   }
 ]
