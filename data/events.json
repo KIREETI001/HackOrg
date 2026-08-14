@@ -13449,5 +13449,97 @@
     "url": "https://www.sginnovate.com/event/founder-institute-vip-networking-event",
     "id": "7783122150d8",
     "last_checked": "2026-08-13T09:10:25.255913+00:00"
+  },
+  {
+    "name": "Build with AI @RUET",
+    "organizer": "Ruet Computing Society",
+    "companies": [
+      "Google"
+    ],
+    "level": "Tertiary",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "status": "completed",
+    "date": "14 August 2026",
+    "location": "CSE Building, RUET",
+    "prize": "Three non-cash prizes, including gift cards and domain names.",
+    "summary": "Build with AI @RUET is a unique mini hackathon where participants have a single afternoon to create an AI-powered prototype. Ideal for university students, the event encourages innovative use of Google's latest AI tools without prior experience necessary. Participants can explore various challenges and build practical solutions, showcasing creativity and technical skills.",
+    "eligibility": "Ages 18+ college students from all countries, excluding some standard exceptions can participate.",
+    "highlights": [
+      "One-day event focused on building AI prototypes.",
+      "Use of innovative tools like the Gemini API and Google Cloud.",
+      "Open to all college students over 18.",
+      "Non-traditional format promoting rapid development and creativity."
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "hackathon",
+      "ai",
+      "university",
+      "google",
+      "singapore"
+    ],
+    "url": "https://build-with-ai-ruet.devpost.com/",
+    "id": "f606c10c14dd",
+    "last_checked": "2026-08-14T09:05:42.600466+00:00"
+  },
+  {
+    "name": "ITEC Global 2026",
+    "organizer": "SGInnovate",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Multi-week (1-3mo)",
+    "scope": "Global",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)",
+      "Business / Economics"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "Healthcare",
+      "Sustainability"
+    ],
+    "status": "ongoing",
+    "date": "14 August 2026 - 31 August 2026",
+    "location": "Online",
+    "prize": "Total prize pool over USD $8 million, including a Grand Prize of approximately USD $700,000.",
+    "summary": "The International Talent Entrepreneurship Conference (ITEC) 2026 serves as a global catalyst for innovation and entrepreneurship, bringing together startups and investors from various industries. This year's edition includes competitions and events focused on significant advancements in technology. Participants will not only compete for substantial prizes but also enjoy networking and mentorship opportunities within an international framework.",
+    "eligibility": "Open to technology startups and innovative companies with scalable solutions seeking investment and growth opportunities.",
+    "highlights": [
+      "Compete for a total prize pool exceeding USD $8 million.",
+      "Opportunity to pitch ideas to investors and industry leaders.",
+      "Access to mentorship in Beijing's innovation ecosystem.",
+      "Expand networking through curated business matching."
+    ],
+    "application_deadline": "2026-08-31",
+    "difficulty": "Intermediate",
+    "cost": "Free",
+    "prize_value_usd": 8000000,
+    "beginner_friendly": true,
+    "application_url": "https://bit.ly/itec2026-sginnovate",
+    "tags": [
+      "global",
+      "innovation",
+      "entrepreneurship",
+      "startup",
+      "technology",
+      "ai"
+    ],
+    "url": "https://www.sginnovate.com/event/itec-global-2026",
+    "id": "62e5bb3e524a",
+    "last_checked": "2026-08-14T09:05:50.264858+00:00"
   }
 ]
