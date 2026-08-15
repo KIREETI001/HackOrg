@@ -13541,5 +13541,142 @@
     "url": "https://www.sginnovate.com/event/itec-global-2026",
     "id": "62e5bb3e524a",
     "last_checked": "2026-08-14T09:05:50.264858+00:00"
+  },
+  {
+    "name": "Suvidha AI Virtual Hackathon",
+    "organizer": "Suvidha International Foundation",
+    "companies": [],
+    "level": "Pre-University",
+    "timeline": "Multi-week (1-3mo)",
+    "scope": "Global",
+    "domains": [
+      "Computer Science"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "status": "upcoming",
+    "date": "15-22 August 2026",
+    "location": "Online",
+    "prize": "$800 in cash prizes plus additional credits",
+    "summary": "The Suvidha AI Virtual Hackathon is a unique opportunity for middle and high school students aged 13 to 19 to engage with artificial intelligence through a friendly and collaborative online format. Participants will learn the fundamentals of AI while working in teams to create innovative solutions. With a focus on accessibility, this hackathon ensures that even those new to AI can participate and win valuable prizes.",
+    "eligibility": "Open to students aged 13 to 19 only.",
+    "highlights": [
+      "Beginner-friendly format encourages new participants.",
+      "Collaborative environment fosters learning and innovation.",
+      "Significant cash prizes and credits available for winners.",
+      "Engaging schedule with guided activities throughout."
+    ],
+    "application_deadline": "2026-08-22",
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": 800,
+    "beginner_friendly": true,
+    "application_url": "https://docs.google.com/forms/d/e/1FAIpQLSfKv62PfTbTMPtLlqNZsVbFaJlxVP3gLKAHXcpGg8scCWRcdg/viewform?usp=header",
+    "tags": [
+      "ai",
+      "hackathon",
+      "student-run",
+      "beginner-friendly",
+      "virtual",
+      "global"
+    ],
+    "url": "https://suvidha-ai-virtual-hackathon.devpost.com/",
+    "id": "8a97553fe223",
+    "last_checked": "2026-08-15T08:26:00.382930+00:00"
+  },
+  {
+    "name": "Pixel Forge AI Hackathon",
+    "organizer": "Pixel Forge",
+    "companies": [
+      "Apple",
+      "Google",
+      "Outlook"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Multi-week (1-3mo)",
+    "scope": "Global",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "status": "upcoming",
+    "date": "22 August 2026",
+    "location": "Online",
+    "prize": "$18,000+ in prizes including scholarships and credits",
+    "summary": "The Pixel Forge AI Hackathon invites participants to engage in a week-long event dedicated to building AI-powered applications and solutions. With prizes totaling over $18,000, this hackathon aims to foster innovation and creativity by encouraging teams to solve real-world challenges using artificial intelligence. Its inclusive nature makes it attractive for various skill levels, offering participants the chance to showcase their ideas and collaborate in a vibrant online community.",
+    "eligibility": "Participants aged 13 and older who are students are invited to join.",
+    "highlights": [
+      "Open to participants worldwide, encouraging global collaboration.",
+      "Focus on building functional AI solutions for real-world problems.",
+      "Participation awards for all, in addition to main prizes.",
+      "Beginner-friendly environment fostering learning and exploration."
+    ],
+    "application_deadline": "2026-08-22T21:30:00+00:00",
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": 18000,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "ai",
+      "hackathon",
+      "beginner-friendly",
+      "online",
+      "global",
+      "coding"
+    ],
+    "url": "https://pixel-forge-ai-hackathon-08.devpost.com/",
+    "id": "b3f2a823258c",
+    "last_checked": "2026-08-15T08:26:05.766299+00:00"
+  },
+  {
+    "name": "Open Swarm x Sirius x Entrepreneurs First",
+    "organizer": "Entrepreneurs First",
+    "companies": [
+      "Apple",
+      "Google"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Global",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "status": "upcoming",
+    "date": "15 August 2026",
+    "location": "501 Folsom, San Francisco",
+    "prize": "$1,000 in cash for the winner",
+    "summary": "The Open Swarm x Sirius hackathon invites participants to innovate using open swarm agents. It's an opportunity to showcase skills in machine learning and AI while competing for a cash prize. With support from notable sponsors like Apple and Google, this event offers a unique platform for developers at all stages.",
+    "eligibility": "Participants must be above the legal age of majority in their country of residence.",
+    "highlights": [
+      "Opportunity to win $1,000 in cash",
+      "Focus on AI and machine learning innovations",
+      "Supported by major tech companies like Apple and Google",
+      "Open to participants from all countries, except standard exceptions"
+    ],
+    "application_deadline": "2026-08-15",
+    "difficulty": "Intermediate",
+    "cost": "Free",
+    "prize_value_usd": 1000,
+    "beginner_friendly": true,
+    "application_url": "https://luma.com/l7grfvzp",
+    "tags": [
+      "hackathon",
+      "ai",
+      "global",
+      "open-swarm",
+      "entrepreneurs-first"
+    ],
+    "url": "https://os-x-sirius-x-ef-win-1000.devpost.com/",
+    "id": "23458e6fdbb8",
+    "last_checked": "2026-08-15T08:26:12.197229+00:00"
   }
 ]
