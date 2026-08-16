@@ -13678,5 +13678,51 @@
     "url": "https://os-x-sirius-x-ef-win-1000.devpost.com/",
     "id": "23458e6fdbb8",
     "last_checked": "2026-08-15T08:26:12.197229+00:00"
+  },
+  {
+    "name": "Built for NYC: AI Hackathon at NYPL",
+    "organizer": "New York Public Library",
+    "companies": [
+      "Major League Hacking"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "status": "completed",
+    "date": "13-14 August 2026",
+    "location": "New York City, Stavros Niarchos Foundation Library",
+    "prize": "Total prize pool of $650 in cash distributed among various categories.",
+    "summary": "The Built for NYC hackathon invites innovators to tackle pressing challenges faced by New York City using AI. This event, organized by the New York Public Library and Major League Hacking, fosters a collaborative environment for coders of all skill levels. Participants are offered workshops on AI tools and engage in creating web apps to address community needs, enhancing both their technical skills and civic involvement.",
+    "eligibility": "Open to individuals above the legal age of majority in their country of residence from all countries, excluding standard exceptions.",
+    "highlights": [
+      "Inaugural public hackathon by NYPL.",
+      "Free, two-day event focusing on innovation and community impact.",
+      "Beginner-friendly with workshops on machine learning and AI development.",
+      "Various prizes to encourage participation and creativity."
+    ],
+    "application_deadline": "2026-08-16",
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": 650,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "nyc",
+      "ai",
+      "hackathon",
+      "beginner-friendly",
+      "community",
+      "innovation"
+    ],
+    "url": "https://built-for-nyc.devpost.com/",
+    "id": "ebd477140a92",
+    "last_checked": "2026-08-16T08:27:15.539799+00:00"
   }
 ]
