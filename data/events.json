@@ -13724,5 +13724,53 @@
     "url": "https://built-for-nyc.devpost.com/",
     "id": "ebd477140a92",
     "last_checked": "2026-08-16T08:27:15.539799+00:00"
+  },
+  {
+    "name": "Build with AI Hack Days @EMK",
+    "organizer": "UniDevs",
+    "companies": [
+      "Google",
+      "Machine Learning Bangladesh",
+      "EMK Center",
+      "Major League Hacking"
+    ],
+    "level": "Tertiary",
+    "timeline": "Single-day",
+    "scope": "Local (Bangladesh)",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "status": "completed",
+    "date": "17 August 2026",
+    "location": "Dhaka, EMK Center",
+    "prize": "Non-cash prizes including gift cards and access to premium services for winners.",
+    "summary": "The Build with AI Hack Days @EMK is a dynamic mini hackathon where college students converge to create innovative AI applications using cutting-edge Google tools. Participants have just one afternoon to harness resources like the Gemini API and Google Antigravity to develop fully functional projects, promoting collaboration and rapid prototyping. Supported by industry leaders, this event emphasizes creativity and practical problem-solving, making it an exciting experience for aspiring tech developers.",
+    "eligibility": "Participants must be ages 18 and older and currently enrolled in college.",
+    "highlights": [
+      "Quick-paced format encourages rapid development.",
+      "Access to advanced AI tools from Google.",
+      "Emphasis on real-world applications and usability.",
+      "Networking opportunities with tech industry leaders."
+    ],
+    "application_deadline": "2026-08-17",
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "bangladesh",
+      "ai",
+      "hackathon",
+      "beginner-friendly",
+      "google"
+    ],
+    "url": "https://build-with-ai-hack-days-emk.devpost.com/",
+    "id": "2bfe58ca8fc5",
+    "last_checked": "2026-08-17T08:40:57.604315+00:00"
   }
 ]
