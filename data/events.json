@@ -13772,5 +13772,156 @@
     "url": "https://build-with-ai-hack-days-emk.devpost.com/",
     "id": "2bfe58ca8fc5",
     "last_checked": "2026-08-17T08:40:57.604315+00:00"
+  },
+  {
+    "name": "LifeHack 2026",
+    "organizer": "NUS Students’ Computing Club",
+    "companies": [
+      "Apple",
+      "Google",
+      "Visa",
+      "Ecovolt",
+      "ViSenze"
+    ],
+    "level": "Tertiary",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "General Tech",
+      "Sustainability"
+    ],
+    "status": "upcoming",
+    "date": "29-30 August 2026",
+    "location": "Singapore, COM3 MPH, NUS School of Computing",
+    "prize": "Cash prize of $100 for the best project.",
+    "summary": "LifeHack 2026 is positioned as a flagship hackathon for university students, encouraging collaboration to tackle real-world problems. The competition serves as a platform for participants to develop creative solutions under the guidance of industry mentors. With a focus on hands-on innovation, this hackathon supports a diverse range of participants, ensuring an inclusive environment for both experienced and first-time hackers.",
+    "eligibility": "Participants must be above the legal age of majority in their country of residence.",
+    "highlights": [
+      "24-hour in-person hackathon format",
+      "Collaboration with industry partners",
+      "Mentoring support throughout the event",
+      "Encourages solutions to real-world challenges"
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": 100,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "singapore",
+      "hackathon",
+      "student-run",
+      "beginner-friendly"
+    ],
+    "url": "https://lifehack-2026.devpost.com/",
+    "id": "c660bf0fbab9",
+    "last_checked": "2026-08-18T08:34:41.326963+00:00"
+  },
+  {
+    "name": "DevNetwork [API + Cloud + AI] Hackathon 2026",
+    "organizer": "DevNetwork",
+    "companies": [
+      "Apple",
+      "Google",
+      "Perfect Corp",
+      "Foxit Software",
+      "Doctavian",
+      "name.com",
+      "Nutrient"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Multi-week (1-3mo)",
+    "scope": "Global",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)",
+      "Business / Economics"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "Cybersecurity",
+      "FinTech",
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "17 August - 3 September 2026",
+    "location": "Santa Clara, CA, Santa Clara Convention Center and Online",
+    "prize": "Over $39,500 in cash prizes available for top participants.",
+    "summary": "The DevNetwork [API + Cloud + AI] Hackathon 2026 is a unique blend of challenge-driven innovation focusing on API, cloud, and AI technologies. Hosted at the API World 2026 event, it invites global developers to not only compete but also to collaborate online. The hackathon stands out with its substantial cash prizes and diverse corporate sponsorships, demonstrating industry commitment to fostering creativity in technology development.",
+    "eligibility": "Participants must be above the legal age of majority in their country of residence.",
+    "highlights": [
+      "Largest challenge-driven hackathon at API World 2026.",
+      "Significant cash prizes for winners across multiple categories.",
+      "In-person and online participation options available.",
+      "Focus on innovative uses of APIs in the realm of cloud and AI technologies."
+    ],
+    "application_deadline": "2026-09-03",
+    "difficulty": "Intermediate",
+    "cost": "Paid",
+    "prize_value_usd": 39500,
+    "beginner_friendly": false,
+    "application_url": null,
+    "tags": [
+      "hackathon",
+      "AI",
+      "cloud",
+      "API",
+      "international",
+      "innovation"
+    ],
+    "url": "https://api-cloud-ai-hackathon-2026.devpost.com/",
+    "id": "a28f8967314c",
+    "last_checked": "2026-08-18T08:34:49.417343+00:00"
+  },
+  {
+    "name": "All Things Agentic Hackathon",
+    "organizer": "Devpost",
+    "companies": [
+      "Google"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Multi-month (3-6mo)",
+    "scope": "Global",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "18 August - 31 August 2026",
+    "location": "Online",
+    "prize": "$180,000 in cash prizes available across various categories.",
+    "summary": "The All Things Agentic Hackathon invites participants to innovate and create next-generation AI agents using Google's Gemini and Cloud technologies. It emphasizes inclusivity by welcoming all skill levels, making advanced AI concepts accessible for newcomers while facilitating collaboration among experienced developers. Participants can take advantage of valuable resources, including Google Cloud credits and starter guides, to enhance their projects.",
+    "eligibility": "Open to all individuals above the legal age of majority in their country of residence, though specific countries may be excluded.",
+    "highlights": [
+      "Focus on building advanced AI agents that can operate autonomously.",
+      "Includes substantial cash prizes across different categories totaling $180,000.",
+      "Open to all skill levels, offering resources specifically for beginners.",
+      "Encourages teamwork and innovation through collaborative project tracks."
+    ],
+    "application_deadline": "2026-08-31",
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": 180000,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "hackathon",
+      "ai",
+      "google",
+      "cloud",
+      "beginner-friendly"
+    ],
+    "url": "https://allthingsagentichackathon.devpost.com/",
+    "id": "157cd4644428",
+    "last_checked": "2026-08-18T08:34:59.701811+00:00"
   }
 ]
