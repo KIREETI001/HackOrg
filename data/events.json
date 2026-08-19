@@ -13923,5 +13923,176 @@
     "url": "https://allthingsagentichackathon.devpost.com/",
     "id": "157cd4644428",
     "last_checked": "2026-08-18T08:34:59.701811+00:00"
+  },
+  {
+    "name": "Prometheus August AI Challenge",
+    "organizer": "Prometheus",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Multi-week (1-3mo)",
+    "scope": "Global",
+    "domains": [
+      "Computer Science"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "status": "upcoming",
+    "date": "August 30, 2026",
+    "location": "Online",
+    "prize": "$1,500 in cash prizes awarded across multiple categories",
+    "summary": "The Prometheus August AI Challenge invites participants to harness the power of AI and machine learning to create educational tools. This virtual hackathon welcomes innovators aged 13 and above, providing a platform to develop solutions that enhance learning experiences. Teams can collaborate or work solo, showcasing their projects to a global audience.",
+    "eligibility": "Participants must be students aged 13 and above, with no professional organizations allowed.",
+    "highlights": [
+      "Open to innovators aged 13 and above",
+      "Focus on developing AI-driven educational tools",
+      "Prizes for top entries totaling $1,500",
+      "Virtual format allows for global participation"
+    ],
+    "application_deadline": "2026-08-29",
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": 1500,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "ai",
+      "hackathon",
+      "education",
+      "online",
+      "student"
+    ],
+    "url": "https://august-ai-challenge-31059.devpost.com/",
+    "id": "3d909197e12d",
+    "last_checked": "2026-08-19T08:35:20.666444+00:00"
+  },
+  {
+    "name": "Prometheus September AI Challenge",
+    "organizer": "Prometheus",
+    "companies": [],
+    "level": "Secondary",
+    "timeline": "Multi-week (1-3mo)",
+    "scope": "Global",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "status": "upcoming",
+    "date": "August 2026 - 5 September 2026",
+    "location": "Online",
+    "prize": "$1,500 in cash prizes across multiple placements.",
+    "summary": "The Prometheus September AI Challenge invites students aged 13 and above to innovate in the realm of artificial intelligence and machine learning. Participants are encouraged to collaborate in teams of up to four members to develop an educational tool that enhances learning through technology. With a total prize pool of $1,500 and distinct prizes for different placements, this challenge fosters creativity and technical skills on a global platform.",
+    "eligibility": "Open to all students aged 13 and above, excluding companies and professional organizations.",
+    "highlights": [
+      "Focus on AI and Machine Learning innovation.",
+      "Collaborative team environment with up to 4 members.",
+      "Increased emphasis on educational impact.",
+      "Opportunities for showcasing creative projects globally."
+    ],
+    "application_deadline": "2026-09-05",
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": 1500,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "ai",
+      "hackathon",
+      "education",
+      "online",
+      "student-friendly"
+    ],
+    "url": "https://prometheus-sept-ai-classic.devpost.com/",
+    "id": "d5d99d145fa3",
+    "last_checked": "2026-08-19T08:35:26.494851+00:00"
+  },
+  {
+    "name": "Prometheus September AI Challenge 2",
+    "organizer": "Devpost",
+    "companies": [],
+    "level": "Tertiary",
+    "timeline": "Multi-week (1-3mo)",
+    "scope": "Global",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "status": "upcoming",
+    "date": "9 September 2026",
+    "location": "Virtual",
+    "prize": "$1,500 in cash prizes and certificates for top entries.",
+    "summary": "The Prometheus September AI Challenge 2 is a virtual hackathon targeting aspiring AI and Machine Learning innovators. Participants will work on educational tools that enhance learning through innovative technology. Teams can consist of up to four members, allowing for collaboration across the globe. This challenge fosters creativity in applying AI for educational advancements.",
+    "eligibility": "Open to students aged 13 and older from around the world, excluding professional organizations.",
+    "highlights": [
+      "Focuses on educational AI solutions",
+      "Prizes totaling $1,500 available",
+      "Teams can contain up to 4 participants",
+      "Designed to enhance innovation in Machine Learning"
+    ],
+    "application_deadline": "2026-09-12",
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": 1500,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "ai",
+      "machine-learning",
+      "hackathon",
+      "education",
+      "students"
+    ],
+    "url": "https://prometheus-september-ai-2.devpost.com/",
+    "id": "d0d2719e1754",
+    "last_checked": "2026-08-19T08:35:32.152205+00:00"
+  },
+  {
+    "name": "Racing Data & Breaking Barriers",
+    "organizer": "SGInnovate",
+    "companies": [],
+    "level": "Tertiary",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Engineering",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "25 August 2026",
+    "location": "Kuala Lumpur, Singapore, 32 Carpenter Street, 059911",
+    "prize": null,
+    "summary": "Join industry experts in a unique evening event that explores the intersection of data and motorsport engineering. Participants will gain insights from experienced professionals who have made significant contributions to the field. The event is packed with storytelling and technical discussions that highlight the realities and challenges of motorsport engineering careers.",
+    "eligibility": "Open to engineering students and early career professionals intrigued by the motorsport industry.",
+    "highlights": [
+      "Engage with renowned motorsport engineers and broadcasters",
+      "Learn about real-world applications of data in motorsport",
+      "Network with professionals and like-minded peers",
+      "Explore career opportunities in a highly specialized field"
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "motorsport",
+      "engineering",
+      "networking",
+      "data",
+      "Singapore"
+    ],
+    "url": "https://www.sginnovate.com/event/racing-data-breaking-barriers-0",
+    "id": "cb9308b0371a",
+    "last_checked": "2026-08-19T08:35:37.716139+00:00"
   }
 ]
