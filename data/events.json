@@ -14094,5 +14094,47 @@
     "url": "https://www.sginnovate.com/event/racing-data-breaking-barriers-0",
     "id": "cb9308b0371a",
     "last_checked": "2026-08-19T08:35:37.716139+00:00"
+  },
+  {
+    "name": "AI & Innovation Day @ AITR Indore",
+    "organizer": "Acropolis Institute of Technology and RC Education",
+    "companies": [],
+    "level": "Tertiary",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "status": "upcoming",
+    "date": "22 August 2026",
+    "location": "Indore",
+    "prize": "1 non-cash prize for the best use of Gemini.",
+    "summary": "The AI & Innovation Day at AITR Indore offers a platform for college students to showcase projects using Gemini technology. Participants will engage in a focused hackathon experience, solving real-world challenges through innovation and collaboration. The event emphasizes accessibility to budding developers and seeks to foster creativity and technical skills in AI.",
+    "eligibility": "College students above the legal age of majority in their country are eligible to participate.",
+    "highlights": [
+      "Focus on AI with Gemini technology.",
+      "Encourages creativity and technical engagement.",
+      "Opportunity to work in teams and develop innovative solutions.",
+      "Judged by experienced professionals in the field."
+    ],
+    "application_deadline": "2026-08-22",
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "ai",
+      "hackathon",
+      "college",
+      "innovation",
+      "indore"
+    ],
+    "url": "https://ai-innovation-day-31076.devpost.com/",
+    "id": "8215581e8a6b",
+    "last_checked": "2026-08-20T08:36:34.983983+00:00"
   }
 ]
