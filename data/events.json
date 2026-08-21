@@ -14136,5 +14136,143 @@
     "url": "https://ai-innovation-day-31076.devpost.com/",
     "id": "8215581e8a6b",
     "last_checked": "2026-08-20T08:36:34.983983+00:00"
+  },
+  {
+    "name": "AI Builders Hackathon",
+    "organizer": "Devpost",
+    "companies": [
+      "Apple",
+      "Google",
+      "Microsoft",
+      "AWS"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Multi-week (1-3mo)",
+    "scope": "Global",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "status": "upcoming",
+    "date": "9-15 September 2026",
+    "location": "Online",
+    "prize": "$33,900 in cash and additional awards for outstanding projects.",
+    "summary": "The AI Builders Hackathon invites participants to create innovative AI solutions that address real-world problems. Unlike many hackathons that focus on prototypes, this event emphasizes the development of functional products with practical applications. Participants can form teams or work individually, making this an inclusive opportunity for builders of all skill levels to showcase their creativity and technical expertise.",
+    "eligibility": "Open to students and builders of all experience levels above the legal age of majority in their respective countries.",
+    "highlights": [
+      "Focus on building usable AI products, not just prototypes.",
+      "Significant cash prizes and recognition for top projects.",
+      "Inclusivity in participation—everyone is welcome.",
+      "Access to expert judges and the opportunity to gain visibility in the AI community."
+    ],
+    "application_deadline": "2026-09-15",
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": 33900,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "ai",
+      "hackathon",
+      "developers",
+      "students",
+      "global"
+    ],
+    "url": "https://ai-builders-hackathon-2026.devpost.com/",
+    "id": "8453ba3213db",
+    "last_checked": "2026-08-21T08:38:13.698969+00:00"
+  },
+  {
+    "name": "GeauxHack 2026",
+    "organizer": "Society of Asian Scientists and Engineers",
+    "companies": [
+      "Google Developer Student Club"
+    ],
+    "level": "Tertiary",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Local (USA)",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "23-25 October 2026",
+    "location": "Baton Rouge, Patrick F. Taylor Hall",
+    "prize": "1 non-cash prize for one participant.",
+    "summary": "GeauxHack 2026 is an engaging hackathon hosted by LSU, focusing on the theme of Outer Space. This event aims to inspire students to innovate in technology and creativity while fostering collaboration among participants. With an emphasis on beginner-friendliness, it's designed to be accessible for students who are new to coding and hackathons.",
+    "eligibility": "Participants must be students and of legal age of majority in their country of residence, limited to those in the US.",
+    "highlights": [
+      "Theme centered around Outer Space.",
+      "Hosted by LSU's Society of Asian Scientists and Engineers.",
+      "Designed to be beginner-friendly for new hackers.",
+      "Opportunity to showcase skills and collaborate with peers."
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "baton-rouge",
+      "hackathon",
+      "beginner-friendly",
+      "outer-space",
+      "lsu"
+    ],
+    "url": "https://geauxhack-2026.devpost.com/",
+    "id": "ad5f30dc57f1",
+    "last_checked": "2026-08-21T08:38:20.009717+00:00"
+  },
+  {
+    "name": "Complimentary IP Consultations at Singapore IP Week 2026",
+    "organizer": "SGInnovate",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Business / Economics",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "Cybersecurity",
+      "FinTech",
+      "AI / Machine Learning"
+    ],
+    "status": "upcoming",
+    "date": "26-27 August 2026",
+    "location": "Singapore, Marina Bay Sands Expo & Convention Centre, Level 3 Heliconia Ballroom",
+    "prize": null,
+    "summary": "The Complimentary IP Consultations event at Singapore IP Week 2026 offers an opportunity for businesses to gain tailored advice on their intellectual property strategies. Participants can engage in one-on-one consultations with IP professionals, alongside panel discussions led by industry leaders. This event focuses on addressing the unique IP challenges faced at different stages of business growth and places emphasis on practical, real-world applications.",
+    "eligibility": "Open to businesses seeking guidance on intellectual property matters.",
+    "highlights": [
+      "One-on-one consultations with IP experts.",
+      "Panel discussions featuring industry leaders.",
+      "Focus on real-world case studies in IP.",
+      "Tailored guidance for businesses at any growth stage."
+    ],
+    "application_deadline": null,
+    "difficulty": null,
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "singapore",
+      "ip",
+      "business",
+      "consultations",
+      "innovation"
+    ],
+    "url": "https://www.sginnovate.com/event/complimentary-ip-consultations-singapore-ip-week-2026",
+    "id": "2fd9de0ebf75",
+    "last_checked": "2026-08-21T08:38:26.072075+00:00"
   }
 ]
