@@ -14274,5 +14274,92 @@
     "url": "https://www.sginnovate.com/event/complimentary-ip-consultations-singapore-ip-week-2026",
     "id": "2fd9de0ebf75",
     "last_checked": "2026-08-21T08:38:26.072075+00:00"
+  },
+  {
+    "name": "Launch of the Technical Reference on Enterprise IA/IP Management",
+    "organizer": "SGInnovate",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Business / Economics",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "26 August 2026",
+    "location": "Kuala Lumpur, Singapore, MBS Expo and Convention Centre Begonia Rooms 3102-3103",
+    "prize": null,
+    "summary": "This event focuses on the launch of a Technical Reference aimed at enhancing enterprise management of intellectual assets. Industry leaders will discuss strategies for embedding IA/IP management within organizations. Attendees can gain valuable insights and a complimentary copy of the reference material. This gathering highlights the importance of intellectual property management in fostering innovation and enterprise growth.",
+    "eligibility": "Open to all interested individuals seeking knowledge on enterprise IA/IP management.",
+    "highlights": [
+      "Panel discussion with industry leaders",
+      "Insights on IA/IP management practices",
+      "Free copy of the Technical Reference for attendees",
+      "Focus on enhancing enterprise innovation"
+    ],
+    "application_deadline": "2026-08-14",
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "singapore",
+      "ia",
+      "ip",
+      "enterprise",
+      "business"
+    ],
+    "url": "https://www.sginnovate.com/event/launch-technical-reference-enterprise-iaip-management",
+    "id": "ec1f8c207965",
+    "last_checked": "2026-08-22T08:27:54.271607+00:00"
+  },
+  {
+    "name": "Move Fast Without Breaking Everything",
+    "organizer": "SGInnovate",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Business / Economics"
+    ],
+    "fields": [
+      "General Tech",
+      "Artificial Intelligence"
+    ],
+    "status": "upcoming",
+    "date": "27 August 2026",
+    "location": "Kuala Lumpur, Singapore, Lorong AI @ One-North",
+    "prize": null,
+    "summary": "This workshop focuses on the realities of fast-paced startup development while maintaining quality. Participants will engage in discussions and activities with experienced CTOs to identify pitfalls in their approach before product launch. It emphasizes practical advice for varied team sizes and stages, ensuring actionable takeaways for all attendees.",
+    "eligibility": "Open to all startup founders and technical leaders interested in improving their product readiness.",
+    "highlights": [
+      "Interactive breakout sessions with experienced CTOs",
+      "Focus on practical, stage-specific advice",
+      "Free of sponsors and ads to ensure an unbiased learning environment",
+      "Opportunity to network with other founders and industry experts"
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Varies",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "singapore",
+      "startup",
+      "workshop",
+      "ai",
+      "networking"
+    ],
+    "url": "https://www.sginnovate.com/event/vibes-engineering-move-fast-without-breaking-everything",
+    "id": "84cd015185a3",
+    "last_checked": "2026-08-22T08:28:00.886943+00:00"
   }
 ]
