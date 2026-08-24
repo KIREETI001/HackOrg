@@ -14361,5 +14361,48 @@
     "url": "https://www.sginnovate.com/event/vibes-engineering-move-fast-without-breaking-everything",
     "id": "84cd015185a3",
     "last_checked": "2026-08-22T08:28:00.886943+00:00"
+  },
+  {
+    "name": "Agentic Day Online Hackathon Powered by Mel",
+    "organizer": "Mel",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Global",
+    "domains": [
+      "Computer Science"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "status": "upcoming",
+    "date": "30 August 2026",
+    "location": "Online",
+    "prize": "$600 in cash and Mel credits distributed among winners.",
+    "summary": "The Agentic Day Online Hackathon invites participants to build innovative projects using the Mel agentic terminal, focusing on the ease of developing AI-driven solutions. Open to all students, this hackathon emphasizes creativity and usefulness, allowing teams to work within defined tracks like commerce, finance, and marketing. The event promotes accessibility, assuring no coding experience is required, making it an excellent opportunity for budding developers and non-technical builders alike.",
+    "eligibility": "Participants must be above the legal age of majority in their country and currently enrolled as students.",
+    "highlights": [
+      "No coding experience required, welcoming non-technical builders.",
+      "Participants can build projects in diverse tracks such as commerce and marketing.",
+      "Promotes creativity and practicality in project development using AI.",
+      "Engagement and support through a dedicated Discord community."
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": 600,
+    "beginner_friendly": true,
+    "application_url": "https://luma.com/tx4j2t7q",
+    "tags": [
+      "hackathon",
+      "online",
+      "ai",
+      "beginner-friendly",
+      "students",
+      "innovation"
+    ],
+    "url": "https://powered-by-mel.devpost.com/",
+    "id": "484105f20201",
+    "last_checked": "2026-08-24T08:45:40.310466+00:00"
   }
 ]
