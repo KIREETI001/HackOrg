@@ -14404,5 +14404,52 @@
     "url": "https://powered-by-mel.devpost.com/",
     "id": "484105f20201",
     "last_checked": "2026-08-24T08:45:40.310466+00:00"
+  },
+  {
+    "name": "Hyperbloom September - AI/ML",
+    "organizer": "Devpost",
+    "companies": [
+      "Apple",
+      "Google",
+      "Outlook"
+    ],
+    "level": "Tertiary",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Global",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "status": "upcoming",
+    "date": "September 14, 2026",
+    "location": "Online",
+    "prize": "$710 in cash and various membership prizes",
+    "summary": "Hyperbloom September is a global online hackathon focused on Artificial Intelligence and Machine Learning, aimed uniquely at high school and college students. Participants can experiment with any AI/ML tools and frameworks to create innovative solutions for real-world problems. The event encourages both individual and team projects, making it an exciting platform for budding technologists to showcase their creativity and technical skills.",
+    "eligibility": "Participants must be students and above the legal age of majority in their country of residence.",
+    "highlights": [
+      "Open to participants globally who meet eligibility criteria.",
+      "Emphasizes creativity and innovation using AI/ML technologies.",
+      "No restrictions on project types, allowing maximum freedom in exploration.",
+      "Prizes include both cash and valuable memberships for top participants."
+    ],
+    "application_deadline": "2026-09-14",
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": 710,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "ai",
+      "hackathon",
+      "online",
+      "student",
+      "global"
+    ],
+    "url": "https://hyperbloom-september.devpost.com/",
+    "id": "0967f2e288af",
+    "last_checked": "2026-08-25T08:40:25.826209+00:00"
   }
 ]
