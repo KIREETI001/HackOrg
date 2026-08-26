@@ -14451,5 +14451,145 @@
     "url": "https://hyperbloom-september.devpost.com/",
     "id": "0967f2e288af",
     "last_checked": "2026-08-25T08:40:25.826209+00:00"
+  },
+  {
+    "name": "HackStorm 3.0: Sense, Think and Act",
+    "organizer": "HackStorm",
+    "companies": [
+      "Apple",
+      "Google"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Global",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "Robotics"
+    ],
+    "status": "upcoming",
+    "date": "6-8 November 2026",
+    "location": "San Francisco, California, USA",
+    "prize": "A total of $5,200 in cash prizes for participants.",
+    "summary": "HackStorm 3.0 brings together builders from all backgrounds to push the boundaries of PhysicalAI, Robotics, and AIoT. Aimed at serious developers, the hackathon offers incentives like cash prizes and hardware for every team. With support from leaders in technology, this event is tailored for those dedicated to innovating in the AI physical space.",
+    "eligibility": "Participants must be above the legal age of majority in their country of residence.",
+    "highlights": [
+      "Curated participants to ensure serious engagement.",
+      "Cash prizes totaling $5,200.",
+      "Hardware gifted to every team for prototyping.",
+      "Expert consulting on manufacturing and fundraising."
+    ],
+    "application_deadline": null,
+    "difficulty": "Advanced",
+    "cost": "Varies",
+    "prize_value_usd": 5200,
+    "beginner_friendly": false,
+    "application_url": "https://luma.com/568fqhic",
+    "tags": [
+      "hackathon",
+      "AI",
+      "robotics",
+      "open",
+      "global"
+    ],
+    "url": "https://hackstorm3.devpost.com/",
+    "id": "425a9e123e52",
+    "last_checked": "2026-08-26T08:40:46.568538+00:00"
+  },
+  {
+    "name": "Meet with Flagship Pioneering",
+    "organizer": "SGInnovate",
+    "companies": [
+      "Flagship Pioneering"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Sciences (STEM)",
+      "Business / Economics"
+    ],
+    "fields": [
+      "Healthcare",
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "28 August 2026",
+    "location": "Kuala Lumpur, Singapore, Bridge+ Geneo, 1A Science Park Drive, Singapore , 119314",
+    "prize": null,
+    "summary": "This event provides an opportunity to engage with leaders from Flagship Pioneering and gain insights into their innovative venture creation approach. Attendees will explore how scientific ideas can be transformed into scalable companies, differing from traditional venture capital methods. The event fosters collaboration opportunities within the life sciences sector in Singapore and the broader Asia-Pacific region.",
+    "eligibility": "This event is intended for members of the life sciences community.",
+    "highlights": [
+      "Exclusive session with leaders from Flagship Pioneering",
+      "Insights into venture creation and platform company building",
+      "Focus on innovative scientific ideas in the life sciences sector",
+      "Opportunities for collaboration across the Asia-Pacific region"
+    ],
+    "application_deadline": null,
+    "difficulty": null,
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": false,
+    "application_url": null,
+    "tags": [
+      "singapore",
+      "biotech",
+      "venturecapital",
+      "healthcare",
+      "networking"
+    ],
+    "url": "https://www.sginnovate.com/event/meet-flagship-pioneering",
+    "id": "51d650e8fd89",
+    "last_checked": "2026-08-26T08:40:53.838599+00:00"
+  },
+  {
+    "name": "Daytona HackSprint Singapore",
+    "organizer": "SGInnovate",
+    "companies": [
+      "Daytona",
+      "Neo4j",
+      "Nosana"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Business / Economics"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "status": "upcoming",
+    "date": "29 August 2026",
+    "location": "Singapore, 32 Carpenter Street, 059911",
+    "prize": "Winning teams share sponsor credits as prizes.",
+    "summary": "Daytona HackSprint Singapore is an engaging one-day hackathon designed for developers and AI enthusiasts looking to create practical AI applications. Participants will have access to Daytona's powerful cloud infrastructure to build and prototype real-world solutions using integrated AI tools. This event fosters collaboration among builders in the Singapore AI community, offering workshops, team formation, and live project demos.",
+    "eligibility": "Developers, AI engineers, founders, and students eager to build innovative AI projects.",
+    "highlights": [
+      "Hands-on experience with cloud infrastructure for AI applications.",
+      "Workshops to get up to speed before hacking begins.",
+      "Opportunity to network with industry professionals.",
+      "Competitions for sponsor credits as prizes."
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "singapore",
+      "ai",
+      "hackathon",
+      "beginner-friendly",
+      "cloud infrastructure"
+    ],
+    "url": "https://www.sginnovate.com/event/daytona-hacksprint-singapore-august-2026",
+    "id": "24d605ff2b36",
+    "last_checked": "2026-08-26T08:41:00.628965+00:00"
   }
 ]
