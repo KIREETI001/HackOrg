@@ -14591,5 +14591,231 @@
     "url": "https://www.sginnovate.com/event/daytona-hacksprint-singapore-august-2026",
     "id": "24d605ff2b36",
     "last_checked": "2026-08-26T08:41:00.628965+00:00"
+  },
+  {
+    "name": "OpenCV AI Competition 2026",
+    "organizer": "OpenCV Foundation",
+    "companies": [
+      "Amazon Web Services"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Multi-month (3-6mo)",
+    "scope": "Global",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "26 October 2026",
+    "location": "Online",
+    "prize": "$12,000 in cash prizes across multiple categories",
+    "summary": "The OpenCV AI Competition 2026 invites participants to build innovative vision systems using OpenCV 5 and AWS. Emphasizing the importance of both physical and generative AI, this competition aims to drive impactful real-world applications. With several distinct awards, including grants and cash prizes, it promotes creativity and technical prowess in AI development.",
+    "eligibility": "Participants must be above the legal age of majority in their country of residence.",
+    "highlights": [
+      "Engage with leading-edge technology using OpenCV 5 and AWS.",
+      "Opportunity to win part of a $12,000 prize pool.",
+      "Includes optional featured paths with special prizes.",
+      "Encourages collaboration and community sharing through an official Slack channel."
+    ],
+    "application_deadline": "2026-10-26",
+    "difficulty": "Intermediate",
+    "cost": "Free",
+    "prize_value_usd": 12000,
+    "beginner_friendly": false,
+    "application_url": null,
+    "tags": [
+      "ai",
+      "opencv",
+      "hackathon",
+      "aws",
+      "global"
+    ],
+    "url": "https://opencv26.devpost.com/",
+    "id": "e5dfef73d115",
+    "last_checked": "2026-08-27T18:50:42.226952+00:00"
+  },
+  {
+    "name": "COMMA_HACK 7",
+    "organizer": "comma.ai",
+    "companies": [
+      "Apple",
+      "Google",
+      "Outlook"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Global",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "18-20 September 2026",
+    "location": "San Diego, CA, comma HQ",
+    "prize": "$4,750 in total cash prizes across three places.",
+    "summary": "COMMA_HACK 7 invites participants to leverage 172 TFLOPs of computing power in a collaborative hackathon environment. Set in San Diego, this event promises substantial resources for developers to build innovative projects. Participants will have the opportunity to demo their creations and receive feedback from the comma team, fostering an engaging and competitive atmosphere.",
+    "eligibility": "Participants must be 18 years or older and from any country except standard exceptions.",
+    "highlights": [
+      "Access to powerful GPU resources for hackathon projects.",
+      "Live demos and judging by industry experts.",
+      "Prizes for top projects totaling $4,750.",
+      "Opportunity for travel sponsorship for top leaderboard participants."
+    ],
+    "application_deadline": "2026-09-08",
+    "difficulty": "Intermediate",
+    "cost": "Free",
+    "prize_value_usd": 4750,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "hackathon",
+      "ai",
+      "machine-learning",
+      "open-to-all",
+      "tech-innovation"
+    ],
+    "url": "https://comma-hack-7.devpost.com/",
+    "id": "cf800db3e0ed",
+    "last_checked": "2026-08-27T18:50:49.025026+00:00"
+  },
+  {
+    "name": "DDAS x MENDAKI International Cyber Women Day Celebrations",
+    "organizer": "Digital Defence Alliance Singapore",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Humanities"
+    ],
+    "fields": [
+      "Cybersecurity",
+      "AI / Machine Learning"
+    ],
+    "status": "upcoming",
+    "date": "1 September 2026",
+    "location": "Singapore, 6 Temasek Boulevard, #16-01 to #16-05, Suntec Tower Four",
+    "prize": null,
+    "summary": "The DDAS x MENDAKI International Cyber Women Day Celebrations is a pivotal event focused on empowering women in the fields of cybersecurity and artificial intelligence. Taking place in conjunction with International Women in Cyber Day, it will feature discussions led by industry leaders, aimed at fostering a more inclusive digital workforce. The event not only celebrates achievements but also promotes actionable strategies for greater participation of women in tech.",
+    "eligibility": "All interested individuals, especially women in the cybersecurity and AI sectors, are encouraged to join.",
+    "highlights": [
+      "Panel discussion with industry leaders",
+      "Focus on women in AI and cybersecurity",
+      "Networking opportunities with professionals",
+      "Learning journey to gain industry insights"
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "singapore",
+      "women-in-tech",
+      "cybersecurity",
+      "ai",
+      "networking"
+    ],
+    "url": "https://www.sginnovate.com/event/ddas-x-mendaki-international-cyber-women-day-celebrations",
+    "id": "24dac412fa2c",
+    "last_checked": "2026-08-27T18:50:55.245984+00:00"
+  },
+  {
+    "name": "Roast My TechStack #9",
+    "organizer": "SGInnovate",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "status": "upcoming",
+    "date": "3 September 2026",
+    "location": "Kuala Lumpur, Singapore, 32 Carpenter Street, 059911",
+    "prize": null,
+    "summary": "Roast My TechStack #9 is an engaging, interactive event designed for developers to present their project architectures and receive constructive feedback. Participants have 15 minutes to showcase their work and discuss the challenges they're facing, promoting collaborative problem-solving in a relaxed atmosphere. This event fosters community among tech builders while emphasizing learning from one another rather than traditional presentations.",
+    "eligibility": "Open to all tech enthusiasts and developers interested in sharing and discussing their work.",
+    "highlights": [
+      "Interactive feedback sessions with peers",
+      "Encourages an open and curious discussion about technology choices",
+      "Promotes a community-driven approach to problem-solving",
+      "Opportunity for networking with other tech professionals"
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "singapore",
+      "ai",
+      "networking",
+      "developer-community",
+      "open-event"
+    ],
+    "url": "https://www.sginnovate.com/event/roast-my-techstack-9",
+    "id": "6105ea565048",
+    "last_checked": "2026-08-27T18:51:01.832577+00:00"
+  },
+  {
+    "name": "Morning Pitch Asia – Special Edition",
+    "organizer": "SGInnovate",
+    "companies": [
+      "Wavemaker Partners"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Business / Economics",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "General Tech",
+      "Sustainability"
+    ],
+    "status": "upcoming",
+    "date": "4 September 2026",
+    "location": "Kuala Lumpur, Singapore, 32 Carpenter Street, 059911 and Online",
+    "prize": "N/A",
+    "summary": "The Morning Pitch Asia – Special Edition is an engaging platform where Wavemaker Partners collaborates with SGInnovate to showcase emerging startups interested in the Japanese market. Attendees can expect insightful panel discussions and pitches from promising companies. This event aims to foster collaborations between VCs and startups, enhancing growth opportunities within Southeast Asia.",
+    "eligibility": "Open to startups, entrepreneurs, and investors interested in pitching or exploring collaboration opportunities.",
+    "highlights": [
+      "Featured pitches from startups backed by Wavemaker Partners.",
+      "Panel discussion led by industry experts on Southeast Asian startups.",
+      "Establishment of connections between startups and potential investors.",
+      "Nurturing expansion opportunities into the Japanese market."
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "singapore",
+      "startup",
+      "pitching",
+      "collaboration",
+      "entrepreneurial"
+    ],
+    "url": "https://www.sginnovate.com/event/morning-pitch-asia-special-edition-collaboration-wavemaker-partners",
+    "id": "b7aaf31c6a83",
+    "last_checked": "2026-08-27T18:51:08.328415+00:00"
   }
 ]
