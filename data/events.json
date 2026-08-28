@@ -14817,5 +14817,93 @@
     "url": "https://www.sginnovate.com/event/morning-pitch-asia-special-edition-collaboration-wavemaker-partners",
     "id": "b7aaf31c6a83",
     "last_checked": "2026-08-27T18:51:08.328415+00:00"
+  },
+  {
+    "name": "Nebius x NVIDIA Global AI Hackathon",
+    "organizer": "Nebius",
+    "companies": [
+      "NVIDIA"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Multi-month (3-6mo)",
+    "scope": "Global",
+    "domains": [
+      "Computer Science"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "status": "upcoming",
+    "date": "30 October 2026",
+    "location": "Online",
+    "prize": "$50,000 in cash and additional prizes across multiple categories.",
+    "summary": "The Nebius x NVIDIA Global AI Hackathon invites participants to build innovative AI systems on open infrastructure. This hackathon emphasizes creativity and technical skill, providing opportunities for participants to leverage NVIDIA's open-source models. With substantial prizes and a global reach, it serves as a platform for AI enthusiasts and professionals alike to showcase their skills and ideas.",
+    "eligibility": "Open to anyone above the legal age in their country of residence, with certain exclusions.",
+    "highlights": [
+      "Build innovative AI solutions using cutting-edge infrastructure.",
+      "Compete for up to $50,000 in prizes across multiple tracks.",
+      "Beginner-friendly environment with workshops and onboarding.",
+      "Global participation encourages a diverse range of ideas and projects."
+    ],
+    "application_deadline": "2026-10-30",
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": 50000,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "ai",
+      "hackathon",
+      "global",
+      "beginner-friendly",
+      "nvidia",
+      "nebius"
+    ],
+    "url": "https://nebiusglobalaihackathon.devpost.com/",
+    "id": "670531527ec6",
+    "last_checked": "2026-08-28T19:54:26.183386+00:00"
+  },
+  {
+    "name": "Kids AI Weekend Camp: Responsible AI for Curious Young Minds",
+    "organizer": "SGInnovate",
+    "companies": [],
+    "level": "Pre-University",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "status": "upcoming",
+    "date": "5 September 2026",
+    "location": "Kuala Lumpur, Singapore, ACE.SG - ACE Ideation Centre",
+    "prize": "No prizes are mentioned, as this is an educational event.",
+    "summary": "The Kids AI Weekend Camp is an innovative hands-on experience designed for children aged 6-10 to explore AI technology. Participants will turn their ideas into working AI prototypes while learning important skills such as collaboration and communication. The camp emphasizes responsible AI practices tailored for young minds and is facilitated by experienced educators in the field.",
+    "eligibility": "Children aged 6-10, including both local and international families in Singapore, are welcome to attend.",
+    "highlights": [
+      "Hands-on learning experience with real AI tools",
+      "No prior coding experience required",
+      "Designed for local and expatriate families",
+      "Mentorship from experienced professionals in AI"
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "singapore",
+      "ai",
+      "kids",
+      "education",
+      "beginner-friendly"
+    ],
+    "url": "https://www.sginnovate.com/event/kids-ai-weekend-camp-responsible-ai-curious-young-minds-ages-6-10",
+    "id": "88d1c37ff32b",
+    "last_checked": "2026-08-28T19:54:32.332100+00:00"
   }
 ]
