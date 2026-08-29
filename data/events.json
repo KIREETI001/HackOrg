@@ -14905,5 +14905,101 @@
     "url": "https://www.sginnovate.com/event/kids-ai-weekend-camp-responsible-ai-curious-young-minds-ages-6-10",
     "id": "88d1c37ff32b",
     "last_checked": "2026-08-28T19:54:32.332100+00:00"
+  },
+  {
+    "name": "Mobile AI Build Weekend",
+    "organizer": "The App Blueprint",
+    "companies": [
+      "Apple",
+      "Google",
+      "CompNow",
+      "Stone & Chalk"
+    ],
+    "level": "Secondary",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "29-30 August 2026",
+    "location": "Melbourne, Stone & Chalk",
+    "prize": "Various Apple hardware prizes scaled by team size.",
+    "summary": "The Mobile AI Build Weekend is an immersive two-day hackathon designed for developers, designers, and first-time hackers. Participants will tackle real-world problems using AI, specifically for Apple platforms, in tracks focused on enterprise solutions and community impact. With a supportive environment for beginners, the event guarantees mentorship, resources, and multiple prizes for standout projects, creating a unique opportunity for creativity and innovation.",
+    "eligibility": "Open to attendees aged 13 and above from specific countries.",
+    "highlights": [
+      "Three tracks focusing on enterprise, community impact, and visionOS.",
+      "Support for beginners with mentorship and a specific prize for first-time hackers.",
+      "30 hours to create and demo projects built during the weekend.",
+      "In-person location with provided meals and resources."
+    ],
+    "application_deadline": "2026-08-30T01:30:00+10:00",
+    "difficulty": "Beginner-Friendly",
+    "cost": "Paid",
+    "prize_value_usd": 899,
+    "beginner_friendly": true,
+    "application_url": "https://luma.com/ixdnpvby",
+    "tags": [
+      "ai",
+      "hackathon",
+      "mobile",
+      "apple",
+      "beginner-friendly",
+      "melbourne"
+    ],
+    "url": "https://mobile-ai-build-weekend.devpost.com/",
+    "id": "08264e9fcb6b",
+    "last_checked": "2026-08-29T13:38:17.913968+00:00"
+  },
+  {
+    "name": "Kids & Teens AI Weekend Camp: Build Your First Responsible AI Agent",
+    "organizer": "SGInnovate",
+    "companies": [
+      "EDUTech Future",
+      "PatSnap"
+    ],
+    "level": "Pre-University",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "status": "upcoming",
+    "date": "5 September 2026",
+    "location": "Kuala Lumpur, Singapore, ACE.SG - ACE Ideation Centre",
+    "prize": "Top 3 winner prizes from EDUTech Future and PatSnap.",
+    "summary": "The Kids & Teens AI Weekend Camp is designed for young learners aged 11-15, where they will create a fully functional AI agent. This innovative program emphasizes responsible AI principles while providing hands-on experience in AI development. Participants will not only build and pitch their AI agents but also receive feedback from industry professionals, ensuring a rich educational experience.",
+    "eligibility": "Open to teens aged 11-15 with no prior coding experience required.",
+    "highlights": [
+      "Participants create a working AI agent from scratch.",
+      "Focus on responsible AI, inclusivity, and safety principles.",
+      "Special guest sharing from a successful startup founder.",
+      "Live pitching opportunity with industry jury feedback."
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Paid",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "singapore",
+      "ai",
+      "youth",
+      "coding",
+      "beginner-friendly"
+    ],
+    "url": "https://www.sginnovate.com/event/kids-teens-ai-weekend-camp-build-your-first-responsible-ai-agent-ages-11-15",
+    "id": "f0bd792af2b2",
+    "last_checked": "2026-08-29T13:38:23.156245+00:00"
   }
 ]
