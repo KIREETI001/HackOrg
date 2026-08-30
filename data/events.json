@@ -15001,5 +15001,52 @@
     "url": "https://www.sginnovate.com/event/kids-teens-ai-weekend-camp-build-your-first-responsible-ai-agent-ages-11-15",
     "id": "f0bd792af2b2",
     "last_checked": "2026-08-29T13:38:23.156245+00:00"
+  },
+  {
+    "name": "Prometheus September AI Challenge (Hybrid)",
+    "organizer": "Prometheus",
+    "companies": [
+      "Apple",
+      "Google"
+    ],
+    "level": "Secondary",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Global",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "Healthcare"
+    ],
+    "status": "upcoming",
+    "date": "27 September 2026",
+    "location": "Redmond, Redmond Senior & Community Center",
+    "prize": "$1,500 in cash and additional prizes",
+    "summary": "The Prometheus September AI Challenge is a global hybrid event focusing on leveraging AI and Machine Learning to address healthcare challenges. Participants can engage either online or in-person, encouraging innovative solutions from a diverse group of young developers. With significant prizes and a prime opportunity for skill enhancement, this event aims to foster collaboration and creativity in the AI domain.",
+    "eligibility": "Participants must be aged 13 and older and be students only.",
+    "highlights": [
+      "Hybrid format allows for both online and in-person participation",
+      "Focus on real-world healthcare challenges using AI",
+      "Substantial cash prizes and additional rewards for top teams",
+      "Open to a global audience of young innovators"
+    ],
+    "application_deadline": "2026-09-27",
+    "difficulty": "Beginner-Friendly",
+    "cost": "Varies",
+    "prize_value_usd": 1500,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "ai",
+      "healthcare",
+      "hybrid",
+      "students",
+      "global"
+    ],
+    "url": "https://prometheus-aug-ml-hackathon.devpost.com/",
+    "id": "a9c8ae95b199",
+    "last_checked": "2026-08-30T13:32:57.491491+00:00"
   }
 ]
