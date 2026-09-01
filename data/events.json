@@ -15048,5 +15048,239 @@
     "url": "https://prometheus-aug-ml-hackathon.devpost.com/",
     "id": "a9c8ae95b199",
     "last_checked": "2026-08-30T13:32:57.491491+00:00"
+  },
+  {
+    "name": "GatewayHacks 2026",
+    "organizer": "Gateway nonprofit organization",
+    "companies": [
+      "Apple",
+      "Google"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Multi-week (1-3mo)",
+    "scope": "Global",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "4 weeks (starting 2 October 2026)",
+    "location": "Virtual",
+    "prize": "$591,585 in cash and awards for various categories.",
+    "summary": "GatewayHacks 2026 is an exciting virtual hackathon aimed at empowering students aged 13 and up to develop innovative solutions for social good. Participants will have the opportunity to work solo or in teams to create impactful software, hardware, or AI prototypes over a four-week period. With a focus on accessibility, education equity, and environmental sustainability, this event encourages creativity and collaboration while offering substantial cash prizes.",
+    "eligibility": "Open to students aged 13 and above from all countries, with professional organizations excluded.",
+    "highlights": [
+      "Four-week duration emphasizing social impact projects.",
+      "Various prize categories with significant cash rewards.",
+      "Collaborative environment with support via a Discord community.",
+      "Beginner-friendly with no prior experience required."
+    ],
+    "application_deadline": "2026-10-02",
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": 591585,
+    "beginner_friendly": true,
+    "application_url": "https://gatewayhacks-2026.devpost.com/",
+    "tags": [
+      "hackathon",
+      "AI",
+      "social good",
+      "beginner-friendly",
+      "global"
+    ],
+    "url": "https://gatewayhacks-2026.devpost.com/",
+    "id": "8982f8349647",
+    "last_checked": "2026-09-01T13:05:50.164760+00:00"
+  },
+  {
+    "name": "AI Content Engine Hackathon",
+    "organizer": "Devpost",
+    "companies": [
+      "Apple",
+      "Google",
+      "Outlook"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Global",
+    "domains": [
+      "Computer Science",
+      "Business / Economics"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "status": "upcoming",
+    "date": "1 September 2026",
+    "location": "Online",
+    "prize": "$2,000 in cash for the best overall project",
+    "summary": "The AI Content Engine Hackathon invites participants to develop tools that enhance the creator workflow through automation. Participants can work solo or in teams, taking on challenges related to content creation, from scheduling to analytics. This event not only fosters innovation in AI but also offers a cash prize to incentivize high-quality submissions.",
+    "eligibility": "Participants must be above the legal age of majority in their country and must be students.",
+    "highlights": [
+      "Open to students from all countries.",
+      "Focus on building tools that tackle real-world content creation issues.",
+      "Opportunity for solo or team participation.",
+      "Judged on functionality, creativity, technical execution, and real-world usefulness."
+    ],
+    "application_deadline": "2026-09-08",
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": 2000,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "ai",
+      "hackathon",
+      "content creation",
+      "automation",
+      "student-friendly"
+    ],
+    "url": "https://ai-content-engine-hacks.devpost.com/",
+    "id": "5d704db0b583",
+    "last_checked": "2026-09-01T13:05:56.226944+00:00"
+  },
+  {
+    "name": "Grok Bot Meetup Singapore",
+    "organizer": "SGInnovate",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "status": "upcoming",
+    "date": "4 September 2026",
+    "location": "Kuala Lumpur, Singapore, 32 Carpenter Street, 059911",
+    "prize": null,
+    "summary": "The Grok Bot Meetup Singapore is a unique opportunity for enthusiasts to explore the capabilities of Grok Bot in an interactive setting. Participants will engage in hands-on activities to discover new functionalities and collaborate on projects. With a surprise guest from SpaceX, this event promises to inspire both seasoned developers and curious newcomers alike.",
+    "eligibility": "Anyone interested in learning about Grok Bot is welcome to join.",
+    "highlights": [
+      "First-ever Grok Bot meetup in Singapore",
+      "Hands-on experience with Grok Bot technology",
+      "Interactive sessions with participants and a surprise guest",
+      "No prior experience required, just bring curiosity"
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "singapore",
+      "ai",
+      "meetup",
+      "grokbot",
+      "beginner-friendly"
+    ],
+    "url": "https://www.sginnovate.com/event/grok-bot-meetup-singapore",
+    "id": "6833b335f636",
+    "last_checked": "2026-09-01T13:06:02.318139+00:00"
+  },
+  {
+    "name": "Meet-The-Mentor",
+    "organizer": "SGInnovate",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Business / Economics",
+      "Humanities"
+    ],
+    "fields": [
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "7 September 2026",
+    "location": "Singapore, Stage One, 69 Ayer Rajah Crescent, Level 1, 139961",
+    "prize": "null",
+    "summary": "Meet-The-Mentor is a unique networking event that connects founders with experienced mentors for personalized guidance. Participants can bring their questions to get clarity on business challenges, whether it’s about pivoting or targeting the right market. This fifth edition promises insightful consultations, helping entrepreneurs navigate their critical decisions effectively.",
+    "eligibility": "Founders and entrepreneurs looking for mentorship and guidance.",
+    "highlights": [
+      "Direct one-on-one consultations with experienced mentors",
+      "Focus on practical business challenges and solutions",
+      "Opportunity to ask specific questions relevant to your startup",
+      "Designed for founders seeking clarity in their business journey"
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": "https://www.sginnovate.com/event/meet-mentor",
+    "tags": [
+      "singapore",
+      "entrepreneurship",
+      "mentorship",
+      "business",
+      "free",
+      "local"
+    ],
+    "url": "https://www.sginnovate.com/event/meet-mentor",
+    "id": "74f981c25bc6",
+    "last_checked": "2026-09-01T13:06:08.262757+00:00"
+  },
+  {
+    "name": "Accelerating Life Sciences Innovation: Bridging the UK & Singapore",
+    "organizer": "SGInnovate",
+    "companies": [
+      "Sequoia Genetics",
+      "GutSee Health",
+      "Vision Engineering",
+      "Axol Bioscience",
+      "Data Cancer Genetics UK",
+      "Lant Medical",
+      "NunaBio",
+      "Particology",
+      "LightOx",
+      "EnsiliTech Ltd"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "Healthcare"
+    ],
+    "status": "upcoming",
+    "date": "7 September 2026",
+    "location": "Kuala Lumpur, Singapore, 32 Carpenter Street, 059911",
+    "prize": null,
+    "summary": "This event connects leaders in the Life Sciences sector from Singapore and the UK to foster cross-border collaborations. Participants will engage in discussions about sector trends and explore commercial partnerships, offering insights into innovative solutions. It's a unique opportunity for networking and knowledge exchange among industry stakeholders.",
+    "eligibility": "Open to investors, corporates, founders, researchers, and ecosystem builders in the Life Sciences field.",
+    "highlights": [
+      "Focus on cross-border collaboration between the UK and Singapore.",
+      "Panel discussions featuring leading experts in Life Sciences.",
+      "Networking opportunities with UK Life Sciences companies.",
+      "Hosted by significant organizations, enhancing credibility."
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "life-sciences",
+      "networking",
+      "singapore",
+      "uk",
+      "healthcare",
+      "professional-event"
+    ],
+    "url": "https://www.sginnovate.com/event/accelerating-life-sciences-innovation-bridging-uk-singapore",
+    "id": "e6b4323d1f94",
+    "last_checked": "2026-09-01T13:06:14.535616+00:00"
   }
 ]
