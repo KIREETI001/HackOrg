@@ -15282,5 +15282,98 @@
     "url": "https://www.sginnovate.com/event/accelerating-life-sciences-innovation-bridging-uk-singapore",
     "id": "e6b4323d1f94",
     "last_checked": "2026-09-01T13:06:14.535616+00:00"
+  },
+  {
+    "name": "SMU LIT Legal-Tech Hackathon 2026",
+    "organizer": "SMU LIT",
+    "companies": [
+      "Aithena",
+      "Singapore Academy of Law",
+      "Rajah & Tann",
+      "Ministry of Law"
+    ],
+    "level": "Tertiary",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Humanities"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "6 September 2026",
+    "location": "Singapore, SMU",
+    "prize": "$1,000 in cash prizes distributed among the top three teams.",
+    "summary": "The SMU LIT Legal-Tech Hackathon 2026 invites students from law and technology disciplines to innovate around pressing legal challenges. Participants will collaborate to create legal-tech solutions for high-profile organizations. This event uniquely merges legal expertise with tech innovation, facilitating valuable problem-solving experiences.",
+    "eligibility": "Participants must be above the legal age of majority in their country of residence.",
+    "highlights": [
+      "Focus on real-world legal tech challenges.",
+      "Collaboration opportunities with prominent legal organizations.",
+      "Cash prizes awarded to top teams.",
+      "A platform to showcase innovative solutions in law and technology."
+    ],
+    "application_deadline": "2026-09-06",
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": 1000,
+    "beginner_friendly": true,
+    "application_url": "https://smu-lit-hackathon-2026.devpost.com/",
+    "tags": [
+      "singapore",
+      "legal-tech",
+      "hackathon",
+      "ai",
+      "student-run"
+    ],
+    "url": "https://smu-lit-hackathon-2026.devpost.com/",
+    "id": "14a3a304320f",
+    "last_checked": "2026-09-04T12:30:27.296400+00:00"
+  },
+  {
+    "name": "AIMS: AI Governance & Risk Management By Leveraging ISO42001",
+    "organizer": "SGInnovate",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Business / Economics",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "Cybersecurity",
+      "AI / Machine Learning"
+    ],
+    "status": "upcoming",
+    "date": "9 September 2026",
+    "location": "Singapore, JustCo @ Marina Square",
+    "prize": null,
+    "summary": "This event provides a high-level overview of AI's evolution and its application in business workflows, particularly in cybersecurity. Participants will learn about the practical aspects of AI integration and governance under ISO/IEC 42001. Prominent speakers with extensive experience in cybersecurity and AI governance will lead discussions on responsible AI use and its implications for organizations.",
+    "eligibility": "The session is designed for professionals in cybersecurity, risk management, and AI adoption.",
+    "highlights": [
+      "Insight into the practical applications of AI in cybersecurity.",
+      "Focus on responsible AI governance frameworks.",
+      "Engagement with industry experts with extensive experience.",
+      "Opportunity for networking and knowledge sharing in AI governance."
+    ],
+    "application_deadline": null,
+    "difficulty": "Intermediate",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": false,
+    "application_url": null,
+    "tags": [
+      "singapore",
+      "ai",
+      "cybersecurity",
+      "governance",
+      "professional"
+    ],
+    "url": "https://www.sginnovate.com/event/aims-ai-governance-risk-management-leveraging-iso42001",
+    "id": "aa31a5903694",
+    "last_checked": "2026-09-04T12:30:37.335030+00:00"
   }
 ]
