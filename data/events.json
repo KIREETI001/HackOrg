@@ -15375,5 +15375,141 @@
     "url": "https://www.sginnovate.com/event/aims-ai-governance-risk-management-leveraging-iso42001",
     "id": "aa31a5903694",
     "last_checked": "2026-09-04T12:30:37.335030+00:00"
+  },
+  {
+    "name": "Agents for Humans Hackathon",
+    "organizer": "Devpost",
+    "companies": [
+      "AWS"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Multi-week (1-3mo)",
+    "scope": "Global",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "status": "upcoming",
+    "date": "14 September 2026",
+    "location": "Online",
+    "prize": "Total of $40,000 in cash prizes across three tracks.",
+    "summary": "The Agents for Humans Hackathon invites participants to develop AI agents using the Strands Agents SDK to tackle routine tasks. With a global reach, this competitive event fosters creativity and innovation by rewarding solutions that enhance everyday life and professional workflows. Participants stand a chance to win substantial cash prizes while honing their development skills in a collaborative environment.",
+    "eligibility": "Participants must be of legal age in their country of residence, with certain countries excluded.",
+    "highlights": [
+      "Compete for $40,000 in cash prizes across three tracks.",
+      "Utilize the Strands Agents SDK, an open-source and production-ready tool.",
+      "Focus on solving real-life problems with practical applications.",
+      "Open to worldwide developers, both individuals and teams."
+    ],
+    "application_deadline": "2026-09-14",
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": 40000,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "AI",
+      "hackathon",
+      "global",
+      "devpost",
+      "beginners"
+    ],
+    "url": "https://agentsforhumans.devpost.com/",
+    "id": "8939f8e453e5",
+    "last_checked": "2026-09-05T11:39:10.405329+00:00"
+  },
+  {
+    "name": "CodeBox Hacks",
+    "organizer": "Cal Poly",
+    "companies": [
+      "Apple",
+      "Google",
+      "Outlook"
+    ],
+    "level": "Tertiary",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "Machine Learning/AI",
+      "General Tech"
+    ],
+    "status": "completed",
+    "date": "5-6 September 2026",
+    "location": "Cal Poly, Advanced Technology Lab",
+    "prize": "Five non-cash prizes awarded for standout projects in various categories.",
+    "summary": "CodeBox Hacks is a weekend software hackathon exclusively for Cal Poly students, providing a platform to turn ideas into prototype projects. Participants have the opportunity to collaborate in teams, learn new skills, and present their work through engaging demos. With a beginner-friendly environment, the hackathon encourages innovation and creativity within defined project tracks.",
+    "eligibility": "Open only to Cal Poly students above the legal age of majority in their country of residence.",
+    "highlights": [
+      "Focus on building projects from scratch during the hackathon",
+      "Collaborative team environment with a kickoff to stimulate ideas",
+      "Special recognition for standout projects in defined tracks",
+      "Opportunity to engage with industry-leading sponsors"
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "cal poly",
+      "hackathon",
+      "ai",
+      "beginner-friendly",
+      "software development"
+    ],
+    "url": "https://codebox-hacks.devpost.com/",
+    "id": "475231913a1f",
+    "last_checked": "2026-09-05T11:39:14.789600+00:00"
+  },
+  {
+    "name": "SHELLGym",
+    "organizer": "SGInnovate",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "Cybersecurity"
+    ],
+    "status": "upcoming",
+    "date": "12 September 2026",
+    "location": "Kuala Lumpur, i3 building, 21 Heng Mui Keng Ter, NUS Enterprise, 119613",
+    "prize": null,
+    "summary": "SHELLGym is an engaging cybersecurity event designed for both newcomers and those with existing knowledge. Participants can improve their skills through practical exercises and collaborative opportunities, working on real-world challenges like web pentesting and phishing. With a flexible agenda, this workshop promotes a supportive environment for learning and sharing knowledge in cybersecurity.",
+    "eligibility": "Anyone interested in enhancing their cybersecurity skills is welcome to join.",
+    "highlights": [
+      "Focused on practical cybersecurity skills.",
+      "Open to all skill levels, including beginners.",
+      "Hands-on exercises and collaborative work.",
+      "Led by experienced professionals in the field."
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "cybersecurity",
+      "training",
+      "workshop",
+      "singapore",
+      "beginners-welcome"
+    ],
+    "url": "https://www.sginnovate.com/event/shellgym-1",
+    "id": "94a404b13d3d",
+    "last_checked": "2026-09-05T11:39:26.756762+00:00"
   }
 ]
