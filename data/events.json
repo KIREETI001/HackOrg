@@ -15511,5 +15511,149 @@
     "url": "https://www.sginnovate.com/event/shellgym-1",
     "id": "94a404b13d3d",
     "last_checked": "2026-09-05T11:39:26.756762+00:00"
+  },
+  {
+    "name": "test-event",
+    "organizer": "Devpost",
+    "companies": [
+      "Apple",
+      "Google",
+      "Outlook"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Global",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "status": "completed",
+    "date": "6 September 2026",
+    "location": "San Francisco, CA, USA",
+    "prize": "A total prize pool of $987 in cash awarded to the winning team.",
+    "summary": "The test-event hackathon invites participants from around the world to collaborate and innovate in the fields of AI and Machine Learning. With a team requirement of 2 to 4 members, this event encourages teamwork and creativity among competitors. The hackathon culminates in a cash prize for the standout project. This event stands out due to its diverse participation and focus on emerging technologies.",
+    "eligibility": "Participants must be above the legal age of majority in their country and compete in teams of 2 to 4 members.",
+    "highlights": [
+      "Global participation from various countries.",
+      "Focus on AI and Machine Learning themes.",
+      "Collaboration of major tech companies as sponsors.",
+      "Opportunity to win cash prizes for innovative projects."
+    ],
+    "application_deadline": "2026-09-06",
+    "difficulty": "Intermediate",
+    "cost": "Free",
+    "prize_value_usd": 987,
+    "beginner_friendly": false,
+    "application_url": null,
+    "tags": [
+      "hackathon",
+      "ai",
+      "machine-learning",
+      "san-francisco",
+      "tech"
+    ],
+    "url": "https://cv-test-hackathon.devpost.com/",
+    "id": "cb2b4d76b851",
+    "last_checked": "2026-09-06T11:58:44.689089+00:00"
+  },
+  {
+    "name": "Syndicate by Maximor",
+    "organizer": "Agent Orchestrator",
+    "companies": [
+      "Maximor",
+      "AI Grants India",
+      "Dodo Payments",
+      "Neatlogs"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Global",
+    "domains": [
+      "Computer Science",
+      "Business / Economics"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "FinTech"
+    ],
+    "status": "completed",
+    "date": "6 September 2026",
+    "location": "Online",
+    "prize": "$10,000 in cash prizes and credits",
+    "summary": "Syndicate by Maximor is a unique 30-hour global hackathon aimed at building practical autonomous agent systems. Participants are encouraged to create robust solutions for real-world applications in finance through well-defined tracks. The event’s structure supports both online participants and those joining from specific build stations, fostering innovation and collaboration among developers from around the world.",
+    "eligibility": "Participants must be above the legal age of majority in their country of residence and are exclusively students.",
+    "highlights": [
+      "30-hour global hackathon format",
+      "Focus on practical autonomous agent systems",
+      "Multiple cash and credit prizes available",
+      "Collaboration opportunities with industry partners"
+    ],
+    "application_deadline": "2026-09-06",
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": 10000,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "hackathon",
+      "fintech",
+      "global",
+      "ai",
+      "beginner-friendly"
+    ],
+    "url": "https://syndicate-by-maximor.devpost.com/",
+    "id": "34bfd8c8c59a",
+    "last_checked": "2026-09-06T11:58:49.794058+00:00"
+  },
+  {
+    "name": "Why Enterprise AI Stalls Between Pilot and Deployment",
+    "organizer": "SGInnovate",
+    "companies": [
+      "Microsoft",
+      "Momos",
+      "AI Singapore",
+      "Startupbootcamp"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Business / Economics"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "status": "upcoming",
+    "date": "14 September 2026",
+    "location": "Kuala Lumpur, Singapore, SMU Connexion Level 5, 40 Stamford Rd, 178908",
+    "prize": null,
+    "summary": "This event features a panel discussion focusing on the challenges faced during the deployment of enterprise AI solutions. Leading experts from Microsoft, Momos, and AI Singapore will share their experiences and strategies for overcoming barriers in AI integration. Participants will gain valuable insights into corporate and startup collaborations, offering effective solutions for AI proof-of-concept transitions to enterprise applications.",
+    "eligibility": "Executives and operators in data, operations, and transformation across various industries, as well as startups.",
+    "highlights": [
+      "Insightful discussions from industry leaders in AI.",
+      "Focus on real-world AI integration challenges.",
+      "Strategic advice for corporate-startup collaborations.",
+      "Networking opportunities with experts and peers."
+    ],
+    "application_deadline": null,
+    "difficulty": "Intermediate",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": false,
+    "application_url": null,
+    "tags": [
+      "singapore",
+      "ai",
+      "panel-discussion",
+      "enterprise",
+      "networking"
+    ],
+    "url": "https://www.sginnovate.com/event/why-enterprise-ai-stalls-between-pilot-and-deployment",
+    "id": "42b9b643719a",
+    "last_checked": "2026-09-06T11:59:00.007904+00:00"
   }
 ]
