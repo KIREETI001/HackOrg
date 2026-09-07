@@ -15655,5 +15655,141 @@
     "url": "https://www.sginnovate.com/event/why-enterprise-ai-stalls-between-pilot-and-deployment",
     "id": "42b9b643719a",
     "last_checked": "2026-09-06T11:59:00.007904+00:00"
+  },
+  {
+    "name": "CloudHacks 2026 Singapore",
+    "organizer": "hackclub",
+    "companies": [
+      "Apple",
+      "Google",
+      "Outlook"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science"
+    ],
+    "fields": [
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "7-8 September 2026",
+    "location": "Lorong AI @ one-north",
+    "prize": "Eight non-cash prizes including Amazon vouchers and subscriptions to various tech services.",
+    "summary": "CloudHacks 2026 is a student-led hackathon designed to bring together programmers for two days of innovation and collaboration. Participants are encouraged to create tech-related projects, from applications to hardware solutions. The event features multiple prizes for different categories, making it an inclusive opportunity for both beginners and advanced coders.",
+    "eligibility": "Participants must be above the legal age of majority in their country of residence.",
+    "highlights": [
+      "Two days of intensive coding and workshops",
+      "Open to participants from all countries, excluding standard exceptions",
+      "Focus on innovation and community building",
+      "Multiple prizes for different skill levels, including a beginner category"
+    ],
+    "application_deadline": "2026-09-08",
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": 2000,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "singapore",
+      "hackathon",
+      "student-led",
+      "coding",
+      "beginner-friendly"
+    ],
+    "url": "https://cloudhacks-2026-singapore.devpost.com/",
+    "id": "e9cafcd1ad65",
+    "last_checked": "2026-09-07T09:42:00.855423+00:00"
+  },
+  {
+    "name": "Cyber Frontier: Navigating Singapore and APAC: Regulation, Market Entry and Growth",
+    "organizer": "SGInnovate",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Business / Economics"
+    ],
+    "fields": [
+      "Cybersecurity"
+    ],
+    "status": "upcoming",
+    "date": "10 September 2026",
+    "location": "Kuala Lumpur, Seminar Room 1, i3 building, Level 1, NUS Enterprise, 119613",
+    "prize": null,
+    "summary": "Cyber Frontier is a community event aimed at empowering cybersecurity startups in Singapore and the APAC region. Featuring industry leaders, the seminar will provide invaluable insights into navigating regulations and market entry strategies. Participants will learn how to leverage compliance as a competitive advantage within the dynamic regulatory framework. Join to connect with innovators and gain practical knowledge applicable to startup growth.",
+    "eligibility": "Open to anyone interested in cybersecurity and market strategies.",
+    "highlights": [
+      "Features industry experts from i-Sprint and GovTech Singapore.",
+      "Focus on real-world regulatory challenges and solutions.",
+      "Opportunity to network with other cybersecurity startups.",
+      "Part of a broader initiative by CyberSG to support the tech community."
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "singapore",
+      "cybersecurity",
+      "startup",
+      "networking",
+      "free event"
+    ],
+    "url": "https://www.sginnovate.com/event/cyber-frontier-navigating-singapore-and-apac-regulation-market-entry-and-growth",
+    "id": "26a2a8016a5b",
+    "last_checked": "2026-09-07T09:42:06.156468+00:00"
+  },
+  {
+    "name": "AIM ASEAN Singapore 2026: Flagship Forum",
+    "organizer": "SGInnovate",
+    "companies": [
+      "Google.org",
+      "Asian Development Bank"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Business / Economics",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "status": "upcoming",
+    "date": "15 September 2026",
+    "location": "Kuala Lumpur, Singapore Polytechnic Convention Centre",
+    "prize": "Participants receive a complimentary AIM ASEAN e-Certificate.",
+    "summary": "The AIM ASEAN Singapore 2026 Flagship Forum is a significant gathering aimed at accelerating AI adoption among SMEs in the region. Bringing together business leaders, technology providers, and ecosystem partners, the forum focuses on practical learning and collaboration in AI. Attendees will gain insights from expert panels and masterclasses geared towards implementing AI in business processes.",
+    "eligibility": "Open to SME owners, business leaders, and professionals interested in AI adoption.",
+    "highlights": [
+      "Networking opportunity with over 800 business leaders.",
+      "Includes an executive masterclass focused on AI implementation.",
+      "Panel discussions on practical AI applications and resources.",
+      "Access to a showcase of AI ecosystem partners and support."
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "AI",
+      "business",
+      "Singapore",
+      "SME",
+      "networking",
+      "masterclass"
+    ],
+    "url": "https://www.sginnovate.com/event/aim-asean-singapore-2026-flagship-forum",
+    "id": "86dfbda9ba01",
+    "last_checked": "2026-09-07T09:42:16.749238+00:00"
   }
 ]
