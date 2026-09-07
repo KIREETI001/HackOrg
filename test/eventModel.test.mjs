@@ -1,5 +1,5 @@
 // Pure-fn tests for lib/eventModel.js — no React, no DOM.
-import { test } from "node:test";
+import { beforeEach, test } from "node:test";
 import assert from "node:assert/strict";
 import {
   daysUntil,
@@ -13,6 +13,11 @@ import {
 
 const REF = new Date("2026-05-17T00:00:00Z");
 REF.setHours(0, 0, 0, 0);
+
+// Freeze helpers that read today() so the fixtures do not expire over time.
+beforeEach((t) => {
+  t.mock.timers.enable({ apis: ["Date"], now: REF.getTime() });
+});
 
 test("daysUntil returns positive integer for future date", () => {
   assert.equal(daysUntil("2026-05-27", REF), 10);

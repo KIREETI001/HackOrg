@@ -1,30 +1,10 @@
-import { NextResponse } from "next/server";
+import { SCAN_WORKFLOW_URL } from "@/lib/scanWorkflow.mjs";
 
-const REPO = "KIREETI001/HackOrg";
-const WORKFLOW = "daily-scan.yml";
-
+// Kept for older clients: scans now use GitHub's authenticated workflow UI.
+// No deployment credential or public workflow-dispatch endpoint is needed.
 export async function POST() {
-  const token = process.env.GITHUB_TOKEN;
-  if (!token) {
-    return NextResponse.json({ error: "GITHUB_TOKEN not configured" }, { status: 500 });
-  }
-
-  const res = await fetch(
-    `https://api.github.com/repos/${REPO}/actions/workflows/${WORKFLOW}/dispatches`,
-    {
-      method: "POST",
-      headers: {
-        Authorization: `Bearer ${token}`,
-        Accept: "application/vnd.github+json",
-        "X-GitHub-Api-Version": "2022-11-28",
-        "Content-Type": "application/json",
-      },
-      body: JSON.stringify({ ref: "main" }),
-    }
+  return Response.json(
+    { error: "Run manual scans from GitHub Actions.", workflowUrl: SCAN_WORKFLOW_URL },
+    { status: 410 },
   );
-
-  if (res.status === 204) return NextResponse.json({ ok: true });
-
-  const body = await res.text();
-  return NextResponse.json({ error: body }, { status: res.status });
 }
