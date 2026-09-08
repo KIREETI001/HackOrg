@@ -15791,5 +15791,91 @@
     "url": "https://www.sginnovate.com/event/aim-asean-singapore-2026-flagship-forum",
     "id": "86dfbda9ba01",
     "last_checked": "2026-09-07T09:42:16.749238+00:00"
+  },
+  {
+    "name": "VentureFix",
+    "organizer": "Devpost",
+    "companies": [],
+    "level": "Secondary",
+    "timeline": "Multi-week (1-3mo)",
+    "scope": "Global",
+    "domains": [
+      "Computer Science",
+      "Business / Economics"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "status": "upcoming",
+    "date": "1-13 September 2026",
+    "location": "Online",
+    "prize": "1 non-cash prize worth $100 in AoPS credits.",
+    "summary": "VentureFix is an innovative hackathon designed for students aged 13 to 18, enabling them to tackle real-world business problems using technology. Participants can either build a functional product or develop a detailed startup proposal, focusing on impactful areas like AI and fintech. With an emphasis on practical application and business value, this event fosters creativity and entrepreneurial skills among young aspiring innovators.",
+    "eligibility": "Participation is open to students aged 13 to 18, but companies and professional organizations may not join.",
+    "highlights": [
+      "Beginners are welcome, making it ideal for first-time hackers.",
+      "Participants retain ownership of their projects.",
+      "Two distinct tracks: Venture Build and Venture Pitch.",
+      "Focus on real-world problem-solving using technology."
+    ],
+    "application_deadline": "2026-09-13",
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": 100,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "hackathon",
+      "youth",
+      "ai",
+      "entrepreneurship",
+      "beginner-friendly",
+      "global"
+    ],
+    "url": "https://venturefix.devpost.com/",
+    "id": "b6e39dda76ea",
+    "last_checked": "2026-09-08T12:38:02.487959+00:00"
+  },
+  {
+    "name": "Claude Meetup",
+    "organizer": "SGInnovate",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "status": "upcoming",
+    "date": "10 September 2026",
+    "location": "Kuala Lumpur, 32 Carpenter Street, 059911",
+    "prize": null,
+    "summary": "The Claude Meetup is an inclusive event for enthusiasts of the Claude AI language model. It aims to bring together users ranging from newcomers to experts for an evening of networking and knowledge sharing. Attendees can enjoy demos, updates from Claude’s initiative, and engage in discussions about using Claude in various applications.",
+    "eligibility": "Everyone interested in Claude, from beginners to seasoned users, is welcome to join.",
+    "highlights": [
+      "Community-generated event focused on Claude AI.",
+      "Informal atmosphere with networking opportunities.",
+      "Demos showcasing local projects.",
+      "Open for all skill levels, enhancing community engagement."
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "singapore",
+      "ai",
+      "networking",
+      "community",
+      "beginner-friendly"
+    ],
+    "url": "https://www.sginnovate.com/event/singapore-claude-meetup",
+    "id": "804dfbf13fa2",
+    "last_checked": "2026-09-08T12:38:07.905301+00:00"
   }
 ]
