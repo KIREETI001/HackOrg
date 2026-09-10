@@ -15877,5 +15877,50 @@
     "url": "https://www.sginnovate.com/event/singapore-claude-meetup",
     "id": "804dfbf13fa2",
     "last_checked": "2026-09-08T12:38:07.905301+00:00"
+  },
+  {
+    "name": "AI Capitol Agentic AI Night: Kimi K3 Ecosystem",
+    "organizer": "SGInnovate",
+    "companies": [
+      "Moonshot AI"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "status": "upcoming",
+    "date": "11 September 2026",
+    "location": "Kuala Lumpur, 32 Carpenter Street, 059911",
+    "prize": "Attendees will receive free Kimi vouchers.",
+    "summary": "The AI Capitol Agentic AI Night promotes discussions around the integration of AI into enterprise systems, featuring the introduction of Moonshot AI's Kimi K3. This event will showcase live demonstrations of agentic AI in real business scenarios, along with expert talks. Designed for professionals in the AI space, it offers a networking platform for CTOs, AI engineers, and enterprise owners.",
+    "eligibility": "Open to all AI professionals and enthusiasts interested in enterprise AI applications.",
+    "highlights": [
+      "Live demos showcasing agentic AI in business workflows.",
+      "Presentation of the innovative Kimi K3 model with significant capabilities.",
+      "Networking opportunities with industry leaders and AI practitioners.",
+      "In-depth discussions on cost, reliability, and security of AI deployment."
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "singapore",
+      "ai",
+      "networking",
+      "enterprise",
+      "beginners"
+    ],
+    "url": "https://www.sginnovate.com/event/ai-capitol-agentic-ai-night-kimi-k3-ecosystem",
+    "id": "140ae7f0e24b",
+    "last_checked": "2026-09-10T12:42:58.785198+00:00"
   }
 ]
