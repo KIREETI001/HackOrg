@@ -15922,5 +15922,149 @@
     "url": "https://www.sginnovate.com/event/ai-capitol-agentic-ai-night-kimi-k3-ecosystem",
     "id": "140ae7f0e24b",
     "last_checked": "2026-09-10T12:42:58.785198+00:00"
+  },
+  {
+    "name": "AI 4 Infra Challenge – Beginner Track",
+    "organizer": "AI Student Association",
+    "companies": [
+      "Colorado State University",
+      "Trimble",
+      "WSB",
+      "HDR",
+      "Colorado Smart Cities Alliance",
+      "SHPE"
+    ],
+    "level": "Pre-University",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "3-11 September 2026",
+    "location": "Denver, Student Commons 1600",
+    "prize": "$1,000 in cash prizes awarded to top submissions.",
+    "summary": "The AI 4 Infra Challenge – Beginner Track is specially designed for newcomers to AI and data analysis, emphasizing hands-on learning with real municipal work-order records. Participants can collaborate in teams of 2 to 4 members and will receive support from event organizers throughout the challenge. With a focus on converting dark data into actionable insights, this track provides an engaging introduction for those without prior coding or machine learning experience.",
+    "eligibility": "Participants must be above the legal age of majority in their country of residence and form teams of 2 to 4 members.",
+    "highlights": [
+      "No prior coding or machine learning experience required.",
+      "Hands-on experience with real municipal data.",
+      "Support from mentors throughout the challenge.",
+      "Cash prizes awarded to the best submissions."
+    ],
+    "application_deadline": "2026-09-11T11:00:00-06:00",
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": 1000,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "ai",
+      "beginner-friendly",
+      "hackathon",
+      "data-analysis",
+      "denver"
+    ],
+    "url": "https://ai-4-infra-challenge-begginer.devpost.com/",
+    "id": "9bc5e6142425",
+    "last_checked": "2026-09-11T12:37:34.257646+00:00"
+  },
+  {
+    "name": "AI 4 Infra Challenge – Advanced Track",
+    "organizer": "AI Student Association",
+    "companies": [
+      "Colorado Smart Cities Alliance",
+      "Trimble",
+      "WSB",
+      "Colorado State University",
+      "HDR",
+      "SHPE"
+    ],
+    "level": "Tertiary",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "Sustainability"
+    ],
+    "status": "completed",
+    "date": "11 September 2026",
+    "location": "Denver, North Classroom",
+    "prize": "Total of $1,000 in cash prizes for the top three teams.",
+    "summary": "The AI 4 Infra Challenge invites students to develop AI models for classifying infrastructure assets based on mobile mapping data. Hosted by the AI Student Association, this competition combines real-world application with technical innovation in AI. Participants leverage cutting-edge tools to enhance infrastructure management and safety, culminating in a presentation to industry judges.",
+    "eligibility": "Open to all students above the legal age of majority in their country, requiring teams of 2 to 4 members.",
+    "highlights": [
+      "Focused on real-world applications of AI in infrastructure management.",
+      "Collaborative event involving multiple educational institutions and industry partners.",
+      "Participants access innovative mobile mapping technology.",
+      "Cash prizes awarded to top-performing teams."
+    ],
+    "application_deadline": "2026-09-11",
+    "difficulty": "Advanced",
+    "cost": "Free",
+    "prize_value_usd": 1000,
+    "beginner_friendly": false,
+    "application_url": null,
+    "tags": [
+      "ai",
+      "infrastructure",
+      "hackathon",
+      "machine-learning",
+      "tertiary"
+    ],
+    "url": "https://ai-4-infra-advanced-track.devpost.com/",
+    "id": "c3abbdc220f5",
+    "last_checked": "2026-09-11T12:37:39.799585+00:00"
+  },
+  {
+    "name": "Modernising SecOps",
+    "organizer": "SGInnovate",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "Cybersecurity"
+    ],
+    "status": "upcoming",
+    "date": "17 September 2026",
+    "location": "Singapore, Suntec Singapore Convention & Exhibition Centre",
+    "prize": null,
+    "summary": "The Modernising SecOps event focuses on examining the evolving challenges faced by security teams in managing cyber threats. Designed for key decision makers in IT, the session will provide valuable insights into enhancing Security Operations capabilities. Participants will learn about improved visibility, threat detection, and incident response, ensuring that their organizations stay ahead of emerging cyber risks.",
+    "eligibility": "Cybersecurity professionals and IT decision-makers can join this session for practical security insights.",
+    "highlights": [
+      "Exclusive insights for CISOs and IT leaders.",
+      "Focus on modernizing Security Operations.",
+      "Strategies for improving threat detection and incident response.",
+      "Discussion on enhancing operational efficiency through automation."
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "singapore",
+      "cybersecurity",
+      "IT security",
+      "professional-development"
+    ],
+    "url": "https://www.sginnovate.com/event/modernising-secops",
+    "id": "2192d2898681",
+    "last_checked": "2026-09-11T12:37:49.509939+00:00"
   }
 ]
