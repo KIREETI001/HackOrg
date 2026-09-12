@@ -16066,5 +16066,232 @@
     "url": "https://www.sginnovate.com/event/modernising-secops",
     "id": "2192d2898681",
     "last_checked": "2026-09-11T12:37:49.509939+00:00"
+  },
+  {
+    "name": "Forward: AI in Business Hackathon",
+    "organizer": "DSCubed and RAID",
+    "companies": [
+      "Eleno"
+    ],
+    "level": "Tertiary",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Business / Economics"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "status": "upcoming",
+    "date": "12-14 September 2026",
+    "location": "Melbourne, venue unspecified",
+    "prize": "$3,000 cash prize pool distributed among various winners.",
+    "summary": "The Forward: AI in Business Hackathon invites teams to explore real-world business challenges through AI solutions. This 48-hour hackathon emphasizes collaboration, mentorship, and practical applications of artificial intelligence, deepening connections between students and industry. Participants will also have opportunities for internships and jobs at Eleno, enhancing the experience beyond just competition.",
+    "eligibility": "Open to teams of 2-5 members, with at least one member being a current university student.",
+    "highlights": [
+      "48-hour intensive hackathon focused on practical AI in business.",
+      "Mentorship from experienced professionals and judges from academia and industry.",
+      "Cash prizes totaling $3,000, along with additional track prizes.",
+      "Networking opportunities for internships and jobs."
+    ],
+    "application_deadline": "2026-09-14",
+    "difficulty": "Intermediate",
+    "cost": "Free",
+    "prize_value_usd": 3000,
+    "beginner_friendly": true,
+    "application_url": "https://luma.com/qmvfa2nk",
+    "tags": [
+      "ai",
+      "hackathon",
+      "melbourne",
+      "student-run",
+      "business",
+      "beginner-friendly"
+    ],
+    "url": "https://forward.devpost.com/",
+    "id": "8aa722f30b64",
+    "last_checked": "2026-09-12T11:59:01.003069+00:00"
+  },
+  {
+    "name": "Transforming Trials and Patient Care: The Multi-arm, Multi-stage (MAMS) Platform Trial Design",
+    "organizer": "SGInnovate",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Sciences (STEM)",
+      "Business / Economics"
+    ],
+    "fields": [
+      "Healthcare"
+    ],
+    "status": "upcoming",
+    "date": "16 September 2026",
+    "location": "Kuala Lumpur, Singapore, Online",
+    "prize": null,
+    "summary": "This event will delve into the innovative Multi-arm, Multi-stage (MAMS) platform trial design, a revolutionary approach to clinical trials. Led by Professor Mahesh Parmar, the webinar aims to explore how this design facilitates faster assessment of multiple treatments simultaneously, thereby expediting the delivery of effective therapies to patients. The session is particularly relevant for those interested in the intersection of clinical research and patient care, with practical insights drawn from landmark studies in oncology.",
+    "eligibility": "The seminar is open to anyone interested in healthcare systems and trial methodologies.",
+    "highlights": [
+      "Gain insights from a leading expert in clinical trials.",
+      "Learn about the innovative MAMS methodology for clinical trials.",
+      "Understand real-world applications and impacts on patient care.",
+      "Join a discussion aimed at broad audiences interested in health sciences."
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "singapore",
+      "healthcare",
+      "clinical-trials",
+      "webinar",
+      "mams",
+      "sginnovate"
+    ],
+    "url": "https://www.sginnovate.com/event/transforming-trials-and-patient-care-multi-arm-multi-stage-mams-platform-trial-design",
+    "id": "1bae9b9acfe4",
+    "last_checked": "2026-09-12T11:59:09.833300+00:00"
+  },
+  {
+    "name": "Singapore Pitch Day - The 10th China (Shenzhen) Innovation & Entrepreneurship International Competition",
+    "organizer": "XNode",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Business / Economics",
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "General Tech",
+      "AI / Machine Learning",
+      "Cybersecurity"
+    ],
+    "status": "upcoming",
+    "date": "21 September 2026",
+    "location": "Kuala Lumpur, Singapore, The Meeting Point, 73B Ayer Rajah Crescent, SG 139966",
+    "prize": "Not explicitly stated, but connections to top-tier venture capital and support are highlighted.",
+    "summary": "The Singapore Pitch Day serves as a pivotal event for startups aiming to integrate into China's vibrant tech landscape. It provides a platform for high-potential startups to showcase their innovations while connecting them with investors and industry leaders. The competition emphasizes cross-border insights, aiming to blend Singapore's ingenuity with China's resources for global expansion.",
+    "eligibility": "Startups interested in scaling and innovation can apply to pitch.",
+    "highlights": [
+      "Watch top-tier startups pitch across major industry verticals.",
+      "Network with visionary founders and cross-border investors.",
+      "Gain insights on global expansion strategies.",
+      "Engage in a full day of pitching, networking, and knowledge sharing."
+    ],
+    "application_deadline": "2026-08-31",
+    "difficulty": "Intermediate",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": false,
+    "application_url": "null",
+    "tags": [
+      "singapore",
+      "entrepreneurship",
+      "startup",
+      "innovation",
+      "pitch"
+    ],
+    "url": "https://www.sginnovate.com/event/singapore-pitch-day-10th-china-shenzhen-innovation-entrepreneurship-international-competition",
+    "id": "56da156e90c8",
+    "last_checked": "2026-09-12T11:59:15.579123+00:00"
+  },
+  {
+    "name": "Science first: Searching for the next wave of innovation in oncology",
+    "organizer": "SGInnovate",
+    "companies": [
+      "Johnson & Johnson"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Sciences (STEM)",
+      "Business / Economics"
+    ],
+    "fields": [
+      "Healthcare",
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "24 September 2026",
+    "location": "Singapore, 2 Science Park Dr Ascent, #01-08 Singapore Science Park 1",
+    "prize": "N/A",
+    "summary": "This event focuses on bridging the gap between innovative oncology science and practical therapies. Attendees will learn from industry experts about the complexities and competitive landscape of developing patient-ready therapies. A critical discussion will revolve around the importance of scientific novelty and the strategic considerations necessary to succeed in the life sciences ecosystem. Participants from the field of oncology are invited to collaborate and explore partnership opportunities.",
+    "eligibility": "Open to innovators and professionals in the life sciences sector.",
+    "highlights": [
+      "Industry insights from Johnson & Johnson's Oncology External Innovation team.",
+      "Focus on addressing hard-to-treat cancers.",
+      "Strategies for successful clinical trial design and patient selection.",
+      "Networking opportunities with fellow professionals in the biotech field."
+    ],
+    "application_deadline": null,
+    "difficulty": "Intermediate",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "oncology",
+      "healthcare",
+      "innovation",
+      "biotech",
+      "Singapore"
+    ],
+    "url": "https://www.sginnovate.com/event/science-first-searching-next-wave-innovation-oncology",
+    "id": "33257050c9f0",
+    "last_checked": "2026-09-12T11:59:21.413301+00:00"
+  },
+  {
+    "name": "Wellness Destination AI Tech Summit – Tourism, Hospitality & Real Estate",
+    "organizer": "SGInnovate",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Regional (Asia)",
+    "domains": [
+      "Business / Economics",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "Healthcare",
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "28-29 September 2026",
+    "location": "Kuala Lumpur, Singapore, METT Singapore",
+    "prize": "No specific prizes mentioned.",
+    "summary": "The Wellness Destination AI Tech Summit is set to gather thought leaders across various industries including tourism, hospitality, and real estate. Attendees will explore the intersection of AI, technology, and wellness, focusing on digital detox and evidence-based science. This summit highlights innovative approaches to wellness while providing valuable networking opportunities for professionals. It aims to inspire collaborative discussions that shape the future of wellness in business.",
+    "eligibility": "Professionals, executives, and decision-makers in relevant fields are encouraged to attend.",
+    "highlights": [
+      "Networking with global thought leaders",
+      "Focus on disruptive and innovative wellness trends",
+      "In-depth discussions on AI and technology impacts",
+      "Opportunities for exhibitors and sponsors"
+    ],
+    "application_deadline": null,
+    "difficulty": "Intermediate",
+    "cost": "Varies",
+    "prize_value_usd": null,
+    "beginner_friendly": false,
+    "application_url": "https://healthcaire.space/",
+    "tags": [
+      "asia",
+      "ai",
+      "wellness",
+      "hospitality",
+      "conference"
+    ],
+    "url": "https://www.sginnovate.com/event/wellness-destination-ai-tech-summit-tourism-hospitality-real-estate-28-29-sept-2026",
+    "id": "89f6dd1dfb52",
+    "last_checked": "2026-09-12T11:59:26.618823+00:00"
   }
 ]
