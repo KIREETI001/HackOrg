@@ -16293,5 +16293,53 @@
     "url": "https://www.sginnovate.com/event/wellness-destination-ai-tech-summit-tourism-hospitality-real-estate-28-29-sept-2026",
     "id": "89f6dd1dfb52",
     "last_checked": "2026-09-12T11:59:26.618823+00:00"
+  },
+  {
+    "name": "Build, Ship, Shape: Amazon Developer Hackathon",
+    "organizer": "Amazon",
+    "companies": [
+      "Amazon",
+      "Devpost"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Multi-week (1-3mo)",
+    "scope": "Global",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "3-23 October 2026",
+    "location": "Online, Devpost",
+    "prize": "$138,000 in cash and AWS credits.",
+    "summary": "The Build, Ship, Shape: Amazon Developer Hackathon invites developers across the globe to innovate using Amazon devices. Participants can choose tracks focusing on Fire TV, Alexa+, Bee, or Ring, encouraging diverse projects that connect various technologies. With substantial cash prizes and AWS credits, this competition not only rewards creativity but also provides direct feedback opportunities with the Amazon Developer team.",
+    "eligibility": "Participants must be above the legal age of majority in their country of residence.",
+    "highlights": [
+      "First hackathon including Fire TV, Alexa+, Ring, and Bee together.",
+      "Direct product feedback opportunities with Amazon teams.",
+      "Total prize pool of $138,000 in cash and AWS credits.",
+      "Mini challenges available for extra winning opportunities."
+    ],
+    "application_deadline": "2026-10-23",
+    "difficulty": "Intermediate",
+    "cost": "Free",
+    "prize_value_usd": 138000,
+    "beginner_friendly": true,
+    "application_url": "https://amazonappdev2026.devpost.com/",
+    "tags": [
+      "amazon",
+      "hackathon",
+      "developer",
+      "ai",
+      "online",
+      "global"
+    ],
+    "url": "https://amazonappdev2026.devpost.com/",
+    "id": "33da660910aa",
+    "last_checked": "2026-09-13T13:07:03.904143+00:00"
   }
 ]
