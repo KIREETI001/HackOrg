@@ -16341,5 +16341,149 @@
     "url": "https://amazonappdev2026.devpost.com/",
     "id": "33da660910aa",
     "last_checked": "2026-09-13T13:07:03.904143+00:00"
+  },
+  {
+    "name": "HackIT 2026",
+    "organizer": "Ngee Ann Polytechnic",
+    "companies": [
+      "Apple",
+      "Google",
+      "AWS",
+      "NCS",
+      "National Council of Social Service",
+      "Community Chest"
+    ],
+    "level": "Tertiary",
+    "timeline": "Multi-week (1-3mo)",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Business / Economics"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "14 September - 21 October 2026",
+    "location": "Singapore, Ngee Ann Polytechnic",
+    "prize": "1 non-cash prize for Best Project in various categories.",
+    "summary": "HackIT 2026 is a school-wide hackathon designed for polytechnic students, offering them the chance to create real-world solutions for industry challenges. Participants will work in teams to address specific problem statements provided by notable sponsors. The event emphasizes collaboration, learning through workshops, and mentorship from industry professionals.",
+    "eligibility": "Open to polytechnic students aged 16 and above from specific countries.",
+    "highlights": [
+      "Beginner-friendly format encouraging participation from all skill levels",
+      "Team-based event fostering collaboration and real-world problem-solving",
+      "Workshops and industry mentorship to support project development",
+      "Non-cash prizes for top solutions addressing social issues"
+    ],
+    "application_deadline": "2026-10-21",
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "singapore",
+      "hackathon",
+      "student-run",
+      "beginner-friendly",
+      "tech"
+    ],
+    "url": "https://hackit-2026.devpost.com/",
+    "id": "7001a9c477c4",
+    "last_checked": "2026-09-14T14:44:23.845961+00:00"
+  },
+  {
+    "name": "AWS Communication Developer Services (CDS) Agentic AI Partner Hackathon",
+    "organizer": "Amazon Web Services",
+    "companies": [
+      "Devpost",
+      "Meta"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Multi-week (1-3mo)",
+    "scope": "Global",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "status": "upcoming",
+    "date": "TBD",
+    "location": "Online",
+    "prize": "$40,000 in cash prizes spread across multiple winners.",
+    "summary": "The AWS CDS Agentic AI Partner Hackathon invites participants to innovate by building cutting-edge conversational solutions using AWS Communication Developer Services. With a focus on real-world applications and scalability, teams will have the chance to work closely with AWS specialists and gain marketing support. The hackathon emphasizes creativity in solving customer engagement challenges, offering substantial cash prizes for high-impact projects.",
+    "eligibility": "Participants must be above the legal age of majority in their country and can include professionals and post-graduates only.",
+    "highlights": [
+      "Compete for a share of $40,000 in prizes.",
+      "Direct access to AWS experts for mentorship.",
+      "Opportunity to create a joint case study with AWS.",
+      "Teams can submit projects tied to real customer use cases."
+    ],
+    "application_deadline": "2026-10-28",
+    "difficulty": "Intermediate",
+    "cost": "Paid",
+    "prize_value_usd": 40000,
+    "beginner_friendly": false,
+    "application_url": null,
+    "tags": [
+      "aws",
+      "hackathon",
+      "ai",
+      "technology",
+      "innovation"
+    ],
+    "url": "https://aws-cds-partner.devpost.com/",
+    "id": "53e07e2357f5",
+    "last_checked": "2026-09-14T14:44:28.331101+00:00"
+  },
+  {
+    "name": "Nuclear Power Codes & Standards Across Major Nuclear Countries",
+    "organizer": "SGInnovate",
+    "companies": [
+      "HY",
+      "Apollo+"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Regional (Asia)",
+    "domains": [
+      "Sciences (STEM)",
+      "Business / Economics"
+    ],
+    "fields": [
+      "Sustainability"
+    ],
+    "status": "upcoming",
+    "date": "28-29 September 2026",
+    "location": "Kuala Lumpur, Singapore",
+    "prize": "No prize associated with this course.",
+    "summary": "This two-day course is designed to equip participants with knowledge about international nuclear power codes and standards. It emphasizes the importance of adhering to safety and regulatory frameworks essential for entering the nuclear sector. Participants will learn about major international standards and their implications for design, manufacturing, and quality assurance. This program is suitable for government regulators, engineering firms, and certification bodies looking to deepen their understanding of the nuclear landscape.",
+    "eligibility": "This course is intended for regulators, engineering firms, certification bodies, and infrastructure owners interested in the nuclear power sector.",
+    "highlights": [
+      "Deep dive into international nuclear standards.",
+      "Focus on safety, design integrity, and compliance.",
+      "Networking opportunities with industry experts.",
+      "Tailored for professionals across various sectors."
+    ],
+    "application_deadline": null,
+    "difficulty": "Intermediate",
+    "cost": "Paid",
+    "prize_value_usd": null,
+    "beginner_friendly": false,
+    "application_url": null,
+    "tags": [
+      "nuclear",
+      "energy",
+      "standards",
+      "ASEAN",
+      "professional-development",
+      "training"
+    ],
+    "url": "https://www.sginnovate.com/event/nuclear-power-codes-standards-across-major-nuclear-countries",
+    "id": "2b1b1cd171dc",
+    "last_checked": "2026-09-14T14:44:36.744886+00:00"
   }
 ]
