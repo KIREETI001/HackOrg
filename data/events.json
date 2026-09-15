@@ -16485,5 +16485,286 @@
     "url": "https://www.sginnovate.com/event/nuclear-power-codes-standards-across-major-nuclear-countries",
     "id": "2b1b1cd171dc",
     "last_checked": "2026-09-14T14:44:36.744886+00:00"
+  },
+  {
+    "name": "Databricks AI Social Impact (DAISI) Challenge - Singapore",
+    "organizer": "Databricks",
+    "companies": [
+      "Databricks"
+    ],
+    "level": "Tertiary",
+    "timeline": "Multi-week (1-3mo)",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "Social Good"
+    ],
+    "status": "upcoming",
+    "date": "16 September – 7 October 2026",
+    "location": "Singapore, online",
+    "prize": "Total prize value worth up to USD 24,500 in non-cash prizes.",
+    "summary": "The Databricks AI Social Impact (DAISI) Challenge empowers students from Singapore's Institutes of Higher Learning to tackle real societal issues using national open data. Participants will receive mentorship from Databricks engineers while building data-driven solutions on Databricks' platform. This challenge focuses on critical problems like climate resilience and community healthcare, ensuring that students work on projects that create meaningful social impact.",
+    "eligibility": "Open to teams of 1 to 4 students from Singapore Institutes of Higher Learning.",
+    "highlights": [
+      "Teams can work on real societal problems with national open data.",
+      "Participants receive mentorship from Databricks engineers.",
+      "Prizes include up to USD 24,500 and additional training opportunities.",
+      "Projects must demonstrate social impact and technical feasibility."
+    ],
+    "application_deadline": "2026-10-06",
+    "difficulty": "Intermediate",
+    "cost": "Free",
+    "prize_value_usd": 24500,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "singapore",
+      "ai",
+      "student-run",
+      "social impact",
+      "free"
+    ],
+    "url": "https://daisisg26.devpost.com/",
+    "id": "b8cfe18c60b4",
+    "last_checked": "2026-09-15T13:08:50.700971+00:00"
+  },
+  {
+    "name": "Global Innovation Build Challenge V2",
+    "organizer": "Devpost",
+    "companies": [
+      "NordVPN",
+      "Saily",
+      "CodeCrafters",
+      "Art of Problem Solving",
+      "MeDo",
+      "Starbit",
+      "Adaptation Labs",
+      "Featherless AI"
+    ],
+    "level": "Pre-University",
+    "timeline": "Multi-week (1-3mo)",
+    "scope": "Global",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "Healthcare",
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "11 July - 1 October 2026",
+    "location": "Online",
+    "prize": "Over $156,525 in various non-cash prizes and credits.",
+    "summary": "The Global Innovation Build Challenge V2 is a unique online hackathon focused on foundational language models and applied AI, aimed specifically at students aged 13 and up. This event encourages participants to innovate in three key tracks: Technical development of LLMs, applied solutions for healthcare and finance, and open invention. With a growing participant base and sponsors, the challenge promotes collaboration and creativity in the tech field.",
+    "eligibility": "Participants must be students aged 13 and older, with no professional companies allowed.",
+    "highlights": [
+      "Open to students worldwide, fostering global collaboration.",
+      "Focus on three innovative tracks tailored for creativity and technical skill.",
+      "Prizes include significant product credits and industry recognition.",
+      "No cash prizes, emphasizing educational benefits and experience."
+    ],
+    "application_deadline": "2026-10-01",
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": 156525,
+    "beginner_friendly": true,
+    "application_url": "https://gibc-v2.devpost.com/",
+    "tags": [
+      "hackathon",
+      "ai",
+      "students",
+      "online",
+      "global",
+      "innovation"
+    ],
+    "url": "https://gibc-v2.devpost.com/",
+    "id": "2a3f0a131cb7",
+    "last_checked": "2026-09-15T13:08:55.966578+00:00"
+  },
+  {
+    "name": "LexHack 2026",
+    "organizer": "LexHack",
+    "companies": [],
+    "level": "Tertiary",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Global",
+    "domains": [
+      "Computer Science",
+      "Business / Economics"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "Civic Technology"
+    ],
+    "status": "upcoming",
+    "date": "4-6 October 2026",
+    "location": "Virtual",
+    "prize": "$59,560 in cash prizes",
+    "summary": "LexHack 2026 aims to empower students worldwide to develop AI-based solutions for the legal sector and civic tech. Participants will engage in a multi-day hackathon, addressing critical issues in legal access, AI safety, and digital rights. Collaboration is encouraged across all skill levels, making it an inclusive platform for budding innovators. The event also includes a mentorship fellowship for promising projects, enhancing the support provided to participants post-hackathon.",
+    "eligibility": "Students above the legal age of majority in their country of residence are eligible to participate.",
+    "highlights": [
+      "Focus on real-world AI solutions for legal technology.",
+      "Inclusive environment welcoming all skill levels and backgrounds.",
+      "Opportunities for mentorship and deployment support post-hackathon.",
+      "Substantial prize pool highlighting innovation in civic and legal tech."
+    ],
+    "application_deadline": "2026-09-27",
+    "difficulty": "Beginner-Friendly",
+    "cost": "Paid",
+    "prize_value_usd": 59560,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "hackathon",
+      "legaltech",
+      "AI",
+      "global",
+      "student-friendly"
+    ],
+    "url": "https://lexhack-2026.devpost.com/",
+    "id": "bc1d88b96537",
+    "last_checked": "2026-09-15T13:09:00.652921+00:00"
+  },
+  {
+    "name": "BunnieX Hackathon",
+    "organizer": "BunnieX",
+    "companies": [],
+    "level": "Tertiary",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Global",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "status": "upcoming",
+    "date": "22 September 2026",
+    "location": "Online",
+    "prize": "The winning team receives $300 worth of AI credits and access to a premium investing course.",
+    "summary": "The BunnieX Hackathon invites students and tech enthusiasts to develop innovative AI solutions aimed at real-world problems. Participants will have the opportunity to work creatively in a collaborative environment, utilizing modern AI technologies across various domains. Projects can range from AI-powered applications to sustainability initiatives, making this hackathon a unique platform for impactful innovation.",
+    "eligibility": "Participants must be students and of legal age in their country of residence.",
+    "highlights": [
+      "Focus on building AI solutions that tackle real-world issues.",
+      "Encourages creativity and collaboration among participants.",
+      "Rewards include AI credits and educational courses.",
+      "Open to participants from all countries, fostering a global competitive spirit."
+    ],
+    "application_deadline": "2026-09-22",
+    "difficulty": "Intermediate",
+    "cost": "Free",
+    "prize_value_usd": 300,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "hackathon",
+      "ai",
+      "innovation",
+      "online",
+      "student"
+    ],
+    "url": "https://buuniex-hackathon.devpost.com/",
+    "id": "9c4cf518af6d",
+    "last_checked": "2026-09-15T13:09:06.160613+00:00"
+  },
+  {
+    "name": "Reward Hacking Hits Production",
+    "organizer": "SGInnovate",
+    "companies": [
+      "Cyber Security Agency of Singapore",
+      "Snyk"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "Cybersecurity",
+      "AI / Machine Learning"
+    ],
+    "status": "upcoming",
+    "date": "18 September 2026",
+    "location": "Kuala Lumpur, Singapore, 32 Carpenter Street, 059911",
+    "prize": null,
+    "summary": "Reward Hacking Hits Production focuses on collaborative learning and problem-solving in cybersecurity. This event features a briefing on important incidents and open-space discussions aimed at unpacking cybersecurity challenges. Attendees will network with experts while gaining insights into real-world issues and preparing for future incidents.",
+    "eligibility": "Open to all professionals interested in cybersecurity and AI.",
+    "highlights": [
+      "Engaging panel discussions with industry experts.",
+      "Networking opportunities with platform engineers and CyberOps.",
+      "Hands-on open-space format encourages sharing and collaboration.",
+      "Focus on practical insights from real-world incidents."
+    ],
+    "application_deadline": null,
+    "difficulty": "Intermediate",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "singapore",
+      "cybersecurity",
+      "ai",
+      "networking",
+      "open-event"
+    ],
+    "url": "https://www.sginnovate.com/event/reward-hacking-hits-production",
+    "id": "6b51b15fe1da",
+    "last_checked": "2026-09-15T13:09:11.900068+00:00"
+  },
+  {
+    "name": "Learn Series: Do You Trust Your AI?",
+    "organizer": "SGInnovate",
+    "companies": [
+      "Google",
+      "National Institute of Informatics"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "status": "upcoming",
+    "date": "28 September 2026",
+    "location": "Kuala Lumpur, Singapore, 32 Carpenter Street, 059911",
+    "prize": null,
+    "summary": "This interactive session by SGInnovate addresses key concerns about trust in AI systems, particularly large language models. Participants will explore the intricacies of AI evaluations, including reliability and automation decision-making. The event will feature experienced speakers from Google and the National Institute of Informatics, providing a valuable platform for discussions on AI safety and user trust. Attendees will have an opportunity for direct engagement and networking.",
+    "eligibility": "Open to all interested individuals looking to understand AI better.",
+    "highlights": [
+      "Interactive discussions on large language model behaviors",
+      "Expert insights from leading AI professionals",
+      "Networking opportunities with industry peers",
+      "Practical strategies for evaluating AI trustworthiness"
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "ai",
+      "sginnovate",
+      "local",
+      "trust",
+      "beginner-friendly"
+    ],
+    "url": "https://www.sginnovate.com/event/learn-series-do-you-trust-your-ai",
+    "id": "dd3d5fca720b",
+    "last_checked": "2026-09-15T13:09:18.225379+00:00"
   }
 ]
