@@ -16766,5 +16766,92 @@
     "url": "https://www.sginnovate.com/event/learn-series-do-you-trust-your-ai",
     "id": "dd3d5fca720b",
     "last_checked": "2026-09-15T13:09:18.225379+00:00"
+  },
+  {
+    "name": "Alpaca x Conviction Trading Hackathon",
+    "organizer": "Alpaca",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Global",
+    "domains": [
+      "Business / Economics",
+      "Computer Science"
+    ],
+    "fields": [
+      "FinTech",
+      "AI / Machine Learning"
+    ],
+    "status": "upcoming",
+    "date": "20 September 2026",
+    "location": "Public, Frontier Tower",
+    "prize": "Compete for $2,000 in cash prizes.",
+    "summary": "The Alpaca x Conviction Trading Hackathon invites participants to create and backtest innovative trading strategies using market insights and technical indicators. Ideal for fintech enthusiasts and traders, the event emphasizes creativity and practical application over complexity in strategy building. Participants are encouraged to bring their market ideas to fruition while competing for cash prizes and potential job opportunities.",
+    "eligibility": "Open to anyone above the legal age of majority in their country of residence.",
+    "highlights": [
+      "Compete for $2,000 in cash prizes.",
+      "Hands-on experience creating testable trading strategies.",
+      "Potential job opportunities with event organizers.",
+      "Accessible to participants from all countries, excluding standard exceptions."
+    ],
+    "application_deadline": null,
+    "difficulty": "Intermediate",
+    "cost": "Free",
+    "prize_value_usd": 2000,
+    "beginner_friendly": true,
+    "application_url": "https://luma.com/n86yufdi",
+    "tags": [
+      "fintech",
+      "hackathon",
+      "trading",
+      "AI",
+      "global",
+      "professionals"
+    ],
+    "url": "https://conviction-trading-hack.devpost.com/",
+    "id": "0f378dd42702",
+    "last_checked": "2026-09-16T13:08:46.151528+00:00"
+  },
+  {
+    "name": "NBS Knowledge Lab - AI & the Future of Global Trade",
+    "organizer": "SGInnovate",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Global",
+    "domains": [
+      "Business / Economics",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "status": "upcoming",
+    "date": "29 September 2026",
+    "location": "Kuala Lumpur, Singapore, Online",
+    "prize": null,
+    "summary": "The NBS Knowledge Lab event focuses on the intersection of AI technology and global trade challenges. It features discussions led by industry experts who emphasize the complexities of trade compliance and the potential of AI to resolve these issues. This virtual gathering aims to provide powerful insights and foster conversations on how businesses in Asia can leverage emerging technologies for competitive advantage.",
+    "eligibility": "Open to anyone interested in the impact of AI on global trade and business.",
+    "highlights": [
+      "Engage with industry leaders and academics",
+      "Explore real-world applications of AI in trade",
+      "Participate in an interactive Q&A session",
+      "Gain insights into optimizing trade processes"
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "ai",
+      "global trade",
+      "business",
+      "online event"
+    ],
+    "url": "https://www.sginnovate.com/event/nbs-knowledge-lab-ai-future-global-trade",
+    "id": "79b4590e1eff",
+    "last_checked": "2026-09-16T13:08:51.953276+00:00"
   }
 ]
