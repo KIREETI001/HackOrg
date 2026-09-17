@@ -16853,5 +16853,94 @@
     "url": "https://www.sginnovate.com/event/nbs-knowledge-lab-ai-future-global-trade",
     "id": "79b4590e1eff",
     "last_checked": "2026-09-16T13:08:51.953276+00:00"
+  },
+  {
+    "name": "Planet Resilience: Innovation for Sustainable Impact Hackathon",
+    "organizer": "Singapore University of Social Sciences",
+    "companies": [
+      "UOB"
+    ],
+    "level": "Tertiary",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Sciences (STEM)",
+      "Business / Economics"
+    ],
+    "fields": [
+      "Sustainability"
+    ],
+    "status": "upcoming",
+    "date": "28 September – 2 October 2026",
+    "location": "Singapore, Singapore",
+    "prize": "$1,700 in cash prizes for the top 3 teams",
+    "summary": "The Planet Resilience Hackathon provides a unique platform for college students to tackle real-world sustainability challenges. Attendees will work in interdisciplinary teams, drawing insights from data to propose scalable solutions. Mentorship from industry experts will enhance participants' innovation and problem-solving skills, making the event both competitive and educational.",
+    "eligibility": "Current full-time and part-time students of SUSS above the legal age in their country of residence.",
+    "highlights": [
+      "Focus on real-world sustainability challenges",
+      "Interdisciplinary team collaboration",
+      "Mentorship from industry experts",
+      "Fast-track consideration for the Venture Builder Programme"
+    ],
+    "application_deadline": null,
+    "difficulty": "Intermediate",
+    "cost": "Free",
+    "prize_value_usd": 1700,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "sustainability",
+      "hackathon",
+      "Singapore",
+      "students",
+      "innovation"
+    ],
+    "url": "https://uob-suss-planet-resilience.devpost.com/",
+    "id": "0059dc996f00",
+    "last_checked": "2026-09-17T13:03:23.111977+00:00"
+  },
+  {
+    "name": "FusionX:APAC 2026",
+    "organizer": "SGInnovate",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Regional (Asia)",
+    "domains": [
+      "Sciences (STEM)",
+      "Business / Economics"
+    ],
+    "fields": [
+      "Sustainability",
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "30 September - 2 October 2026",
+    "location": "Kuala Lumpur, Singapore, 32 Carpenter Street, 059911",
+    "prize": "N/A",
+    "summary": "FusionX:APAC 2026 is a premier event that unites various stakeholders to explore advancements in fusion technology and its applications. Over three days, participants will engage in a fusion school, panel discussions, and networking opportunities with industry leaders. This event stands out by bridging public and private partnerships to foster innovation in the Asia-Pacific region, focusing on sustainable and commercial power generation solutions.",
+    "eligibility": "Open to all stakeholders interested in fusion technology and its commercial applications.",
+    "highlights": [
+      "Intensive one-day 'Fusion School' for foundational learning.",
+      "Panel discussions featuring experts from diverse sectors.",
+      "Exclusive networking opportunities with industry leaders.",
+      "Focus on sustainable and innovative fusion-derived technologies."
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Varies",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "fusion",
+      "technology",
+      "networking",
+      "sustainability",
+      "asia"
+    ],
+    "url": "https://www.sginnovate.com/event/fusionxapac-2026",
+    "id": "5197f3a0e319",
+    "last_checked": "2026-09-17T13:03:29.772107+00:00"
   }
 ]
