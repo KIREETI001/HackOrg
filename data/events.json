@@ -16942,5 +16942,92 @@
     "url": "https://www.sginnovate.com/event/fusionxapac-2026",
     "id": "5197f3a0e319",
     "last_checked": "2026-09-17T13:03:29.772107+00:00"
+  },
+  {
+    "name": "Learning Circle: Notion 101",
+    "organizer": "SGInnovate",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Humanities",
+      "Business / Economics"
+    ],
+    "fields": [
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "26 September 2026",
+    "location": "Kuala Lumpur, Singapore, 32 Carpenter Street, 059911",
+    "prize": "Participants will build a personalized Career HQ workspace.",
+    "summary": "The Learning Circle: Notion 101 is a hands-on workshop that equips participants with skills to manage their career plans effectively. Attendees will leave with their own Career HQ, including tools like a job application tracker and skills log. The event encourages interaction in small groups and uses AI for project enhancement, making it suitable for anyone interested in personal development.",
+    "eligibility": "No prior experience with Notion or AI is required to join.",
+    "highlights": [
+      "Hands-on learning experience in a small group setting.",
+      "No prior experience required, making it accessible to everyone.",
+      "Utilizes AI to enhance personal workspace creation.",
+      "Focus on practical tools for career planning."
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "singapore",
+      "notion",
+      "workshop",
+      "career-development",
+      "beginner-friendly"
+    ],
+    "url": "https://www.sginnovate.com/event/learning-circle-notion-101",
+    "id": "33daf507de84",
+    "last_checked": "2026-09-18T12:42:31.260637+00:00"
+  },
+  {
+    "name": "Build Faster with AI",
+    "organizer": "Founder Institute",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Business / Economics",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "Healthcare"
+    ],
+    "status": "upcoming",
+    "date": "28 September 2026",
+    "location": "Online",
+    "prize": "N/A",
+    "summary": "The Build Faster with AI session is designed for aspiring founders to explore how AI can significantly enhance various stages of the startup process. Participants will engage in discussions about integrating AI into daily workflows and distinguishing between tasks suited for AI and those that should remain human-led. This practical session aims to create a connection within the community of entrepreneurs and support early-stage ventures in leveraging AI for growth.",
+    "eligibility": "Aspiring founders and early-stage entrepreneurs are encouraged to join.",
+    "highlights": [
+      "Practical insights on using AI in startups",
+      "Connect with mentors and industry experts",
+      "Opportunity for networking with peers",
+      "Learn about the Founder Institute's accelerator program"
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "singapore",
+      "ai",
+      "startup",
+      "entrepreneurship",
+      "free"
+    ],
+    "url": "https://www.sginnovate.com/event/build-faster-ai",
+    "id": "79a4ae89ba8d",
+    "last_checked": "2026-09-18T12:42:37.939563+00:00"
   }
 ]
