@@ -17029,5 +17029,149 @@
     "url": "https://www.sginnovate.com/event/build-faster-ai",
     "id": "79a4ae89ba8d",
     "last_checked": "2026-09-18T12:42:37.939563+00:00"
+  },
+  {
+    "name": "MLAI Hackathon 2026",
+    "organizer": "Mạng lưới AI",
+    "companies": [
+      "OpenAI"
+    ],
+    "level": "Tertiary",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "status": "upcoming",
+    "date": "16-17 October 2026",
+    "location": "TP.HCM, Đại học Bách Khoa TP.HCM",
+    "prize": "Multiple non-cash prizes including cash awards and OpenAI API credits.",
+    "summary": "The MLAI Hackathon 2026 is a prominent AI programming contest aimed at Vietnamese students, encouraging innovative AI solutions across various sectors. Organized by the AI Network in collaboration with HCMUT and OpenAI, the hackathon offers a unique platform for students to apply their skills in real-world applications. Participants can register in teams of 1 to 4, competing for prizes that include cash and resources from OpenAI.",
+    "eligibility": "Participants must be students or alumni from specific affiliated universities within Vietnam.",
+    "highlights": [
+      "Focus on practical AI solutions in health, education, finance, and smart cities.",
+      "Collaboration with industry leaders like OpenAI.",
+      "Multiple prizes including cash and OpenAI credits.",
+      "Encourages teamwork and innovation among students."
+    ],
+    "application_deadline": "2026-10-17",
+    "difficulty": "Intermediate",
+    "cost": "Free",
+    "prize_value_usd": 5000,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "hackathon",
+      "ai",
+      "vietnam",
+      "student-run",
+      "intermediate"
+    ],
+    "url": "https://mlai-hackathon.devpost.com/",
+    "id": "c4c9023d2fdf",
+    "last_checked": "2026-09-20T12:52:23.993568+00:00"
+  },
+  {
+    "name": "Hackyard Build 2026",
+    "organizer": "Hackyard Technologies Pvt limited",
+    "companies": [
+      "Apple",
+      "Google",
+      "Outlook",
+      "IIT Guwahati"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Regional (Asia)",
+    "domains": [
+      "Computer Science",
+      "Business / Economics",
+      "Humanities"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "Web3 / Blockchain",
+      "FinTech",
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "24–25 October 2026",
+    "location": "IIT Guwahati",
+    "prize": "7 non-cash prizes including Best Build and Best Use of AI.",
+    "summary": "Hackyard Build 2026 is a builder-focused hackathon that encourages participants to create working prototypes. With no fixed theme, developers and designers can tackle various real-world problems. It's an inclusive space where beginners and experienced individuals alike can collaborate and innovate over a 24-hour period.",
+    "eligibility": "Participants must be of legal age and reside in eligible countries.",
+    "highlights": [
+      "Builder-focused hackathon encouraging practical solutions.",
+      "No prior experience necessary; beginners welcome.",
+      "Collaboration is key, fostering teamwork and skill-sharing.",
+      "Diverse sponsorship and prize opportunities enhance participant experience."
+    ],
+    "application_deadline": "2026-10-10",
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "hackathon",
+      "builder-focused",
+      "IIT Guwahati",
+      "AI",
+      "beginner-friendly"
+    ],
+    "url": "https://hackyardbuild2026.devpost.com/",
+    "id": "14c937257c5c",
+    "last_checked": "2026-09-20T12:52:31.612335+00:00"
+  },
+  {
+    "name": "Arm + ExecuTorch: Edge AI Challenge",
+    "organizer": "Arm",
+    "companies": [
+      "Arm",
+      "Meta",
+      "SFSU"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Global",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "status": "upcoming",
+    "date": "16-17 October 2026",
+    "location": "San Francisco, State University",
+    "prize": "Top three teams will receive non-cash prizes, including Ray-Ban Meta AI Glasses.",
+    "summary": "The Arm + ExecuTorch: Edge AI Challenge invites participants to explore the potential of AI at the edge through an intense two-day hackathon. With hands-on support from Arm and Meta experts, teams will utilize the Alif Ensemble E8 development kit to build innovative applications that process data locally without relying on cloud infrastructure. This event emphasizes collaboration, creativity, and the application of cutting-edge AI technologies in developing real-world solutions.",
+    "eligibility": "Participants must be above the legal age of majority in their country and form teams of 2 to 5 members.",
+    "highlights": [
+      "Hands-on experience with the Alif Ensemble E8 development kit.",
+      "Collaboration opportunities with experts from Arm and Meta.",
+      "Focus on building applications that run locally on devices.",
+      "Non-cash prizes for top teams and an all-student team prize."
+    ],
+    "application_deadline": null,
+    "difficulty": "Intermediate",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "ai",
+      "hackathon",
+      "edge-computing",
+      "intermediate",
+      "global"
+    ],
+    "url": "https://arm-executorch.devpost.com/",
+    "id": "d4bf2162c8e0",
+    "last_checked": "2026-09-20T12:52:36.223351+00:00"
   }
 ]
