@@ -17215,5 +17215,99 @@
     "url": "https://www.sginnovate.com/event/cost-capital-raising-smart-and-strategic",
     "id": "ef274e73df75",
     "last_checked": "2026-09-21T14:51:38.456122+00:00"
+  },
+  {
+    "name": "Build With AI: Basics",
+    "organizer": "Devpost",
+    "companies": [
+      "Apple",
+      "Google"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Multi-week (1-3mo)",
+    "scope": "Global",
+    "domains": [
+      "Computer Science",
+      "Humanities"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "status": "upcoming",
+    "date": "26 October 2026",
+    "location": "Online",
+    "prize": "$2,500 in cash prizes for the top submissions.",
+    "summary": "Build With AI: Basics is a unique hackathon focused on learning AI best practices by developing a proof-of-concept for a project. The event encourages beginners to gain hands-on experience in creating a simple application from scratch using AI tools. Participants benefit from live build sessions, office hours, and community support, making it an ideal environment for those new to AI programming.",
+    "eligibility": "Participants must be ages 18 and older from all countries, with some standard exceptions.",
+    "highlights": [
+      "Focused on hands-on learning and skill development in AI.",
+      "Live sessions and community support to enhance the learning experience.",
+      "Opportunities to win part of a $2,500 prize pool.",
+      "Suitable for recent entrants to tech looking to build their first project."
+    ],
+    "application_deadline": "2026-10-26",
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": 2500,
+    "beginner_friendly": true,
+    "application_url": "https://learn-ai-basics.devpost.com/",
+    "tags": [
+      "ai",
+      "hackathon",
+      "online",
+      "beginner-friendly",
+      "learning"
+    ],
+    "url": "https://learn-ai-basics.devpost.com/",
+    "id": "ac7a63e3ea62",
+    "last_checked": "2026-09-23T13:22:19.639689+00:00"
+  },
+  {
+    "name": "AI Lodge Hackathon 2026",
+    "organizer": "SMU Business Intelligence & Analytics Club",
+    "companies": [
+      "Apple",
+      "Google",
+      "Outlook"
+    ],
+    "level": "Tertiary",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Global",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "status": "upcoming",
+    "date": "19-21 October 2026",
+    "location": "Online",
+    "prize": "5 non-cash prizes awarded in multiple categories.",
+    "summary": "The AI Lodge Hackathon invites participants to transform their AI knowledge into innovative projects. With a focus on creativity, the event encourages participants to explore practical applications of AI across various domains. Competitive tracks challenge participants to solve real-world problems while fostering collaboration and learning.",
+    "eligibility": "Open to college students who are above the legal age of majority in their country of residence.",
+    "highlights": [
+      "Focus on solving everyday challenges with AI.",
+      "Multiple project tracks to choose from.",
+      "Encouragement for beginner participants.",
+      "Opportunities to win non-cash prizes."
+    ],
+    "application_deadline": "2026-10-19",
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "ai",
+      "hackathon",
+      "student-run",
+      "global",
+      "beginner-friendly",
+      "online"
+    ],
+    "url": "https://ai-lodge-hackathon-2026.devpost.com/",
+    "id": "3079df47f7e8",
+    "last_checked": "2026-09-23T13:22:27.007742+00:00"
   }
 ]
