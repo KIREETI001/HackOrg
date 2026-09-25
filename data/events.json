@@ -17355,5 +17355,186 @@
     "url": "https://www.sginnovate.com/event/beyond-tech-human-side-building-sustainable-ventures",
     "id": "02345152e8cf",
     "last_checked": "2026-09-24T13:13:06.308875+00:00"
+  },
+  {
+    "name": "Business + AI Hackathon",
+    "organizer": "Stevens Institute of Technology",
+    "companies": [],
+    "level": "Tertiary",
+    "timeline": "Single-day",
+    "scope": "Local (USA)",
+    "domains": [
+      "Computer Science",
+      "Business / Economics"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "status": "completed",
+    "date": "25 September 2026",
+    "location": "Hoboken, NJ, Tech Flex, University Center Complex",
+    "prize": "A non-cash prize will be awarded to the winning team.",
+    "summary": "The Business + AI Hackathon invites student teams from various disciplines to tackle a real business challenge by designing AI-enabled tools and applications. The focus is on the practical value of the solutions rather than the technical implementation. Participants can register individually and will be paired into teams, ensuring inclusivity for those without a technical background.",
+    "eligibility": "Undergraduate and graduate students from any school or major can participate.",
+    "highlights": [
+      "Real business challenge presented by a partner company",
+      "No technical background required for participation",
+      "Teams can be registered individually or assembled on-site",
+      "Non-cash prizes for the best solutions"
+    ],
+    "application_deadline": "2026-09-25",
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": "https://ailab.stevens.edu/hackathon",
+    "tags": [
+      "hackathon",
+      "AI",
+      "business",
+      "beginner-friendly",
+      "Stevens Institute"
+    ],
+    "url": "https://business-ai-hackathon.devpost.com/",
+    "id": "601dae6b0ba0",
+    "last_checked": "2026-09-25T13:15:55.576396+00:00"
+  },
+  {
+    "name": "Nerdearla Vibeathon 2026",
+    "organizer": "Nerdearla",
+    "companies": [
+      "Apple",
+      "Google"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Regional (Asia)",
+    "domains": [
+      "Computer Science",
+      "Business / Economics"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "24-25 September 2026",
+    "location": "Buenos Aires, Ciudad Cultural Konex",
+    "prize": "Three non-cash prizes including a trip to Nerdearla Mexico and Macbook Air.",
+    "summary": "The Nerdearla Vibeathon 2026 invites participants to create an open-source real-time transcription solution to enhance accessibility for conferences. With an emphasis on collaboration and innovation, participants can join from Buenos Aires or virtually. The event features multiple languages and incorporates a variety of sessions, making it a unique opportunity for tech enthusiasts interested in social good.",
+    "eligibility": "Participants must be above the legal age of majority in their country of residence.",
+    "highlights": [
+      "Focus on accessibility through technology.",
+      "Open-source solutions encouraged for real-world problems.",
+      "Opportunity to collaborate with experienced mentors and peers.",
+      "Flexible participation options, either in-person or virtual."
+    ],
+    "application_deadline": "2026-09-25",
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "hackathon",
+      "open-source",
+      "accessibility",
+      "ai",
+      "regional",
+      "social-good"
+    ],
+    "url": "https://nerdearla26.devpost.com/",
+    "id": "b02b04505fd0",
+    "last_checked": "2026-09-25T13:16:00.884238+00:00"
+  },
+  {
+    "name": "Hacktoberfest Hack Day Teens Delhi",
+    "organizer": "Devpost",
+    "companies": [],
+    "level": "Pre-University",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "17 October 2026",
+    "location": "Delhi, The Grandeur By Lavanya-Moti Nagar Public",
+    "prize": "Participants can win non-cash prizes including Hacktoberfest swag and certificates.",
+    "summary": "Hacktoberfest Hack Day Teens Delhi invites young coders to collaborate on a coding challenge designed for creativity and problem-solving. This one-day event encourages participants aged 13 and above to form teams and develop innovative solutions within a defined timeframe. No prior experience is required, making it accessible for all skill levels, and promising an engaging environment for budding tech enthusiasts.",
+    "eligibility": "Open to participants aged 13 and above from all countries, excluding standard exceptions.",
+    "highlights": [
+      "Beginner-friendly event with a focus on creativity",
+      "Non-cash prizes for top projects",
+      "Promotes collaboration and teamwork",
+      "Engages young coders in real-world problem-solving"
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": "http://events.mlh.com/events/15128-hacktoberfest-hack-day-teens-delhi",
+    "tags": [
+      "hackathon",
+      "teens",
+      "coding",
+      "beginner-friendly",
+      "Delhi"
+    ],
+    "url": "https://hacktoberfest-teens.devpost.com/",
+    "id": "979a806acf1b",
+    "last_checked": "2026-09-25T13:16:07.366862+00:00"
+  },
+  {
+    "name": "SG Eco Loop Showcase",
+    "organizer": "Singapore Deep-Tech Alliance",
+    "companies": [
+      "Temasek Foundation",
+      "Lenovo"
+    ],
+    "level": "Tertiary",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Sciences (STEM)",
+      "Business / Economics"
+    ],
+    "fields": [
+      "Sustainability",
+      "AI / Machine Learning"
+    ],
+    "status": "upcoming",
+    "date": "2 October 2026",
+    "location": "Kuala Lumpur, Temasek Shophouse, 28 Orchard Rd, 238832",
+    "prize": "Prizes for Biggest Impact and Best Innovation.",
+    "summary": "The SG Eco Loop Showcase brings together over 130 students and 40 teams to present their innovative prototypes aimed at addressing plastic and food waste. This event follows a six-week program where students developed real solutions alongside industry mentors. Attendees can engage with groundbreaking ideas that aim to revolutionize waste management and consumption habits.",
+    "eligibility": "Open to all ages; families and friends are encouraged to attend.",
+    "highlights": [
+      "Showcases 40 prototypes by youth innovators.",
+      "Focuses on sustainability and waste management solutions.",
+      "Encourages community voting on innovative projects.",
+      "Involves collaboration with industry mentors."
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": "https://airtable.com/appxKGcCrGkqLk1vM/pagfnfnmQ2qgkaAVC/form",
+    "tags": [
+      "sustainability",
+      "student-run",
+      "innovation",
+      "singapore",
+      "beginner-friendly"
+    ],
+    "url": "https://www.sginnovate.com/event/sg-eco-loop-showcase-40-sustainability-prototypes-youth-innovators",
+    "id": "f53ccb58947f",
+    "last_checked": "2026-09-25T13:16:14.183299+00:00"
   }
 ]
