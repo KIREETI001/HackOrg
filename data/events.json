@@ -17669,5 +17669,190 @@
     "url": "https://www.sginnovate.com/event/tfoods-2026-protein-challenge-pitching-competition-call-start-ups-apply",
     "id": "30ffdd6285a8",
     "last_checked": "2026-09-26T12:41:16.819975+00:00"
+  },
+  {
+    "name": "Test Flight: Glasswing Ventures AI Hackathon",
+    "organizer": "Glasswing Ventures",
+    "companies": [
+      "AWS",
+      "Microsoft Azure",
+      "TensorWave"
+    ],
+    "level": "Tertiary",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "General Tech"
+    ],
+    "status": "completed",
+    "date": "26-27 September 2026",
+    "location": "Boston, 275 Newbury Street",
+    "prize": "$300K in compute credits for the winning team, plus other non-cash prizes.",
+    "summary": "The Test Flight AI Hackathon challenges participants to create enterprise-ready AI solutions over a two-day event in Boston. Teams will work intensively to develop practical, sustainable AI applications that address real business challenges. With significant compute credits on offer, this hackathon attracts ambitious technical builders looking to make a tangible impact in the AI field.",
+    "eligibility": "Participants must be of legal age in their country of residence and located in the US.",
+    "highlights": [
+      "Opportunity to win $300K in compute credits.",
+      "In-person team collaboration with engineering support.",
+      "Focus on building workable solutions rather than theoretical concepts.",
+      "Judging based on practical business cases and operational feasibility."
+    ],
+    "application_deadline": "2026-09-19",
+    "difficulty": "Intermediate",
+    "cost": "Free",
+    "prize_value_usd": 300000,
+    "beginner_friendly": false,
+    "application_url": "https://luma.com/gzpv85yq",
+    "tags": [
+      "ai",
+      "hackathon",
+      "boston",
+      "enterprise",
+      "tech",
+      "intermediate"
+    ],
+    "url": "https://test-flight-glasswing.devpost.com/",
+    "id": "e4300eb1b0e4",
+    "last_checked": "2026-09-27T13:32:33.624706+00:00"
+  },
+  {
+    "name": "Hack Atlantic",
+    "organizer": "Hack Atlantic",
+    "companies": [
+      "Apple",
+      "Google"
+    ],
+    "level": "Tertiary",
+    "timeline": "Single-day",
+    "scope": "Local (Canada)",
+    "domains": [
+      "Computer Science",
+      "Humanities"
+    ],
+    "fields": [
+      "Web3 / Blockchain",
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "27 September 2026",
+    "location": "Fredericton, Canada",
+    "prize": "Over $CAD 979 in cash prizes and additional awards.",
+    "summary": "Hack Atlantic is Atlantic Canada's premier student-run hackathon, inviting creativity and innovation among participants. The event emphasizes beginner-friendliness, encouraging students of all skill levels to engage in technological challenges. Teams will compete for a variety of prizes, including cash and tech gadgets, fostering an inclusive atmosphere for learning and collaboration.",
+    "eligibility": "Participants must be above the legal age of majority in their country of residence.",
+    "highlights": [
+      "Largest student-run hackathon in Atlantic Canada",
+      "Open to international participants, fostering diversity",
+      "Emphasis on team collaboration and project development",
+      "Variety of prizes, including cash and electronic devices"
+    ],
+    "application_deadline": "2026-09-27",
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "hackathon",
+      "fredericton",
+      "student-run",
+      "technology",
+      "beginner-friendly"
+    ],
+    "url": "https://hack-atlantic-sep27.devpost.com/",
+    "id": "a9a7429b73e7",
+    "last_checked": "2026-09-27T13:32:39.380881+00:00"
+  },
+  {
+    "name": "Hack Atlantic",
+    "organizer": "University of New Brunswick",
+    "companies": [],
+    "level": "Tertiary",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "status": "upcoming",
+    "date": "27 September 2026",
+    "location": "University of New Brunswick, Canada",
+    "prize": "CAD 1 in cash and an additional prize to be announced.",
+    "summary": "Hack Atlantic is touted as Atlantic Canada's largest student-run hackathon. Set to take place at the University of New Brunswick, this hackathon invites student participants to meet, collaborate on projects, and showcase their innovations. The format emphasizes learning through practical engagement with technology, making it an excellent opportunity for students to enhance their skills and creativity.",
+    "eligibility": "Participation is open to students above the legal age of majority in their country of residence.",
+    "highlights": [
+      "Largest student-run hackathon in Atlantic Canada.",
+      "Opportunity to showcase projects to judges.",
+      "Encourages collaboration and innovation among students.",
+      "Welcomes a diverse set of solutions in tech-related fields."
+    ],
+    "application_deadline": "2026-09-27",
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": "https://hack-atlantic1.devpost.com/",
+    "tags": [
+      "hackathon",
+      "student-run",
+      "university",
+      "AI",
+      "Canada"
+    ],
+    "url": "https://hack-atlantic1.devpost.com/",
+    "id": "be4b95304e82",
+    "last_checked": "2026-09-27T13:32:44.490421+00:00"
+  },
+  {
+    "name": "Ascendance Foundry's Hackathon",
+    "organizer": "Ascendance Foundry",
+    "companies": [
+      "University of Waterloo"
+    ],
+    "level": "Tertiary",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Business / Economics"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "General Tech"
+    ],
+    "status": "completed",
+    "date": "26-27 September 2026",
+    "location": "Waterloo, QNC Building",
+    "prize": "CAD 2,000 in cash plus additional prizes.",
+    "summary": "Ascendance Foundry's Hackathon invites participants to develop nation-building projects that provide tangible value to Canada. Designed as a hybrid of a hackathon and business pitch, teams are challenged to address real industry problems during the event. The innovative structure includes a panel for industry insights and an open demo for public engagement, making it a distinctive experience for participants.",
+    "eligibility": "Participants must be ages 17 and older and require an invitation from a Partner Club or Ascendance Foundry.",
+    "highlights": [
+      "Unique hybrid format combining hackathon and business pitch.",
+      "Focus on economic growth and national problem-solving.",
+      "Insights from industry professionals during panel discussions.",
+      "Opportunity for top teams to present ideas to real clients."
+    ],
+    "application_deadline": "2026-09-27",
+    "difficulty": "Intermediate",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": false,
+    "application_url": null,
+    "tags": [
+      "canada",
+      "ai",
+      "student-run",
+      "hackathon",
+      "business pitch"
+    ],
+    "url": "https://ascendance-foundry-s-hackathon.devpost.com/",
+    "id": "c802f58dc140",
+    "last_checked": "2026-09-27T13:32:50.265287+00:00"
   }
 ]
