@@ -17854,5 +17854,93 @@
     "url": "https://ascendance-foundry-s-hackathon.devpost.com/",
     "id": "c802f58dc140",
     "last_checked": "2026-09-27T13:32:50.265287+00:00"
+  },
+  {
+    "name": "TFoodS 2026: Tech and Alternative Protein Fair",
+    "organizer": "TUMCREATE",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Sciences (STEM)",
+      "Business / Economics"
+    ],
+    "fields": [
+      "Sustainability",
+      "Healthcare",
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "6-7 October 2026",
+    "location": "Singapore, Nanyang Executive Centre",
+    "prize": "No prize is mentioned as this is an exhibition event.",
+    "summary": "TFoodS 2026 serves as a pivotal platform where academia, industry, and public agencies converge to advance food science and technology. This event focuses on alternative protein innovations and promises to showcase the latest research in food chemistry, health, and sustainability. It's a unique opportunity for startups to exhibit their innovations and connect with experts in food tech and agritech.",
+    "eligibility": "Startups and companies interested in showcasing technology related to food science and sustainable practices are encouraged to participate.",
+    "highlights": [
+      "Annual event dedicated to food science and technology.",
+      "Focus on alternative proteins and sustainable food solutions.",
+      "Brings together experts from various fields for interdisciplinary dialogue.",
+      "Opportunities for startups to demo and promote innovations."
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Varies",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "singapore",
+      "foodtech",
+      "sustainability",
+      "alternative protein",
+      "exhibition"
+    ],
+    "url": "https://www.sginnovate.com/event/tfoods-2026-tech-and-alternative-protein-fair-calling-exhibitors",
+    "id": "57f87d0f914e",
+    "last_checked": "2026-09-28T16:27:48.194174+00:00"
+  },
+  {
+    "name": "SHELLGym",
+    "organizer": "SGInnovate",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "Cybersecurity"
+    ],
+    "status": "upcoming",
+    "date": "10 October 2026",
+    "location": "Kuala Lumpur, i3 building, 21 Heng Mui Keng Ter, NUS Enterprise, 119613",
+    "prize": "No prizes are mentioned for participation.",
+    "summary": "SHELLGym is a practical cybersecurity workout aimed at individuals looking to enhance their skills through hands-on activities. Participants can enjoy a flexible environment to work on personal projects or collaborate with others. The focus is on red teaming and sysadmin techniques, fostering both the growth of practical skills and an engaging community experience.",
+    "eligibility": "Open to anyone interested in cybersecurity, regardless of experience level.",
+    "highlights": [
+      "Hands-on cybersecurity practice.",
+      "Flexible attendance allows for personalized schedule.",
+      "Focus on red teaming and practical skills.",
+      "Community involvement and networking opportunities."
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "cybersecurity",
+      "workshop",
+      "singapore",
+      "hands-on",
+      "community"
+    ],
+    "url": "https://www.sginnovate.com/event/shellgym-2",
+    "id": "90eac1c0a696",
+    "last_checked": "2026-09-28T16:27:54.175416+00:00"
   }
 ]
