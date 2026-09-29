@@ -17942,5 +17942,147 @@
     "url": "https://www.sginnovate.com/event/shellgym-2",
     "id": "90eac1c0a696",
     "last_checked": "2026-09-28T16:27:54.175416+00:00"
+  },
+  {
+    "name": "AI Security Laboratory: Hands-On + Full-Stack",
+    "organizer": "SGInnovate",
+    "companies": [
+      "Oracle",
+      "Adobe",
+      "ESET",
+      "ING",
+      "Red Hat",
+      "Trend Micro",
+      "Philips"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)",
+      "Business / Economics"
+    ],
+    "fields": [
+      "Cybersecurity",
+      "AI / Machine Learning"
+    ],
+    "status": "upcoming",
+    "date": "13-14 October 2026",
+    "location": "Online",
+    "prize": "Participants gain lifetime lab access to continue practicing the skills learned.",
+    "summary": "The AI Security Laboratory training is a unique hands-on experience designed for professionals interested in modern AI security. Participants will explore both offensive AI security tactics and defensive programming practices in a comprehensive full-stack format. Accessing labs and exercises beyond the training ensures practical applications can be continued, making this program exceptionally beneficial for long-term learning.",
+    "eligibility": "Individuals with a general understanding of application security and some experience in web technologies are encouraged to join.",
+    "highlights": [
+      "Hands-on training focused on AI security techniques.",
+      "Lifetime access to the lab environment for further learning.",
+      "Led by renowned expert Dawid Czagan.",
+      "Covers practical applications of AI in everyday security tasks."
+    ],
+    "application_deadline": null,
+    "difficulty": "Intermediate",
+    "cost": "Varies",
+    "prize_value_usd": null,
+    "beginner_friendly": false,
+    "application_url": null,
+    "tags": [
+      "cybersecurity",
+      "ai",
+      "hands-on",
+      "online",
+      "sginnovate"
+    ],
+    "url": "https://www.sginnovate.com/event/sincon-trainings-ai-security-laboratory-hands-full-stack-lifetime-lab-access",
+    "id": "59d3b815e53e",
+    "last_checked": "2026-09-29T14:37:40.293211+00:00"
+  },
+  {
+    "name": "SINCON 2026 Conference",
+    "organizer": "SGInnovate",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "Cybersecurity"
+    ],
+    "status": "upcoming",
+    "date": "15-16 October 2026",
+    "location": "Singapore, voco Orchard Singapore by IHG",
+    "prize": null,
+    "summary": "The SINCON 2026 Conference is a pivotal event uniting cybersecurity leaders and enthusiasts for two days of learning and collaboration. It features keynotes, practical talks, and interactive workshops designed to address real-world cybersecurity challenges. This conference serves as a platform for professionals to exchange innovative ideas and experiences, advocating for community-driven growth in the cybersecurity field.",
+    "eligibility": "Open to all cybersecurity professionals and enthusiasts interested in the latest trends and challenges.",
+    "highlights": [
+      "Dynamic mix of inspiring keynotes and practical talks",
+      "Hands-on workshops for real-world cybersecurity issues",
+      "Networking opportunities with industry leaders",
+      "Focus on community-driven growth in cybersecurity"
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "singapore",
+      "cybersecurity",
+      "conference",
+      "networking",
+      "innovative"
+    ],
+    "url": "https://www.sginnovate.com/event/sincon-2026-conference",
+    "id": "7bc2533aab57",
+    "last_checked": "2026-09-29T14:37:46.427880+00:00"
+  },
+  {
+    "name": "PepsiCo Greenhouse Program APAC 2026: IMPACT Edition Showcase",
+    "organizer": "SGInnovate",
+    "companies": [
+      "PepsiCo"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Regional (Asia)",
+    "domains": [
+      "Sciences (STEM)",
+      "Business / Economics"
+    ],
+    "fields": [
+      "Sustainability",
+      "AgriTech",
+      "FoodTech"
+    ],
+    "status": "upcoming",
+    "date": "15 October 2026",
+    "location": "Singapore, venue to be confirmed",
+    "prize": "Attendees will network with startup founders and learn about innovative solutions in sustainability.",
+    "summary": "The PepsiCo Greenhouse Program APAC 2026 showcases startups that have explored sustainability innovation within the FMCG sector. This event represents a pivotal moment in the program's evolution, emphasizing integration over mere validation. Attendees will have the opportunity to network with entrepreneurs and gain insights into how corporates and startups can collaborate for long-term impact.",
+    "eligibility": "Open to participants interested in sustainable innovations and network opportunities.",
+    "highlights": [
+      "Showcases achievements of five alumni startups from previous cohorts.",
+      "Focus on practical deployment of sustainable solutions in the FMCG value chain.",
+      "Networking opportunities with both startups and industry professionals.",
+      "Part of the inaugural Climate Innovation Summit."
+    ],
+    "application_deadline": "2026-09-28",
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "singapore",
+      "sustainability",
+      "networking",
+      "innovation",
+      "agritech"
+    ],
+    "url": "https://www.sginnovate.com/event/pepsico-greenhouse-program-apac-2026-impact-edition-showcase",
+    "id": "f64abb202eb0",
+    "last_checked": "2026-09-29T14:37:53.969037+00:00"
   }
 ]
