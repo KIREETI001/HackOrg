@@ -18084,5 +18084,183 @@
     "url": "https://www.sginnovate.com/event/pepsico-greenhouse-program-apac-2026-impact-edition-showcase",
     "id": "f64abb202eb0",
     "last_checked": "2026-09-29T14:37:53.969037+00:00"
+  },
+  {
+    "name": "Multimodal AI Hackathon 2026",
+    "organizer": "KamandPrompt, Programming Club of IIT Mandi",
+    "companies": [
+      "Augli.ai",
+      "PurpleRain Tech",
+      "LDV Labs"
+    ],
+    "level": "Secondary",
+    "timeline": "Multi-week (1-3mo)",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "status": "upcoming",
+    "date": "1-15 October 2026",
+    "location": "Online",
+    "prize": "Total prize pool of ₹ 100,000 with several cash prizes across different tracks.",
+    "summary": "The Multimodal AI Hackathon 2026 invites students to innovate at the intersection of Generative and Agentic AI. It aims to address real-world issues in Space, BioTech, and Education, promoting technical skills alongside a deep understanding of these domains. With a focus on teamwork and creativity, this hackathon seeks to empower participants to develop impactful solutions that can transcend typical project submissions.",
+    "eligibility": "Students aged 14 and above are welcome to participate.",
+    "highlights": [
+      "Focused on real-world applications in Space, BioTech, and Education.",
+      "Open to teams of up to 4 members, including inter-college collaborations.",
+      "Completely online with no registration fees required.",
+      "Rich prize structure incentivizing innovative solutions across multiple tracks."
+    ],
+    "application_deadline": "2026-10-15",
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "hackathon",
+      "ai",
+      "students",
+      "online",
+      "innovation"
+    ],
+    "url": "https://multimodal-ai-hackathon-2026-7.devpost.com/",
+    "id": "a7933077092a",
+    "last_checked": "2026-09-30T14:37:35.827128+00:00"
+  },
+  {
+    "name": "YouCam API Skin AI & eCommerce VTO Hackathon",
+    "organizer": "Perfect Corp",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Global",
+    "domains": [
+      "Computer Science",
+      "Business / Economics"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "E-commerce"
+    ],
+    "status": "upcoming",
+    "date": "Deadline: 2 November 2026",
+    "location": "Online, Devpost",
+    "prize": "$6,000 in cash prizes",
+    "summary": "The YouCam API Skin AI & eCommerce VTO Hackathon invites participants to integrate cutting-edge YouCam APIs into innovative prototypes that reshape skincare and eCommerce. With access to advanced AI and AR infrastructure, competitors can craft solutions that address real consumer challenges. The event promises substantial rewards and opportunities for creativity and impact.",
+    "eligibility": "Participants must be above the legal age of majority in their country of residence.",
+    "highlights": [
+      "Opportunity to work with advanced AI and AR technology.",
+      "Chance to win various cash prizes and gain visibility.",
+      "Access to 1,000 free API units just for signing up.",
+      "Focus on innovative solutions to real-world beauty and fashion problems."
+    ],
+    "application_deadline": "2026-11-02T11:45:00-05:00",
+    "difficulty": "Intermediate",
+    "cost": "Free",
+    "prize_value_usd": 6000,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "hackathon",
+      "AI",
+      "ecommerce",
+      "beauty",
+      "online"
+    ],
+    "url": "https://youcam-api-skin-ai-ecommerce.devpost.com/",
+    "id": "b6c10860000e",
+    "last_checked": "2026-09-30T14:37:42.524221+00:00"
+  },
+  {
+    "name": "Cellular Agriculture Talent Development Competition Day 2026",
+    "organizer": "SGInnovate",
+    "companies": [],
+    "level": "Tertiary",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Sciences (STEM)",
+      "Humanities"
+    ],
+    "fields": [
+      "Sustainability",
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "15 October 2026",
+    "location": "Kuala Lumpur, Singapore, 32 Carpenter Street, 059911",
+    "prize": "Winners receive a curated learning journey to the Singapore International Agrifood Week.",
+    "summary": "The Cellular Agriculture Talent Development Competition Day is an exciting event focused on nurturing the next generation of talent in cellular agriculture. On October 15, mentees will present their scientific discoveries to a panel of experts, showcasing innovative breakthroughs in the field. This event emphasizes skill development and offers unique opportunities for networking and further learning in a crucial sustainability sector.",
+    "eligibility": "Open to mentees from local academic institutions involved in the Cellular Agriculture Talent Program.",
+    "highlights": [
+      "Focuses on cellular agriculture, a pioneering field.",
+      "Mentees present their research to experts and the public.",
+      "Engages the community with opportunities for voting.",
+      "Event is free of charge with refreshments provided."
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "singapore",
+      "cellular-agriculture",
+      "student-led",
+      "free-event",
+      "sustainability"
+    ],
+    "url": "https://www.sginnovate.com/event/cellular-agriculture-talent-development-competition-day-2026",
+    "id": "925cf127cb22",
+    "last_checked": "2026-09-30T14:37:49.851804+00:00"
+  },
+  {
+    "name": "Community Night at SINCON 2026",
+    "organizer": "SGInnovate",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Business / Economics"
+    ],
+    "fields": [
+      "Cybersecurity"
+    ],
+    "status": "upcoming",
+    "date": "15 October 2026",
+    "location": "Kuala Lumpur, Singapore, voco Orchard Singapore by IHG",
+    "prize": null,
+    "summary": "The Community Night at SINCON 2026 promises an engaging evening filled with networking opportunities and informative talks. Attendees can expect welcome addresses followed by a unique segment known as TIO-CON, where speakers bring humor and creativity to cybersecurity topics. This event serves as a space for professionals and enthusiasts to connect in the vibrant tech community of Singapore.",
+    "eligibility": "Participants need a SINCON 2026 Full Conference or Visitor Pass to attend.",
+    "highlights": [
+      "Engaging networking opportunities with industry professionals.",
+      "Unique TIO-CON segment featuring light-hearted presentations.",
+      "Located in the heart of Singapore at voco Orchard.",
+      "Part of the larger SINCON 2026 conference focused on cybersecurity."
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Paid",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": "https://www.infosec-city.com/events-list",
+    "tags": [
+      "singapore",
+      "cybersecurity",
+      "networking",
+      "community-event",
+      "sincon"
+    ],
+    "url": "https://www.sginnovate.com/event/community-night-sincon-2026",
+    "id": "5937704ca945",
+    "last_checked": "2026-09-30T14:37:57.389010+00:00"
   }
 ]
