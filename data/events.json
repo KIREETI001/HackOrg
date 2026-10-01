@@ -18262,5 +18262,148 @@
     "url": "https://www.sginnovate.com/event/community-night-sincon-2026",
     "id": "5937704ca945",
     "last_checked": "2026-09-30T14:37:57.389010+00:00"
+  },
+  {
+    "name": "AIC Internal Competition -2026 (Agentic AI)",
+    "organizer": "AI Community @ SBU",
+    "companies": [],
+    "level": "Tertiary",
+    "timeline": "Multi-week (1-3mo)",
+    "scope": "Global",
+    "domains": [
+      "Computer Science"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "status": "upcoming",
+    "date": "12 October 2026",
+    "location": "Online",
+    "prize": "1 non-cash prize will be awarded to the best projects.",
+    "summary": "The AIC Internal Competition 2026 focuses on creating agentic AI projects that can autonomously carry out tasks beyond standard chat functionalities. Participants can build unique applications ranging from scheduling assistants to multi-agent systems. With flexibility in project choice, competitors are encouraged to think creatively and push the boundaries of AI capabilities.",
+    "eligibility": "Participants must be students aged 17 and older, with no companies or professional organizations allowed.",
+    "highlights": [
+      "Focus on developing innovative agentic AI projects.",
+      "Participants can work solo or in teams of up to 3.",
+      "Projects are evaluated on functionality, creativity, and agentic concepts.",
+      "Non-cash prizes offered for successful implementations."
+    ],
+    "application_deadline": "2026-10-12",
+    "difficulty": "Intermediate",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "ai",
+      "hackathon",
+      "project-based",
+      "student",
+      "online"
+    ],
+    "url": "https://aic-ic-2026.devpost.com/",
+    "id": "822d5f265d7e",
+    "last_checked": "2026-10-01T15:06:04.648417+00:00"
+  },
+  {
+    "name": "Rowdy Hacks XII",
+    "organizer": "UTSA RowdyHacks",
+    "companies": [
+      "Apple",
+      "Google",
+      "Meta"
+    ],
+    "level": "Tertiary",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Global",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "Cybersecurity",
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "3-4 October 2026",
+    "location": "San Pedro II",
+    "prize": "15 non-cash prizes including tech equipment and gear.",
+    "summary": "Rowdy Hacks XII offers a dynamic environment for college students across all majors to engage in an overnight hackathon. This event is particularly inviting to beginners, encouraging all skill levels to collaborate, innovate, and showcase their talents. Participants can look forward to a range of prizes and the chance to network with industry professionals in a fun and creative setting.",
+    "eligibility": "Open to registered college students aged 18 and above from any country.",
+    "highlights": [
+      "Beginner-friendly environment with support for all skill levels.",
+      "A focus on cybersecurity and general tech projects.",
+      "Networking opportunities with sponsors and mentors.",
+      "Diverse prize offerings including electronics and specialty items."
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "hackathon",
+      "beginner-friendly",
+      "cybersecurity",
+      "technology",
+      "college students",
+      "global"
+    ],
+    "url": "https://rowdy-hacks-xii.devpost.com/",
+    "id": "a8a03b05dbe4",
+    "last_checked": "2026-10-01T15:06:12.193806+00:00"
+  },
+  {
+    "name": "Aspire Reverse Pitch - Deep Tech Edition",
+    "organizer": "SGInnovate",
+    "companies": [
+      "Aspire",
+      "Elev8.vc",
+      "Moringa Ventures",
+      "ThinKuvate",
+      "Tin Men Capital"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Business / Economics",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "Cybersecurity",
+      "FinTech",
+      "Sustainability"
+    ],
+    "status": "upcoming",
+    "date": "14 October 2026",
+    "location": "Singapore, 158 Cecil St, #09-01",
+    "prize": "Participants may receive up to SG$2,000 cash bonus and various rewards.",
+    "summary": "The Aspire Reverse Pitch offers a unique opportunity where investors pitch their interests directly to startups rather than the usual founder-to-investor dynamic. This interactive format encourages dialogue and networking, allowing entrepreneurs to understand what investors seek in potential investments. With a diverse lineup of VCs focusing on deep tech, this event promises valuable insights and robust connections within the startup ecosystem.",
+    "eligibility": "Open to all interested startups and entrepreneurs.",
+    "highlights": [
+      "Unique format flipping traditional pitching dynamics.",
+      "Interactive sessions with Q&A directly with investors.",
+      "Networking opportunities with multiple venture capitalists.",
+      "Monthly event with different insights each time."
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": 1500,
+    "beginner_friendly": true,
+    "application_url": "https://luma.com/xkw9j73w",
+    "tags": [
+      "singapore",
+      "deep-tech",
+      "startups",
+      "vc-pitch",
+      "networking"
+    ],
+    "url": "https://www.sginnovate.com/event/aspire-reverse-pitch-deep-tech-edition",
+    "id": "f4ebdad24635",
+    "last_checked": "2026-10-01T15:06:20.023382+00:00"
   }
 ]
