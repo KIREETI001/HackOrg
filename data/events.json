@@ -18405,5 +18405,50 @@
     "url": "https://www.sginnovate.com/event/aspire-reverse-pitch-deep-tech-edition",
     "id": "f4ebdad24635",
     "last_checked": "2026-10-01T15:06:20.023382+00:00"
+  },
+  {
+    "name": "PayPal AI Hackathon",
+    "organizer": "PayPal",
+    "companies": [
+      "Devpost"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Multi-week (1-3mo)",
+    "scope": "Global",
+    "domains": [
+      "Computer Science",
+      "Business / Economics"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "status": "upcoming",
+    "date": "12 November 2026",
+    "location": "Online",
+    "prize": "$67,500 in total prizes",
+    "summary": "The PayPal AI Hackathon invites participants to innovate at the intersection of AI and payments, encouraging them to unlock new potentials with PayPal's platform. Participants can engage as individuals or teams, exploring unique applications of AI to enhance payment experiences. With various prizes available, including categories for creativity and impact, this hackathon serves as a platform for developers and builders to showcase their inventive solutions.",
+    "eligibility": "Participants must be above the legal age of majority in their country of residence, with no restrictions on location.",
+    "highlights": [
+      "Over $67,500 in prizes available",
+      "Global participation with no geographical barriers",
+      "Open to individuals and teams, encouraging collaboration and innovation",
+      "Multiple prize categories focusing on creativity, impact, and execution"
+    ],
+    "application_deadline": "2026-11-12T14:00:00-08:00",
+    "difficulty": "Intermediate",
+    "cost": "Varies",
+    "prize_value_usd": 67500,
+    "beginner_friendly": true,
+    "application_url": "https://paypalaihackathon.devpost.com/",
+    "tags": [
+      "ai",
+      "paypay",
+      "hackathon",
+      "global",
+      "innovation"
+    ],
+    "url": "https://paypalaihackathon.devpost.com/",
+    "id": "7e69e724f896",
+    "last_checked": "2026-10-02T14:27:41.207557+00:00"
   }
 ]
