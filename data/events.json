@@ -18450,5 +18450,99 @@
     "url": "https://paypalaihackathon.devpost.com/",
     "id": "7e69e724f896",
     "last_checked": "2026-10-02T14:27:41.207557+00:00"
+  },
+  {
+    "name": "HealthLink Life Sciences Hackathon 2026",
+    "organizer": "Devpost",
+    "companies": [
+      "Apple",
+      "Google",
+      "Harbor",
+      "CLD-9",
+      "OpenSwarm"
+    ],
+    "level": "Tertiary",
+    "timeline": "Single-day",
+    "scope": "Global",
+    "domains": [
+      "Sciences (STEM)",
+      "Business / Economics"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "Healthcare"
+    ],
+    "status": "upcoming",
+    "date": "4 October 2026",
+    "location": "La Jolla, Basement",
+    "prize": "Six non-cash prizes including opportunities for internships and tech products.",
+    "summary": "The HealthLink Life Sciences Hackathon 2026 invites college students to address pressing challenges in healthcare and biotech through innovative tech solutions. Participants will work in teams to develop projects across four exciting tracks focused on AI applications and personalized medicine. This event fosters collaboration and offers unique opportunities for networking with industry professionals.",
+    "eligibility": "Open to UCSD students above the legal age of majority, specifically college students only.",
+    "highlights": [
+      "Focus on innovation in healthcare and biotech",
+      "Multiple tracks including personalized medicine and clinical diagnostics",
+      "Non-cash prizes and internship opportunities",
+      "Encourages teamwork and real-world problem solving"
+    ],
+    "application_deadline": "2026-10-04T10:00:00-07:00",
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "healthcare",
+      "ai",
+      "hackathon",
+      "student-run",
+      "biotech"
+    ],
+    "url": "https://healthlink-hackathon-2026.devpost.com/",
+    "id": "f45b55c659e2",
+    "last_checked": "2026-10-03T13:02:39.079652+00:00"
+  },
+  {
+    "name": "Full-Stack Pentesting Laboratory",
+    "organizer": "SGInnovate",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Global",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)",
+      "Business / Economics"
+    ],
+    "fields": [
+      "Cybersecurity"
+    ],
+    "status": "upcoming",
+    "date": "19-21 October 2026",
+    "location": "Online",
+    "prize": "Participants receive lifetime access to the lab environment and complimentary online courses.",
+    "summary": "The Full-Stack Pentesting Laboratory is a hands-on training program designed for those looking to enhance their pentesting skills. Participants will engage in practical exercises that cover a wide range of topics, from cloud application hacking to advanced web vulnerabilities. The training culminates in a VMware lab environment that attendees can take home for further practice, making it an excellent opportunity for continuous learning.",
+    "eligibility": "Individuals with intermediate knowledge of pentesting and web application security are encouraged to join.",
+    "highlights": [
+      "Hands-on training with real-world scenarios.",
+      "Lifetime access to a dedicated lab environment.",
+      "Includes free online courses on various security topics.",
+      "Taught by an internationally recognized expert in cybersecurity."
+    ],
+    "application_deadline": null,
+    "difficulty": "Intermediate",
+    "cost": "Paid",
+    "prize_value_usd": null,
+    "beginner_friendly": false,
+    "application_url": null,
+    "tags": [
+      "pentesting",
+      "cybersecurity",
+      "online",
+      "intermediate",
+      "training"
+    ],
+    "url": "https://www.sginnovate.com/event/sincon-trainings-full-stack-pentesting-laboratory-100-hands-lifetime-lab-access",
+    "id": "25fe380ca5bd",
+    "last_checked": "2026-10-03T13:02:46.071356+00:00"
   }
 ]
