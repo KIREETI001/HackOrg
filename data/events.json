@@ -18544,5 +18544,52 @@
     "url": "https://www.sginnovate.com/event/sincon-trainings-full-stack-pentesting-laboratory-100-hands-lifetime-lab-access",
     "id": "25fe380ca5bd",
     "last_checked": "2026-10-03T13:02:46.071356+00:00"
+  },
+  {
+    "name": "NTU Beyond Binary Techathon 2027",
+    "organizer": "NTU Women In Tech",
+    "companies": [
+      "Apple",
+      "Google",
+      "Outlook"
+    ],
+    "level": "Tertiary",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Business / Economics"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "status": "upcoming",
+    "date": "9-13 February 2027",
+    "location": "Singapore, NTU",
+    "prize": "Total prize pool of $10,000 in cash.",
+    "summary": "The NTU Beyond Binary Techathon fosters inclusivity by welcoming college students from diverse technical backgrounds. Participants can engage in either a Hackathon or Ideathon track, centering on innovation and technical solutions. This hybrid event combines online and in-person activities, enhancing networking opportunities with industry professionals and offering workshops to boost skills.",
+    "eligibility": "Open to college students from all local universities; teams must include at least one female-identifying member.",
+    "highlights": [
+      "Inclusive techathon designed for all skill levels.",
+      "Two distinct tracks: Hackathon and Ideathon.",
+      "Networking opportunities with industry professionals.",
+      "Exciting workshops and a significant cash prize pool."
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Paid",
+    "prize_value_usd": 10000,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "singapore",
+      "ai",
+      "techathon",
+      "inclusive",
+      "women-in-tech"
+    ],
+    "url": "https://ntu-beyond-binary-2027.devpost.com/",
+    "id": "22fe5742ca8c",
+    "last_checked": "2026-10-04T13:41:40.172564+00:00"
   }
 ]
