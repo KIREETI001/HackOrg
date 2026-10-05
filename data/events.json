@@ -18591,5 +18591,51 @@
     "url": "https://ntu-beyond-binary-2027.devpost.com/",
     "id": "22fe5742ca8c",
     "last_checked": "2026-10-04T13:41:40.172564+00:00"
+  },
+  {
+    "name": "AI Builders Night: Build with Seedance 2.5",
+    "organizer": "SGInnovate",
+    "companies": [
+      "BytePlus"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Business / Economics"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "13 October 2026",
+    "location": "Kuala Lumpur, Singapore, 32 Carpenter Street, 059911",
+    "prize": "Participants can enter a swag draw for showcasing their work.",
+    "summary": "AI Builders Night is a unique event focused on hands-on experience with AI video generation tools. Attendees will engage in practical sessions using Seedance 2.5 and Lumina Canvas to create their own video demos. This meetup provides a platform for developers and creators to collaborate, learn, and share their projects in a supportive environment.",
+    "eligibility": "Open to developers, builders, and creators interested in AI and video generation.",
+    "highlights": [
+      "Hands-on workshop to create AI-generated videos.",
+      "Opportunities for networking with fellow creators.",
+      "Talks from industry experts on AI video generation.",
+      "Open mic session for sharing projects and ideas."
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "singapore",
+      "ai",
+      "video generation",
+      "developer meetup",
+      "beginner-friendly"
+    ],
+    "url": "https://www.sginnovate.com/event/ai-builders-night-build-seedance-25",
+    "id": "ea6a5f339242",
+    "last_checked": "2026-10-05T16:48:17.799603+00:00"
   }
 ]
