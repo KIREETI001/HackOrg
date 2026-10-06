@@ -18637,5 +18637,50 @@
     "url": "https://www.sginnovate.com/event/ai-builders-night-build-seedance-25",
     "id": "ea6a5f339242",
     "last_checked": "2026-10-05T16:48:17.799603+00:00"
+  },
+  {
+    "name": "Affinda AI Innovation Challenge",
+    "organizer": "Enactus Melbourne",
+    "companies": [
+      "Affinda"
+    ],
+    "level": "Tertiary",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Business / Economics"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "status": "upcoming",
+    "date": "6-9 October 2026",
+    "location": "Melbourne, various venues",
+    "prize": "$1,000 in cash prizes for various winners and experiences for finalists.",
+    "summary": "The Affinda AI Innovation Challenge invites university students to leverage AI to create innovative solutions for real-world problems. This hackathon features a collaborative environment where participants can use no-code and AI tools, making it beginner-friendly. Teams will tackle a specific challenge related to organizing a large festival, promoting creativity and teamwork among participants.",
+    "eligibility": "Open to all current Australian university students, any degree.",
+    "highlights": [
+      "Collaborative challenge focused on real-world applications of AI.",
+      "Beginner-friendly with no coding experience required.",
+      "Prizes for multiple categories encouraging diverse entries.",
+      "Teams of 3-4 foster teamwork and networking opportunities."
+    ],
+    "application_deadline": "2026-10-08T17:00:00+11:00",
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": 1000,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "ai",
+      "melbourne",
+      "hackathon",
+      "student-friendly",
+      "technology"
+    ],
+    "url": "https://affinda-challenge.devpost.com/",
+    "id": "8c9855efa258",
+    "last_checked": "2026-10-06T14:45:22.325283+00:00"
   }
 ]
