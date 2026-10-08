@@ -18682,5 +18682,95 @@
     "url": "https://affinda-challenge.devpost.com/",
     "id": "8c9855efa258",
     "last_checked": "2026-10-06T14:45:22.325283+00:00"
+  },
+  {
+    "name": "All You Can Do With AI",
+    "organizer": "Devpost",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Global",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "12-14 October 2026",
+    "location": "Online",
+    "prize": "One non-cash prize, an Amazon gift card for the winner.",
+    "summary": "The 'All You Can Do With AI' hackathon invites participants globally to explore innovative uses of artificial intelligence over a three-day event. It emphasizes creativity and teamwork, allowing beginners and experienced developers alike to collaborate and create functional AI-driven projects. With no specific theme, participants are encouraged to think outside the box and leverage AI in imaginative ways.",
+    "eligibility": "Participants must be students and above the legal age of majority in their country of residence.",
+    "highlights": [
+      "Open to all skill levels, including beginners and first-time hackers.",
+      "Encourages creative and technical exploration of AI applications.",
+      "Mentorship and workshops available to support teams.",
+      "Focus on collaboration and project development without a strict theme."
+    ],
+    "application_deadline": "2026-10-12",
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": 50,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "ai",
+      "hackathon",
+      "student-friendly",
+      "global",
+      "innovation"
+    ],
+    "url": "https://all-you-can-do-with-ai.devpost.com/",
+    "id": "5fde67e6e8dc",
+    "last_checked": "2026-10-08T15:13:38.305242+00:00"
+  },
+  {
+    "name": "From Pipeline to Close: Building Your AI Sales Engine",
+    "organizer": "Google Cloud",
+    "companies": [
+      "JDI",
+      "Ingram Micro"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Business / Economics",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "status": "upcoming",
+    "date": "14 October 2026",
+    "location": "Kuala Lumpur, Singapore, Google Office, 70 Pasir Panjang Rd, #03-71 , 117371",
+    "prize": null,
+    "summary": "This workshop aims to empower sales leaders by integrating AI into the sales process. Participants will engage in hands-on experiences with AI tools and learn to leverage data for better sales outcomes. The session will provide actionable insights into creating an AI roadmap tailored to sales organizations. Networking opportunities with industry leaders will enhance the overall learning experience.",
+    "eligibility": "Sales leaders and executives looking to improve their sales processes using AI are encouraged to attend.",
+    "highlights": [
+      "Hands-on experience with AI-powered sales tools.",
+      "Insights into the practical implementation of AI in sales.",
+      "Networking opportunities with industry leaders.",
+      "Expert-led sessions from key figures in AI and sales."
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "singapore",
+      "ai",
+      "sales",
+      "workshop",
+      "business"
+    ],
+    "url": "https://www.sginnovate.com/event/pipeline-close-building-your-ai-sales-engine-google-cloud-x-jdi-x-ingram",
+    "id": "eccb3789579c",
+    "last_checked": "2026-10-08T15:13:44.451774+00:00"
   }
 ]
