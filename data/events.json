@@ -18772,5 +18772,47 @@
     "url": "https://www.sginnovate.com/event/pipeline-close-building-your-ai-sales-engine-google-cloud-x-jdi-x-ingram",
     "id": "eccb3789579c",
     "last_checked": "2026-10-08T15:13:44.451774+00:00"
+  },
+  {
+    "name": "Shiva Tech - Prompt Wars",
+    "organizer": "Shivalik University",
+    "companies": [],
+    "level": "Pre-University",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "status": "completed",
+    "date": "9 October 2026",
+    "location": "Shivalik University, Computer Lab 3, CSE Department",
+    "prize": "Non-cash prizes and certificates for the top three participants.",
+    "summary": "Shiva Tech - Prompt Wars is an exciting hackathon where participants engage in AI-driven challenges, testing their creativity and technical skills. It's designed for students to innovate and excel in prompt crafting under pressure. The event fosters collaboration and celebrates the unique talents of young minds in the tech space.",
+    "eligibility": "Open to students above the legal age of majority in their country of residence.",
+    "highlights": [
+      "AI-powered battle focusing on prompt creation",
+      "Collaborative environment for students",
+      "Non-cash prizes and certificates for winners",
+      "Special emphasis on creativity and strategy"
+    ],
+    "application_deadline": "2026-10-07",
+    "difficulty": "Beginner-Friendly",
+    "cost": "Paid",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": "https://forms.gle/ngkKQrBpWiPT4mTZA",
+    "tags": [
+      "hackathon",
+      "ai",
+      "student-run",
+      "beginner-friendly",
+      "prompt-wars"
+    ],
+    "url": "https://shiva-tech-prompt-wars.devpost.com/",
+    "id": "5751a4204942",
+    "last_checked": "2026-10-09T14:58:48.284863+00:00"
   }
 ]
