@@ -18814,5 +18814,185 @@
     "url": "https://shiva-tech-prompt-wars.devpost.com/",
     "id": "5751a4204942",
     "last_checked": "2026-10-09T14:58:48.284863+00:00"
+  },
+  {
+    "name": "QMUL AI Hackathon",
+    "organizer": "Queen Mary AI Soc, Queen Mary CS Soc",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "status": "completed",
+    "date": "10 October 2026",
+    "location": "London, QMUL - Bancroft Building",
+    "prize": "The winner will receive a non-cash prize in the form of gift cards.",
+    "summary": "The QMUL AI Hackathon focuses on developing innovative AI tools that integrate seamlessly into user activities. Set for a single day, participants are encouraged to prototype solutions revolving around the theme of 'Invisible AI.' The event promotes creativity and innovation, emphasizing projects that can automate actions and adapt to user behaviors. This beginner-friendly hackathon welcomes students to collaborate and showcase their ideas in an engaging environment.",
+    "eligibility": "Only QMUL students who are of legal age can participate, making it exclusive to the university community.",
+    "highlights": [
+      "Focused on the theme of 'Invisible AI'",
+      "Encourages collaboration among QMUL students",
+      "Beginner-friendly environment promoting first-time hackers",
+      "Emphasizes creativity and innovation in project submissions"
+    ],
+    "application_deadline": "2026-10-10",
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "qmstu",
+      "ai",
+      "hackathon",
+      "invisible-ai",
+      "beginner-friendly"
+    ],
+    "url": "https://qmul-ai-hackathon.devpost.com/",
+    "id": "6e5fa2144833",
+    "last_checked": "2026-10-10T14:14:04.798208+00:00"
+  },
+  {
+    "name": "IslanderHack 2026",
+    "organizer": "Texas A&M University - Corpus Christi",
+    "companies": [],
+    "level": "Tertiary",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "Sustainability"
+    ],
+    "status": "completed",
+    "date": "10 October 2026",
+    "location": "Texas A&M University - Corpus Christi, Tejas Lounge",
+    "prize": "Five non-cash prizes awarded for top performances.",
+    "summary": "IslanderHack 2026 invites participants to explore innovative uses of AI to tackle coastal conservation challenges. This 24-hour hackathon focuses on building sustainable, efficient technologies that have a real-world impact in South Texas. With a commitment to environmental responsibility, the event encourages teams to create resource-efficient prototypes aimed at addressing pressing community needs.",
+    "eligibility": "Participants must be above the legal age of majority in their country of residence and form teams of 3 to 4 members.",
+    "highlights": [
+      "Focus on Green AI and Resource Efficiency.",
+      "Engages with real-world coastal conservation issues.",
+      "Offers a collaborative environment for innovation.",
+      "Supports the development of practical AI solutions."
+    ],
+    "application_deadline": "2026-10-10",
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "hackathon",
+      "ai",
+      "sustainability",
+      "texas",
+      "college",
+      "environmental"
+    ],
+    "url": "https://islanderhack-2026.devpost.com/",
+    "id": "07d35c8978a0",
+    "last_checked": "2026-10-10T14:14:09.735884+00:00"
+  },
+  {
+    "name": "BoxLang-AI-ANIA-2026",
+    "organizer": "Ortus Solutions",
+    "companies": [
+      "ANIA"
+    ],
+    "level": "Tertiary",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "10-11 October 2026",
+    "location": "El Salvador, virtual event",
+    "prize": "Prize includes a non-cash award and surprise gifts from ANIA.",
+    "summary": "The BoxLang-AI-ANIA-2026 hackathon invites participants in El Salvador to engage in problem-solving using BoxLang and AI. It includes workshops and team collaboration, allowing students to apply newfound knowledge into practical projects. Although prior experience with BoxLang isn't required, participants are encouraged to utilize resources to enhance their projects.",
+    "eligibility": "Participants must be of legal age and form teams of 2 to 4 members from specific countries.",
+    "highlights": [
+      "Hands-on workshops in BoxLang and BoxLang AI.",
+      "Focus on solving real-world problems.",
+      "Team collaboration and project development.",
+      "Non-cash prizes and surprises for participants."
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "el-salvador",
+      "ai",
+      "hackathon",
+      "beginner-friendly",
+      "teamwork"
+    ],
+    "url": "https://boxlang-ai-ania-2026.devpost.com/",
+    "id": "567775f03151",
+    "last_checked": "2026-10-10T14:14:14.292130+00:00"
+  },
+  {
+    "name": "Meet with Legend Capital",
+    "organizer": "SGInnovate",
+    "companies": [
+      "Legend Capital",
+      "Johnson & Johnson"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Sciences (STEM)",
+      "Business / Economics"
+    ],
+    "fields": [
+      "Healthcare"
+    ],
+    "status": "upcoming",
+    "date": "23 October 2026",
+    "location": "Singapore, Guoco Midtown Network Hub, 126 Beach Road",
+    "prize": null,
+    "summary": "This event offers insights into China's biotech industry and the strategic advantages of Singapore as a global expansion hub. Attendees will learn about the venture-capital landscape and the unique challenges and opportunities within R&D and commercialization in the health sector. It's designed for professionals in the life sciences community looking to engage with investment themes and growth strategies in biotech.",
+    "eligibility": "The event is intended for members of the life sciences community.",
+    "highlights": [
+      "Exclusive insights from Legend Capital.",
+      "Focus on China's biotech sector trends.",
+      "Strategic discussions on international expansion.",
+      "Advance registration required for participation."
+    ],
+    "application_deadline": null,
+    "difficulty": "Intermediate",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": false,
+    "application_url": null,
+    "tags": [
+      "singapore",
+      "biotech",
+      "investment",
+      "healthcare",
+      "networking",
+      "sginnovate"
+    ],
+    "url": "https://www.sginnovate.com/event/meet-legend-capital",
+    "id": "c646ee4cfa55",
+    "last_checked": "2026-10-10T14:14:19.556486+00:00"
   }
 ]
