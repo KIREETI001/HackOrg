@@ -18994,5 +18994,100 @@
     "url": "https://www.sginnovate.com/event/meet-legend-capital",
     "id": "c646ee4cfa55",
     "last_checked": "2026-10-10T14:14:19.556486+00:00"
+  },
+  {
+    "name": "Seattle GiveCamp 2026: Code for Good",
+    "organizer": "Devpost",
+    "companies": [
+      "Apple",
+      "Google",
+      "Outlook",
+      "Microsoft"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Local (Seattle)",
+    "domains": [
+      "Computer Science",
+      "Humanities"
+    ],
+    "fields": [
+      "General Tech",
+      "Sustainability"
+    ],
+    "status": "upcoming",
+    "date": "16-18 October 2026",
+    "location": "Microsoft Building 122, 15120 NE 40th St, Redmond, WA",
+    "prize": "1 non-cash prize for 5 winners.",
+    "summary": "Seattle GiveCamp 2026 is a weekend hackathon dedicated to creating software solutions for local nonprofits. Volunteers can collaborate as developers, designers, and project managers to deliver impactful tech tools pro bono. With a history of supporting over 150 nonprofits, this event not only promotes tech skills but also fosters community engagement through charitable work.",
+    "eligibility": "Participants must be above the legal age of majority in their country of residence.",
+    "highlights": [
+      "Free registration with no entry fee.",
+      "All skill levels are welcome, encouraging participation from first-time hackers.",
+      "Focus on creating tech solutions for nonprofits.",
+      "Collaborative environment with teams working pro bono."
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": "https://givebutter.com/WlAKAi?utm_source=devpost&utm_medium=listing&utm_campaign=volunteer2026",
+    "tags": [
+      "seattle",
+      "hackathon",
+      "nonprofits",
+      "volunteer",
+      "community-service"
+    ],
+    "url": "https://seattle-givecamp-2026.devpost.com/",
+    "id": "a797e89c7f87",
+    "last_checked": "2026-10-11T14:38:24.985972+00:00"
+  },
+  {
+    "name": "Code For DFW",
+    "organizer": "Devpost",
+    "companies": [
+      "Apple",
+      "Google"
+    ],
+    "level": "Tertiary",
+    "timeline": "Multi-week (1-3mo)",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Business / Economics"
+    ],
+    "fields": [
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "20-27 October 2026",
+    "location": "Dallas Fort Worth, virtual",
+    "prize": "1 non-cash prize for winners.",
+    "summary": "Code For DFW is a week-long hackathon that empowers students to devise software solutions addressing the challenges of local businesses in the Dallas Fort Worth area. Participants will engage with real-world case studies provided by local organizations, allowing them to produce practical applications rather than theoretical exercises. This event stands out for its emphasis on community impact and its support for student innovators.",
+    "eligibility": "Participants must be students and at least of legal age in their country of residence.",
+    "highlights": [
+      "Focus on solving real problems for local businesses.",
+      "Case studies customized by local sponsors to enhance learning.",
+      "Encourages teamwork and innovation in a supportive environment.",
+      "Beginner-friendly tiers available for students of all skill levels."
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "dfw",
+      "hackathon",
+      "students",
+      "beginner-friendly",
+      "software-solutions"
+    ],
+    "url": "https://code-for-dfw.devpost.com/",
+    "id": "5c7f429b442d",
+    "last_checked": "2026-10-11T14:38:29.073260+00:00"
   }
 ]
