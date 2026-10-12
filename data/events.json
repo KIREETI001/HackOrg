@@ -19089,5 +19089,55 @@
     "url": "https://code-for-dfw.devpost.com/",
     "id": "5c7f429b442d",
     "last_checked": "2026-10-11T14:38:29.073260+00:00"
+  },
+  {
+    "name": "Security by Design: Ship Fast Without Shipping Holes - A Breakfast Huddle",
+    "organizer": "SGInnovate",
+    "companies": [
+      "JDI Group",
+      "Lorong AI",
+      "Techies",
+      "Potluck Technologies",
+      "The Builder Course"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "Cybersecurity",
+      "AI / Machine Learning"
+    ],
+    "status": "upcoming",
+    "date": "22 October 2026",
+    "location": "Kuala Lumpur, Singapore, Lorong AI @ One-North, 69 Ayer Rajah Cres., Level 3 Vidacity, 139961",
+    "prize": null,
+    "summary": "This workshop focuses on incorporating security from the inception of a product rather than as an afterthought. Attendees will engage with CTOs to explore strategies for minimizing security risks in their early-stage products. The event also provides a practical checklist to address stage-specific security concerns, enhancing the startup community's capabilities in safeguarding their innovations.",
+    "eligibility": "Open to founders and teams looking to enhance their product security practices.",
+    "highlights": [
+      "Hands-on interaction with experienced CTOs.",
+      "Focus on early-stage product security.",
+      "Concrete, actionable security checklist provided.",
+      "Free event with only a small token fee for breakfast."
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "singapore",
+      "cybersecurity",
+      "ai",
+      "startups",
+      "workshop"
+    ],
+    "url": "https://www.sginnovate.com/event/security-design-ship-fast-without-shipping-holes-breakfast-huddle",
+    "id": "8a1f32faf2ca",
+    "last_checked": "2026-10-12T17:22:32.127140+00:00"
   }
 ]
