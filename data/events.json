@@ -19139,5 +19139,101 @@
     "url": "https://www.sginnovate.com/event/security-design-ship-fast-without-shipping-holes-breakfast-huddle",
     "id": "8a1f32faf2ca",
     "last_checked": "2026-10-12T17:22:32.127140+00:00"
+  },
+  {
+    "name": "Child Safety in AI",
+    "organizer": "Devpost",
+    "companies": [
+      "Apple",
+      "Google"
+    ],
+    "level": "Tertiary",
+    "timeline": "Single-day",
+    "scope": "Global",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "Cybersecurity"
+    ],
+    "status": "upcoming",
+    "date": "14 October 2026",
+    "location": "Online",
+    "prize": "Two non-cash prizes including a $250 winner and a $150 runner-up Amazon gift card.",
+    "summary": "The Child Safety in AI hackathon invites students to develop innovative apps that address the sociotechnical challenges of protecting children in an AI-driven world. Participants will work individually or in teams to create minimum viable products that tackle issues such as online safety, privacy, and the responsible use of technology. This event aims to foster creativity and social impact, making a difference in children's lives through technology.",
+    "eligibility": "Participants must be above the legal age of majority in their country of residence and are limited to students only.",
+    "highlights": [
+      "Focus on child safety in the context of AI technologies",
+      "Encourages innovative solutions from participants globally",
+      "Non-cash prizes with opportunities for recognition",
+      "Beginner-friendly environment supporting varied skill levels"
+    ],
+    "application_deadline": "2026-10-14",
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": 400,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "ai",
+      "child-safety",
+      "hackathon",
+      "beginner-friendly",
+      "global",
+      "online"
+    ],
+    "url": "https://child-safety-in-ai.devpost.com/",
+    "id": "169e73b099ca",
+    "last_checked": "2026-10-13T15:35:14.866109+00:00"
+  },
+  {
+    "name": "AWS x A10 Hack 2026",
+    "organizer": "A10 Networks",
+    "companies": [
+      "AWS",
+      "A10 Networks"
+    ],
+    "level": "Tertiary",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Local (USA)",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "Cybersecurity"
+    ],
+    "status": "upcoming",
+    "date": "7-8 November 2026",
+    "location": "Santa Clara University, Heafey Hall",
+    "prize": "$7,500 in total cash prizes for various track winners.",
+    "summary": "The AWS x A10 Hack 2026 invites college students to develop scalable AI products powered by AWS, emphasizing creativity and technical excellence. Participants will work in teams to tackle real-world challenges in cybersecurity and machine learning. The hackathon supports a friendly environment for innovation, with substantial prizes across different categories to encourage diverse solutions.",
+    "eligibility": "Participants must be college students aged 18 and above, working in teams of 2 to 6 members.",
+    "highlights": [
+      "Hands-on experience with AWS technologies",
+      "Total cash prizes worth $7,500",
+      "Encourages innovation in AI and cybersecurity",
+      "Beginner-friendly with resources provided"
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": 7500,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "hackathon",
+      "AI",
+      "cybersecurity",
+      "student-friendly",
+      "AWS",
+      "Santa Clara"
+    ],
+    "url": "https://a10-x-aws-hack-26.devpost.com/",
+    "id": "f8470bf49871",
+    "last_checked": "2026-10-13T15:35:21.477425+00:00"
   }
 ]
