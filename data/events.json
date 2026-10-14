@@ -19235,5 +19235,103 @@
     "url": "https://a10-x-aws-hack-26.devpost.com/",
     "id": "f8470bf49871",
     "last_checked": "2026-10-13T15:35:21.477425+00:00"
+  },
+  {
+    "name": "AI Build India",
+    "organizer": "Devpost",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Multi-week (1-3mo)",
+    "scope": "Global",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "status": "upcoming",
+    "date": "31 October 2026",
+    "location": "Jaipur, public",
+    "prize": "Participants can win non-cash prizes including swag.",
+    "summary": "AI Build India is a hackathon aimed at fostering innovation in AI and Machine Learning. Teams of 2 to 4 members from around the globe are invited to develop creative solutions. The event provides opportunities for networking and the chance to showcase technical skills, making it a respected platform for aspiring tech enthusiasts.",
+    "eligibility": "Participants must be above the legal age of majority in their country and compete in teams.",
+    "highlights": [
+      "Global participation welcomed, excluding standard exceptions",
+      "Focus on creative solutions in AI and Machine Learning",
+      "Opportunity to network with industry professionals",
+      "Non-cash prizes for the top winners"
+    ],
+    "application_deadline": "2026-10-31",
+    "difficulty": "Intermediate",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "ai",
+      "hackathon",
+      "global",
+      "beginner-friendly",
+      "machine-learning"
+    ],
+    "url": "https://sphinx-26.devpost.com/",
+    "id": "e697d4420456",
+    "last_checked": "2026-10-14T13:19:35.053810+00:00"
+  },
+  {
+    "name": "The California Experience – SWITCH 2026 Pre-Event",
+    "organizer": "SGInnovate",
+    "companies": [
+      "Southern California Wine Country EDC",
+      "University of California, Riverside",
+      "San Diego State University",
+      "Aggie Square",
+      "Murrieta Innovation Center",
+      "City of Riverside",
+      "UC Berkeley Bakar Labs",
+      "Contra Costa Transportation Authority"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Business / Economics",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "Healthcare",
+      "General Tech",
+      "Sustainability"
+    ],
+    "status": "upcoming",
+    "date": "26 October 2026",
+    "location": "Kuala Lumpur, Singapore, 69 Ayer Rajah Crescent, Level 3, Lorong AI, 139961",
+    "prize": null,
+    "summary": "The California Experience – SWITCH 2026 Pre-Event is an exclusive networking reception designed to connect the dynamic innovation ecosystems of California and Singapore. Scheduled for the evening before the SWITCH 2026 conference, it will foster partnerships between California delegates and Singapore-based investors and businesses. Attendees will gain insights into collaborations and opportunities within multiple innovative fields including life sciences and sustainability.",
+    "eligibility": "Open to all interested parties, particularly investors and business professionals.",
+    "highlights": [
+      "Exclusive networking with California's leading organizations",
+      "Focus on fostering international partnerships and investment opportunities",
+      "Insight into innovative sectors including AI and life sciences",
+      "Connection between major stakeholders in innovation ecosystems"
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "networking",
+      "innovation",
+      "business",
+      "california",
+      "singapore",
+      "sustainability"
+    ],
+    "url": "https://www.sginnovate.com/event/california-experience-switch-2026-pre-event",
+    "id": "75165320173f",
+    "last_checked": "2026-10-14T13:19:44.079102+00:00"
   }
 ]
