@@ -19333,5 +19333,100 @@
     "url": "https://www.sginnovate.com/event/california-experience-switch-2026-pre-event",
     "id": "75165320173f",
     "last_checked": "2026-10-14T13:19:44.079102+00:00"
+  },
+  {
+    "name": "Cal Hacks 13.0",
+    "organizer": "Major League Hacking",
+    "companies": [
+      "Anthropic",
+      "Annapurna Labs",
+      "SpacetimeDB",
+      "Hyphenate"
+    ],
+    "level": "Tertiary",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Global",
+    "domains": [
+      "Computer Science",
+      "Business / Economics"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "Social Good",
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "23-25 October 2026",
+    "location": "San Francisco, Palace of Fine Arts",
+    "prize": "$126,988 in cash prizes across various categories",
+    "summary": "Cal Hacks 13.0 is gearing up to be one of the largest collegiate hackathons, uniting students from around the globe for a weekend filled with innovative projects. Participants will engage in collaboration, teamwork, and creativity, striving to tackle big ideas and social issues through technology. With a wide range of prizes and awards, including cash and tech gadgets, this event aims to empower future innovators and entrepreneurs.",
+    "eligibility": "Participants must be college students aged 18 and older, competing in teams of 2 to 4.",
+    "highlights": [
+      "World's largest collegiate hackathon fostering innovation and collaboration.",
+      "Robust prize pool encourages diverse project submissions.",
+      "Opportunities for mentorship and post-hackathon startup support.",
+      "Engagement with cutting-edge technologies and APIs, boosting hands-on learning."
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": 126988,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "hackathon",
+      "san-francisco",
+      "students",
+      "ai",
+      "collaboration"
+    ],
+    "url": "https://cal-hacks-13-0.devpost.com/",
+    "id": "5448b1f6135a",
+    "last_checked": "2026-10-15T13:04:54.973361+00:00"
+  },
+  {
+    "name": "SPU Hacks 2026",
+    "organizer": "Seattle Pacific University",
+    "companies": [],
+    "level": "Tertiary",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Local (Seattle)",
+    "domains": [
+      "Computer Science",
+      "Business / Economics",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "General Tech"
+    ],
+    "status": "ongoing",
+    "date": "15-18 October 2026",
+    "location": "Seattle, Otto Miller Hall",
+    "prize": "One non-cash prize and goody bag from Trader Joe's.",
+    "summary": "SPU Hacks 2026 is a vibrant hackathon that invites Seattle Pacific University students to innovate solutions for challenges in the local area. With a duration of 64 hours, participants will collaborate in teams to develop prototypes or proposals, regardless of their prior experience. The event encourages creativity and teamwork among engineering, computer science, business, and design students, promoting hands-on problem-solving in a supportive environment.",
+    "eligibility": "Currently enrolled students at Seattle Pacific University are welcome to participate.",
+    "highlights": [
+      "64-hour in-person hackathon format",
+      "Team collaboration of 3 to 4 members",
+      "Open to all majors and skill levels",
+      "Focus on social good and local issues"
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "seattle",
+      "hackathon",
+      "student-run",
+      "social-good",
+      "beginner-friendly"
+    ],
+    "url": "https://spu-hacks.devpost.com/",
+    "id": "6e5a69baad94",
+    "last_checked": "2026-10-15T13:05:01.042604+00:00"
   }
 ]
