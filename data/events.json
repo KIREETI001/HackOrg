@@ -19428,5 +19428,141 @@
     "url": "https://spu-hacks.devpost.com/",
     "id": "6e5a69baad94",
     "last_checked": "2026-10-15T13:05:01.042604+00:00"
+  },
+  {
+    "name": "Agentic Enterprise AI Hackathon — Box + AWS",
+    "organizer": "Devpost",
+    "companies": [
+      "Amazon",
+      "Box"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Local (Seattle)",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "status": "ongoing",
+    "date": "16-17 October 2026",
+    "location": "Seattle",
+    "prize": "One non-cash prize plus additional prizes for multiple categories.",
+    "summary": "The Agentic Enterprise AI Hackathon encourages participants to explore the potential of unstructured data and AI tools. With on-site experts from Box and AWS, participants can enhance their skills and build innovative enterprise applications. This hackathon is ideal for both individuals and teams seeking to push the limits of what's possible in AI integration for businesses.",
+    "eligibility": "Participants must be above the legal age of majority in their country of residence and are limited to US residents.",
+    "highlights": [
+      "Opportunity to work with Box and AWS experts",
+      "Inclusive for all skill levels with solo and team options",
+      "Networking opportunities with industry professionals",
+      "Access to food, drinks, and prizes during the event"
+    ],
+    "application_deadline": "2026-10-17",
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": "https://luma.com/bqo9xii4?utm_source=aws",
+    "tags": [
+      "ai",
+      "hackathon",
+      "Seattle",
+      "devpost",
+      "free",
+      "enterprise"
+    ],
+    "url": "https://agentic-ai-hackathon-box-aws.devpost.com/",
+    "id": "8a0195189d0a",
+    "last_checked": "2026-10-16T13:01:52.193218+00:00"
+  },
+  {
+    "name": "MineArena 1.0",
+    "organizer": "Code Commit, Bapuji Institute of Engineering and Technology",
+    "companies": [],
+    "level": "Tertiary",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "Health",
+      "FinTech"
+    ],
+    "status": "upcoming",
+    "date": "12-13 November 2026",
+    "location": "Davangere, BIET",
+    "prize": "Total prize pool of ₹75,000, awarded to winners and special recognitions.",
+    "summary": "MineArena 1.0 is a national-level hackathon that encourages students to innovate over a 24-hour challenge. Participants will work in teams to develop technology-driven solutions to real-world issues, supported by mentorship from industry experts. This event stands out due to its focus on emerging technologies and the collaborative environment it fosters among tech enthusiasts.",
+    "eligibility": "College students above the legal age of majority in their country of residence can participate.",
+    "highlights": [
+      "24-hour hackathon promoting real-world problem-solving.",
+      "Focus on emerging technologies like AI, Cloud Computing, and IoT.",
+      "Mentorship opportunities from industry experts.",
+      "A competitive platform with substantial cash prizes."
+    ],
+    "application_deadline": "2026-10-31",
+    "difficulty": "Intermediate",
+    "cost": "Paid",
+    "prize_value_usd": 900,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "hackathon",
+      "education",
+      "ai",
+      "student-driven",
+      "cloud-computing"
+    ],
+    "url": "https://minearena-1-0.devpost.com/",
+    "id": "31d8a6ac142d",
+    "last_checked": "2026-10-16T13:01:58.005488+00:00"
+  },
+  {
+    "name": "Endeavor Unfiltered ft Rajat Bhargava",
+    "organizer": "SGInnovate",
+    "companies": [
+      "JumpCloud"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Business / Economics"
+    ],
+    "fields": [
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "19 October 2026",
+    "location": "Singapore, THE MEETING POINT (73B Ayer Rajah Cres)",
+    "prize": null,
+    "summary": "Endeavor Unfiltered is a unique founder sharing session led by Rajat Bhargava, a ten-time entrepreneur known for his candid discussions on the real challenges of entrepreneurship. Unlike typical events, this session focuses on learning from failures and hard-earned lessons rather than polished success stories. Attendees will gain insights into resilience and determination from Rajat's two-decade experience in scaling companies and navigating setbacks.",
+    "eligibility": "This event is open to all entrepreneurs and those interested in the realities of building businesses.",
+    "highlights": [
+      "Candid conversation about entrepreneurship",
+      "Insights from a ten-time entrepreneur",
+      "Focus on resilience and real-world challenges",
+      "Opportunity for networking with fellow entrepreneurs"
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "entrepreneurship",
+      "singapore",
+      "networking",
+      "founders",
+      "business"
+    ],
+    "url": "https://www.sginnovate.com/event/endeavor-unfiltered-ft-rajat-bhargava-co-founder-ceo-jumpcloud",
+    "id": "c349b8612eea",
+    "last_checked": "2026-10-16T13:02:04.700498+00:00"
   }
 ]
