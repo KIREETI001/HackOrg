@@ -19564,5 +19564,185 @@
     "url": "https://www.sginnovate.com/event/endeavor-unfiltered-ft-rajat-bhargava-co-founder-ceo-jumpcloud",
     "id": "c349b8612eea",
     "last_checked": "2026-10-16T13:02:04.700498+00:00"
+  },
+  {
+    "name": "Neeley AI Forward: AI Innovation Competition",
+    "organizer": "Texas Christian University",
+    "companies": [],
+    "level": "Tertiary",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "status": "upcoming",
+    "date": "16-18 October 2026",
+    "location": "Fort Worth, Texas Christian University",
+    "prize": "1 non-cash prize valued at $10,000 for multiple winners.",
+    "summary": "The Neeley AI Forward Competition is an engaging event for TCU students to explore the potential of AI in solving business challenges. This inclusive competition welcomes participants with no prior coding experience, featuring team collaboration, hands-on workshops, and mentorship opportunities. Teams will present their innovative solutions while competing for cash prizes in a vibrant learning environment.",
+    "eligibility": "Open to TCU students only, teams must include 2 to 5 members.",
+    "highlights": [
+      "Beginner-friendly with no coding experience required.",
+      "Hands-on workshops and mentorship from industry leaders.",
+      "Focus on solving real business challenges using AI.",
+      "Opportunity to win a substantial non-cash prize."
+    ],
+    "application_deadline": "2026-10-18T14:00:00-05:00",
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": 10000,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "fort-worth",
+      "ai",
+      "tcustudents",
+      "collaboration",
+      "beginner-friendly"
+    ],
+    "url": "https://neeley-ai-forward.devpost.com/",
+    "id": "e41e8f8ebf62",
+    "last_checked": "2026-10-17T11:59:08.278407+00:00"
+  },
+  {
+    "name": "AI Hackathon - Sri Lanka",
+    "organizer": "Jaseci Labs",
+    "companies": [
+      "Apple",
+      "Google",
+      "Measurement Lab"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Sri Lanka)",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "FinTech",
+      "Social Good"
+    ],
+    "status": "completed",
+    "date": "17 October 2026",
+    "location": "University of Moratuwa, Measurements Laboratory",
+    "prize": "$1,000 in cash prizes for the top three projects.",
+    "summary": "The AI Hackathon - Sri Lanka focused on harnessing AI through the open-source Jac programming language. Held in a single day at the University of Moratuwa, teams created innovative AI-powered projects, culminating in immediate judging and prize announcements. With a supportive environment provided by Jaseci Labs, participants received guidance throughout the event, ensuring a rich and engaging experience.",
+    "eligibility": "Participants must be registered students and above the legal age of majority in their country.",
+    "highlights": [
+      "Same-day project judging with immediate winner announcements.",
+      "Hands-on support from the Jaseci team present on-site.",
+      "Free meals provided for participants throughout the day.",
+      "Open to all skill levels, fostering a welcoming atmosphere."
+    ],
+    "application_deadline": "2026-10-17T17:30:00+0530",
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": 1000,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "sri lanka",
+      "ai",
+      "hackathon",
+      "beginner-friendly",
+      "jac",
+      "jaseci"
+    ],
+    "url": "https://ai-hackathon-sl.devpost.com/",
+    "id": "1f770ae93961",
+    "last_checked": "2026-10-17T11:59:13.384831+00:00"
+  },
+  {
+    "name": "AI Hackathon - Kenya",
+    "organizer": "Jaseci Labs",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "status": "completed",
+    "date": "16-17 October 2026",
+    "location": "Virtual",
+    "prize": "No cash prizes.",
+    "summary": "The AI Hackathon - Kenya presented by Jaseci Labs invites participants to build innovative AI-powered projects utilizing the open-source Jac programming language. Held virtually, it allows participants to form teams of up to 4 members and promotes a creative atmosphere with a renowned keynote on AI innovation. This event stands out for its accessibility to all skill levels and the unique focus on leveraging the Jac framework to develop impactful applications.",
+    "eligibility": "Participants must be above the legal age of majority in their country of residence and students only.",
+    "highlights": [
+      "Free and accessible from anywhere.",
+      "Engaging keynote address on AI at the start.",
+      "Focus on building with the Jac programming language.",
+      "Opportunities for community interaction via Discord."
+    ],
+    "application_deadline": "2026-10-17",
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": 0,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "ai",
+      "hackathon",
+      "kenya",
+      "student-friendly",
+      "virtual"
+    ],
+    "url": "https://ai-hackathon-ken.devpost.com/",
+    "id": "61aa963337a1",
+    "last_checked": "2026-10-17T11:59:17.480957+00:00"
+  },
+  {
+    "name": "Edinburgh AI Hackathon 2026",
+    "organizer": "Devpost",
+    "companies": [],
+    "level": "Tertiary",
+    "timeline": "Single-day",
+    "scope": "Global",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "General Tech"
+    ],
+    "status": "completed",
+    "date": "17 October 2026",
+    "location": "Edinburgh, online",
+    "prize": "Two non-cash prizes for top entries.",
+    "summary": "The Edinburgh AI Hackathon 2026 invites participants to challenge conventional wisdom with a theme of 'Flip the Script'. Competitors are encouraged to disrupt established processes and ideas by presenting innovative solutions. The event is designed for tertiary-level students and fosters creativity in the tech space.",
+    "eligibility": "Participants must be students and above the legal age of majority in their country.",
+    "highlights": [
+      "Theme encourages creativity and innovation.",
+      "Open to students globally.",
+      "Focus on AI and technology.",
+      "Opportunity to gain recognition through non-cash prizes."
+    ],
+    "application_deadline": "2026-10-17",
+    "difficulty": "Intermediate",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": false,
+    "application_url": null,
+    "tags": [
+      "edinburgh",
+      "ai",
+      "hackathon",
+      "students",
+      "global"
+    ],
+    "url": "https://edinburgh-ai-hackathon-2026.devpost.com/",
+    "id": "d4f5db6eaee8",
+    "last_checked": "2026-10-17T11:59:21.211576+00:00"
   }
 ]
