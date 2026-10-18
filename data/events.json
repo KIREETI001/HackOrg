@@ -19744,5 +19744,97 @@
     "url": "https://edinburgh-ai-hackathon-2026.devpost.com/",
     "id": "d4f5db6eaee8",
     "last_checked": "2026-10-17T11:59:21.211576+00:00"
+  },
+  {
+    "name": "STEM2Connect AI Hackathon",
+    "organizer": "STEM2Connect",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Multi-week (1-3mo)",
+    "scope": "Global",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "Healthcare"
+    ],
+    "status": "upcoming",
+    "date": "28 October 2026",
+    "location": "Online",
+    "prize": "Two non-cash prizes and certificates for participants, along with mentorship opportunities.",
+    "summary": "The STEM2Connect AI Hackathon invites students globally to explore AI solutions over several weeks, rather than in a high-pressure weekend format. Participants can build their projects individually or in small teams, focusing on real-world problems across various relevant domains. The event emphasizes mentorship and learning, making it accessible even to those without prior coding experience.",
+    "eligibility": "Students above the legal age of majority in their country of residence can participate.",
+    "highlights": [
+      "Global participation with no requirement of prior coding experience.",
+      "Focus on learning and mentorship throughout the competition.",
+      "Covers diverse tracks including Education, Healthcare, and Sustainability.",
+      "Opportunities for further mentorship and project development post-hackathon."
+    ],
+    "application_deadline": "2026-10-28",
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": "https://stem2connect-online-hackathon.devpost.com/",
+    "tags": [
+      "hackathon",
+      "ai",
+      "global",
+      "student-friendly",
+      "healthcare",
+      "sustainability"
+    ],
+    "url": "https://stem2connect-online-hackathon.devpost.com/",
+    "id": "6a713d8f4a53",
+    "last_checked": "2026-10-18T12:27:26.207050+00:00"
+  },
+  {
+    "name": "BISV Hacks 2027",
+    "organizer": "BASIS Independent Silicon Valley",
+    "companies": [
+      "Apple",
+      "Google",
+      "Outlook"
+    ],
+    "level": "Pre-University",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Business / Economics"
+    ],
+    "fields": [
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "27 March 2027",
+    "location": "Silicon Valley, BASIS Independent Silicon Valley",
+    "prize": "Total of $250 in cash prizes for the top projects.",
+    "summary": "BISV Hacks 2027 is an exciting opportunity for high school students to tackle real-world problems through innovative coding solutions. With a focus on social justice and support for marginalized groups, participants will receive mentorship and workshops to help them develop their ideas. This event emphasizes creativity and practical problem-solving, making it a vibrant platform for young innovators.",
+    "eligibility": "High school students aged 13 to 18 can participate in this hackathon.",
+    "highlights": [
+      "Focus on social justice issues.",
+      "Guaranteed prizes and experiences for all participants.",
+      "Opportunities for mentorship and skill development.",
+      "Open-ended challenge encouraging creativity."
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": 250,
+    "beginner_friendly": true,
+    "application_url": "https://bisvhacks.com/register",
+    "tags": [
+      "hackathon",
+      "high school",
+      "social justice",
+      "beginner-friendly",
+      "innovation"
+    ],
+    "url": "https://bisv-hacks-2027.devpost.com/",
+    "id": "5bf899572bad",
+    "last_checked": "2026-10-18T12:27:32.214929+00:00"
   }
 ]
