@@ -19836,5 +19836,97 @@
     "url": "https://bisv-hacks-2027.devpost.com/",
     "id": "5bf899572bad",
     "last_checked": "2026-10-18T12:27:32.214929+00:00"
+  },
+  {
+    "name": "Build The Next Big Thing with AI - Devmarketplace",
+    "organizer": "Devmarketplace",
+    "companies": [
+      "NED University"
+    ],
+    "level": "Tertiary",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "status": "upcoming",
+    "date": "19-22 October 2026",
+    "location": "Karachi, NED University",
+    "prize": "INR 100,000 in cash for the winners.",
+    "summary": "The AI Hackathon 'Build The Next Big Thing with AI' invites students from NED University to create practical AI applications. With a focus on completing a functional product rather than an idea pitch, participants will engage in a competitive build from concept to deployment. The event emphasizes real-world application by integrating AI at its core, enabling teams to showcase working software, not just theoretical concepts.",
+    "eligibility": "Undergraduate students from NED University in relevant fields can join in teams of 2 to 4 members.",
+    "highlights": [
+      "Focus on building deployable AI applications.",
+      "Involvement of industry mentors and access to AI resources.",
+      "Emphasis on practical skills and real-time coding.",
+      "Inclusive of all students from various tech programs."
+    ],
+    "application_deadline": "2026-10-22",
+    "difficulty": "Intermediate",
+    "cost": "Free",
+    "prize_value_usd": 1200,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "karachi",
+      "ai",
+      "hackathon",
+      "student-run",
+      "tertiary"
+    ],
+    "url": "https://build-next-big-thing-with-ai.devpost.com/",
+    "id": "3b9f0f1102d7",
+    "last_checked": "2026-10-19T15:17:40.638971+00:00"
+  },
+  {
+    "name": "APAC Summit 2026",
+    "organizer": "SGInnovate",
+    "companies": [
+      "Plug and Play APAC"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Regional (Asia)",
+    "domains": [
+      "Business / Economics",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "Cybersecurity",
+      "Healthcare",
+      "Sustainability"
+    ],
+    "status": "upcoming",
+    "date": "30 October 2026",
+    "location": "Singapore, 000000",
+    "prize": "No prize structure specified.",
+    "summary": "The APAC Summit 2026 is a significant event designed to unite leaders from startups, corporations, investors, and government agencies in the Asia Pacific region. With a focus on innovation, attendees will engage in networking, panel discussions, and startup showcases aimed at fostering collaboration and investment opportunities. This event emphasizes the potential of emerging technologies and strategic partnerships across various industries, making it a vital gathering for those looking to enhance their business prospects in the region.",
+    "eligibility": "Open to all stakeholders in the innovation ecosystem, including startups, investors, and corporate leaders.",
+    "highlights": [
+      "Brings together diverse stakeholders from the innovation ecosystem.",
+      "Includes keynote speeches and panel discussions.",
+      "Opportunities for networking and business matching.",
+      "Focuses on emerging technologies and strategic partnerships."
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": null,
+    "tags": [
+      "singapore",
+      "innovation",
+      "business",
+      "networking",
+      "ai"
+    ],
+    "url": "https://www.sginnovate.com/event/apac-summit-2026",
+    "id": "83158018b448",
+    "last_checked": "2026-10-19T15:17:54.723580+00:00"
   }
 ]
