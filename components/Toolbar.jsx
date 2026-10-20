@@ -3,114 +3,105 @@
 import { Search, X, Bookmark } from "lucide-react";
 
 const TOPIC_CHIPS = [
-  { key: "ai",            label: "AI" },
-  { key: "cybersecurity", label: "Cyber" },
-  { key: "fintech",       label: "FinTech" },
-  { key: "web3",          label: "Web3" },
-  { key: "singapore",     label: "Singapore" },
-  { key: "beginner",      label: "Beginner" },
+  { key: "ai", label: "AI" },
+  { key: "cybersecurity", label: "Cybersecurity" },
+  { key: "fintech", label: "FinTech" },
+  { key: "web3", label: "Web3" },
+  { key: "healthcare", label: "Healthcare" },
+  { key: "singapore", label: "Singapore" },
+  { key: "beginner", label: "Beginner-friendly" },
 ];
 
 export default function Toolbar({
-  query,
-  onQueryChange,
-  tags,
-  onTagsChange,
-  onlyBookmarks,
-  onOnlyBookmarksChange,
-  resultCount,
-  totalCount,
-  sortBy,
-  onSortChange,
+  query, onQueryChange, tags, onTagsChange, onlyBookmarks, onOnlyBookmarksChange,
+  resultCount, totalCount, sortBy, onSortChange,
 }) {
   function toggleTag(tag) {
     const set = new Set(tags);
-    if (set.has(tag)) set.delete(tag);
-    else set.add(tag);
+    set.has(tag) ? set.delete(tag) : set.add(tag);
     onTagsChange([...set]);
   }
-
-  const hasActiveTopicChips = tags.some((t) => TOPIC_CHIPS.some((c) => c.key === t));
+  const activeTopics = tags.filter((t) => TOPIC_CHIPS.some((c) => c.key === t));
 
   return (
-    <div className="border-b border-[var(--line)] bg-[var(--card)]/30 px-4 sm:px-6 lg:px-8 py-3">
-      {/* Row 1: search + sort + bookmarks */}
-      <div className="flex items-center gap-2 mb-3">
-        <div className="relative flex-1">
-          <Search className="absolute left-3 top-1/2 -translate-y-1/2 w-4 h-4 text-[var(--muted)]" />
+    <div className="py-3 flex flex-col gap-3">
+      <div className="flex flex-wrap sm:flex-nowrap items-center gap-2">
+        <label className="relative flex-1 min-w-full sm:min-w-0">
+          <span className="sr-only">Search</span>
+          <Search className="absolute left-3.5 top-1/2 -translate-y-1/2 w-4 h-4 text-[var(--ink-3)]" aria-hidden="true" />
           <input
-            type="text"
+            type="search"
             value={query}
             onChange={(e) => onQueryChange(e.target.value)}
-            placeholder="Search events, organizers…"
-            className="w-full pl-10 pr-8 py-2 bg-[var(--bg)] border border-[var(--line)] text-[var(--paper)] text-[13px] font-mono focus:outline-none focus:border-[var(--accent)] placeholder:text-[var(--muted)]"
+            placeholder="Search by name, organiser or topic"
+            className="w-full pl-10 pr-9 py-2.5 rounded-lg bg-[var(--surface)] border border-[var(--line)] text-[15px] text-[var(--ink)] placeholder:text-[var(--ink-3)] focus:outline-none focus:border-[var(--accent)]"
           />
           {query && (
             <button
               onClick={() => onQueryChange("")}
-              className="absolute right-2 top-1/2 -translate-y-1/2 p-1 text-[var(--muted)] hover:text-[var(--paper)]"
+              className="absolute right-2 top-1/2 -translate-y-1/2 p-1.5 rounded text-[var(--ink-3)] hover:text-[var(--ink)]"
               aria-label="Clear search"
             >
-              <X className="w-3.5 h-3.5" />
+              <X className="w-4 h-4" />
             </button>
           )}
-        </div>
+        </label>
 
-        <select
-          value={sortBy}
-          onChange={(e) => onSortChange(e.target.value)}
-          className="bg-[var(--bg)] border border-[var(--line)] text-[var(--paper)] font-mono text-[11px] tracking-[0.08em] uppercase px-3 py-2 focus:outline-none focus:border-[var(--accent)] shrink-0"
-        >
-          <option value="deadline">Deadline</option>
-          <option value="prize">Prize</option>
-          <option value="name">A → Z</option>
-        </select>
+        <label className="shrink-0 flex-1 sm:flex-none">
+          <span className="sr-only">Sort by</span>
+          <select
+            value={sortBy}
+            onChange={(e) => onSortChange(e.target.value)}
+            className="w-full sm:w-auto rounded-lg bg-[var(--surface)] border border-[var(--line)] text-[15px] text-[var(--ink)] px-3 py-2.5 focus:outline-none focus:border-[var(--accent)]"
+          >
+            <option value="deadline">Soonest deadline</option>
+            <option value="prize">Biggest prize</option>
+            <option value="name">Name</option>
+          </select>
+        </label>
 
         <button
           onClick={() => onOnlyBookmarksChange(!onlyBookmarks)}
-          title="Show saved only"
-          className={`flex items-center gap-1.5 px-3 py-2 border font-mono text-[11px] tracking-[0.08em] uppercase transition duration-150 shrink-0 ${
+          aria-pressed={onlyBookmarks}
+          className={`shrink-0 flex items-center gap-2 px-3.5 py-2.5 rounded-lg border text-[15px] transition-colors ${
             onlyBookmarks
-              ? "bg-[var(--accent)] text-[var(--bg)] border-[var(--accent)]"
-              : "border-[var(--line)] text-[var(--muted)] hover:text-[var(--paper)] hover:border-[#3A3530]"
+              ? "bg-[var(--accent)] border-[var(--accent)] text-white"
+              : "bg-[var(--surface)] border-[var(--line)] text-[var(--ink)] hover:border-[var(--ink-3)]"
           }`}
         >
-          <Bookmark className="w-3 h-3" />
-          Saved
+          <Bookmark className="w-4 h-4" aria-hidden="true" />
+          <span>Saved</span>
         </button>
       </div>
 
-      {/* Row 2: topic chips + result count */}
-      <div className="flex flex-wrap items-center gap-1.5">
-        <span className="font-mono text-[9px] tracking-[0.15em] text-[var(--muted)] uppercase mr-1 shrink-0">
-          Filter
-        </span>
+      <div className="flex items-center gap-2 overflow-x-auto sm:flex-wrap -mx-1 px-1 pb-1 sm:pb-0 [scrollbar-width:none]">
         {TOPIC_CHIPS.map((t) => {
           const active = tags.includes(t.key);
           return (
             <button
               key={t.key}
               onClick={() => toggleTag(t.key)}
-              className={`font-mono text-[10px] tracking-[0.08em] uppercase px-2.5 py-1 border transition duration-150 active:scale-[0.96] ${
+              aria-pressed={active}
+              className={`shrink-0 text-[14px] px-3 py-1.5 rounded-full border transition-colors ${
                 active
-                  ? "bg-[var(--accent)] text-[var(--bg)] border-[var(--accent)]"
-                  : "text-[var(--muted)] border-[var(--line)] hover:border-[#3A3530] hover:text-[var(--paper)]"
+                  ? "bg-[var(--accent-soft)] border-[var(--accent)] text-[var(--accent)] font-medium"
+                  : "border-[var(--line)] text-[var(--ink-2)] hover:text-[var(--ink)] hover:border-[var(--ink-3)]"
               }`}
             >
-              {active ? "✓ " : ""}{t.label}
+              {t.label}
             </button>
           );
         })}
-        {hasActiveTopicChips && (
+        {activeTopics.length > 0 && (
           <button
             onClick={() => onTagsChange(tags.filter((t) => !TOPIC_CHIPS.some((c) => c.key === t)))}
-            className="font-mono text-[10px] text-[var(--urgent)] hover:opacity-75 transition-opacity ml-1"
+            className="shrink-0 text-[14px] text-[var(--accent)] hover:underline underline-offset-4 ml-1"
           >
-            × clear
+            Clear topics
           </button>
         )}
-        <span className="ml-auto font-mono text-[10px] tabular-nums text-[var(--muted)] shrink-0">
-          {resultCount} / {totalCount}
+        <span className="hidden sm:inline ml-auto text-[14px] tabular-nums text-[var(--ink-3)]">
+          Showing {resultCount} of {totalCount}
         </span>
       </div>
     </div>

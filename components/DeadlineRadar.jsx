@@ -1,57 +1,47 @@
 "use client";
 
 import { useMemo } from "react";
-import { AlertCircle } from "lucide-react";
-import { nextDeadlines, urgencyBucket, formatDate } from "@/lib/eventModel";
+import { nextDeadlines } from "@/lib/eventModel";
+import { countdownParts, niceDate, urgencyTone } from "@/lib/display";
 
-const URGENCY_STYLE = {
-  urgent: { color: "#FF8B86", border: "var(--urgent)" },
-  soon:   { color: "#FFCB7F", border: "var(--soon)" },
-  ok:     { color: "var(--accent)", border: "rgba(216,255,61,0.35)" },
-};
-
+// "Closing next": the three nearest deadlines, set as large calendar numerals.
 export default function DeadlineRadar({ events, tags = [], onSelect }) {
   const items = useMemo(() => nextDeadlines(events, { tags, limit: 3 }), [events, tags]);
-
   if (items.length === 0) return null;
 
   return (
-    <div className="mb-0 px-4 sm:px-6 lg:px-8 py-3 border-b border-[var(--line)] bg-[#0B0A08]">
-      <div className="max-w-[1280px] mx-auto flex items-center gap-3 flex-wrap">
-        <div className="flex items-center gap-1.5 shrink-0">
-          <AlertCircle className="w-3.5 h-3.5 text-[var(--urgent)]" strokeWidth={2.5} />
-          <span className="font-mono text-[9px] tracking-[0.2em] text-[var(--muted)] uppercase">
-            Closing soon
-          </span>
-        </div>
-        <div className="flex items-center gap-2 flex-wrap">
-          {items.map((e) => {
-            const bucket = urgencyBucket(e._days) || "ok";
-            const s = URGENCY_STYLE[bucket] || URGENCY_STYLE.ok;
-            return (
+    <section aria-labelledby="closing-next" className="wrap pb-10 sm:pb-14">
+      <h2 id="closing-next" className="text-[15px] font-semibold text-[var(--ink)] mb-4">
+        Closing next
+      </h2>
+      <ol className="grid grid-cols-1 md:grid-cols-3 gap-px bg-[var(--line)] border border-[var(--line)] rounded-xl overflow-hidden">
+        {items.map((e) => {
+          const c = countdownParts(e._days);
+          const tone = urgencyTone(e._days);
+          return (
+            <li key={e.id} className="bg-[var(--surface)]">
               <button
-                key={e.id}
                 onClick={() => onSelect(e)}
-                className="flex items-center gap-2 px-3 py-1.5 border transition duration-150 hover:opacity-80 active:scale-[0.98]"
-                style={{ borderColor: s.border }}
+                className="w-full h-full text-left p-5 sm:p-6 flex gap-5 items-start hover:bg-[var(--bg)] transition-colors"
               >
-                <span
-                  className="font-display text-xl tabular-nums leading-none"
-                  style={{ color: s.color, fontWeight: 600 }}
-                >
-                  {e._days}d
+                <span className="flex flex-col items-start shrink-0">
+                  <span className="num text-[64px] sm:text-[76px]" style={{ color: tone.fg }}>
+                    {c.big}
+                  </span>
+                  <span className="text-[13px] mt-2 text-[var(--ink-2)]">{c.small}</span>
                 </span>
-                <span className="font-mono text-[11px] text-[var(--paper)] max-w-[160px] truncate">
-                  {e.name}
-                </span>
-                <span className="font-mono text-[9px] text-[var(--muted)] hidden sm:inline">
-                  {formatDate(e.application_deadline ?? e.deadline)}
+                <span className="min-w-0 pt-1">
+                  <span className="block text-[17px] font-semibold leading-snug text-balance">{e.name}</span>
+                  <span className="block text-[14px] text-[var(--ink-2)] mt-1">{e.organizer}</span>
+                  <span className="block text-[13px] text-[var(--ink-3)] mt-3">
+                    Applications close {niceDate(e.application_deadline ?? e.deadline)}
+                  </span>
                 </span>
               </button>
-            );
-          })}
-        </div>
-      </div>
-    </div>
+            </li>
+          );
+        })}
+      </ol>
+    </section>
   );
 }
