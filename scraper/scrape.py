@@ -633,6 +633,12 @@ def structure_event(name: str, url: str) -> dict | None:
         parsed.setdefault("application_url", url)
         parsed.setdefault("tags", [])
 
+        # The model sometimes returns the word "null" (or a non-link) instead of JSON null,
+        # which fails runtime validation and silently pins the site to its bundled data.
+        app_url = parsed.get("application_url")
+        if not isinstance(app_url, str) or not re.match(r"^https?://", app_url.strip()):
+            parsed["application_url"] = url
+
         if isinstance(parsed.get("beginner_friendly"), str):
             parsed["beginner_friendly"] = parsed["beginner_friendly"].lower() in ("true", "yes", "1")
         if isinstance(parsed.get("prize_value_usd"), str):
