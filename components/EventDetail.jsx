@@ -1,200 +1,116 @@
 "use client";
 
-import { useEffect } from "react";
-import {
-  X,
-  ExternalLink,
-  Calendar,
-  MapPin,
-  Trophy,
-  Bookmark,
-  BookmarkCheck,
-  Clock,
-} from "lucide-react";
-import { urgencyBucket, formatDate, formatPrize } from "@/lib/eventModel";
+import { useEffect, useRef } from "react";
+import { X, Bookmark, BookmarkCheck } from "lucide-react";
+import { formatPrize } from "@/lib/eventModel";
+import { countdownParts, niceDate, tagLabel, urgencyTone } from "@/lib/display";
 
-const URGENCY = {
-  expired: { text: "var(--muted)", bg: "rgba(122,117,104,0.08)", border: "var(--line)" },
-  urgent: { text: "#FF8B86", bg: "rgba(255,95,86,0.08)", border: "var(--urgent)" },
-  soon: { text: "#FFCB7F", bg: "rgba(255,179,71,0.06)", border: "var(--soon)" },
-  ok: { text: "var(--accent)", bg: "rgba(216,255,61,0.04)", border: "rgba(216,255,61,0.4)" },
+const STATUS_TEXT = {
+  open: "Open",
+  "closing-soon": "Closing soon",
+  closed: "Closed",
+  rolling: "Rolling applications",
 };
 
 export default function EventDetail({ event, onClose, isBookmarked, onToggleBookmark }) {
+  const closeRef = useRef(null);
   useEffect(() => {
     document.body.style.overflow = "hidden";
-    return () => {
-      document.body.style.overflow = "";
-    };
+    closeRef.current?.focus();
+    return () => { document.body.style.overflow = ""; };
   }, []);
-
   useEffect(() => {
-    function onKey(e) {
-      if (e.key === "Escape") onClose();
-    }
+    const onKey = (e) => e.key === "Escape" && onClose();
     window.addEventListener("keydown", onKey);
     return () => window.removeEventListener("keydown", onKey);
   }, [onClose]);
 
   const days = event._days;
-  const bucket = urgencyBucket(days) || "ok";
-  const ub = URGENCY[bucket];
+  const c = countdownParts(days);
+  const tone = urgencyTone(days);
   const prize = formatPrize(event.prize_value_usd);
-  const deadline = event.application_deadline ?? event.deadline;
+  const deadline = niceDate(event.application_deadline ?? event.deadline);
   const applyUrl = event.application_url || event.url;
   const tagList = [...(event._tags || new Set())];
 
   return (
-    <div
-      className="fixed inset-0 z-[100] flex justify-end animate-fade-in"
-      style={{ backgroundColor: "rgba(11,10,8,0.85)" }}
-      onClick={onClose}
-    >
+    <div className="fixed inset-0 z-[100] flex justify-end animate-fade-in" style={{ backgroundColor: "var(--veil)" }} onClick={onClose}>
       <div
-        className="relative w-full sm:w-[600px] h-full bg-[var(--bg)] overflow-y-auto border-l border-[var(--line)] animate-slide-in"
+        role="dialog"
+        aria-modal="true"
+        aria-labelledby="event-title"
+        className="relative w-full sm:w-[620px] h-full bg-[var(--bg)] overflow-y-auto shadow-2xl animate-slide-in"
         onClick={(e) => e.stopPropagation()}
       >
-        {/* Header */}
-        <div className="px-6 sm:px-10 py-4 flex items-center justify-between border-b border-[var(--line)]">
-          <span className="font-mono text-[10px] tracking-[0.2em] text-[var(--muted)] uppercase">
-            Dossier
-          </span>
-          <div className="flex items-center gap-1">
-            <button
-              onClick={() => onToggleBookmark(event.id)}
-              className="p-2 hover:bg-[var(--line)] rounded transition-colors"
-              aria-label={isBookmarked ? "Remove bookmark" : "Bookmark"}
-            >
-              {isBookmarked ? (
-                <BookmarkCheck className="w-4 h-4 text-[var(--accent)] fill-[var(--accent)]" strokeWidth={2} />
-              ) : (
-                <Bookmark className="w-4 h-4 text-[var(--muted)] hover:text-[var(--paper)]" strokeWidth={2} />
-              )}
-            </button>
-            <button
-              onClick={onClose}
-              className="p-2 hover:bg-[var(--line)] rounded transition-colors"
-              aria-label="Close"
-            >
-              <X className="w-4 h-4 text-[#A8A299]" />
-            </button>
-          </div>
+        <div className="sticky top-0 z-10 bg-[var(--bg)]/95 backdrop-blur flex items-center justify-end gap-1 px-4 sm:px-8 py-3 border-b border-[var(--line)]">
+          <button
+            onClick={() => onToggleBookmark(event.id)}
+            aria-pressed={isBookmarked}
+            className="flex items-center gap-2 px-3 py-2 rounded-lg text-[14px] hover:bg-[var(--surface)] transition-colors"
+          >
+            {isBookmarked ? (
+              <><BookmarkCheck className="w-4 h-4 text-[var(--accent)] fill-[var(--accent)]" /> Saved</>
+            ) : (
+              <><Bookmark className="w-4 h-4 text-[var(--ink-2)]" /> Save</>
+            )}
+          </button>
+          <button ref={closeRef} onClick={onClose} className="p-2 rounded-lg hover:bg-[var(--surface)] transition-colors" aria-label="Close">
+            <X className="w-5 h-5 text-[var(--ink-2)]" />
+          </button>
         </div>
 
-        <div className="px-6 sm:px-10 py-6">
-          <h2 className="font-display text-3xl sm:text-4xl text-[var(--paper)] leading-tight text-balance mb-2">
+        <div className="px-6 sm:px-10 pt-8 pb-12">
+          <p className="text-[15px] text-[var(--ink-2)]">{event.organizer}</p>
+          <h2 id="event-title" className="text-[30px] sm:text-[38px] font-bold leading-[1.08] tracking-[-0.02em] text-balance mt-1" style={{ fontStretch: "92%" }}>
             {event.name}
           </h2>
-          <div className="font-mono text-[11px] tracking-[0.15em] text-[var(--accent)] uppercase mb-6">
-            {event.organizer}
+
+          <div className="mt-8 flex items-end gap-5 pb-8 border-b border-[var(--line)]">
+            <span className="num text-[96px] sm:text-[120px]" style={{ color: tone.fg }}>{c.big}</span>
+            <span className="pb-1">
+              <span className="block text-[17px] font-semibold">{c.small}</span>
+              {deadline && <span className="block text-[15px] text-[var(--ink-2)] mt-0.5">Applications close {deadline}</span>}
+            </span>
           </div>
 
-          {/* Hero deadline */}
-          {days !== null && days >= 0 && (
-            <div
-              className="mb-6 p-4 border"
-              style={{ borderColor: ub.border, backgroundColor: ub.bg }}
-            >
-              <div className="flex items-baseline gap-3 mb-1">
-                <span
-                  className="font-display text-5xl tabular-nums leading-none"
-                  style={{ color: ub.text, fontWeight: 600 }}
-                >
-                  {days}
-                </span>
-                <span className="font-mono text-[10px] tracking-[0.2em] text-[#A8A299] uppercase">
-                  {days === 0 ? "Days — today" : days === 1 ? "Day left" : "Days left"}
-                </span>
-              </div>
-              <div className="font-mono text-[10px] tracking-[0.15em] text-[var(--muted)] uppercase">
-                Application deadline — {formatDate(deadline)}
-              </div>
-            </div>
-          )}
+          <dl className="grid grid-cols-2 gap-x-6 gap-y-5 py-8 border-b border-[var(--line)]">
+            <Fact label="When" value={event.date} />
+            <Fact label="Where" value={event.location} />
+            <Fact label="Prize pool" value={prize} />
+            <Fact label="Status" value={STATUS_TEXT[event._status] || event._status} />
+          </dl>
 
-          {/* Stat grid */}
-          <div className="grid grid-cols-2 gap-x-4 gap-y-4 mb-6">
-            <Stat icon={Calendar} label="Date" value={event.date} />
-            <Stat icon={MapPin} label="Location" value={event.location} />
-            {prize && <Stat icon={Trophy} label="Prize value" value={<span style={{ color: "var(--accent)" }}>{prize}</span>} />}
-            <Stat icon={Clock} label="Status" value={event._status?.replace("-", " ")} />
-          </div>
-
-          {/* Prize text (if present) */}
-          {event.prize && (
-            <Section label="Prize">
-              <p className="text-[14px] text-[#D9D2C2] leading-relaxed text-pretty">{event.prize}</p>
-            </Section>
-          )}
-
-          {/* Summary */}
-          {event.summary && (
-            <Section label="Summary">
-              <p className="text-[14px] text-[#D9D2C2] leading-relaxed text-pretty">{event.summary}</p>
-            </Section>
-          )}
-
-          {/* Eligibility */}
-          {event.eligibility && (
-            <Section label="Eligibility">
-              <p className="text-[14px] text-[#D9D2C2] leading-relaxed text-pretty">{event.eligibility}</p>
-            </Section>
-          )}
-
-          {/* Highlights */}
-          {event.highlights && event.highlights.length > 0 && (
-            <Section label="Why this matters">
-              <ul className="space-y-2">
-                {event.highlights.map((h, i) => (
-                  <li key={i} className="flex items-start gap-3">
-                    <span className="text-[var(--accent)] font-mono text-[10px] mt-1 flex-shrink-0">
-                      {String(i + 1).padStart(2, "0")}
-                    </span>
-                    <span className="text-[14px] text-[#D9D2C2] leading-relaxed text-pretty">{h}</span>
-                  </li>
-                ))}
+          {event.summary && <Section title="What it is"><p>{event.summary}</p></Section>}
+          {event.prize && <Section title="What you can win"><p>{event.prize}</p></Section>}
+          {event.eligibility && <Section title="Who can join"><p>{event.eligibility}</p></Section>}
+          {event.highlights?.length > 0 && (
+            <Section title="Worth knowing">
+              <ul className="list-disc pl-5 space-y-2 marker:text-[var(--ink-3)]">
+                {event.highlights.map((h, i) => <li key={i}>{h}</li>)}
               </ul>
             </Section>
           )}
-
-          {/* Tags */}
           {tagList.length > 0 && (
-            <Section label="Tags">
+            <Section title="Topics">
               <div className="flex flex-wrap gap-1.5">
                 {tagList.map((t) => (
-                  <span
-                    key={t}
-                    className="font-mono text-[9px] tracking-[0.1em] uppercase px-2 py-1 bg-[var(--card)] text-[var(--muted)] border border-[var(--line)]"
-                  >
-                    #{t}
-                  </span>
+                  <span key={t} className="text-[13px] px-2.5 py-1 rounded-full border border-[var(--line)] text-[var(--ink-2)]">{tagLabel(t)}</span>
                 ))}
               </div>
             </Section>
           )}
 
-          {/* Apply */}
-          <div className="mt-8 flex flex-col sm:flex-row gap-3">
+          <div className="mt-10 flex flex-col sm:flex-row gap-3">
             {applyUrl && (
-              <a
-                href={applyUrl}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="flex items-center justify-center gap-2 px-5 py-3 bg-[var(--accent)] text-[var(--bg)] font-mono text-[11px] tracking-[0.15em] uppercase font-semibold hover:bg-[#E5FF55] active:scale-[0.97] transition duration-150"
-              >
-                <span>Apply / official site</span>
-                <ExternalLink className="w-3 h-3" />
+              <a href={applyUrl} target="_blank" rel="noopener noreferrer"
+                className="text-center px-6 py-3 rounded-lg bg-[var(--accent)] text-white text-[15px] font-semibold hover:brightness-110 transition">
+                Go to the application page
               </a>
             )}
             {event.url && event.url !== applyUrl && (
-              <a
-                href={event.url}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="flex items-center justify-center gap-2 px-5 py-3 border border-[#2A2722] text-[var(--paper)] font-mono text-[11px] tracking-[0.15em] uppercase hover:border-[#4A453B] active:scale-[0.97] transition duration-150"
-              >
-                <span>More info</span>
-                <ExternalLink className="w-3 h-3" />
+              <a href={event.url} target="_blank" rel="noopener noreferrer"
+                className="text-center px-6 py-3 rounded-lg border border-[var(--line)] bg-[var(--surface)] text-[15px] hover:border-[var(--ink-3)] transition-colors">
+                Read the event page
               </a>
             )}
           </div>
@@ -204,26 +120,21 @@ export default function EventDetail({ event, onClose, isBookmarked, onToggleBook
   );
 }
 
-function Stat({ icon: Icon, label, value }) {
+function Fact({ label, value }) {
   if (!value) return null;
   return (
     <div>
-      <div className="flex items-center gap-1.5 font-mono text-[9px] tracking-[0.15em] text-[var(--muted)] uppercase mb-1">
-        <Icon className="w-2.5 h-2.5" />
-        {label}
-      </div>
-      <div className="text-[13px] text-[var(--paper)] leading-snug">{value}</div>
+      <dt className="text-[13px] text-[var(--ink-3)]">{label}</dt>
+      <dd className="text-[15.5px] mt-1 leading-snug">{value}</dd>
     </div>
   );
 }
 
-function Section({ label, children }) {
+function Section({ title, children }) {
   return (
-    <div className="mb-5">
-      <div className="font-mono text-[10px] tracking-[0.18em] text-[var(--muted)] uppercase mb-2 pb-2 border-b border-[var(--line)]">
-        {label}
-      </div>
-      {children}
-    </div>
+    <section className="pt-7">
+      <h3 className="text-[15px] font-semibold mb-2">{title}</h3>
+      <div className="text-[16px] leading-relaxed text-[var(--ink-2)] text-pretty max-w-[60ch]">{children}</div>
+    </section>
   );
 }

@@ -2,37 +2,31 @@
 
 const TABS = [
   { key: "open", label: "Open", desc: "Registration is open" },
-  { key: "reg-closed", label: "Reg. Closed", desc: "Running but registration closed" },
-  { key: "ended", label: "Ended", desc: "Event has concluded" },
+  { key: "reg-closed", label: "Registration closed", desc: "Running, but registration has closed" },
+  { key: "ended", label: "Ended", desc: "The event has finished" },
 ];
 
 export default function StatusTabs({ counts = {}, active, onChange }) {
   return (
-    <div className="flex items-center">
+    <div role="tablist" aria-label="Event status" className="flex items-center gap-1 overflow-x-auto">
       {TABS.map((tab) => {
         const isActive = active === tab.key;
         const count = counts[tab.key] ?? 0;
         return (
           <button
             key={tab.key}
+            role="tab"
+            aria-selected={isActive}
             onClick={() => onChange(tab.key)}
             title={tab.desc}
-            className={`flex items-center gap-2 px-5 py-3.5 font-mono text-[11px] tracking-[0.12em] uppercase border-b-2 transition duration-150 ${
+            className={`flex items-center gap-2 whitespace-nowrap px-3.5 py-3 text-[15px] border-b-2 -mb-px transition-colors ${
               isActive
-                ? "border-[var(--accent)] text-[var(--paper)]"
-                : "border-transparent text-[var(--muted)] hover:text-[var(--paper)]"
+                ? "border-[var(--ink)] text-[var(--ink)] font-semibold"
+                : "border-transparent text-[var(--ink-2)] hover:text-[var(--ink)]"
             }`}
           >
             {tab.label}
-            <span
-              className={`tabular-nums text-[10px] px-1.5 py-0.5 font-mono ${
-                isActive
-                  ? "bg-[var(--accent)] text-[var(--bg)]"
-                  : "bg-[var(--line)] text-[var(--muted)]"
-              }`}
-            >
-              {count}
-            </span>
+            <span className="tabular-nums text-[13px] text-[var(--ink-3)] font-normal">{count}</span>
           </button>
         );
       })}
