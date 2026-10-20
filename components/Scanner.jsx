@@ -12,7 +12,11 @@ import { filterAndSort, statusCounts } from "@/lib/eventModel";
 import { groupOf, niceDate } from "@/lib/display";
 import { loadProfile, saveProfile, loadBookmarks, saveBookmarks } from "@/lib/storage";
 
-export default function Scanner({ events = [], meta = {} }) {
+export default function Scanner({ events = [], meta = {}, renderedAt }) {
+  // First render uses the server's clock so hydration matches the cached HTML;
+  // the visitor's clock takes over right after mount.
+  const [now, setNow] = useState(() => (renderedAt ? new Date(renderedAt) : new Date()));
+  useEffect(() => { setNow(new Date()); }, []);
   const [profileLoaded, setProfileLoaded] = useState(false);
   const [tags, setTags] = useState([]);
   const [bookmarks, setBookmarks] = useState(() => new Set());
@@ -31,10 +35,10 @@ export default function Scanner({ events = [], meta = {} }) {
   useEffect(() => { if (profileLoaded) saveProfile({ tags, onboarded: true }); }, [tags, profileLoaded]);
   useEffect(() => { if (profileLoaded) saveBookmarks(bookmarks); }, [bookmarks, profileLoaded]);
 
-  const counts = useMemo(() => statusCounts(events), [events]);
+  const counts = useMemo(() => statusCounts(events, now), [events, now]);
   const filtered = useMemo(
-    () => filterAndSort(events, { query, tags, statusBucket, onlyBookmarks, bookmarkedIds: bookmarks, sortBy }),
-    [events, query, tags, statusBucket, onlyBookmarks, bookmarks, sortBy]
+    () => filterAndSort(events, { query, tags, statusBucket, onlyBookmarks, bookmarkedIds: bookmarks, sortBy, ref: now }),
+    [events, query, tags, statusBucket, onlyBookmarks, bookmarks, sortBy, now]
   );
 
   // Deadline order reads as an agenda; other sorts stay a single list.
@@ -62,7 +66,7 @@ export default function Scanner({ events = [], meta = {} }) {
 
   return (
     <div className="min-h-screen">
-      <StaleBanner meta={meta} />
+      <StaleBanner meta={meta} now={now} />
 
       <header className="wrap pt-6 sm:pt-8 flex items-center justify-between gap-4">
         <span className="text-[19px] font-bold tracking-[-0.01em]" style={{ fontStretch: "88%" }}>HackOrg</span>
@@ -80,7 +84,7 @@ export default function Scanner({ events = [], meta = {} }) {
         </p>
       </section>
 
-      {statusBucket !== "ended" && <DeadlineRadar events={events} tags={tags} onSelect={setSelected} />}
+      {statusBucket !== "ended" && <DeadlineRadar events={events} tags={tags} onSelect={setSelected} now={now} />}
 
       <div className="sm:sticky top-0 z-30 bg-[var(--bg)] border-b border-[var(--line)] shadow-[0_1px_0_var(--line)]">
         <div className="wrap">

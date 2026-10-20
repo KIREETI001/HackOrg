@@ -5,8 +5,8 @@ import { nextDeadlines } from "@/lib/eventModel";
 import { countdownParts, niceDate, urgencyTone } from "@/lib/display";
 
 // "Closing next": the three nearest deadlines, set as large calendar numerals.
-export default function DeadlineRadar({ events, tags = [], onSelect }) {
-  const items = useMemo(() => nextDeadlines(events, { tags, limit: 3 }), [events, tags]);
+export default function DeadlineRadar({ events, tags = [], onSelect, now }) {
+  const items = useMemo(() => nextDeadlines(events, { tags, limit: 3, ref: now }), [events, tags, now]);
   if (items.length === 0) return null;
 
   return (

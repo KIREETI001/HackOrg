@@ -5,12 +5,12 @@ import { niceDate } from "@/lib/display";
 
 const STALE_THRESHOLD_HOURS = 48;
 
-export default function StaleBanner({ meta }) {
+export default function StaleBanner({ meta, now }) {
   if (!meta?.last_sweep_iso && !meta?.last_sweep_failed) return null;
   const failed = meta.last_sweep_failed === true;
   let stale = false;
   if (meta.last_sweep_iso) {
-    stale = Date.now() - new Date(meta.last_sweep_iso).getTime() > STALE_THRESHOLD_HOURS * 3600 * 1000;
+    stale = (now ? now.getTime() : Date.now()) - new Date(meta.last_sweep_iso).getTime() > STALE_THRESHOLD_HOURS * 3600 * 1000;
   }
   if (!failed && !stale) return null;
   const when = niceDate(meta.last_sweep_iso) || meta.last_sweep;
