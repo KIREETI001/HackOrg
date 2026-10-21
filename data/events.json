@@ -19928,5 +19928,50 @@
     "url": "https://www.sginnovate.com/event/apac-summit-2026",
     "id": "83158018b448",
     "last_checked": "2026-10-19T15:17:54.723580+00:00"
+  },
+  {
+    "name": "Engage 6.0 – Code with AI Hackathon",
+    "organizer": "The NorthCap University",
+    "companies": [
+      "InfraOne School of AI"
+    ],
+    "level": "Tertiary",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "status": "upcoming",
+    "date": "28 October 2026",
+    "location": "Gurugram, NCU Campus, Sector 23A",
+    "prize": "Total prize pool of Rs 1,55,000 and bootcamp enrolments for top teams.",
+    "summary": "Engage 6.0 is a unique hackathon that emphasizes teamwork and creativity over traditional coding competitions. Participants will tackle an unexpected challenge using any AI tools of their choice in a fast-paced, four-hour format. This event not only offers cash prizes but also opportunities for bootcamp enrolments and internships for the top teams, making it a great platform for aspiring tech innovators.",
+    "eligibility": "Open to all participants above the legal age of majority in their country, except in standard exceptions.",
+    "highlights": [
+      "Focus on using any AI tools for project development.",
+      "Unique surprise brief revealed on the event day.",
+      "Top teams present their projects live in front of judges.",
+      "Internship interview opportunities for the top 3 teams."
+    ],
+    "application_deadline": "2026-10-27",
+    "difficulty": "Beginner-Friendly",
+    "cost": "Paid",
+    "prize_value_usd": 1950,
+    "beginner_friendly": true,
+    "application_url": "https://engage.ncuindia.edu/",
+    "tags": [
+      "hackathon",
+      "ai",
+      "student-led",
+      "india",
+      "beginner-friendly"
+    ],
+    "url": "https://engage6.devpost.com/",
+    "id": "cfe8dee89e77",
+    "last_checked": "2026-10-21T13:27:01.265782+00:00"
   }
 ]
