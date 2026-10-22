@@ -19973,5 +19973,140 @@
     "url": "https://engage6.devpost.com/",
     "id": "cfe8dee89e77",
     "last_checked": "2026-10-21T13:27:01.265782+00:00"
+  },
+  {
+    "name": "Haunted Hacks: Realtime AI Edition",
+    "organizer": "Terse",
+    "companies": [
+      "OpenAI",
+      "Mastra",
+      "Supabase"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "status": "upcoming",
+    "date": "31 October 2026",
+    "location": "San Francisco, CA",
+    "prize": "Winners can earn various prizes including guaranteed YC interviews and OpenAI API credits.",
+    "summary": "Haunted Hacks: Realtime AI Edition invites participants to create innovative real-time AI applications during a one-day event. Attendees will collaborate in teams to showcase their ingenuity with AI technologies. The hackathon emphasizes teamwork and creativity, providing a vibrant atmosphere fueled by snacks, prizes, and Halloween spirit.",
+    "eligibility": "Participants must be at least 16 years old and work in teams of 2 to 4 members.",
+    "highlights": [
+      "Guaranteed YC interview for the best overall project.",
+      "Multiple prizes including API credits and tech devices.",
+      "In-person collaboration in a lively Halloween setting.",
+      "Focus on real-time AI application development."
+    ],
+    "application_deadline": null,
+    "difficulty": "Intermediate",
+    "cost": "Free",
+    "prize_value_usd": 6000,
+    "beginner_friendly": false,
+    "application_url": "https://haunted-hacks.devpost.com/",
+    "tags": [
+      "hackathon",
+      "ai",
+      "halloween",
+      "san-francisco",
+      "teamwork"
+    ],
+    "url": "https://haunted-hacks.devpost.com/",
+    "id": "e67e261a2672",
+    "last_checked": "2026-10-22T13:27:31.041079+00:00"
+  },
+  {
+    "name": "AI for Human Impact: A Global BASIS Hackathon",
+    "organizer": "BASIS Independent Silicon Valley",
+    "companies": [],
+    "level": "Pre-University",
+    "timeline": "Multi-week (1-3mo)",
+    "scope": "Global",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "Social Good"
+    ],
+    "status": "upcoming",
+    "date": "6-13 February 2027",
+    "location": "Online",
+    "prize": "$10,200 in cash prizes",
+    "summary": "The AI for Human Impact Hackathon invites BASIS high school students to develop innovative AI solutions aimed at improving health, education, accessibility, and sustainability. Participants work in teams to create projects that must involve real users to ensure they truly address genuine needs. The event features expert judges and is designed to support beginners without any prior AI experience.",
+    "eligibility": "Open to high school students aged 13 to 19 from BASIS campuses globally.",
+    "highlights": [
+      "Collaborative format with teams of 2-4 members",
+      "Focus on real-world applications and user involvement",
+      "Expert mentors and workshops available",
+      "Beginner-friendly, with no prior AI experience required"
+    ],
+    "application_deadline": "2027-01-16",
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": 10200,
+    "beginner_friendly": true,
+    "application_url": "https://basisglobalhackathon.devpost.com/",
+    "tags": [
+      "global",
+      "ai",
+      "highschool",
+      "student-run",
+      "beginner-friendly"
+    ],
+    "url": "https://basisglobalhackathon.devpost.com/",
+    "id": "590323be03a8",
+    "last_checked": "2026-10-22T13:27:44.125174+00:00"
+  },
+  {
+    "name": "Stack Conference 2026",
+    "organizer": "SGInnovate",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Regional (Asia)",
+    "domains": [
+      "Business / Economics",
+      "Computer Science"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "Cybersecurity"
+    ],
+    "status": "upcoming",
+    "date": "4-5 November 2026",
+    "location": "Kuala Lumpur, Singapore, Sand Expo and Convention Centre",
+    "prize": "N/A",
+    "summary": "The Stack Conference 2026 is designed for leaders and practitioners across the public and private sectors, aiming to leverage technology for innovative solutions. With an emphasis on collaboration among industry experts, software developers, and CIOs, this event offers a platform for exchanging ideas related to digital transformation. The 2024 conference saw over 1,900 attendees, and expectations are high for even greater participation this year.",
+    "eligibility": "Open to public and private sector leaders, practitioners, and partners.",
+    "highlights": [
+      "Focuses on innovative technologies like AI and cybersecurity.",
+      "Brings together a diverse group of industry experts and leaders.",
+      "Offers networking opportunities with key stakeholders.",
+      "Encourages sharing of practical solutions on digital transformation."
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Paid",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": "https://go.gov.sg/stackcon26-sginnovate",
+    "tags": [
+      "conference",
+      "technology",
+      "ai",
+      "cybersecurity",
+      "singapore"
+    ],
+    "url": "https://www.sginnovate.com/event/stack-conference-2026",
+    "id": "e1d9968833e8",
+    "last_checked": "2026-10-22T13:27:56.435127+00:00"
   }
 ]
