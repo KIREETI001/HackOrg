@@ -20108,5 +20108,239 @@
     "url": "https://www.sginnovate.com/event/stack-conference-2026",
     "id": "e1d9968833e8",
     "last_checked": "2026-10-22T13:27:56.435127+00:00"
+  },
+  {
+    "name": "UGREEN Hackathon 2026 on AI NAS",
+    "organizer": "UGREEN",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Multi-week (1-3mo)",
+    "scope": "Global",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "9-15 November 2026",
+    "location": "Remote",
+    "prize": "$46,000 in cash prizes distributed among winners.",
+    "summary": "The UGREEN Hackathon 2026 invites developers to showcase their skills by creating AI applications on their unique UGREEN AI NAS platform. Participants can compete in various tracks, bringing innovative automation or media solutions. The hackathon emphasizes creativity and collaboration, providing finalists access to real hardware for testing their ideas.",
+    "eligibility": "Open to anyone above the legal age of majority in their country, with certain countries excluded from participation.",
+    "highlights": [
+      "Compete for $46,000 in cash prizes.",
+      "No UGREEN NAS needed for initial entry.",
+      "Finalists gain free access to UGREEN hardware for testing.",
+      "Various tracks to cater to different interests and skills."
+    ],
+    "application_deadline": "2026-11-15",
+    "difficulty": "Intermediate",
+    "cost": "Free",
+    "prize_value_usd": 46000,
+    "beginner_friendly": true,
+    "application_url": "https://ugreenhackathon.devpost.com/",
+    "tags": [
+      "hackathon",
+      "ai",
+      "sg",
+      "global",
+      "innovation"
+    ],
+    "url": "https://ugreenhackathon.devpost.com/",
+    "id": "2b3985b6a3c8",
+    "last_checked": "2026-10-23T13:04:46.015717+00:00"
+  },
+  {
+    "name": "SpartHill Hacks 2026: IBM AI Challenge",
+    "organizer": "San José State University",
+    "companies": [
+      "IBM"
+    ],
+    "level": "Tertiary",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Global",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "Social Good"
+    ],
+    "status": "upcoming",
+    "date": "23-24 October 2026",
+    "location": "San José, Spartan Complex",
+    "prize": "Three non-cash prizes including exclusive IBM swag kits and networking opportunities.",
+    "summary": "SpartHill Hacks 2026 invites students to craft AI solutions with a focus on ethical responsibility and sustainability. Participants will address real-world challenges during this interdisciplinary hackathon, supported by IBM's resources and mentorship. The event aims to foster creativity and technical excellence in building AI-powered prototypes that enhance community and business functionalities.",
+    "eligibility": "Open to all registered students above the legal age of majority in their country.",
+    "highlights": [
+      "Focus on responsible AI solutions with social impact.",
+      "Opportunity for networking with IBM executives.",
+      "Inclusive environment welcoming first-time hackers and all skill levels.",
+      "Assessment based on innovation, technical execution, and real-world impact."
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": "https://sparthill-ibm-2026.devpost.com/",
+    "tags": [
+      "ai",
+      "sustainability",
+      "student-run",
+      "hackathon",
+      "beginner-friendly"
+    ],
+    "url": "https://sparthill-ibm-2026.devpost.com/",
+    "id": "c1b83d64becc",
+    "last_checked": "2026-10-23T13:04:52.947265+00:00"
+  },
+  {
+    "name": "Ship It: The Product Builders' Hackathon",
+    "organizer": "Mixpanel",
+    "companies": [
+      "Replit",
+      "ProductX",
+      "Women in Product"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (USA)",
+    "domains": [
+      "Computer Science",
+      "Business / Economics"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "5 November 2026",
+    "location": "San Francisco, Mixpanel HQ",
+    "prize": "Every member of the winning team receives a $200 gift card and a LinkedIn certificate.",
+    "summary": "Ship It is a unique hackathon designed for experienced professionals to rapidly develop a product prototype in just three hours. Participants will leverage tools from Replit and Mixpanel to create, measure, and present their project in a competitive yet supportive environment. This event focuses on real-world product building skills while offering networking opportunities with industry leaders.",
+    "eligibility": "Professionals and postgraduates in the US are eligible to join.",
+    "highlights": [
+      "Rapid prototyping with leading tech tools",
+      "Expert guidance from industry leaders",
+      "Small, selective teams for better collaboration",
+      "Includes dinner and drinks for all participants"
+    ],
+    "application_deadline": null,
+    "difficulty": "Intermediate",
+    "cost": "Free",
+    "prize_value_usd": 200,
+    "beginner_friendly": false,
+    "application_url": "https://ship-it-hackathon.devpost.com/",
+    "tags": [
+      "hackathon",
+      "ai",
+      "product-development",
+      "professional",
+      "san-francisco"
+    ],
+    "url": "https://ship-it-hackathon.devpost.com/",
+    "id": "bdad81f00513",
+    "last_checked": "2026-10-23T13:04:58.819654+00:00"
+  },
+  {
+    "name": "NVIDIA Certification: Your Roadmap Across the AI Stack",
+    "organizer": "SGInnovate",
+    "companies": [
+      "NVIDIA"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "status": "upcoming",
+    "date": "19 November 2026",
+    "location": "Online, Kuala Lumpur, Singapore",
+    "prize": "50% discount code for certification exam",
+    "summary": "This event serves as a comprehensive introduction to the NVIDIA Certification roadmap tailored for those interested in AI. It caters to a variety of professionals, including developers and students, and highlights new certification pathways. Participants can engage directly with experts to clarify their doubts and understand the certification process better.",
+    "eligibility": "Open to developers, infrastructure professionals, students, and technical leaders interested in AI certifications.",
+    "highlights": [
+      "Direct insights on NVIDIA Certification roadmap.",
+      "Opportunities to ask questions live.",
+      "Focuses on new AI Model and App Development certifications.",
+      "Includes a significant discount on certification exams."
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": "https://www.sginnovate.com/event/nvidia-certification-your-roadmap-across-ai-stack",
+    "tags": [
+      "nvidia",
+      "ai",
+      "certification",
+      "webinar",
+      "singapore"
+    ],
+    "url": "https://www.sginnovate.com/event/nvidia-certification-your-roadmap-across-ai-stack",
+    "id": "3313b81a3570",
+    "last_checked": "2026-10-23T13:05:05.500109+00:00"
+  },
+  {
+    "name": "AI Deployment Workshop for Wealth Management Leaders",
+    "organizer": "SGInnovate",
+    "companies": [
+      "Singapore FinTech Association",
+      "JDI",
+      "Keenai",
+      "TOTM.AI",
+      "NVIDIA AI Technology Centre"
+    ],
+    "level": "Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Business / Economics",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "FinTech"
+    ],
+    "status": "upcoming",
+    "date": "2 November 2026",
+    "location": "Singapore, 80 Robinson Road #08-01",
+    "prize": null,
+    "summary": "The AI Deployment Workshop is a specialized event targeting wealth management leaders who seek to advance their AI initiatives. It emphasizes actionable strategies and peer discussions to convert AI opportunities into deployment plans. Participants will work through real-world use cases in a collaborative environment, ensuring that insights lead to practical implementation steps.",
+    "eligibility": "This workshop is designed for wealth management and private banking leaders at various organizational levels.",
+    "highlights": [
+      "Hands-on sessions to redesign workflows with expert facilitators.",
+      "Assess AI use cases across dimensions like ROI and Data.",
+      "Collaborate with peers to discuss and solve AI challenges.",
+      "Focus on actionable insights and practical next steps for AI implementation."
+    ],
+    "application_deadline": null,
+    "difficulty": "Intermediate",
+    "cost": "Varies",
+    "prize_value_usd": null,
+    "beginner_friendly": false,
+    "application_url": "https://www.sginnovate.com/event/ai-deployment-workshop-wealth-management-leaders",
+    "tags": [
+      "workshop",
+      "fintech",
+      "AI",
+      "wealth management",
+      "singapore",
+      "professional"
+    ],
+    "url": "https://www.sginnovate.com/event/ai-deployment-workshop-wealth-management-leaders",
+    "id": "f58f5f2673cd",
+    "last_checked": "2026-10-23T13:05:14.913440+00:00"
   }
 ]
