@@ -20342,5 +20342,203 @@
     "url": "https://www.sginnovate.com/event/ai-deployment-workshop-wealth-management-leaders",
     "id": "f58f5f2673cd",
     "last_checked": "2026-10-23T13:05:14.913440+00:00"
+  },
+  {
+    "name": "AI in Healthcare Hackathon",
+    "organizer": "Leeds AI Society",
+    "companies": [
+      "University of Leeds",
+      "OpenAI",
+      "UKRI Centres for Doctoral Training",
+      "Leeds Institute for Data Analytics"
+    ],
+    "level": "Tertiary",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "Healthcare"
+    ],
+    "status": "upcoming",
+    "date": "24-25 October 2026",
+    "location": "Leeds, University of Leeds - Helix Public",
+    "prize": "£800 in cash prizes for top teams.",
+    "summary": "The AI in Healthcare Hackathon invites participants to develop AI solutions addressing real healthcare challenges during Leeds AI Week. Teams of 3 to 4 members are encouraged to explore innovative methods to tackle selected healthcare issues through technology. The event features workshops, mentorship, and the opportunity to compete for cash prizes, fostering collaboration and creativity in a vital industry.",
+    "eligibility": "Participants must be of legal age in their country and form teams of 3 to 4 members.",
+    "highlights": [
+      "Build AI solutions addressing healthcare problems.",
+      "Workshops with industry experts, including OpenAI.",
+      "Networking opportunities with peers and professionals.",
+      "Prizes for creativity, technical sophistication, and responsible data use."
+    ],
+    "application_deadline": "2026-10-25T11:30:00Z",
+    "difficulty": "Intermediate",
+    "cost": "Free",
+    "prize_value_usd": 970,
+    "beginner_friendly": true,
+    "application_url": "https://leeds-ai-hackathon.devpost.com/",
+    "tags": [
+      "healthcare",
+      "ai",
+      "hackathon",
+      "leeds",
+      "student-run",
+      "intermediate"
+    ],
+    "url": "https://leeds-ai-hackathon.devpost.com/",
+    "id": "ffdc8030be78",
+    "last_checked": "2026-10-24T12:27:25.399394+00:00"
+  },
+  {
+    "name": "Sydney Mobile AI Hackathon",
+    "organizer": "Devpost",
+    "companies": [
+      "Apple",
+      "Google",
+      "ElevenLabs",
+      "SCX"
+    ],
+    "level": "Secondary",
+    "timeline": "Single-day",
+    "scope": "Local",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "Mobile"
+    ],
+    "status": "upcoming",
+    "date": "23-25 October 2026",
+    "location": "Sydney, Level 3, 20 Martin Place",
+    "prize": "Non-cash prizes including Mac minis and credits for SCX and ElevenLabs services.",
+    "summary": "The Sydney Mobile AI Hackathon invites developers, designers, and creators to innovate and build AI-native applications for Apple platforms over a weekend. Participants will work in teams, from ideation to prototype, with opportunities for mentorship and collaboration. This event emphasizes hands-on development and community impact, ensuring participants leave with tangible projects.",
+    "eligibility": "Participants must be aged 13 and older, and registration is application-based.",
+    "highlights": [
+      "Intensive hands-on weekend focused on building AI apps.",
+      "Collaboration with industry partners and experienced mentors.",
+      "Opportunities for social impact through community-oriented projects.",
+      "Non-cash prizes supporting further innovation and development."
+    ],
+    "application_deadline": "2026-10-25",
+    "difficulty": "Beginner-Friendly",
+    "cost": "Paid",
+    "prize_value_usd": 0,
+    "beginner_friendly": true,
+    "application_url": "https://luma.com/apple-ai-hackathon",
+    "tags": [
+      "sydney",
+      "ai",
+      "mobile",
+      "beginner-friendly",
+      "hackathon"
+    ],
+    "url": "https://sydney-mobile-ai-hackathon.devpost.com/",
+    "id": "bc98f85c40b9",
+    "last_checked": "2026-10-24T12:27:31.861728+00:00"
+  },
+  {
+    "name": "2026 AI for Good Hackathon",
+    "organizer": "The Link",
+    "companies": [
+      "The Performance Academy",
+      "Dreams Come True",
+      "UNF",
+      "Hugging Face"
+    ],
+    "level": "Tertiary",
+    "timeline": "Single-day",
+    "scope": "Local (USA)",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "status": "completed",
+    "date": "25 October 2026",
+    "location": "Ponte Vedra Beach, The Link",
+    "prize": "Three non-cash prizes awarded to top teams with gift cards totaling $1,300.",
+    "summary": "The 2026 AI for Good Hackathon is an intensive 48-hour event focused on developing AI solutions for social good, specifically addressing issues related to Youth Resilience and Wellbeing. Participants collaborate in teams to tackle real-world data challenges while receiving mentorship from industry experts. The event culminates in a competitive pitch session where winners are announced based on their innovative solutions.",
+    "eligibility": "College students of legal age in their country of residence can participate in teams of 2-3 members.",
+    "highlights": [
+      "Intensive 48-hour hackathon format",
+      "Collaborative projects focused on social good",
+      "Mentorship from industry experts",
+      "Opportunity to win gift cards for top teams"
+    ],
+    "application_deadline": "2026-10-25",
+    "difficulty": "Intermediate",
+    "cost": "Free",
+    "prize_value_usd": 1300,
+    "beginner_friendly": true,
+    "application_url": "https://2026ai4goodhackathon.devpost.com/",
+    "tags": [
+      "ai",
+      "hackathon",
+      "social good",
+      "college students",
+      "machine learning"
+    ],
+    "url": "https://2026ai4goodhackathon.devpost.com/",
+    "id": "164eaf5af402",
+    "last_checked": "2026-10-24T12:27:37.698622+00:00"
+  },
+  {
+    "name": "Agent Builders Hackathon",
+    "organizer": "Omnara",
+    "companies": [
+      "Omnara",
+      "Supabase",
+      "Stripe",
+      "Exa",
+      "Freestyle",
+      "context.dev"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Global",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "General Tech"
+    ],
+    "status": "completed",
+    "date": "24 October 2026",
+    "location": "Remote, Primitive Space",
+    "prize": "Three non-cash prizes awarded for top projects using agents.",
+    "summary": "The Agent Builders Hackathon invites participants to create innovative projects that integrate agent technology. Held on a single day, participants must deploy functional applications that others can use, emphasizing practicality and usability. The event also offers various credits and resources to help teams build and launch their projects effectively.",
+    "eligibility": "Individuals above the legal age of majority in their country of residence can participate, limited to the US.",
+    "highlights": [
+      "Single-day hackathon focused on deploying innovative agent-based projects.",
+      "Significant prizes in the form of model credits from various tech partners.",
+      "Opportunity to utilize extensive support and resources from sponsors.",
+      "Encourages creativity and practical application in technology solutions."
+    ],
+    "application_deadline": null,
+    "difficulty": "Intermediate",
+    "cost": "Free",
+    "prize_value_usd": 20000,
+    "beginner_friendly": false,
+    "application_url": "https://agent-builders-hackathon.devpost.com/",
+    "tags": [
+      "hackathon",
+      "ai",
+      "agent-technology",
+      "innovation",
+      "us-only"
+    ],
+    "url": "https://agent-builders-hackathon.devpost.com/",
+    "id": "8c451020918f",
+    "last_checked": "2026-10-24T12:27:43.996698+00:00"
   }
 ]
