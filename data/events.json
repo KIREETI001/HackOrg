@@ -20540,5 +20540,53 @@
     "url": "https://agent-builders-hackathon.devpost.com/",
     "id": "8c451020918f",
     "last_checked": "2026-10-24T12:27:43.996698+00:00"
+  },
+  {
+    "name": "Hack for Social Impact SF 2026",
+    "organizer": "Wefunder",
+    "companies": [
+      "Apple",
+      "Google",
+      "Bild AI"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "Social Good"
+    ],
+    "status": "completed",
+    "date": "24-25 October 2026",
+    "location": "San Francisco, Wefunder",
+    "prize": "$5,000 in cash and project grants for winners",
+    "summary": "The Hack for Social Impact SF 2026 is a dynamic two-day hackathon that brings together top engineers and data scientists to tackle pressing social issues for mission-driven organizations. Set in San Francisco, participants work in teams to develop deployable solutions addressing specific problem statements provided by leading non-profits. The event not only fosters innovation but also opens pathways for participants to collaborate with these organizations beyond the hackathon.",
+    "eligibility": "Participants must be above the legal age of majority in their country of residence and based in the US.",
+    "highlights": [
+      "Focuses on real-world problem solving with mission-based organizations.",
+      "Participants eligible for project grants to further their solutions.",
+      "Opportunity to collaborate with prominent non-profits post-event.",
+      "Supports community-driven social impact through technology."
+    ],
+    "application_deadline": "2026-10-25",
+    "difficulty": "Beginner-Friendly",
+    "cost": "Paid",
+    "prize_value_usd": 5000,
+    "beginner_friendly": true,
+    "application_url": "https://hack-for-social-impact-sf-2026.devpost.com/",
+    "tags": [
+      "hackathon",
+      "social impact",
+      "ai",
+      "san francisco",
+      "beginner-friendly"
+    ],
+    "url": "https://hack-for-social-impact-sf-2026.devpost.com/",
+    "id": "82efe5877c04",
+    "last_checked": "2026-10-25T12:58:02.726809+00:00"
   }
 ]
