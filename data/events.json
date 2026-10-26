@@ -20588,5 +20588,147 @@
     "url": "https://hack-for-social-impact-sf-2026.devpost.com/",
     "id": "82efe5877c04",
     "last_checked": "2026-10-25T12:58:02.726809+00:00"
+  },
+  {
+    "name": "Hack With Karthik",
+    "organizer": "Al-Amen",
+    "companies": [
+      "Apple",
+      "Google",
+      "Outlook"
+    ],
+    "level": "Tertiary",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Humanities"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "status": "upcoming",
+    "date": "30 October – 1 November 2026",
+    "location": "Not specified, Al-Amen",
+    "prize": "₹ 0 in prizes, primarily focuses on app development for students.",
+    "summary": "Hack With Karthik is an engaging hackathon aimed at college students, encouraging them to devise innovative applications using AI tools. Participants are required to work in teams, fostering collaboration and creative problem-solving focused on real-world student challenges. Although it features no monetary prizes, this event offers a unique chance to build impactful projects within a supportive environment.",
+    "eligibility": "Only Al-Amen students aged 18 and above may participate.",
+    "highlights": [
+      "Focus on creating apps that help students.",
+      "Involves teamwork and collaboration.",
+      "Targets innovative uses of AI tools.",
+      "Opportunity to earn specific achievements through submissions."
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": 0,
+    "beginner_friendly": true,
+    "application_url": "https://hack-with-karthik.devpost.com/",
+    "tags": [
+      "hackathon",
+      "AI",
+      "student-apps",
+      "Singapore",
+      "collaboration"
+    ],
+    "url": "https://hack-with-karthik.devpost.com/",
+    "id": "328554aa5415",
+    "last_checked": "2026-10-26T14:51:14.160409+00:00"
+  },
+  {
+    "name": "SanD Hacks",
+    "organizer": "CSE Society at UC San Diego",
+    "companies": [
+      "Bright Data",
+      "ElevenLabs",
+      "Neon",
+      "Figma",
+      "SpaceX AI",
+      "The Basement at UC San Diego"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "14-15 November 2026",
+    "location": "San Diego, Qualcomm Conference Room, Jacobs Hall, UCSD",
+    "prize": "Non-cash prizes including monitors and Bluetooth speakers for winning teams.",
+    "summary": "SanD Hacks is an exciting student hackathon aimed at software development enthusiasts. Set to take place over 26 hours, participants can form teams to tackle creative and impactful projects. With several tracks available, including innovative and data-driven challenges, this hackathon provides a platform for students to showcase their technical skills and creativity while engaging with industry mentors.",
+    "eligibility": "Participants must be above the legal age of majority in their country of residence.",
+    "highlights": [
+      "Open to participants from any school and any level.",
+      "Includes free meals and snacks throughout the event.",
+      "Offers workshops and credits from various tech companies.",
+      "Judging is based on creativity, technical execution, and problem-solving."
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": "https://sand-hacks-26.devpost.com/",
+    "tags": [
+      "hackathon",
+      "software development",
+      "AI",
+      "student event",
+      "San Diego"
+    ],
+    "url": "https://sand-hacks-26.devpost.com/",
+    "id": "ab4a48b71e60",
+    "last_checked": "2026-10-26T14:51:21.972215+00:00"
+  },
+  {
+    "name": "Tin Men Founders School: Media Preparation for B2B Tech Startups",
+    "organizer": "Tin Men Capital",
+    "companies": [
+      "ACID Communications"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Business / Economics"
+    ],
+    "fields": [
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "4 November 2026",
+    "location": "Kuala Lumpur, Singapore, The Meeting Point @ JTC Launchpad",
+    "prize": null,
+    "summary": "The Tin Men Founders School aims to empower B2B tech founders with essential media engagement skills. Focusing on storytelling and interview techniques, this session offers actionable insights into navigating the competitive startup landscape. Founders will learn to craft compelling narratives and engage effectively with media. This event is perfect for those looking to enhance their visibility and credibility within the industry.",
+    "eligibility": "Open to B2B tech founders and operators seeking to improve their media engagement skills.",
+    "highlights": [
+      "Hands-on session with practical interview techniques.",
+      "Insights into what journalists seek in startup stories.",
+      "Live teardown of media interviews for in-depth learning.",
+      "Focus on building credibility with stakeholders."
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": "https://www.sginnovate.com/event/tin-men-founders-school-media-preparation-b2b-tech-startups",
+    "tags": [
+      "b2b",
+      "media",
+      "founders",
+      "entrepreneurship",
+      "singapore"
+    ],
+    "url": "https://www.sginnovate.com/event/tin-men-founders-school-media-preparation-b2b-tech-startups",
+    "id": "689d78d4d1bd",
+    "last_checked": "2026-10-26T14:51:32.215601+00:00"
   }
 ]
