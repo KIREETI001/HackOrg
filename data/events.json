@@ -20730,5 +20730,144 @@
     "url": "https://www.sginnovate.com/event/tin-men-founders-school-media-preparation-b2b-tech-startups",
     "id": "689d78d4d1bd",
     "last_checked": "2026-10-26T14:51:32.215601+00:00"
+  },
+  {
+    "name": "Solix AI Hackathon 2026",
+    "organizer": "Solix Technologies",
+    "companies": [
+      "Apple",
+      "Google",
+      "Qualcomm"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (US)",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "status": "upcoming",
+    "date": "28 October 2026",
+    "location": "San Diego, Qualcomm Institute",
+    "prize": "$48,000 in prizes awarded across six tracks.",
+    "summary": "The Solix AI Hackathon 2026 emphasizes innovation in artificial intelligence, challenging participants to create impactful projects in a single day. With multiple tracks focusing on real-world applications like healthcare and social good, the hackathon encourages creativity and technical prowess. Participants not only compete for substantial prizes but also gain insights from industry experts through networking opportunities following the event.",
+    "eligibility": "Participants must be students above the legal age of majority in the US.",
+    "highlights": [
+      "Diverse tracks focusing on real-world AI applications.",
+      "Opportunity to win cash prizes and academy credits.",
+      "Judged by industry professionals.",
+      "In-person event fostering collaboration and networking."
+    ],
+    "application_deadline": "2026-10-28",
+    "difficulty": "Intermediate",
+    "cost": "Paid",
+    "prize_value_usd": 48000,
+    "beginner_friendly": true,
+    "application_url": "https://solix-ai-hackathon-2026.devpost.com/",
+    "tags": [
+      "ai",
+      "hackathon",
+      "innovation",
+      "solix",
+      "student"
+    ],
+    "url": "https://solix-ai-hackathon-2026.devpost.com/",
+    "id": "8cc5c48f226a",
+    "last_checked": "2026-10-27T13:58:22.267880+00:00"
+  },
+  {
+    "name": "Meta VR Start Developer Competition 2026",
+    "organizer": "Meta",
+    "companies": [
+      "Devpost"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Multi-week (1-3mo)",
+    "scope": "Global",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "General Tech",
+      "AR/VR"
+    ],
+    "status": "upcoming",
+    "date": "9 September - 18 November 2026",
+    "location": "Online",
+    "prize": "$1,000,000 in cash prizes distributed across various categories.",
+    "summary": "The Meta VR Start Developer Competition 2026 invites developers to create innovative VR applications for Meta devices with a total prize pool of $1 million. Developers can participate in crafting experiences in three tracks: Entertainment, Gaming, and Productivity. This year's competition emphasizes building hands-first apps, enhancing how users interact with VR technology, and leveraging cutting-edge AI tools.",
+    "eligibility": "Participants must be of legal age in their country of residence.",
+    "highlights": [
+      "Compete for a total of $1 million in cash prizes.",
+      "Focus on building VR experiences that utilize hand interactions.",
+      "Engage with a global community of developers through mentorship and collaboration.",
+      "Categories for prizes include Best New Experience and Best Adapted Experience across gaming and productivity."
+    ],
+    "application_deadline": "2026-11-18",
+    "difficulty": "Intermediate",
+    "cost": "Free",
+    "prize_value_usd": 1000000,
+    "beginner_friendly": true,
+    "application_url": "https://start-developer-competition-26.devpost.com/",
+    "tags": [
+      "vr",
+      "hackathon",
+      "developer",
+      "gaming",
+      "ai",
+      "innovation"
+    ],
+    "url": "https://start-developer-competition-26.devpost.com/",
+    "id": "94dab5c02b7e",
+    "last_checked": "2026-10-27T13:58:31.308252+00:00"
+  },
+  {
+    "name": "From Sustainability Reporting to Green Building Opportunities: A Practical Guide for Product Suppliers",
+    "organizer": "SGInnovate",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Business / Economics",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "Sustainability",
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "4 November 2026",
+    "location": "Singapore, 32 Carpenter Street, 059911",
+    "prize": null,
+    "summary": "This workshop focuses on sustainability reporting and green building opportunities for product suppliers. Participants will engage with industry experts to learn about environmental performance standards and certifications. The event aims to enhance understanding of sustainable practices, helping businesses to adapt to evolving customer demands and regulatory requirements. It promises practical insights and actionable strategies for improving product credibility and market competitiveness.",
+    "eligibility": "Open to product manufacturers and suppliers interested in sustainability practices.",
+    "highlights": [
+      "Industry experts sharing insights on sustainability reporting",
+      "Focus on practical applications for green building projects",
+      "Opportunity to network with professionals in the field",
+      "Interactive sessions including case studies and Q&A"
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": "https://www.sginnovate.com/event/sustainability-reporting-green-building-opportunities-practical-guide-product-suppliers",
+    "tags": [
+      "sustainability",
+      "green building",
+      "workshop",
+      "Singapore",
+      "business"
+    ],
+    "url": "https://www.sginnovate.com/event/sustainability-reporting-green-building-opportunities-practical-guide-product-suppliers",
+    "id": "dfba8f57ba49",
+    "last_checked": "2026-10-27T13:58:42.209283+00:00"
   }
 ]
