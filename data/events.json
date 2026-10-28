@@ -20869,5 +20869,95 @@
     "url": "https://www.sginnovate.com/event/sustainability-reporting-green-building-opportunities-practical-guide-product-suppliers",
     "id": "dfba8f57ba49",
     "last_checked": "2026-10-27T13:58:42.209283+00:00"
+  },
+  {
+    "name": "Build Your First AI App",
+    "organizer": "Yasir Insights",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Multi-month (3-6mo)",
+    "scope": "Global",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "status": "upcoming",
+    "date": "27 October - 27 November 2026",
+    "location": "Online",
+    "prize": "Participants receive a digital Certificate of Participation and recognition for outstanding projects.",
+    "summary": "The 'Build Your First AI App' hackathon invites beginner developers to create AI applications that address real-world problems. With a focus on hands-on learning, participants can explore a variety of project ideas such as chatbots and productivity tools. This beginner-friendly competition provides resources and support without any cost to join, making it accessible for aspiring developers worldwide.",
+    "eligibility": "Eligible participants include students above the legal age of majority in their respective countries.",
+    "highlights": [
+      "Beginner-friendly event encouraging first-time developers.",
+      "Participants can work individually or in teams.",
+      "Free to join with no costs for tools or API access.",
+      "Focus on learning through practical project development."
+    ],
+    "application_deadline": "2026-11-27",
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": "https://build-your-first-ai-app.devpost.com/",
+    "tags": [
+      "ai",
+      "beginners",
+      "hackathon",
+      "online",
+      "student-run"
+    ],
+    "url": "https://build-your-first-ai-app.devpost.com/",
+    "id": "c4803cbb061c",
+    "last_checked": "2026-10-28T14:51:44.197823+00:00"
+  },
+  {
+    "name": "Explore the power of AI Videos with HeyGen & OpenBuilder",
+    "organizer": "SGInnovate",
+    "companies": [
+      "HeyGen",
+      "OpenBuilder"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Business / Economics"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "4 November 2026",
+    "location": "Kuala Lumpur, Singapore, 32 Carpenter Street, 059911",
+    "prize": "Attendance is complimentary with limited registration approval.",
+    "summary": "This event focuses on the transformative potential of AI in video production, showcasing how it enables organizations to create engaging video content more efficiently. Participants will benefit from live demonstrations, expert insights, and networking opportunities with leaders in the industry. It's an ideal setting for anyone interested in the intersection of AI technology and video communication.",
+    "eligibility": "Open to founders, marketing leaders, developers, and business professionals interested in leveraging AI video.",
+    "highlights": [
+      "Showcase of the latest developments in AI video technology",
+      "Live demonstrations by community members",
+      "Q&A session with industry experts",
+      "Networking opportunities with professionals across sectors"
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": "https://www.sginnovate.com/event/explore-power-ai-videos-heygen-openbuilder",
+    "tags": [
+      "singapore",
+      "ai",
+      "video",
+      "networking",
+      "open-event"
+    ],
+    "url": "https://www.sginnovate.com/event/explore-power-ai-videos-heygen-openbuilder",
+    "id": "248a3126b475",
+    "last_checked": "2026-10-28T14:51:54.524263+00:00"
   }
 ]
