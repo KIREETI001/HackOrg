@@ -20959,5 +20959,52 @@
     "url": "https://www.sginnovate.com/event/explore-power-ai-videos-heygen-openbuilder",
     "id": "248a3126b475",
     "last_checked": "2026-10-28T14:51:54.524263+00:00"
+  },
+  {
+    "name": "Codex x TwitchCon Hackathon",
+    "organizer": "Devpost",
+    "companies": [
+      "OpenAI",
+      "Twitch"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Global",
+    "domains": [
+      "Computer Science",
+      "Business / Economics"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "Gaming"
+    ],
+    "status": "upcoming",
+    "date": "2 November 2026",
+    "location": "San Diego, TwitchCon",
+    "prize": "A total of $25,000 in cash prizes awarded across multiple categories.",
+    "summary": "The Codex x TwitchCon Hackathon invites developers to create innovative tools for Twitch streamers using OpenAI Codex. Participants will have the opportunity to showcase their projects on stage at TwitchCon and compete for $25,000 in prizes. This event fosters creativity in integrating AI with live-streaming experiences, enhancing interaction between streamers and their audiences.",
+    "eligibility": "Open to anyone above the legal age of majority in their country of residence, except for companies and professional organizations.",
+    "highlights": [
+      "Showcase top projects on stage at TwitchCon.",
+      "Engage with the Twitch community through creative AI tools.",
+      "Significant cash prizes for winners.",
+      "Learn to build with OpenAI Codex."
+    ],
+    "application_deadline": "2026-11-02T14:00:00-08:00",
+    "difficulty": "Intermediate",
+    "cost": "Free",
+    "prize_value_usd": 25000,
+    "beginner_friendly": true,
+    "application_url": "https://twitchcon-codex.devpost.com/",
+    "tags": [
+      "twitch",
+      "hackathon",
+      "ai",
+      "gaming",
+      "devpost"
+    ],
+    "url": "https://twitchcon-codex.devpost.com/",
+    "id": "c83893233acb",
+    "last_checked": "2026-10-29T14:57:48.101155+00:00"
   }
 ]
