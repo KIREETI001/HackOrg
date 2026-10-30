@@ -21006,5 +21006,137 @@
     "url": "https://twitchcon-codex.devpost.com/",
     "id": "c83893233acb",
     "last_checked": "2026-10-29T14:57:48.101155+00:00"
+  },
+  {
+    "name": "Your AI Is Already Making Decisions. Who’s Governing It?",
+    "organizer": "SGInnovate",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "status": "upcoming",
+    "date": "5 Nov 2026",
+    "location": "Online",
+    "prize": "Prizes for quiz winners include vouchers from NTUC or Grab.",
+    "summary": "This interactive webinar focuses on the governance of AI, addressing the responsibilities organizations must uphold as AI technology becomes more integrated into decision-making processes. Participants will explore a framework for effective AI governance while engaging in real-world scenarios and quizzes that enhance learning. Ideal for professionals involved in AI management, the session emphasizes accountability and innovation balance.",
+    "eligibility": "The webinar is open to anyone involved in managing or governing AI, without the need for advanced technical knowledge.",
+    "highlights": [
+      "Interactive session with real-world scenarios.",
+      "Explore the fundamentals of AI governance.",
+      "Kahoot quiz with prizes to encourage participation.",
+      "No advanced technical knowledge in AI required."
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": 80,
+    "beginner_friendly": true,
+    "application_url": "https://www.bridgingminds.net/itil-ai-governance-webinar",
+    "tags": [
+      "ai",
+      "governance",
+      "webinar",
+      "professional-development",
+      "free"
+    ],
+    "url": "https://www.sginnovate.com/event/your-ai-already-making-decisions-whos-governing-it-itilr-ai-governance-webinar",
+    "id": "e171c63afb38",
+    "last_checked": "2026-10-30T14:50:19.234457+00:00"
+  },
+  {
+    "name": "Roast My TechStack #11",
+    "organizer": "SGInnovate",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "status": "upcoming",
+    "date": "5 November 2026",
+    "location": "Kuala Lumpur, Singapore, 32 Carpenter Street, 059911",
+    "prize": null,
+    "summary": "Roast My TechStack #11 is a unique interactive event designed for builders to present their tech stack and receive constructive feedback. Participants share their projects and architectural decisions in a supportive environment, promoting technical discussions among peers. This session aims to foster collaboration and learning without the typical pressure of formal competition, appealing to those interested in elevating their development skills.",
+    "eligibility": "Open to all tech enthusiasts looking to learn and share ideas.",
+    "highlights": [
+      "Interactive presentations with technical discussions.",
+      "Focus on real-world architectural choices and problem-solving.",
+      "Encourages a supportive community among developers.",
+      "No traditional competition, just knowledge sharing."
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": "https://www.sginnovate.com/event/roast-my-techstack-11",
+    "tags": [
+      "singapore",
+      "ai",
+      "tech meetup",
+      "developers",
+      "knowledge sharing"
+    ],
+    "url": "https://www.sginnovate.com/event/roast-my-techstack-11",
+    "id": "29825e7fd53d",
+    "last_checked": "2026-10-30T14:50:28.619311+00:00"
+  },
+  {
+    "name": "Learning Journey to Cell AgriTech Facility",
+    "organizer": "SGInnovate",
+    "companies": [
+      "Cell AgriTech",
+      "APAC-SCA"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Sciences (STEM)",
+      "Business / Economics"
+    ],
+    "fields": [
+      "Sustainability",
+      "Healthcare"
+    ],
+    "status": "upcoming",
+    "date": "6 November 2026",
+    "location": "Kuala Lumpur, Singapore",
+    "prize": null,
+    "summary": "This event provides a unique look into the future of food sustainability at the Cell AgriTech facility. Participants will engage with industry experts, explore cutting-edge technologies, and enjoy interactive networking opportunities. The event highlights the importance of agritech in revolutionizing food production, making it a pivotal experience for those interested in sustainable practices.",
+    "eligibility": "Open to anyone interested in deep tech and food sustainability.",
+    "highlights": [
+      "Guided tour of advanced laboratory facilities.",
+      "Interactive games and networking opportunities.",
+      "Sharing session by industry leaders.",
+      "Focus on sustainability and food resilience."
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": "https://www.sginnovate.com/event/learning-journey-cell-agritech-facility",
+    "tags": [
+      "singapore",
+      "agritech",
+      "sustainability",
+      "networking",
+      "free"
+    ],
+    "url": "https://www.sginnovate.com/event/learning-journey-cell-agritech-facility",
+    "id": "7b6072488c55",
+    "last_checked": "2026-10-30T14:50:35.118189+00:00"
   }
 ]
