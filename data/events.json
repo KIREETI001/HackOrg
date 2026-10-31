@@ -21138,5 +21138,94 @@
     "url": "https://www.sginnovate.com/event/learning-journey-cell-agritech-facility",
     "id": "7b6072488c55",
     "last_checked": "2026-10-30T14:50:35.118189+00:00"
+  },
+  {
+    "name": "Remote Control AI",
+    "organizer": "Devpost",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Global",
+    "domains": [
+      "Computer Science"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "status": "upcoming",
+    "date": "5 November 2026",
+    "location": "Online",
+    "prize": "One non-cash prize in the form of an Amazon gift card for the winning project.",
+    "summary": "Remote Control AI is an online hackathon designed for individuals eager to explore the potential of artificial intelligence. Participants can work independently or form teams to tackle challenges and create innovative projects that leverage AI solutions. The fully virtual format allows for global participation, enhancing accessibility and the sharing of diverse ideas.",
+    "eligibility": "Open to students above the legal age of majority in their country of residence.",
+    "highlights": [
+      "Online format allows participants from anywhere in the world.",
+      "Focus on practical AI project creation.",
+      "Encourages creativity and innovation in solutions.",
+      "Non-cash prize enhances motivation without financial barriers."
+    ],
+    "application_deadline": "2026-11-05",
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": "https://remote-control-ai.devpost.com/",
+    "tags": [
+      "ai",
+      "hackathon",
+      "online",
+      "student-run",
+      "creativity"
+    ],
+    "url": "https://remote-control-ai.devpost.com/",
+    "id": "ceb9142e17ab",
+    "last_checked": "2026-10-31T14:18:55.576590+00:00"
+  },
+  {
+    "name": "DSH Hacks V2",
+    "organizer": "DeltaForge Hacks",
+    "companies": [
+      "NXT Horizon",
+      "STEMise"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Global",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "Healthcare"
+    ],
+    "status": "upcoming",
+    "date": "1-14 November 2026",
+    "location": "Online",
+    "prize": "Over $100,000 in prizes with multiple non-cash awards and scholarships.",
+    "summary": "DSH Hacks V2 invites innovators aged 13 and above from around the world to create technical solutions addressing healthcare challenges through AI. Participants can work solo or in teams to propose and prototype projects that may have a substantial real-world impact. The event emphasizes accessibility with support for beginners and a range of project types, including apps and simulations.",
+    "eligibility": "Open to students aged 13 and older, with no participation from companies or professional organizations.",
+    "highlights": [
+      "Over $100,000 in prizes up for grabs",
+      "Focus on AI and healthcare solutions",
+      "Encourages beginner participation with no technical experience required",
+      "Global reach to unite young innovators"
+    ],
+    "application_deadline": "2026-11-14",
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": "https://dsh-hacks-v2.devpost.com/",
+    "tags": [
+      "global",
+      "healthcare",
+      "ai",
+      "student-run",
+      "beginner-friendly"
+    ],
+    "url": "https://dsh-hacks-v2.devpost.com/",
+    "id": "ee0ccb6b671d",
+    "last_checked": "2026-10-31T14:19:00.800240+00:00"
   }
 ]
