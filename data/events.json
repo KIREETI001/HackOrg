@@ -21227,5 +21227,141 @@
     "url": "https://dsh-hacks-v2.devpost.com/",
     "id": "ee0ccb6b671d",
     "last_checked": "2026-10-31T14:19:00.800240+00:00"
+  },
+  {
+    "name": "Global AI Hackathon - Devcon 2026",
+    "organizer": "Devpost",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Global",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "status": "completed",
+    "date": "31 October - 1 November 2026",
+    "location": "Online",
+    "prize": "Winners receive credits worth up to $300 for 3 months of free building in Mel.",
+    "summary": "The Global AI Hackathon invites participants to build AI solutions in a one-day online event. Developers and non-technical builders alike can create projects using Mel, an innovative AI assistant. With tracks covered under various themes, participants can showcase creativity and problem-solving skills while receiving mentorship during the build phase. This hackathon promotes collaboration and innovation in AI technology.",
+    "eligibility": "Participants must be above the legal age of majority and are exclusively students.",
+    "highlights": [
+      "Beginner-friendly, no coding experience required.",
+      "Participants can work solo or in teams of up to 5.",
+      "Real-time mentorship sessions provided during the hackathon.",
+      "Focus on building practical solutions that solve real problems."
+    ],
+    "application_deadline": "2026-11-01",
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": 300,
+    "beginner_friendly": true,
+    "application_url": "https://trick-or-build.devpost.com/",
+    "tags": [
+      "hackathon",
+      "AI",
+      "beginner-friendly",
+      "global",
+      "online"
+    ],
+    "url": "https://trick-or-build.devpost.com/",
+    "id": "7cd4ef8e6a60",
+    "last_checked": "2026-11-01T14:44:46.050828+00:00"
+  },
+  {
+    "name": "Scope-AI-Thon 2026",
+    "organizer": "McGill University",
+    "companies": [],
+    "level": "Tertiary",
+    "timeline": "Single-day",
+    "scope": "Global",
+    "domains": [
+      "Sciences (STEM)",
+      "Computer Science"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "Healthcare"
+    ],
+    "status": "upcoming",
+    "date": "14 November 2026",
+    "location": "Online",
+    "prize": "Total of $CAD 1,400 in cash prizes available.",
+    "summary": "The Scope-AI-Thon 2026 focuses on developing AI-enabled systems for the early detection of acute patient deterioration. Participants will work in teams to create proposals that identify evidence-based monitoring approaches and data integration strategies within hospital environments. This hackathon targets college students and emphasizes the critical intersection of healthcare and technology.",
+    "eligibility": "Open to McGill and University of Washington students, above the legal age of majority in their country.",
+    "highlights": [
+      "Focus on improving patient outcomes through AI.",
+      "Involves real-world healthcare datasets for analysis.",
+      "Opportunities to win cash prizes.",
+      "Team collaboration is required, fostering innovative solutions."
+    ],
+    "application_deadline": "2026-11-14",
+    "difficulty": "Intermediate",
+    "cost": "Free",
+    "prize_value_usd": 1025,
+    "beginner_friendly": false,
+    "application_url": "https://scope-ai-thon-2026.devpost.com/",
+    "tags": [
+      "ai",
+      "healthcare",
+      "hackathon",
+      "machine-learning",
+      "student"
+    ],
+    "url": "https://scope-ai-thon-2026.devpost.com/",
+    "id": "56753f7f6992",
+    "last_checked": "2026-11-01T14:44:51.570154+00:00"
+  },
+  {
+    "name": "GenHacks",
+    "organizer": "Devpost",
+    "companies": [
+      "Apple",
+      "Google",
+      "Outlook"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Multi-month (3-6mo)",
+    "scope": "Global",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "Healthcare",
+      "Robotics & IoT"
+    ],
+    "status": "ongoing",
+    "date": "1 November - 26 December 2026",
+    "location": "Virtual",
+    "prize": "Prizes totaling over $CAD 1,050 in cash and credits across various categories.",
+    "summary": "GenHacks is a uniquely engaging virtual hackathon designed exclusively for students, allowing participants to innovate from anywhere in the world. Hosting multiple tracks including Healthcare & Environmental and AI, it welcomes all experience levels, even first-time hackers. With significant cash prizes and additional credits, this event nurtures creativity and technical prowess.",
+    "eligibility": "Students aged 13 and above from all countries can participate.",
+    "highlights": [
+      "Virtual setup enabling global participation",
+      "Tracks catering to diverse interests like AI and IoT",
+      "Significant cash prizes and credits to support development",
+      "Encouragement for all skill levels, especially beginners"
+    ],
+    "application_deadline": "2026-12-26",
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": 780,
+    "beginner_friendly": true,
+    "application_url": "https://genhacks-open.devpost.com/",
+    "tags": [
+      "virtual",
+      "students",
+      "ai",
+      "hackathon",
+      "beginner-friendly"
+    ],
+    "url": "https://genhacks-open.devpost.com/",
+    "id": "ff382bd72b97",
+    "last_checked": "2026-11-01T14:44:56.538256+00:00"
   }
 ]
