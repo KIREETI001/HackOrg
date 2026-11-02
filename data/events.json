@@ -21363,5 +21363,231 @@
     "url": "https://genhacks-open.devpost.com/",
     "id": "ff382bd72b97",
     "last_checked": "2026-11-01T14:44:56.538256+00:00"
+  },
+  {
+    "name": "AWS MSP AI Hackathon",
+    "organizer": "AWS",
+    "companies": [
+      "AWS",
+      "Devpost"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Multi-week (1-3mo)",
+    "scope": "Global",
+    "domains": [
+      "Computer Science",
+      "Business / Economics"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "status": "upcoming",
+    "date": "11 December 2026",
+    "location": "Online",
+    "prize": "$64,000 in cash prizes across two tracks and multiple special prizes.",
+    "summary": "The AWS MSP AI Hackathon invites participants to create innovative AI-driven solutions for managed service providers (MSPs). By leveraging AWS AI Services, participants are challenged to deliver measurable improvements in MSP operations and customer service strategies. Winning projects can gain visibility with AWS and support in launching on the AWS Marketplace, making this event a prime opportunity for tech professionals.",
+    "eligibility": "Participants must be of legal age in their country of residence and affiliated with an MSP partner or the AWS Partner Network.",
+    "highlights": [
+      "Compete for $64,000 in cash prizes.",
+      "Gain priority consideration for AWS go-to-market support.",
+      "Inclusion in the MSP AI Use Case Library for successful projects.",
+      "Network with AWS experts and other partners through hackathon Discord."
+    ],
+    "application_deadline": "2026-12-11",
+    "difficulty": "Intermediate",
+    "cost": "Free",
+    "prize_value_usd": 64000,
+    "beginner_friendly": false,
+    "application_url": "https://aws-agentic-msp.devpost.com/",
+    "tags": [
+      "hackathon",
+      "AI",
+      "AWS",
+      "MSP",
+      "global"
+    ],
+    "url": "https://aws-agentic-msp.devpost.com/",
+    "id": "ea6633a3851e",
+    "last_checked": "2026-11-02T17:48:31.882866+00:00"
+  },
+  {
+    "name": "FSB AI Build-a-thon Event 02",
+    "organizer": "Farmer School of Business",
+    "companies": [
+      "Apple",
+      "Google"
+    ],
+    "level": "Tertiary",
+    "timeline": "Single-day",
+    "scope": "Local (US)",
+    "domains": [
+      "Computer Science",
+      "Business / Economics"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "3 November 2026",
+    "location": "Oxford, Farmer School of Business",
+    "prize": "$500 in cash prizes distributed among several categories",
+    "summary": "The FSB AI Build-a-thon Event 02 invites students to dive into the world of AI by building a business from concept to launch in just one evening. Participants will work in teams and choose from five distinct tracks while utilizing various AI tools, making it an innovative and rewarding experience. The event aims to promote creativity and collaboration among students, with cash prizes for outstanding projects.",
+    "eligibility": "Participants must be above the legal age of majority and students in the US.",
+    "highlights": [
+      "One-night hackathon focused on building AI-driven businesses.",
+      "No prior technical experience required, welcoming beginners.",
+      "Cash prizes awarded for different business categories.",
+      "Opportunity to use leading AI tools and gain practical experience."
+    ],
+    "application_deadline": "2026-11-03T19:15:00-05:00",
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": 500,
+    "beginner_friendly": true,
+    "application_url": "https://luma.com/e35ayj62",
+    "tags": [
+      "ai",
+      "hackathon",
+      "business",
+      "student-run",
+      "beginner-friendly"
+    ],
+    "url": "https://fsb-ai-buildathon-02.devpost.com/",
+    "id": "ecf4dada473d",
+    "last_checked": "2026-11-02T17:48:37.500192+00:00"
+  },
+  {
+    "name": "HackSussex GameJam 2026",
+    "organizer": "HackSussex",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Local (United Kingdom)",
+    "domains": [
+      "Computer Science",
+      "Humanities"
+    ],
+    "fields": [
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "5-6 December 2026",
+    "location": "Brighton, venue unspecified",
+    "prize": "Two non-cash prizes including plush toys and a grand prize to be announced.",
+    "summary": "The HackSussex GameJam 2026 is a weekend-long event that encourages creativity and teamwork among participants as they build video games within a short timeframe. This inclusive hackathon is designed for individuals aged 18 and above from various backgrounds to collaborate and learn new skills. It offers a vibrant and fast-paced environment, providing attendees opportunities to meet like-minded individuals, engage in workshops, and receive exciting prizes.",
+    "eligibility": "Participants must be 18 years and older from any country, excluding standard exceptions.",
+    "highlights": [
+      "24 hours of project building",
+      "Workshops to learn new skills",
+      "Free food and drinks provided",
+      "Opportunity to win exciting non-cash prizes"
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": "https://hacksussex-gamejam-2026.devpost.com/",
+    "tags": [
+      "gamejam",
+      "hackathon",
+      "creative",
+      "video games",
+      "Brighton"
+    ],
+    "url": "https://hacksussex-gamejam-2026.devpost.com/",
+    "id": "2fd3fb24bbe9",
+    "last_checked": "2026-11-02T17:48:43.148295+00:00"
+  },
+  {
+    "name": "NVIDIA Open Models for Physical AI Webinar",
+    "organizer": "SGInnovate",
+    "companies": [
+      "NVIDIA"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Global",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "Robotics and Autonomous Systems"
+    ],
+    "status": "upcoming",
+    "date": "5 November 2026",
+    "location": "Online",
+    "prize": null,
+    "summary": "This upcoming webinar hosted by SGInnovate focuses on NVIDIA's open models for Physical AI. Participants will gain insights into the functioning of intelligent systems and explore NVIDIA’s innovative stack for robotics and AI applications. It promises to equip developers with knowledge to build scalable embodied AI effectively.",
+    "eligibility": "Open to anyone interested in learning more about AI and robotics.",
+    "highlights": [
+      "Learn about NVIDIA’s advanced robotics ecosystem.",
+      "Explore physical AI stacks including DGX™, OVX™, and AGX™.",
+      "Discover cutting-edge open models for robotics and world simulation.",
+      "Gain practical insights into building scalable embodied AI."
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": "https://www.sginnovate.com/event/nvidia-open-models-physical-ai-webinar",
+    "tags": [
+      "nvidia",
+      "webinar",
+      "ai",
+      "robotics",
+      "sginnovate"
+    ],
+    "url": "https://www.sginnovate.com/event/nvidia-open-models-physical-ai-webinar",
+    "id": "6530cbe3a2bb",
+    "last_checked": "2026-11-02T17:48:48.822205+00:00"
+  },
+  {
+    "name": "CyberSG Innovation Day 2026",
+    "organizer": "SGInnovate",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "Cybersecurity",
+      "AI / Machine Learning"
+    ],
+    "status": "upcoming",
+    "date": "10 November 2026",
+    "location": "Singapore, Suntec Singapore Convention & Exhibition Centre, Nicoll Room 1-3",
+    "prize": "Awards presented to community partners and participants.",
+    "summary": "CyberSG Innovation Day 2026 focuses on fostering collaboration within the cybersecurity community. It aims to advance capabilities to utilize AI securely and enhance Singapore's digital future. The event features keynote speeches, awards presentations, and networking opportunities, catering to professionals and organizations in the cybersecurity field.",
+    "eligibility": "Open to all professionals and stakeholders in the cybersecurity community.",
+    "highlights": [
+      "Keynote speech by industry thought leader.",
+      "Awards presentation for community partners.",
+      "Networking opportunities with experts.",
+      "Focus on real-world applications of cybersecurity advancements."
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": "https://go.gov.sg/cybersginnovationday2026",
+    "tags": [
+      "singapore",
+      "cybersecurity",
+      "ai",
+      "networking",
+      "community"
+    ],
+    "url": "https://www.sginnovate.com/event/cybersg-innovation-day-2026",
+    "id": "1d1a2e7906e2",
+    "last_checked": "2026-11-02T17:48:54.881138+00:00"
   }
 ]
