@@ -21589,5 +21589,94 @@
     "url": "https://www.sginnovate.com/event/cybersg-innovation-day-2026",
     "id": "1d1a2e7906e2",
     "last_checked": "2026-11-02T17:48:54.881138+00:00"
+  },
+  {
+    "name": "NVIDIA Training Labs at SIGGRAPH Asia 2026",
+    "organizer": "SGInnovate",
+    "companies": [
+      "NVIDIA"
+    ],
+    "level": "Secondary",
+    "timeline": "Single-day",
+    "scope": "Regional (Asia)",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "status": "upcoming",
+    "date": "1 December 2026",
+    "location": "Kuala Lumpur, Kuala Lumpur Convention Centre (KLCC)",
+    "prize": "Participants have the opportunity to enhance their skills in physical AI concepts.",
+    "summary": "The NVIDIA Training Labs at SIGGRAPH Asia 2026 offers hands-on learning experiences in physical AI, focusing on simulation and environment reconstruction. Participants will engage in various instructor-led sessions, using cutting-edge NVIDIA technology to accelerate their learning in robotics and AI. This one-day event is designed for those looking to deepen their technical expertise in a practical and collaborative setting.",
+    "eligibility": "Open to individuals with an interest in AI and simulation; prior experience with AI is beneficial.",
+    "highlights": [
+      "Hands-on training with NVIDIA's latest AI technologies.",
+      "Focus on real-world applications and simulations.",
+      "Limited seating for an intimate learning experience.",
+      "Essential for those interested in the future of AI and robotics."
+    ],
+    "application_deadline": null,
+    "difficulty": "Intermediate",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": false,
+    "application_url": "https://www.sginnovate.com/event/nvidia-training-labs-siggraph-asia-2026",
+    "tags": [
+      "ai",
+      "nvidia",
+      "workshop",
+      "simulation",
+      "singapore"
+    ],
+    "url": "https://www.sginnovate.com/event/nvidia-training-labs-siggraph-asia-2026",
+    "id": "e6d1812ba2f5",
+    "last_checked": "2026-11-03T15:49:15.017856+00:00"
+  },
+  {
+    "name": "AWS re:Invent Hackathon",
+    "organizer": "Amazon Web Services",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Global",
+    "domains": [
+      "Computer Science",
+      "Business / Economics"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "29 November 2026",
+    "location": "Las Vegas, exact venue not specified",
+    "prize": "One winning team takes home a grand prize of $100,000.",
+    "summary": "The AWS re:Invent Hackathon presents a unique opportunity for developers and engineers to showcase their skills in a competitive environment. This single-day event features teams racing against the clock to solve challenges, with the added excitement of celebrity judges evaluating the entries. It's not just about the prize; it's an immersive experience promoting innovation and networking among industry peers.",
+    "eligibility": "Open to all developers and engineers interested in cloud technologies and AI.",
+    "highlights": [
+      "High-stakes competition with a $100K grand prize.",
+      "Celebrity judges to evaluate innovative solutions.",
+      "A fast-paced environment where teams sprint to the finish.",
+      "A great platform for networking with industry leaders and peers."
+    ],
+    "application_deadline": null,
+    "difficulty": "Intermediate",
+    "cost": "Free",
+    "prize_value_usd": 100000,
+    "beginner_friendly": true,
+    "application_url": "https://aws.amazon.com/events/asean/",
+    "tags": [
+      "hackathon",
+      "ai",
+      "cloud",
+      "aws",
+      "global"
+    ],
+    "url": "https://aws.amazon.com/events/asean/",
+    "id": "ef9d714d78dc",
+    "last_checked": "2026-11-03T15:49:30.973373+00:00"
   }
 ]
