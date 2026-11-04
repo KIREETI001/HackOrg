@@ -21678,5 +21678,139 @@
     "url": "https://aws.amazon.com/events/asean/",
     "id": "ef9d714d78dc",
     "last_checked": "2026-11-03T15:49:30.973373+00:00"
+  },
+  {
+    "name": "AI Agents for Founders Challenge — HETIC 2026",
+    "organizer": "HETIC",
+    "companies": [],
+    "level": "Tertiary",
+    "timeline": "Multi-week (1-3mo)",
+    "scope": "Global",
+    "domains": [
+      "Computer Science",
+      "Business / Economics"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "Productivity"
+    ],
+    "status": "upcoming",
+    "date": "16 November - 18 December 2026",
+    "location": "Online",
+    "prize": "Total prize pool of €1,000 distributed among winners.",
+    "summary": "The AI Agents for Founders Challenge invites college students to develop innovative AI agents aimed at enhancing productivity for entrepreneurs. Participants can compete in teams, designing solutions that automate critical business processes while ensuring human oversight. A focus on accessibility, using only free AI models, sets this challenge apart and emphasizes smart design over budget.",
+    "eligibility": "Higher-education students aged 18 and over, from anywhere in the world, can participate in teams of 2 to 4.",
+    "highlights": [
+      "Focus on enhancing productivity for founders.",
+      "Requires human checkpoints to ensure critical thinking.",
+      "Only free AI models can be used, making it accessible to all teams.",
+      "Offers several monetary awards to celebrate innovative solutions."
+    ],
+    "application_deadline": "2026-12-18",
+    "difficulty": "Intermediate",
+    "cost": "Free",
+    "prize_value_usd": 1055,
+    "beginner_friendly": true,
+    "application_url": "https://ai-agents-founders-hetic-26.devpost.com/",
+    "tags": [
+      "hackathon",
+      "AI",
+      "entrepreneurship",
+      "global",
+      "college students"
+    ],
+    "url": "https://ai-agents-founders-hetic-26.devpost.com/",
+    "id": "0e5dd0cb0b2e",
+    "last_checked": "2026-11-04T15:58:11.838955+00:00"
+  },
+  {
+    "name": "How to Tell a Startup Story That Gets Investors to Lean In",
+    "organizer": "SGInnovate",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Business / Economics",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "Sustainability",
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "10 November 2026",
+    "location": "Online",
+    "prize": null,
+    "summary": "This event focuses on helping deep-tech founders refine their investor narratives through a live review of a hydrogen-fuelled mobility company's pitch deck. Participants will gain insights into translating complex technologies into clear investment propositions and structuring their presentations effectively. The session encourages interactive learning with opportunities for Q&A, ensuring a dynamic and engaging experience for attendees.",
+    "eligibility": "The session is designed for deep-tech founders and investors who wish to improve their storytelling skills.",
+    "highlights": [
+      "Live review of a founder pitch deck",
+      "Focus on storytelling techniques for investors",
+      "Interactive Q&A for personalized learning",
+      "Led by an experienced founder with diverse expertise"
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": "https://www.sginnovate.com/event/how-tell-startup-story-gets-investors-lean",
+    "tags": [
+      "startup",
+      "pitching",
+      "sustainability",
+      "investors",
+      "online"
+    ],
+    "url": "https://www.sginnovate.com/event/how-tell-startup-story-gets-investors-lean",
+    "id": "b7b91a6a0c45",
+    "last_checked": "2026-11-04T15:58:17.969588+00:00"
+  },
+  {
+    "name": "Shell LiveWire: Beyond Early Demand",
+    "organizer": "SGInnovate",
+    "companies": [
+      "Shell",
+      "Carousell Group",
+      "Qualgro"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Business / Economics"
+    ],
+    "fields": [
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "11 November 2026",
+    "location": "Kuala Lumpur, Singapore, The Meeting Point @ LaunchPad @ One-North",
+    "prize": null,
+    "summary": "The Shell LiveWire session focuses on helping scale-ups navigate the complexities of forming enterprise partnerships and expanding into new markets. Attendees will benefit from insights shared by industry leaders and investors who will discuss growth strategies. This event is a valuable opportunity for networking and gaining strategic advice, aimed specifically at founders looking to scale their operations.",
+    "eligibility": "Open to founders, investors, and anyone interested in entrepreneurial growth.",
+    "highlights": [
+      "Panel discussion with industry leaders.",
+      "Networking opportunities with startups and investors.",
+      "Insights on navigating growth stages.",
+      "Focused on practical strategies for scaling."
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": "https://luma.com/yydsxwo5",
+    "tags": [
+      "singapore",
+      "business",
+      "networking",
+      "scale-ups",
+      "free"
+    ],
+    "url": "https://www.sginnovate.com/event/shell-livewire-beyond-early-demand-how-scale-ups-tackle-enterprise-partnerships-and-new",
+    "id": "ed4e3780ebd0",
+    "last_checked": "2026-11-04T15:58:25.162027+00:00"
   }
 ]
