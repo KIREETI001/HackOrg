@@ -21812,5 +21812,175 @@
     "url": "https://www.sginnovate.com/event/shell-livewire-beyond-early-demand-how-scale-ups-tackle-enterprise-partnerships-and-new",
     "id": "ed4e3780ebd0",
     "last_checked": "2026-11-04T15:58:25.162027+00:00"
+  },
+  {
+    "name": "NUSH Hack 2026",
+    "organizer": "NUS High School of Math and Science",
+    "companies": [],
+    "level": "Pre-University",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science"
+    ],
+    "fields": [
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "6-7 November 2026",
+    "location": "Singapore, NUS High School of Math and Science",
+    "prize": "Three non-cash prizes for the top teams.",
+    "summary": "NUSH Hack 2026 invites high school students from NUS High to collaborate in teams of 2 to 3 on innovative tech solutions. This hackathon encourages creativity and technical skills, with projects judged based on their usefulness and aesthetic appeal. The event fosters teamwork and provides a platform for students to showcase their skills in a competitive environment.",
+    "eligibility": "Open to NUS High School students aged 13 to 18, participating in teams.",
+    "highlights": [
+      "Exclusive to NUS High students",
+      "Team-based competition",
+      "Judged by professional judges",
+      "Focus on creativity and technical skills"
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": "https://nh26.devpost.com/",
+    "tags": [
+      "singapore",
+      "hackathon",
+      "high school",
+      "beginner-friendly"
+    ],
+    "url": "https://nh26.devpost.com/",
+    "id": "ea15931d03ef",
+    "last_checked": "2026-11-05T16:08:20.754567+00:00"
+  },
+  {
+    "name": "AI OpenBuild",
+    "organizer": "Devpost",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Multi-week (1-3mo)",
+    "scope": "Global",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "status": "upcoming",
+    "date": "Deadline: 10 December 2026",
+    "location": "Online",
+    "prize": "Over $150 in cash prizes plus recognition for standout projects.",
+    "summary": "AI OpenBuild invites participants to create projects that meaningfully utilize AI technologies. Encouraging creativity and technical skill, participants can work individually or in small teams to explore the potential of AI across various applications. The competition emphasizes the importance of presenting a workable prototype along with thorough documentation, enabling an engaging experience for judges and users alike.",
+    "eligibility": "Open to students above the legal age of majority in their country of residence.",
+    "highlights": [
+      "No prior experience required; beginner-friendly.",
+      "Projects must demonstrate a meaningful integration of AI.",
+      "Participants can work solo or in teams of up to five.",
+      "Global reach, encouraging innovation from diverse applicants."
+    ],
+    "application_deadline": "2026-12-10",
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": 150,
+    "beginner_friendly": true,
+    "application_url": "https://ai-openbuild.devpost.com/",
+    "tags": [
+      "ai",
+      "hackathon",
+      "student-friendly",
+      "online",
+      "innovation"
+    ],
+    "url": "https://ai-openbuild.devpost.com/",
+    "id": "7db2f5ada3a0",
+    "last_checked": "2026-11-05T16:08:26.921504+00:00"
+  },
+  {
+    "name": "SHELLGym",
+    "organizer": "SGInnovate",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "Cybersecurity"
+    ],
+    "status": "upcoming",
+    "date": "14 November 2026",
+    "location": "Singapore, NUSX, Heng Mui Keng Ter, NUSX, 21 i3 building",
+    "prize": null,
+    "summary": "SHELLGym is an engaging cybersecurity workshop designed to accommodate all skill levels, from beginners to seasoned professionals. The event encourages participants to engage with practical cybersecurity exercises, learn about Linux forensics, and develop automated tools. It is structured to foster a collaborative environment where individuals can pursue their interests in cybersecurity, whether through personal projects or guided activities.",
+    "eligibility": "Open to anyone interested in enhancing their cybersecurity skills.",
+    "highlights": [
+      "Hands-on activities focusing on Linux forensics.",
+      "Open to participants of all skill levels.",
+      "Encourages collaboration and practical skill development.",
+      "Hosted in a supportive environment aimed at progressive learning."
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": "https://www.sginnovate.com/event/shellgym-3",
+    "tags": [
+      "cybersecurity",
+      "workshop",
+      "singapore",
+      "beginner-friendly",
+      "collaborative"
+    ],
+    "url": "https://www.sginnovate.com/event/shellgym-3",
+    "id": "7661863202fa",
+    "last_checked": "2026-11-05T16:08:34.022029+00:00"
+  },
+  {
+    "name": "Meet-The-Mentor",
+    "organizer": "SGInnovate",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Business / Economics",
+      "Humanities"
+    ],
+    "fields": [
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "17 November 2026",
+    "location": "Kuala Lumpur, Singapore",
+    "prize": null,
+    "summary": "Meet-The-Mentor is an event designed to connect aspiring entrepreneurs with seasoned founders and investors. This unique opportunity allows participants to engage in focused, one-on-one mentoring sessions, addressing their specific startup challenges. Whether seeking advice on fundraising, growth strategies, or business decisions, attendees will gain valuable insights from experienced mentors.",
+    "eligibility": "Open to anyone interested in startup mentorship, particularly entrepreneurs.",
+    "highlights": [
+      "One-on-one mentoring with experienced founders and investors",
+      "Opportunity to discuss specific startup challenges",
+      "Gain practical perspectives on business decisions",
+      "Focused session aimed at providing clarity on growth strategies"
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": "https://luma.com/ub7fmk56",
+    "tags": [
+      "singapore",
+      "mentorship",
+      "startups",
+      "entrepreneurship",
+      "networking"
+    ],
+    "url": "https://www.sginnovate.com/event/meet-mentor-0",
+    "id": "c23164c7cbfc",
+    "last_checked": "2026-11-05T16:08:42.642276+00:00"
   }
 ]
