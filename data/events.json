@@ -21982,5 +21982,192 @@
     "url": "https://www.sginnovate.com/event/meet-mentor-0",
     "id": "c23164c7cbfc",
     "last_checked": "2026-11-05T16:08:42.642276+00:00"
+  },
+  {
+    "name": "Since AI 2026",
+    "organizer": "Since AI ry",
+    "companies": [
+      "Apple",
+      "Google"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Global",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "status": "upcoming",
+    "date": "6-8 November 2026",
+    "location": "Turku, Finland",
+    "prize": "A total prize pool of €50,000 in cash and additional awards.",
+    "summary": "Since AI 2026 invites over 1,000 participants to build real-world AI prototypes over three intense days. Teams will tackle 15 industry-relevant challenges, focusing on developing functional AI solutions. This event emphasizes collaboration, execution, and innovation, aiming for tangible outcomes rather than just theoretical discussions.",
+    "eligibility": "Participants must be above the legal age of majority in their country and possess technical ambition with a collaborative spirit.",
+    "highlights": [
+      "€50,000 total prize pool.",
+      "Collaboration with over 1,000 builders from diverse backgrounds.",
+      "Opportunity to work on real-world AI challenges.",
+      "Access to technical mentors and leading edge AI technologies."
+    ],
+    "application_deadline": "2026-11-08",
+    "difficulty": "Intermediate",
+    "cost": "Paid",
+    "prize_value_usd": 53000,
+    "beginner_friendly": false,
+    "application_url": "https://sinceai.app/events/since-ai-hackathon-2026",
+    "tags": [
+      "ai",
+      "hackathon",
+      "turku",
+      "international",
+      "machine-learning"
+    ],
+    "url": "https://sinceai2026.devpost.com/",
+    "id": "3d15eb9aeb64",
+    "last_checked": "2026-11-06T15:40:06.106195+00:00"
+  },
+  {
+    "name": "Hack AI x Stan",
+    "organizer": "Stan",
+    "companies": [
+      "Stan"
+    ],
+    "level": "Tertiary",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "status": "upcoming",
+    "date": "5-6 December 2026",
+    "location": "Toronto, Stan HQ",
+    "prize": "Total cash prizes amounting to $CAD 24,957, with the first-place team winning $CAD 20,000.",
+    "summary": "Hack AI x Stan is poised to be one of Canada's most sought-after AI hackathons, designed to foster innovation among young creators aged 17 to 25. The event emphasizes building projects that enhance personal connections, challenging participants to think creatively and collaboratively. With substantial cash prizes and support for participants, it aims to motivate the next generation of tech innovators in a vibrant, hands-on environment.",
+    "eligibility": "Open to individuals aged 17-25 from selected countries and territories.",
+    "highlights": [
+      "Focus on innovative AI solutions for personal connections.",
+      "Participants can win up to $20,000 in cash prizes.",
+      "Includes food, drinks, and travel support for out-of-town attendees.",
+      "Encourages collaboration with teams of up to three members."
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": 18760,
+    "beginner_friendly": true,
+    "application_url": "https://hackai-toronto.devpost.com/",
+    "tags": [
+      "ai",
+      "hackathon",
+      "canada",
+      "student-friendly",
+      "innovation"
+    ],
+    "url": "https://hackai-toronto.devpost.com/",
+    "id": "0ddc731a8701",
+    "last_checked": "2026-11-06T15:40:14.595759+00:00"
+  },
+  {
+    "name": "Hack Club Haven (Hong Kong)",
+    "organizer": "Hack Club",
+    "companies": [
+      "Animoca Brands",
+      "Venture Capital Fund",
+      "Jane Street",
+      "Kepler Interactive",
+      "Nex"
+    ],
+    "level": "Pre-University",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "General Tech",
+      "Gaming"
+    ],
+    "status": "upcoming",
+    "date": "14-15 November 2026",
+    "location": "Canadian International School, Hong Kong",
+    "prize": "Various non-cash prizes including a 3D printer, gift cards, and potential internships.",
+    "summary": "Hack Club Haven is a vibrant two-day hackathon aimed at middle and high school students in Hong Kong. Participants will create games from scratch while enjoying mentorship from industry professionals and free workshops. The event fosters creativity and collaboration among young developers and offers exciting prizes, making it an enriching experience for students of all skill levels.",
+    "eligibility": "Open to students aged 13 to 18 in Hong Kong; no prior experience is required.",
+    "highlights": [
+      "Beginner-friendly event welcoming all skill levels.",
+      "Hands-on workshops with gaming industry professionals.",
+      "Opportunity to build a game in just two days.",
+      "Mentorship and potential internships for winners."
+    ],
+    "application_deadline": "2026-11-12",
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": "https://havenhk.xyz",
+    "tags": [
+      "hong-kong",
+      "gaming",
+      "hackathon",
+      "student-friendly",
+      "beginner-friendly"
+    ],
+    "url": "https://hack-club-haven-hong-kong.devpost.com/",
+    "id": "5a8d674596fb",
+    "last_checked": "2026-11-06T15:40:21.783859+00:00"
+  },
+  {
+    "name": "ShowcACE: Design, Build & Experience Agentic Fintech Workflows",
+    "organizer": "ACE.SG",
+    "companies": [
+      "Alibaba Cloud",
+      "SoftwareOne Channel"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Business / Economics"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "FinTech"
+    ],
+    "status": "upcoming",
+    "date": "17 November 2026",
+    "location": "Kuala Lumpur, Singapore",
+    "prize": "No prize offered, focused on learning and practical experience.",
+    "summary": "ShowcACE is a hands-on event designed for CXOs and fintech leaders to explore the application of AI agents in financial workflows. Participants will engage with real-world use cases and have the opportunity to build workflows using Alibaba Cloud's technology. This unique event takes place during the Singapore FinTech Festival, highlighting the urgency and importance of AI in transforming business outcomes.",
+    "eligibility": "Targeted at fintech professionals and business leaders interested in AI applications.",
+    "highlights": [
+      "Hands-on experience building AI agent workflows.",
+      "Real-world applications demonstrated by industry leaders.",
+      "Held during the prominent Singapore FinTech Festival week.",
+      "Focus on actionable insights and outcomes for businesses."
+    ],
+    "application_deadline": null,
+    "difficulty": "Intermediate",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": false,
+    "application_url": "https://www.sginnovate.com/event/showcace-design-build-experience-agentic-fintech-workflows",
+    "tags": [
+      "fintech",
+      "AI",
+      "sginnovate",
+      "hands-on",
+      "business"
+    ],
+    "url": "https://www.sginnovate.com/event/showcace-design-build-experience-agentic-fintech-workflows",
+    "id": "550f2dbd8d20",
+    "last_checked": "2026-11-06T15:40:32.230279+00:00"
   }
 ]
