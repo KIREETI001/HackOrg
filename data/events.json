@@ -22169,5 +22169,155 @@
     "url": "https://www.sginnovate.com/event/showcace-design-build-experience-agentic-fintech-workflows",
     "id": "550f2dbd8d20",
     "last_checked": "2026-11-06T15:40:32.230279+00:00"
+  },
+  {
+    "name": "Triangle AI Hackathon 2026",
+    "organizer": "Duke University",
+    "companies": [
+      "Apple",
+      "Google",
+      "Thinking Machines",
+      "Bloom AI",
+      "Unlimited AI",
+      "Entrinsik",
+      "SteamedClaw.ai",
+      "DecorX"
+    ],
+    "level": "Tertiary",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Local (US)",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "Healthcare",
+      "Social Impact & Education",
+      "FinTech"
+    ],
+    "status": "upcoming",
+    "date": "6-8 November 2026",
+    "location": "Durham, Wilkinson Building, Duke University",
+    "prize": "Multiple non-cash prizes and gift cards totaling $600 for first place.",
+    "summary": "The Triangle AI Hackathon 2026 is a weekend event designed for college students eager to create AI-powered applications. This year, the hackathon invites participants from all universities in North Carolina, fostering a collaborative and innovative atmosphere. With a focus on building practical applications to solve real-world problems, the event aims to make AI accessible and engaging for all skill levels.",
+    "eligibility": "Open to college students from all NC universities, regardless of major or experience level.",
+    "highlights": [
+      "Hands-on experience developing AI applications.",
+      "Diverse tracks focusing on Robotics, Computer Vision, Health & Wellness, and more.",
+      "Support from mentors and access to credits from major tech companies.",
+      "Friendly competition with multiple prizes encouraging innovation."
+    ],
+    "application_deadline": "2026-11-08",
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": 2100,
+    "beginner_friendly": true,
+    "application_url": "https://triangle-ai-hackathon-2026.devpost.com/",
+    "tags": [
+      "ai",
+      "hackathon",
+      "durham",
+      "college",
+      "beginner-friendly"
+    ],
+    "url": "https://triangle-ai-hackathon-2026.devpost.com/",
+    "id": "1652ea26c5e4",
+    "last_checked": "2026-11-07T14:40:40.897503+00:00"
+  },
+  {
+    "name": "Neo Hackathon 2026",
+    "organizer": "Neo",
+    "companies": [
+      "Apple",
+      "Google",
+      "OpenAI",
+      "Anthropic",
+      "DeepMusic.ai",
+      "Phenix Space",
+      "Universal Constructor"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Global",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "6-8 November 2026",
+    "location": "San Francisco, California, USA",
+    "prize": "5 non-cash prizes awarded across multiple categories.",
+    "summary": "The Neo Hackathon 2026 is an invite-only event aimed at fostering innovative projects in the tech space. Hosted in San Francisco, it attracts diverse talent from around the globe to collaborate and showcase their ideas. Participants will compete in various categories, emphasizing technical skill and creative solutions.",
+    "eligibility": "Participants must be Neo-invited, above the legal age of majority, and part of teams of 2 to 4 members.",
+    "highlights": [
+      "Diverse global participation",
+      "Five categories for awards",
+      "Hosted in the tech capital, San Francisco",
+      "Engagement with leading tech companies"
+    ],
+    "application_deadline": "2026-11-08",
+    "difficulty": "Elite/Selective",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": false,
+    "application_url": "https://neo-hackathon-2026.devpost.com/",
+    "tags": [
+      "hackathon",
+      "innovation",
+      "invite-only",
+      "AI",
+      "San Francisco"
+    ],
+    "url": "https://neo-hackathon-2026.devpost.com/",
+    "id": "4ed819d524e0",
+    "last_checked": "2026-11-07T14:40:49.570354+00:00"
+  },
+  {
+    "name": "Hack&Roll 2026",
+    "organizer": "NUS Hackers",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Business / Economics"
+    ],
+    "fields": [
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "January 2027",
+    "location": "Singapore, National University of Singapore",
+    "prize": "Top teams will win various tech gadgets and equipment.",
+    "summary": "Hack&Roll 2026 is a 24-hour hackathon that encourages participants to explore their creativity without the constraints of problem statements or themes. Open to students at all levels, it fosters innovation and collaboration among participants. With a variety of exciting prizes and the chance to showcase unique projects, this event promises to be a vibrant celebration of hacking culture.",
+    "eligibility": "All students, including prospective students and those from primary school to graduate studies, are welcome to participate.",
+    "highlights": [
+      "No problem statements, offering complete creative freedom.",
+      "Open to all skill levels, from beginners to advanced hackers.",
+      "Includes team formation or solo participation opportunities.",
+      "Offers free food and swag throughout the event."
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": "https://2026.hacknroll.org",
+    "tags": [
+      "singapore",
+      "hackathon",
+      "student-run",
+      "beginner-friendly",
+      "innovation"
+    ],
+    "url": "https://2026.hacknroll.org",
+    "id": "dff06f8db36d",
+    "last_checked": "2026-11-07T14:41:10.906314+00:00"
   }
 ]
