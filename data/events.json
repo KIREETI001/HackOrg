@@ -22319,5 +22319,51 @@
     "url": "https://2026.hacknroll.org",
     "id": "dff06f8db36d",
     "last_checked": "2026-11-07T14:41:10.906314+00:00"
+  },
+  {
+    "name": "Build a Working AI Support Bot",
+    "organizer": "eGain Corp.",
+    "companies": [
+      "Apple",
+      "Google"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Global",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "status": "upcoming",
+    "date": "12 November 2026",
+    "location": "Online",
+    "prize": "$750 cash and other prizes",
+    "summary": "This hackathon invites participants to create an AI support bot that can engage users through guided tasks and escalate queries to human operators when necessary. Participants will work individually or in teams with mentorship available throughout the event. The focus is on practical learning through hands-on experience with AI development, culminating in the demonstration of their bots.",
+    "eligibility": "Open to all individuals above the legal age of majority in their country of residence.",
+    "highlights": [
+      "Hands-on experience in AI development",
+      "Mentorship available for participants",
+      "Wide-ranging eligibility for a global audience",
+      "Multiple prize categories including a cash prize"
+    ],
+    "application_deadline": "2026-11-12",
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": 750,
+    "beginner_friendly": true,
+    "application_url": "https://www.egain.com/ai-agent-hackathon/",
+    "tags": [
+      "ai",
+      "hackathon",
+      "global",
+      "beginner-friendly",
+      "eGain"
+    ],
+    "url": "https://build-a-working-ai-support-bot.devpost.com/",
+    "id": "d318d59279d8",
+    "last_checked": "2026-11-08T14:46:40.276816+00:00"
   }
 ]
