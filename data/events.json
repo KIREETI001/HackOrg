@@ -22365,5 +22365,188 @@
     "url": "https://build-a-working-ai-support-bot.devpost.com/",
     "id": "d318d59279d8",
     "last_checked": "2026-11-08T14:46:40.276816+00:00"
+  },
+  {
+    "name": "Peninsula Innovation Hackathon",
+    "organizer": "Devpost",
+    "companies": [],
+    "level": "Tertiary",
+    "timeline": "Multi-week (1-3mo)",
+    "scope": "Global",
+    "domains": [
+      "Computer Science",
+      "Humanities"
+    ],
+    "fields": [
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "November 2026 - 10 December 2026",
+    "location": "Online",
+    "prize": "Five non-cash prizes awarded to the top-ranked projects.",
+    "summary": "The Peninsula Innovation Hackathon invites students globally to transform everyday problems into innovative solutions through technology. This virtual event encourages participants to leverage their creativity in building apps, games, and prototypes that address specific community issues. With a focus on originality and usefulness, the hackathon supports varied submissions that can reflect personal insights and local experiences.",
+    "eligibility": "Students above the legal age of majority in their country can participate, while professional organizations are excluded.",
+    "highlights": [
+      "Open to students globally, fostering a diverse range of ideas.",
+      "Encourages creativity by focusing on everyday problems.",
+      "Supports a variety of projects from apps to hardware prototypes.",
+      "Five distinct prizes motivate participants to strive for excellence."
+    ],
+    "application_deadline": "2026-12-10",
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": "https://peninsula-innovation-hackathon.devpost.com/",
+    "tags": [
+      "innovation",
+      "hackathon",
+      "global",
+      "student-friendly",
+      "problem-solving"
+    ],
+    "url": "https://peninsula-innovation-hackathon.devpost.com/",
+    "id": "1078b99697b3",
+    "last_checked": "2026-11-10T16:05:41.782270+00:00"
+  },
+  {
+    "name": "Robotics Revolution 3: Robots and AI can take over the World?",
+    "organizer": "SGInnovate",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Engineering",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "Robotics"
+    ],
+    "status": "upcoming",
+    "date": "11 November 2026",
+    "location": "Kuala Lumpur, Singapore, The Meeting Point - 73B Ayer Rajah Crescent, 139966",
+    "prize": null,
+    "summary": "Robotics Revolution 3 seeks to explore the rapid advancements in robotics and artificial intelligence and their potential to transform various sectors. With a panel of industry experts, attendees will gain insights into the latest trends and innovations in robotics. The event facilitates networking and discussion among engineers, technopreneurs, business leaders, and enthusiasts in the field.",
+    "eligibility": "Open to engineers, robotics experts, technopreneurs, and business leaders interested in robotics and AI.",
+    "highlights": [
+      "Panel discussion featuring experts from various sectors",
+      "Focus on advancements in robotics and AI",
+      "Networking opportunities for professionals in the industry",
+      "Held at a notable venue in Singapore"
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": "https://www.sginnovate.com/event/robotics-revolution-3-robots-and-ai-can-take-over-world",
+    "tags": [
+      "singapore",
+      "ai",
+      "robotics",
+      "networking",
+      "technology",
+      "experts"
+    ],
+    "url": "https://www.sginnovate.com/event/robotics-revolution-3-robots-and-ai-can-take-over-world",
+    "id": "a1379b508acb",
+    "last_checked": "2026-11-10T16:05:48.735514+00:00"
+  },
+  {
+    "name": "AI: Tool, Threat, or Collaborator? — Solotogether × XNode Dialogue",
+    "organizer": "SGInnovate",
+    "companies": [
+      "Solotogether",
+      "XNode"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Humanities",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "15 November 2026",
+    "location": "Singapore, 32 Carpenter Street, 059911",
+    "prize": "Free admission to a valuable dialogue on AI's impact in creative professions.",
+    "summary": "This event is designed for artists, technologists, and creatives to engage in meaningful discussions about the intersection of AI and creativity. Participants will explore the practical applications of AI in their fields while debating the challenges and opportunities it presents. The format is centered around small-group conversations, allowing for rich dialogue and networking among diverse attendees.",
+    "eligibility": "Open to artists, designers, content creators, and technologists interested in AI's role in creative work.",
+    "highlights": [
+      "Facilitated small-group discussions enhancing understanding of AI's impact.",
+      "Expert speakers with extensive knowledge in arts and technology.",
+      "Opportunities for networking with industry peers.",
+      "Hands-on insights into practical uses of AI in creative practices."
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": "https://luma.com",
+    "tags": [
+      "singapore",
+      "ai",
+      "creative-dialogue",
+      "beginner-friendly",
+      "solotogether",
+      "xnode"
+    ],
+    "url": "https://www.sginnovate.com/event/ai-tool-threat-or-collaborator-solotogether-xnode-dialogue",
+    "id": "f99a69e6bfb0",
+    "last_checked": "2026-11-10T16:05:57.916158+00:00"
+  },
+  {
+    "name": "Sweden-Singapore AI Outlook Days 2026: The Forum",
+    "organizer": "KTH Royal Institute of Technology",
+    "companies": [
+      "Business Sweden",
+      "Embassy of Sweden in Singapore",
+      "Vinnova",
+      "Singapore University of Social Sciences"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "status": "upcoming",
+    "date": "17 November 2026",
+    "location": "Kuala Lumpur, Singapore, Lorong AI 69 Ayer Rajah Crescent, Level 3 Vidacity",
+    "prize": null,
+    "summary": "The Sweden-Singapore AI Outlook Days 2026 Forum is a unique gathering aimed at exploring the intersection of AI deployment and its impacts on society. It brings together experts from various fields to address crucial questions about AI's future in work and education. Participants will engage in focused discussions to share insights on overcoming challenges in AI integration across sectors, emphasizing collaborative learning between Sweden and Singapore.",
+    "eligibility": "The forum is open to professionals and experts interested in AI and its societal implications.",
+    "highlights": [
+      "Focus on AI adoption and its impact on society.",
+      "Engagement with experts from diverse fields.",
+      "Interactive working sessions for practical insights.",
+      "International collaboration between Sweden and Singapore."
+    ],
+    "application_deadline": null,
+    "difficulty": "Intermediate",
+    "cost": "Varies",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": "https://www.sginnovate.com/event/sweden-singapore-ai-outlook-days-2026-forum",
+    "tags": [
+      "singapore",
+      "ai",
+      "forum",
+      "international",
+      "collaboration"
+    ],
+    "url": "https://www.sginnovate.com/event/sweden-singapore-ai-outlook-days-2026-forum",
+    "id": "1efe168307f4",
+    "last_checked": "2026-11-10T16:06:12.120949+00:00"
   }
 ]
