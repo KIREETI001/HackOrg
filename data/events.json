@@ -22548,5 +22548,268 @@
     "url": "https://www.sginnovate.com/event/sweden-singapore-ai-outlook-days-2026-forum",
     "id": "1efe168307f4",
     "last_checked": "2026-11-10T16:06:12.120949+00:00"
+  },
+  {
+    "name": "Robot Agentic Programming: Back into the Future",
+    "organizer": "SGInnovate",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "13 November 2026",
+    "location": "Singapore, Lorong AI @ One-North, 69 Ayer Rajah Cres., Level 3 Vidacity",
+    "prize": null,
+    "summary": "This event will delve into the future of robotics, specifically how agentic programming is transitioning from software to physical robots. Led by Prof. David Hsu, attendees will gain insights into the advancements in robot capabilities through a blend of model-based planning and data-driven learning. The lecture is part of the Singapore Embodied AI Colloquium, which focuses on the latest developments in embodied AI and robotic systems.",
+    "eligibility": "Open to anyone interested in robotics and AI, especially researchers and practitioners.",
+    "highlights": [
+      "Led by renowned expert Prof. David Hsu.",
+      "Focus on the integration of coding agents in robotics.",
+      "Part of a specialized technical research series.",
+      "Interactive discussions on frontier topics in embodied AI."
+    ],
+    "application_deadline": null,
+    "difficulty": "Intermediate",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": "https://www.sginnovate.com/event/robot-agentic-programming-back-future",
+    "tags": [
+      "singapore",
+      "robotics",
+      "ai",
+      "technology",
+      "seminar"
+    ],
+    "url": "https://www.sginnovate.com/event/robot-agentic-programming-back-future",
+    "id": "ae3a2020e275",
+    "last_checked": "2026-11-11T15:52:01.375905+00:00"
+  },
+  {
+    "name": "Introduction to Developing With NVIDIA Omniverse",
+    "organizer": "SGInnovate",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "12 November 2026",
+    "location": "Kuala Lumpur, Singapore, 32 Carpenter Street, 059911",
+    "prize": null,
+    "summary": "This workshop is designed to introduce participants to NVIDIA Omniverse, enabling attendees to build applications for 3D workflows. Participants will gain hands-on experience with the Omniverse Kit SDK and learn to create applications using provided templates. Although prior programming knowledge is beneficial, it is not mandatory, making this opportunity accessible to a broader audience.",
+    "eligibility": "Anyone with a keen interest in learning application development can join.",
+    "highlights": [
+      "Hands-on introduction to NVIDIA Omniverse.",
+      "Learn to develop applications using Kit SDK.",
+      "Open to participants with basic programming skills.",
+      "Ideal for those interested in 3D industrial applications."
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": "https://www.sginnovate.com/event/introduction-developing-nvidia-omniverse",
+    "tags": [
+      "singapore",
+      "nvidia",
+      "omniverse",
+      "workshop",
+      "beginner-friendly"
+    ],
+    "url": "https://www.sginnovate.com/event/introduction-developing-nvidia-omniverse",
+    "id": "ab25329de951",
+    "last_checked": "2026-11-11T15:52:08.165204+00:00"
+  },
+  {
+    "name": "Extend Omniverse Kit Applications for Building Digital Twins",
+    "organizer": "SGInnovate",
+    "companies": [
+      "NVIDIA"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "12 November 2026",
+    "location": "Kuala Lumpur, Singapore",
+    "prize": null,
+    "summary": "This hands-on course invites participants to explore the latest advancements in 3D digital twins using the Omniverse platform. Attendees will learn to develop applications that leverage OpenUSD, focusing on interactive features and physics simulations. Ideal for those looking to enhance their skills in digital twin technology, the course offers insights into the integration of AI and computer graphics.",
+    "eligibility": "Some programming experience is preferred but not required.",
+    "highlights": [
+      "Hands-on learning experience in digital twin application development.",
+      "Focus on cutting-edge technologies in AI and computer graphics.",
+      "Opportunity to network with industry professionals.",
+      "Discover practical applications of OpenUSD in real-world scenarios."
+    ],
+    "application_deadline": null,
+    "difficulty": "Intermediate",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": "https://www.sginnovate.com/event/extend-omniverse-kit-applications-building-digital-twins",
+    "tags": [
+      "digital twins",
+      "AI",
+      "hands-on",
+      "Omniverse",
+      "workshop",
+      "Singapore"
+    ],
+    "url": "https://www.sginnovate.com/event/extend-omniverse-kit-applications-building-digital-twins",
+    "id": "46447c9204fa",
+    "last_checked": "2026-11-11T15:52:14.678288+00:00"
+  },
+  {
+    "name": "Fundamentals of Working With OpenUSD",
+    "organizer": "SGInnovate",
+    "companies": [],
+    "level": "Secondary",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science"
+    ],
+    "fields": [
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "12 November 2026",
+    "location": "Kuala Lumpur, Singapore, 32 Carpenter Street, 059911",
+    "prize": null,
+    "summary": "This introductory training lab focuses on the essentials of Universal Scene Description (OpenUSD), tailored for individuals looking to enhance their 3D workflow skills. Participants will learn about non-destructive workflows, layering, and scene composition techniques that are critical for 3D industrial applications. While a basic understanding of 3D applications is useful, the course is designed to equip attendees with essential skills regardless of prior experience.",
+    "eligibility": "Open to anyone with intermediate Python experience, particularly those interested in 3D technology.",
+    "highlights": [
+      "Hands-on lab format ensures practical learning.",
+      "Covers key 3D workflow fundamentals.",
+      "Run by experienced trainers from SGInnovate.",
+      "Focus on using advanced tools for industrial 3D applications."
+    ],
+    "application_deadline": null,
+    "difficulty": "Intermediate",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": false,
+    "application_url": "https://www.sginnovate.com/event/fundamentals-working-openusd",
+    "tags": [
+      "singapore",
+      "3D",
+      "OpenUSD",
+      "Intermediate",
+      "training"
+    ],
+    "url": "https://www.sginnovate.com/event/fundamentals-working-openusd",
+    "id": "de9b7589cdc5",
+    "last_checked": "2026-11-11T15:52:21.465990+00:00"
+  },
+  {
+    "name": "A Beginner's Guide to Autonomous Robots",
+    "organizer": "SGInnovate",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "12 November 2026",
+    "location": "Kuala Lumpur, Singapore",
+    "prize": null,
+    "summary": "This introductory-level course on autonomous robots is designed for software engineers and robotics enthusiasts. It will cover foundational topics including robotic architecture, sensing, navigation, and perception. Participants will explore current trends and the future of robotics technology, making it an engaging first step into the field of robotics.",
+    "eligibility": "No prior knowledge of robotics is required, making it accessible to everyone interested.",
+    "highlights": [
+      "Beginner-friendly course structure",
+      "Focus on practical applications of robotics",
+      "Covers current trends in autonomy software",
+      "Engaging for both professionals and enthusiasts"
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": "https://www.sginnovate.com/event/beginners-guide-autonomous-robots-1",
+    "tags": [
+      "singapore",
+      "robots",
+      "beginner-friendly",
+      "autonomous",
+      "technology"
+    ],
+    "url": "https://www.sginnovate.com/event/beginners-guide-autonomous-robots-1",
+    "id": "7f16731be9e4",
+    "last_checked": "2026-11-11T15:52:27.434683+00:00"
+  },
+  {
+    "name": "Creating an Omniverse Extension With Python",
+    "organizer": "SGInnovate",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "12 November 2026",
+    "location": "Kuala Lumpur, Singapore at 32 Carpenter Street, 059911",
+    "prize": null,
+    "summary": "This event is a hands-on lab focused on creating extensions for Omniverse applications using Python. Participants will learn to build and customize extensions, making them interactive and functional. The course is designed to equip attendees with practical skills in application development, particularly in the context of Omniverse. It is suitable for those looking to enhance their programming skills and explore creative solutions in a tech-driven environment.",
+    "eligibility": "Anyone with basic programming skills is welcome to join.",
+    "highlights": [
+      "Hands-on lab experience with real-time coding.",
+      "Focus on building interactive user interfaces.",
+      "Introduction to Omniverse application customization.",
+      "Suitable for various skill levels with programming basics."
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": "https://www.sginnovate.com/event/creating-omniverse-extension-python",
+    "tags": [
+      "singapore",
+      "python",
+      "omniverse",
+      "programming",
+      "free"
+    ],
+    "url": "https://www.sginnovate.com/event/creating-omniverse-extension-python",
+    "id": "045847e5026b",
+    "last_checked": "2026-11-11T15:52:34.020097+00:00"
   }
 ]
