@@ -22811,5 +22811,49 @@
     "url": "https://www.sginnovate.com/event/creating-omniverse-extension-python",
     "id": "045847e5026b",
     "last_checked": "2026-11-11T15:52:34.020097+00:00"
+  },
+  {
+    "name": "AI for Medicine: A Global Student Hackathon on the Future of Care",
+    "organizer": "Open Health AI Collective",
+    "companies": [],
+    "level": "Pre-University",
+    "timeline": "Single-day",
+    "scope": "Global",
+    "domains": [
+      "Sciences (STEM)",
+      "Humanities"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "Healthcare"
+    ],
+    "status": "upcoming",
+    "date": "4 December 2026",
+    "location": "Online",
+    "prize": "Participants can earn non-cash prizes including certificates of achievement in various categories.",
+    "summary": "The AI for Medicine Hackathon invites students from around the world to create innovative AI solutions aimed at improving healthcare. Participants pick real-world problems related to health and showcase their findings. The focus is on evaluation and reproducibility, pushing the boundaries of healthcare technology and student ingenuity.",
+    "eligibility": "Open to students aged 14 and older who are currently enrolled at an accredited institution.",
+    "highlights": [
+      "Global participation for students 14+",
+      "Focus on AI solutions for real health problems",
+      "Emphasis on evaluation and reproducibility in project submissions",
+      "Non-cash prizes recognizing innovation and quality"
+    ],
+    "application_deadline": "2026-12-04T23:45:00-05:00",
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": 0,
+    "beginner_friendly": true,
+    "application_url": "https://ai-for-medicine.devpost.com/",
+    "tags": [
+      "hackathon",
+      "healthcare",
+      "AI",
+      "student-friendly",
+      "global"
+    ],
+    "url": "https://ai-for-medicine.devpost.com/",
+    "id": "fc64d2f60348",
+    "last_checked": "2026-11-13T15:55:48.348211+00:00"
   }
 ]
