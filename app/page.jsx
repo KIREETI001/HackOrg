@@ -18,7 +18,8 @@ export default async function Home() {
     fallback: { events, meta },
     onError: (error) => console.warn("Using bundled scan snapshot:", error.message),
   });
-  return <Scanner events={snapshot.events} meta={snapshot.meta} />;
+  // renderedAt lets the client render the same day counts the server did, then update.
+  return <Scanner events={snapshot.events} meta={snapshot.meta} renderedAt={Date.now()} />;
 }
 
 // New repository scans become available without another application deployment.
