@@ -22855,5 +22855,1279 @@
     "url": "https://ai-for-medicine.devpost.com/",
     "id": "fc64d2f60348",
     "last_checked": "2026-11-13T15:55:48.348211+00:00"
+  },
+  {
+    "name": "Imperial AI Hackathon",
+    "organizer": "Imperial AI Society",
+    "companies": [
+      "Adaption",
+      "Anthropic",
+      "Figma",
+      "Optiver",
+      "Jane Street",
+      "tbd.fund",
+      "Databricks",
+      "Linkup",
+      "fal",
+      "ElevenLabs",
+      "Tavily",
+      "Synthesia",
+      "Anam",
+      "Boltz",
+      "MongoDB",
+      "Tamarind Bio",
+      "Entrepreneurs First",
+      "EWOR",
+      "Google Developer Groups"
+    ],
+    "level": "Tertiary",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Global",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)",
+      "Business / Economics"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "status": "ongoing",
+    "date": "14-15 November 2026",
+    "location": "London, Huxley Building, Imperial College",
+    "prize": "Cash prizes and partner credits totaling over £5000 in Amazon vouchers and various tech bounties.",
+    "summary": "The Imperial AI Hackathon is a premier event hosted by the Imperial AI Society, attracting over 450 participants to tackle innovative AI challenges. It features five distinct tracks, allowing teams to showcase their creativity and technical skills while competing for substantial prizes. This year's event emphasizes practical solutions, collaborative learning, and engagement with industry leaders.",
+    "eligibility": "Open to college students above the legal age of majority, excluding companies and professional organizations.",
+    "highlights": [
+      "Five diverse AI tracks to choose from.",
+      "Opportunities for significant cash prizes and tech credits.",
+      "Hands-on workshops with industry experts.",
+      "Networking with leading AI companies and organizations."
+    ],
+    "application_deadline": "2026-11-15T12:00:00Z",
+    "difficulty": "Intermediate",
+    "cost": "Free",
+    "prize_value_usd": 6000,
+    "beginner_friendly": true,
+    "application_url": "https://imperial-ai-hackathon.devpost.com/",
+    "tags": [
+      "ai",
+      "hackathon",
+      "imperial college",
+      "machine learning",
+      "student event"
+    ],
+    "url": "https://imperial-ai-hackathon.devpost.com/",
+    "id": "bd6d45fd047e",
+    "last_checked": "2026-11-14T14:46:13.736863+00:00"
+  },
+  {
+    "name": "EVOLVE: 8090 AI Hackathon",
+    "organizer": "8090",
+    "companies": [
+      "HydraDB",
+      "Composio",
+      "Vercel",
+      "ElevenLabs"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "status": "completed",
+    "date": "13-14 November 2026",
+    "location": "Redwood City, 8090 office",
+    "prize": "Over $10,000 in credits and prizes including Mac Minis and AirPods Max.",
+    "summary": "The EVOLVE: 8090 AI Hackathon challenged participants to design solutions for automating software creation, focusing on building a 'Software Factory'. With a tight timeline of 20 hours, competitors worked collaboratively, benefiting from the guidance of 8090's engineers. The event featured live demos, expert judging, and notable participation from tech leaders, making it a pivotal opportunity for innovation in AI-driven software development.",
+    "eligibility": "Participants must be 18 or older and registered through Luma to join the hackathon.",
+    "highlights": [
+      "20-hour hackathon focused on AI and automation.",
+      "Opportunity to pitch to Chamath Palihapitiya.",
+      "Support from 8090's engineering team throughout the event.",
+      "Live demos and Q&A sessions with technical staff."
+    ],
+    "application_deadline": "2026-11-14",
+    "difficulty": "Intermediate",
+    "cost": "Free",
+    "prize_value_usd": 10000,
+    "beginner_friendly": false,
+    "application_url": "https://evolve-8090.devpost.com/",
+    "tags": [
+      "ai",
+      "hackathon",
+      "software-development",
+      "in-person",
+      "open-to-all"
+    ],
+    "url": "https://evolve-8090.devpost.com/",
+    "id": "2ed78eacfac0",
+    "last_checked": "2026-11-14T14:46:19.358843+00:00"
+  },
+  {
+    "name": "GTransformer AI Buildathon 2026",
+    "organizer": "GTransformer Foundation",
+    "companies": [
+      "Apple",
+      "Google"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Global",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "Social Good"
+    ],
+    "status": "upcoming",
+    "date": "13-15 November 2026",
+    "location": "Milpitas, Bay Area + Online",
+    "prize": "A total of $1,000 in cash prizes for the winning projects.",
+    "summary": "The GTransformer AI Buildathon 2026 is a unique hybrid event that emphasizes building working prototypes rather than just pitching ideas. Participants will focus on applying AI to impactful problems, addressing themes such as wellbeing, connection, and learning opportunities. Mentorship is offered to help teams advance their projects after the event, reinforcing the commitment to responsible AI practices.",
+    "eligibility": "Open to all builders, engineers, designers, and other domain experts above the legal age of majority in their country.",
+    "highlights": [
+      "Hybrid format: participate in-person or online",
+      "Focus on building working prototypes, not just pitches",
+      "Mentorship opportunities to further develop ideas",
+      "Themes centered around social good and responsible AI"
+    ],
+    "application_deadline": "2026-11-15",
+    "difficulty": "Intermediate",
+    "cost": "Paid",
+    "prize_value_usd": 1000,
+    "beginner_friendly": true,
+    "application_url": "https://luma.com/292hfwwk",
+    "tags": [
+      "ai",
+      "buildathon",
+      "social-good",
+      "online",
+      "milpitas",
+      "intermediate"
+    ],
+    "url": "https://gtransformer-buildathon-2026.devpost.com/",
+    "id": "72c390260d9b",
+    "last_checked": "2026-11-14T14:46:25.101583+00:00"
+  },
+  {
+    "name": "Immerse the Bay 2026: Take Me To The Moon",
+    "organizer": "Stanford XR",
+    "companies": [
+      "Apple",
+      "Google"
+    ],
+    "level": "Tertiary",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Global",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "status": "upcoming",
+    "date": "13-15 November 2026",
+    "location": "Stanford University",
+    "prize": "A total of $1,000 in cash prizes for the winning project.",
+    "summary": "Immerse the Bay 2026 brings together students, designers, and developers to explore the future of extended reality over a weekend-long hackathon. Participants will engage in 36 hours of creative prototyping, developing augmented, virtual, and mixed reality projects. The event is designed to be inclusive, welcoming builders of all experience levels.",
+    "eligibility": "Participation is open to individuals aged 18 and above from all countries, excluding certain exceptions.",
+    "highlights": [
+      "36 hours of intensive project development in XR.",
+      "Cash prizes for outstanding projects.",
+      "Collaboration opportunities with peers.",
+      "Open to all skill levels, including beginners."
+    ],
+    "application_deadline": "2026-11-15",
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": 1000,
+    "beginner_friendly": true,
+    "application_url": "https://immerse-the-bay-2026.devpost.com/",
+    "tags": [
+      "stanford",
+      "xr",
+      "ai",
+      "hackathon",
+      "free",
+      "beginner-friendly"
+    ],
+    "url": "https://immerse-the-bay-2026.devpost.com/",
+    "id": "460f4aa90161",
+    "last_checked": "2026-11-14T14:46:30.126758+00:00"
+  },
+  {
+    "name": "VexoHacks - An AI Wearables Hackathon",
+    "organizer": "Vexo",
+    "companies": [
+      "Apple",
+      "Google",
+      "Y Combinator",
+      "Stripe",
+      "Deepgram",
+      "ElevenLabs"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Global",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "14 November 2026",
+    "location": "San Francisco, Y Combinator",
+    "prize": "Various non-cash prizes including tech products and credits for AI services.",
+    "summary": "VexoHacks is an innovative AI wearables hackathon where participants will explore new ways to interact with AI through hardware solutions. Taking place in-person at Y Combinator, it encourages creativity and collaboration among builders. Competitors have the opportunity to win exciting prizes by developing projects that push the boundaries of wearable technology.",
+    "eligibility": "Participants must be aged 16 and older from any country except standard exceptions.",
+    "highlights": [
+      "Focuses on AI wearables and voice interaction.",
+      "Hosted at the prestigious Y Combinator.",
+      "Offers diverse non-cash prizes including tech gadgets.",
+      "Encourages collaboration and real-world functionality in projects."
+    ],
+    "application_deadline": "2026-11-14T18:00:00-08:00",
+    "difficulty": "Intermediate",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": "https://vexohacks.devpost.com/",
+    "tags": [
+      "hackathon",
+      "ai",
+      "wearables",
+      "technology",
+      "open"
+    ],
+    "url": "https://vexohacks.devpost.com/",
+    "id": "4052fb9a59a6",
+    "last_checked": "2026-11-14T14:46:35.726597+00:00"
+  },
+  {
+    "name": "#HACK 2026",
+    "organizer": "Indigitous Singapore",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Humanities"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "27-29 November 2026",
+    "location": "Singapore, Wesley Methodist Church",
+    "prize": "Collaborative opportunities to innovate for a purpose-driven mission.",
+    "summary": "#HACK 2026 is the largest global Christian hackathon, aiming to utilize technology to spread the Gospel. Participants will engage in collaboration, brainstorming, and innovation, focusing on themes of love and outreach. The event encourages a diverse range of participants, from beginners to experienced technologists, to contribute towards meaningful projects for the community.",
+    "eligibility": "Open to anyone interested in using technology for good, regardless of skill level.",
+    "highlights": [
+      "Largest Christian hackathon focused on innovation for the Gospel.",
+      "Inclusive participation from students to professionals.",
+      "Focus on using technology to impact communities positively.",
+      "Collaborative environment with experts and like-minded enthusiasts."
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": "https://ndgt.sg/hack2026/participate",
+    "tags": [
+      "singapore",
+      "christian",
+      "hackathon",
+      "innovation",
+      "beginner-friendly"
+    ],
+    "url": "https://www.eventbrite.sg/e/hack-2026-tickets-2003695863265",
+    "id": "2a757a2290d6",
+    "last_checked": "2026-11-14T14:46:41.154033+00:00"
+  },
+  {
+    "name": "How to Build & Monetise Your Own AI Product",
+    "organizer": "Lise Chew",
+    "companies": [
+      "CASA CLAVA"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Business / Economics",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "status": "upcoming",
+    "date": "20 November 2026",
+    "location": "Singapore, Jiak Kim by CASA CLAVA",
+    "prize": null,
+    "summary": "This workshop empowers attendees to transform their expertise into profitable AI products. Participants will receive hands-on guidance in developing AI bots and understanding the connection between AI and revenue generation. With practical insights from experienced entrepreneurs, attendees will gain the skills needed to productize their ideas effectively. It's an excellent opportunity for founders and consultants to explore the commercial potential of AI.",
+    "eligibility": "Open to founders, business owners, experts, and consultants interested in AI.",
+    "highlights": [
+      "Hands-on workshop lasting 4 hours",
+      "Learn to build a practical AI bot",
+      "Gain insights on monetizing AI products",
+      "Perfect for anyone looking to turn ideas into revenue"
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Paid",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": "https://www.eventbrite.sg/e/how-to-build-monetise-your-own-ai-product-tickets-2002792656750",
+    "tags": [
+      "singapore",
+      "ai",
+      "workshop",
+      "business",
+      "monetization"
+    ],
+    "url": "https://www.eventbrite.sg/e/how-to-build-monetise-your-own-ai-product-tickets-2002792656750",
+    "id": "6831795b0d97",
+    "last_checked": "2026-11-14T14:46:45.945943+00:00"
+  },
+  {
+    "name": "Founders Pitch & Networking Night Singapore",
+    "organizer": "Startup Valley",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Business / Economics"
+    ],
+    "fields": [],
+    "status": "upcoming",
+    "date": "17 December 2026",
+    "location": "Singapore, Publico Ristorante",
+    "prize": "N/A",
+    "summary": "The Founders Pitch & Networking Night in Singapore is designed to provide founders with a platform to present their startup ideas to investors and receive valuable feedback. Set in a vibrant atmosphere, this event promotes meaningful networking opportunities between entrepreneurs and venture capitalists. With live pitches and structured interaction sessions, participants can expect to enhance their business strategies and build relevant connections.",
+    "eligibility": "Open to founders and startups looking to pitch their ideas to investors.",
+    "highlights": [
+      "Live startup pitches with direct investor feedback.",
+      "Opportunities for networking with industry experts.",
+      "Focused and structured event format.",
+      "Ideal for entrepreneurs seeking to refine their business models."
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Varies",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": "https://www.eventbrite.com/e/founders-pitch-networking-night-singapore-tickets-1997964672118",
+    "tags": [
+      "singapore",
+      "networking",
+      "startup",
+      "pitch",
+      "business"
+    ],
+    "url": "https://www.eventbrite.com/e/founders-pitch-networking-night-singapore-tickets-1997964672118",
+    "id": "3bb5b6d13c38",
+    "last_checked": "2026-11-14T14:46:50.914232+00:00"
+  },
+  {
+    "name": "AI Bot Meetup - Build Your AI Team Before 2027 #02",
+    "organizer": "Ai Hustle - BK HAN",
+    "companies": [
+      "SG Innovation",
+      "DTMatrix",
+      "Keppel"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Business / Economics"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "status": "upcoming",
+    "date": "20 November 2026",
+    "location": "Singapore, SG Innovation - powered by DTMatrix and Keppel",
+    "prize": null,
+    "summary": "The AI Bot Meetup is an interactive workshop designed for freelancers, solopreneurs, and creators looking to build an efficient AI-driven workflow with a focus on practical implementation. Participants will create and deploy a trio of bots tailored to enhance productivity in real-time. By emphasizing hands-on learning over theoretical discussions, the event promises to equip attendees with essential skills for leveraging AI in their operations.",
+    "eligibility": "Open to freelancers, solopreneurs, and those in creative or consulting professions, regardless of programming experience.",
+    "highlights": [
+      "Hands-on workshop focused on building a 3-bot executive stack.",
+      "No programming experience required, 100% no-code session.",
+      "Limited to 40 participants for a personalized experience.",
+      "Live demonstrations of proprietary setups and workflows."
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Paid",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": "https://www.eventbrite.sg/e/ai-bot-meetup-build-your-ai-team-before-2027-02-tickets-2004462426075",
+    "tags": [
+      "singapore",
+      "ai",
+      "workshop",
+      "no-code",
+      "productivity"
+    ],
+    "url": "https://www.eventbrite.sg/e/ai-bot-meetup-build-your-ai-team-before-2027-02-tickets-2004462426075",
+    "id": "e2ae3bba26fa",
+    "last_checked": "2026-11-14T14:46:55.693980+00:00"
+  },
+  {
+    "name": "Startup Pitch & Networking Singapore",
+    "organizer": "Startup Valley",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Business / Economics"
+    ],
+    "fields": [],
+    "status": "upcoming",
+    "date": "17 December 2026",
+    "location": "Singapore, No.5 Emerald Hill",
+    "prize": "N/A",
+    "summary": "The Startup Pitch & Networking event in Singapore offers a focused opportunity for startups to pitch to investors. Selected founders will present their business ideas and receive direct feedback from angels and venture capitalists. Complemented by networking sessions, this event aims to foster connections and enhance the pitching skills of participating entrepreneurs.",
+    "eligibility": "Open to founders and startups seeking investment and feedback.",
+    "highlights": [
+      "Live pitches from selected startups",
+      "Direct feedback from investors",
+      "Structured networking sessions",
+      "Opportunity for early connections"
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Paid",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": "https://www.eventbrite.com/e/startup-pitch-networking-singapore-tickets-2004526183776",
+    "tags": [
+      "singapore",
+      "startup",
+      "networking",
+      "pitch",
+      "investors"
+    ],
+    "url": "https://www.eventbrite.com/e/startup-pitch-networking-singapore-tickets-2004526183776",
+    "id": "290622bb0692",
+    "last_checked": "2026-11-14T14:47:03.410909+00:00"
+  },
+  {
+    "name": "Founders 2.0 Conference",
+    "organizer": "Founders 2.0 Conference",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Business / Economics",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "2-4 December 2026",
+    "location": "Singapore, Marina Bay Sands",
+    "prize": "Not applicable as this is a conference.",
+    "summary": "The Founders 2.0 Conference in Singapore brings together visionary entrepreneurs, investors, and industry experts to explore AI-driven innovations. Set in the iconic Marina Bay Sands, this event offers a unique platform for networking and knowledge exchange. Attendees will benefit from keynotes and panel discussions focused on entrepreneurship, digital scalability, and growth strategies in the tech landscape. The conference encourages forward-thinking dialogue among participants shaping the future of business.",
+    "eligibility": "Entrepreneurs, investors, and technology enthusiasts interested in AI-led innovation can join.",
+    "highlights": [
+      "Prominent keynotes from industry leaders",
+      "Interactive panels discussing AI applications",
+      "Networking opportunities with decision-makers",
+      "Focus on future-ready entrepreneurship"
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Paid",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": "https://www.eventbrite.com/e/founders-20-conference-singapore-tickets-1984871622454",
+    "tags": [
+      "singapore",
+      "ai",
+      "entrepreneurs",
+      "business-conference",
+      "networking"
+    ],
+    "url": "https://www.eventbrite.com/e/founders-20-conference-singapore-tickets-1984871622454",
+    "id": "12a68ce2f8f9",
+    "last_checked": "2026-11-14T14:47:09.911942+00:00"
+  },
+  {
+    "name": "Startups & Networking in Singapore",
+    "organizer": "Startup Valley",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Business / Economics"
+    ],
+    "fields": [],
+    "status": "upcoming",
+    "date": "17 December 2026",
+    "location": "Singapore, No.5 Emerald Hill",
+    "prize": "N/A",
+    "summary": "The Startups & Networking event in Singapore offers a platform for entrepreneurs to connect directly with investors. Attendees will experience live pitching sessions followed by structured networking opportunities. This event emphasizes candid feedback from seasoned angels and VCs, enhancing the startup experience. Founders can refine their ideas and gain instant insights from potential backers.",
+    "eligibility": "Open to all entrepreneurs and those interested in the startup ecosystem.",
+    "highlights": [
+      "Focused Pitch and Networking night",
+      "Live investor feedback for selected founders",
+      "Structured networking before and after pitches",
+      "Opportunity to sharpen business ideas"
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Paid",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": "https://www.eventbrite.com/e/startups-networking-in-singapore-tickets-2004526192803",
+    "tags": [
+      "singapore",
+      "networking",
+      "startups",
+      "business",
+      "pitching"
+    ],
+    "url": "https://www.eventbrite.com/e/startups-networking-in-singapore-tickets-2004526192803",
+    "id": "b8db5a6349f7",
+    "last_checked": "2026-11-14T14:47:14.556881+00:00"
+  },
+  {
+    "name": "Investor Connect: Pitch & Deal Flow Night",
+    "organizer": "Startup Valley",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Business / Economics"
+    ],
+    "fields": [
+      "FinTech"
+    ],
+    "status": "upcoming",
+    "date": "17 December 2026",
+    "location": "Singapore, No.5 Emerald Hill",
+    "prize": "Participants gain valuable feedback and networking opportunities rather than traditional prizes.",
+    "summary": "The Investor Connect event is designed to bridge the gap between startups and investors in a dynamic pitch format. Founders present their business ideas to a live audience, gaining crucial feedback directly from investors. Networking opportunities abound, allowing participants to form valuable connections in the startup ecosystem.",
+    "eligibility": "Open to startups looking to pitch their ideas to potential investors.",
+    "highlights": [
+      "Live startup pitches with direct investor feedback",
+      "Networking opportunities with industry professionals",
+      "3 hours of focused engagement in Singapore",
+      "Open pitch slots available for interested founders"
+    ],
+    "application_deadline": null,
+    "difficulty": "Intermediate",
+    "cost": "Paid",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": "https://www.eventbrite.com/e/investor-connect-pitch-deal-flow-night-in-singapore-tickets-2004526188791",
+    "tags": [
+      "singapore",
+      "networking",
+      "startups",
+      "business",
+      "pitch"
+    ],
+    "url": "https://www.eventbrite.com/e/investor-connect-pitch-deal-flow-night-in-singapore-tickets-2004526188791",
+    "id": "2033e97e555c",
+    "last_checked": "2026-11-14T14:47:21.663640+00:00"
+  },
+  {
+    "name": "HAPPY STARTUP™ – Connecting Startups, Investors & Universities",
+    "organizer": "Passion & Talent Alliance",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Business / Economics",
+      "Technologies"
+    ],
+    "fields": [
+      "Startup Ecosystems",
+      "Investment Opportunities",
+      "Innovation"
+    ],
+    "status": "upcoming",
+    "date": "27-29 November 2026",
+    "location": "Resorts World Convention Centre, Singapore",
+    "prize": "No specific prize is mentioned; focuses on networking and growth opportunities.",
+    "summary": "HAPPY STARTUP™ is a pivotal three-day event designed to bridge gaps between startups, investors, and university innovators in Singapore. It features various activities including a startup pitch competition and one-on-one networking to enhance collaborations and investment opportunities. By attracting notable venture capitalists and angel investors, this event promises to foster valuable connections in the innovation landscape.",
+    "eligibility": "Open to startups, investors, and university representatives, along with qualified attendees seeking growth opportunities.",
+    "highlights": [
+      "Connect with leading venture capital and angel investors.",
+      "Engage in a startup pitch competition for visibility.",
+      "Showcase innovations and technologies in dedicated pavilions.",
+      "Explore business matchmaking and networking opportunities."
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Varies",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": "https://www.eventbrite.com/e/happy-startuptm-connecting-startups-investors-universities-singapore-tickets-1994916286314",
+    "tags": [
+      "singapore",
+      "startup",
+      "investment",
+      "networking",
+      "innovators"
+    ],
+    "url": "https://www.eventbrite.com/e/happy-startuptm-connecting-startups-investors-universities-singapore-tickets-1994916286314",
+    "id": "7f02e61b6d1d",
+    "last_checked": "2026-11-14T14:47:26.578252+00:00"
+  },
+  {
+    "name": "AI Coding Summit Asia",
+    "organizer": "GitNation",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "status": "upcoming",
+    "date": "16 April 2027",
+    "location": "Singapore, SJ Campus",
+    "prize": null,
+    "summary": "The AI Coding Summit Asia is a premier event for software engineers to explore the intersection of AI and software development. Taking place for the first time in Singapore, it will feature practical talks and workshops on AI-powered coding techniques. Attendees can expect to engage with global experts and gain insights into the latest engineering practices in AI-driven development.",
+    "eligibility": "Open to all software engineers interested in AI applications in coding.",
+    "highlights": [
+      "First edition in Asia, bringing global insights to Singapore.",
+      "Practical focus on AI-powered software engineering techniques.",
+      "Workshops led by industry experts.",
+      "Networking opportunities with professionals from around the world."
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Paid",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": "https://aicodingsummit.com/asia/#tickets",
+    "tags": [
+      "singapore",
+      "ai",
+      "software engineering",
+      "coding summit",
+      "workshops"
+    ],
+    "url": "https://www.eventbrite.com/e/ai-coding-summit-asia-tickets-2002625143714",
+    "id": "a451533e1811",
+    "last_checked": "2026-11-14T14:47:35.346592+00:00"
+  },
+  {
+    "name": "Robotics Training & Competition Prep",
+    "organizer": "LearningActives LLP",
+    "companies": [],
+    "level": "Pre-University",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "Multiple dates available",
+    "location": "Serangoon Central, Singapore",
+    "prize": "Competition registration fees are included for participants.",
+    "summary": "This event offers robotics training focused on preparing children aged 8 to 16 for various competitions like FLL and NRC. Participants will learn essential skills in coding, robot design, and teamwork in a supportive environment. The programs are designed to boost both competitive readiness and DSA portfolio building. With flexible training schedules, students can benefit from tailored coaching and experience in real robotics competitions.",
+    "eligibility": "Open to children aged 8-16, including those in Robotics CCAs and beginners.",
+    "highlights": [
+      "Beginner-friendly training without prior experience required",
+      "Focus on competition skills and DSA portfolio preparation",
+      "Small group sizes for personalized attention",
+      "Hands-on learning with LEGO SPIKE PRIME"
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Varies",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": "https://www.eventbrite.com/e/by-appointment-only-robotics-training-competition-prep-fllnrcide-tickets-2000109446195",
+    "tags": [
+      "singapore",
+      "robotics",
+      "STEM",
+      "training",
+      "beginner-friendly"
+    ],
+    "url": "https://www.eventbrite.com/e/by-appointment-only-robotics-training-competition-prep-fllnrcide-tickets-2000109446195",
+    "id": "d54e168c3a1b",
+    "last_checked": "2026-11-14T14:47:41.274064+00:00"
+  },
+  {
+    "name": "Minecraft Magic: 2 Day Holiday Coding Workshop for Kids Aged 7-12",
+    "organizer": "The Young Maker (Education Hub)",
+    "companies": [],
+    "level": "Primary",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science"
+    ],
+    "fields": [
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "23-24 November 2026",
+    "location": "Singapore, The Young Maker (Stars of Kovan)",
+    "prize": "No prizes are mentioned for participants.",
+    "summary": "This workshop offers a unique opportunity for children aged 7 to 12 to learn coding through the interactive platform of Minecraft. With no prior coding experience required, participants will engage in hands-on activities that foster creativity and teamwork. Over the course of two days, kids will build their knowledge of coding concepts while creating and sharing projects, making it a fun and educational experience during the holiday season.",
+    "eligibility": "Children aged 7-12 are welcome to join without any prior coding experience.",
+    "highlights": [
+      "Hands-on learning with Minecraft fosters creativity.",
+      "No coding experience required, making it beginner-friendly.",
+      "Interactive sessions encourage collaboration and idea-sharing.",
+      "Children will showcase their projects at the end of the workshop."
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Paid",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": "https://www.eventbrite.sg/e/minecraft-magic-2-day-holiday-coding-workshop-for-kids-aged-7-12-sok-tickets-2003440557639",
+    "tags": [
+      "singapore",
+      "coding",
+      "children",
+      "minecraft",
+      "beginner-friendly"
+    ],
+    "url": "https://www.eventbrite.sg/e/minecraft-magic-2-day-holiday-coding-workshop-for-kids-aged-7-12-sok-tickets-2003440557639",
+    "id": "c70c4c443176",
+    "last_checked": "2026-11-14T14:47:46.557779+00:00"
+  },
+  {
+    "name": "Coding and Robotics: 2 Day LEGO SPIKE PRIME Workshop",
+    "organizer": "The Young Maker (Education Hub)",
+    "companies": [],
+    "level": "Pre-University",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "26-27 November 2026",
+    "location": "Singapore, The Young Maker (Stars of Kovan)",
+    "prize": "No prize is offered as this is a workshop.",
+    "summary": "The LEGO SPIKE PRIME Workshop offers children aged 8-12 an interactive experience in robotics and coding. Over two days, participants will design, build, and program their own robots while tackling real-world challenges. This hands-on learning approach is tailored for beginners, ensuring that every child can build confidence and skills in STEM fields.",
+    "eligibility": "Children aged 8-12 who are interested in robotics and coding can join.",
+    "highlights": [
+      "Hands-on robotics building and programming",
+      "No prior coding experience required",
+      "Interactive team-based challenges",
+      "Focus on creativity and problem-solving skills"
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Paid",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": "https://www.eventbrite.sg/e/coding-and-robotics-2-day-lego-spike-prime-workshop-sok-tickets-2003441062148",
+    "tags": [
+      "singapore",
+      "robotics",
+      "coding",
+      "beginner-friendly",
+      "STEM"
+    ],
+    "url": "https://www.eventbrite.sg/e/coding-and-robotics-2-day-lego-spike-prime-workshop-sok-tickets-2003441062148",
+    "id": "1c600bf25f15",
+    "last_checked": "2026-11-14T14:47:52.374769+00:00"
+  },
+  {
+    "name": "Coding & Robotics: 2 Day Artificial Intelligence Workshop for Kids",
+    "organizer": "The Young Maker (Education Hub)",
+    "companies": [],
+    "level": "Pre-University",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "status": "upcoming",
+    "date": "25-26 November 2026",
+    "location": "Singapore, The Young Maker (Stars of Kovan)",
+    "prize": "Participants will gain hands-on experience building an AI model.",
+    "summary": "This workshop introduces children to the basics of Artificial Intelligence in a fun and interactive environment. It focuses on hands-on learning, allowing kids to train their own image recognition models using Teachable Machine. Designed for beginners, the workshop fosters creativity while enhancing problem-solving skills, making technology accessible and engaging for young learners.",
+    "eligibility": "Kids with no prior coding or AI experience are welcome to join.",
+    "highlights": [
+      "Hands-on learning through interactive projects",
+      "Build a real AI model from scratch",
+      "Encourages logical thinking and creativity",
+      "No prior experience required, making it beginner-friendly"
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Paid",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": "https://www.eventbrite.sg/e/coding-robotics-2-day-artificial-intelligence-workshop-for-kids-sok-tickets-2003442252709",
+    "tags": [
+      "singapore",
+      "ai",
+      "kids",
+      "workshop",
+      "beginner-friendly"
+    ],
+    "url": "https://www.eventbrite.sg/e/coding-robotics-2-day-artificial-intelligence-workshop-for-kids-sok-tickets-2003442252709",
+    "id": "a02a669425ed",
+    "last_checked": "2026-11-14T14:47:57.053969+00:00"
+  },
+  {
+    "name": "Coding & Robotics: 2-Day Scratch Holiday Workshop for Kids Ages 7-12",
+    "organizer": "The Young Maker (Education Hub)",
+    "companies": [],
+    "level": "Pre-University",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science"
+    ],
+    "fields": [
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "1-2 December 2026",
+    "location": "Singapore, The Young Maker (Stars of Kovan)",
+    "prize": "N/A",
+    "summary": "This two-day workshop provides an engaging introduction to coding through the Scratch platform for children aged 7-12. It combines fun activities with hands-on learning, empowering kids to develop critical thinking and problem-solving skills. The program encourages creativity as participants design their own projects and navigate coding challenges in an inclusive environment, welcoming children of all skill levels.",
+    "eligibility": "Children aged 7-12 can join the workshop, regardless of prior coding experience.",
+    "highlights": [
+      "Beginner-friendly, no prior coding experience required.",
+      "Hands-on learning with interactive activities.",
+      "Encourages creativity and collaboration.",
+      "Promotes problem-solving skills through coding challenges."
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Paid",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": "https://www.eventbrite.sg/e/coding-robotics-2-day-scratch-holiday-workshop-for-kids-ages-7-12-sok-tickets-2003441411192",
+    "tags": [
+      "singapore",
+      "coding",
+      "children",
+      "workshop",
+      "beginner-friendly"
+    ],
+    "url": "https://www.eventbrite.sg/e/coding-robotics-2-day-scratch-holiday-workshop-for-kids-ages-7-12-sok-tickets-2003441411192",
+    "id": "9a62a2a0942a",
+    "last_checked": "2026-11-14T14:48:01.688810+00:00"
+  },
+  {
+    "name": "AI Engineering Summit Singapore 2026",
+    "organizer": "TESTINGMIND",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "3 December 2026",
+    "location": "Four Points by Sheraton Singapore, Riverview",
+    "prize": null,
+    "summary": "The AI Engineering Summit is a focused one-day event tailored for engineers engaged in delivering AI solutions. Attendees can expect practitioner-led discussions covering a variety of relevant topics in the AI field. The event promotes networking and collaboration among professionals, making it a key opportunity for anyone involved in AI development and deployment.",
+    "eligibility": "Open to all professionals working with AI technologies.",
+    "highlights": [
+      "Hands-on sessions with industry practitioners",
+      "Coverage of cutting-edge AI topics",
+      "Networking opportunities with peers",
+      "Focused discussions without vendor pitches"
+    ],
+    "application_deadline": null,
+    "difficulty": "Intermediate",
+    "cost": "Paid",
+    "prize_value_usd": null,
+    "beginner_friendly": false,
+    "application_url": "https://www.testingmind.com/event/aiengineeringsummit-Singapore/",
+    "tags": [
+      "singapore",
+      "ai",
+      "engineering",
+      "networking",
+      "conference"
+    ],
+    "url": "https://www.eventbrite.com/e/ai-engineering-summit-singapore-2026-tickets-1995178186665",
+    "id": "d9b9b8d3c4a8",
+    "last_checked": "2026-11-14T14:48:06.357309+00:00"
+  },
+  {
+    "name": "Business Networking & Startup Pitch Night",
+    "organizer": "Startup Valley Community",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Business / Economics"
+    ],
+    "fields": [],
+    "status": "upcoming",
+    "date": "17 December 2026",
+    "location": "Singapore, Publico Ristorante",
+    "prize": "Feedback from investors and networking opportunities for participating startups.",
+    "summary": "The Business Networking & Startup Pitch Night provides an opportunity for startups to present their ideas to potential investors. Each selected startup receives feedback from angels and VC partners, allowing founders to refine their pitches and expand their networks. This unique event combines structured pitching with interactive networking, ensuring that entrepreneurs can make meaningful connections within the industry.",
+    "eligibility": "Founders and startup teams seeking investment opportunities can apply to pitch.",
+    "highlights": [
+      "Live startup pitches followed by direct investor feedback.",
+      "Interactive networking sessions with industry experts.",
+      "Opportunity for 4 to 6 selected startups to pitch each night.",
+      "Designed to help founders refine their business models and ideas."
+    ],
+    "application_deadline": null,
+    "difficulty": "Intermediate",
+    "cost": "Paid",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": "https://www.eventbrite.com/e/business-networking-startup-pitch-night-in-singapore-tickets-1997964673121",
+    "tags": [
+      "singapore",
+      "networking",
+      "startup",
+      "pitch",
+      "business"
+    ],
+    "url": "https://www.eventbrite.com/e/business-networking-startup-pitch-night-in-singapore-tickets-1997964673121",
+    "id": "629bcbf519d7",
+    "last_checked": "2026-11-14T14:48:11.543284+00:00"
+  },
+  {
+    "name": "Interbranch Grand Speech Competition 2026",
+    "organizer": "Speech Academy Asia HQ",
+    "companies": [],
+    "level": "Pre-University",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Humanities"
+    ],
+    "fields": [],
+    "status": "completed",
+    "date": "22 November 2026",
+    "location": "Nanyang Technological University (one-north), 11 Slim Barracks Rise, Singapore 138664",
+    "prize": "Not specified.",
+    "summary": "The Interbranch Grand Speech Competition 2026 is Speech Academy Asia's premier event for public speaking, designed for students to demonstrate their abilities in a competitive yet supportive environment. Participants are grouped by age, competing in various speech categories. Alongside the competition, workshops are offered to help enhance public speaking skills.",
+    "eligibility": "This competition is exclusively for students of Speech Academy Asia.",
+    "highlights": [
+      "Annual public speaking competition",
+      "Categories for different age groups",
+      "Includes a guidance workshop",
+      "Opportunity to showcase speaking talents"
+    ],
+    "application_deadline": "2026-11-01",
+    "difficulty": "Beginner-Friendly",
+    "cost": "Paid",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": "https://www.eventbrite.com/e/interbranch-grand-speech-competition-2026-tickets-1996217108107",
+    "tags": [
+      "singapore",
+      "public speaking",
+      "competition",
+      "youth",
+      "beginner-friendly"
+    ],
+    "url": "https://www.eventbrite.com/e/interbranch-grand-speech-competition-2026-tickets-1996217108107",
+    "id": "03300d40633d",
+    "last_checked": "2026-11-14T14:48:16.652064+00:00"
+  },
+  {
+    "name": "SME & Startups Insight & Showcase 2026",
+    "organizer": "BISA",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Business / Economics"
+    ],
+    "fields": [
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "25 November 2026",
+    "location": "Singapore, Maybank Tower",
+    "prize": "No prizes are mentioned for this event.",
+    "summary": "The SME & Startups Insight & Showcase 2026 aims to facilitate connections between entrepreneurs, startups, and potential investors in Singapore. This exclusive event provides a platform for participants to learn, network, and showcase their business ideas and innovations. Focusing on supporting the entrepreneurship journey in the AI era, it reinforces the vision of advancing Indonesia's startup ecosystem within Singapore.",
+    "eligibility": "Aspiring entrepreneurs, startups, and SMEs are invited to join and showcase their ideas.",
+    "highlights": [
+      "Opportunities to connect with potential investors and partners",
+      "Platform for startups to pitch their solutions",
+      "Networking opportunities within the entrepreneurship community",
+      "Targeted insights into navigating business in the AI era"
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Paid",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": "https://shorturl.at/tpxlR",
+    "tags": [
+      "singapore",
+      "startups",
+      "business",
+      "networking",
+      "AI"
+    ],
+    "url": "https://www.eventbrite.sg/e/sme-startups-insight-showcase-2026-tickets-2002164096710",
+    "id": "d644f8707f2f",
+    "last_checked": "2026-11-14T14:48:21.277538+00:00"
+  },
+  {
+    "name": "Coding & Robotics: 2-Day Python Holiday Workshop for Kids Ages 12-16",
+    "organizer": "The Young Maker (Education Hub)",
+    "companies": [],
+    "level": "Pre-University",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science"
+    ],
+    "fields": [
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "30 November - 1 December 2026",
+    "location": "Singapore, The Young Maker (Stars of Kovan), 988 Upper Serangoon Road ##01-15",
+    "prize": "Students will leave with a working Python game and foundational programming skills.",
+    "summary": "This workshop is designed to introduce children aged 12 to 16 to the world of coding using Python, a versatile and beginner-friendly programming language. Spanning two days, participants will engage in hands-on activities, learning not only the technical basics but also how to express creativity through coding. The interactive format aims to build confidence and a love for technology among young learners.",
+    "eligibility": "Open to kids aged 12-16 with no prior coding experience required.",
+    "highlights": [
+      "Hands-on learning with a focus on fun and creativity.",
+      "No prior coding experience necessary, making it ideal for beginners.",
+      "Participants will create their own Python game during the workshop.",
+      "Small class sizes allow for personalized instruction."
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Varies",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": "https://www.eventbrite.sg/e/coding-robotics-2-day-python-holiday-workshop-for-kids-ages-12-16-sok-tickets-2003441192538",
+    "tags": [
+      "singapore",
+      "python",
+      "kids",
+      "coding",
+      "workshop"
+    ],
+    "url": "https://www.eventbrite.sg/e/coding-robotics-2-day-python-holiday-workshop-for-kids-ages-12-16-sok-tickets-2003441192538",
+    "id": "cf9525d5d840",
+    "last_checked": "2026-11-14T14:48:26.499719+00:00"
+  },
+  {
+    "name": "Tech X Summit Global 2026",
+    "organizer": "Eventbrite",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Business / Economics",
+      "Computer Science"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "Cybersecurity",
+      "Web3 / Blockchain"
+    ],
+    "status": "upcoming",
+    "date": "10 December 2026",
+    "location": "Singapore, Marina Bay Sands",
+    "prize": "N/A",
+    "summary": "Tech X Summit Global 2026 will gather leading tech professionals, startups, investors, and policymakers in Singapore to discuss innovation and the future of technology. Scheduled for December, the event will feature keynote speeches, panel discussions, and networking opportunities focused on critical fields such as AI and cybersecurity. This summit aims to foster collaboration among global innovators and shape the trajectory of the digital economy in Asia.",
+    "eligibility": "Industry leaders, innovators, and policymakers are welcome to attend.",
+    "highlights": [
+      "Connect with tech leaders and innovators.",
+      "Explore emerging technologies and digital transformations.",
+      "Engage in high-impact networking.",
+      "Gain insights from keynote sessions and expert panels."
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Paid",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": "https://www.eventbrite.com/e/tech-x-summit-global-2026-tickets-1992622925811",
+    "tags": [
+      "singapore",
+      "tech",
+      "networking",
+      "AI",
+      "cybersecurity",
+      "event"
+    ],
+    "url": "https://www.eventbrite.com/e/tech-x-summit-global-2026-tickets-1992622925811",
+    "id": "11e0cd6d2979",
+    "last_checked": "2026-11-14T14:48:32.037216+00:00"
+  },
+  {
+    "name": "Women in Tech Singapore - OutGeekWomen",
+    "organizer": "OutGeek - Badass Pros",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Business / Economics",
+      "Humanities"
+    ],
+    "fields": [],
+    "status": "upcoming",
+    "date": "8 April 2027",
+    "location": "Singapore, venue tba",
+    "prize": "Most tickets are free, with a few paid tickets available.",
+    "summary": "This event aims to connect mid-career and senior women in tech with hiring teams through an interactive format. Unlike traditional networking events, this gathers hiring teams to pitch directly to participants, creating a unique opportunity for direct engagement. Both women and men are welcome, reflecting an inclusive approach to tech networking.",
+    "eligibility": "Mid-career and senior women in tech are encouraged to attend, with some entry-level tickets available.",
+    "highlights": [
+      "Interactive pitches from hiring teams",
+      "Free food and drinks provided",
+      "Inclusive environment for all genders",
+      "Opportunity for direct networking with industry leaders"
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Varies",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": "https://www.eventbrite.com/e/women-in-tech-singapore-outgeekwomen-tickets-2003085946989",
+    "tags": [
+      "singapore",
+      "women-in-tech",
+      "networking",
+      "career",
+      "outgeek"
+    ],
+    "url": "https://www.eventbrite.com/e/women-in-tech-singapore-outgeekwomen-tickets-2003085946989",
+    "id": "cb0d62c823b1",
+    "last_checked": "2026-11-14T14:48:37.277239+00:00"
+  },
+  {
+    "name": "Founders Table Tech x Startup Meet",
+    "organizer": "Founders Table",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Business / Economics"
+    ],
+    "fields": [],
+    "status": "upcoming",
+    "date": "21 January 2027",
+    "location": "Singapore, Hotel Boss, Level 4, Jubilicious Cafe",
+    "prize": null,
+    "summary": "The Founders Table Tech x Startup Meet is a unique networking event designed to foster meaningful conversations among entrepreneurs, startup founders, and investors. Unlike typical networking events, this gathering encourages open discussions without the pressure of formal pitches or large crowds. It's an opportunity for individuals to share their experiences and challenges in a relaxed setting. Attendees are invited to join whether they are launching a new startup or seeking collaboration.",
+    "eligibility": "The event is open to founders, tech leaders, startup professionals, investors, and students.",
+    "highlights": [
+      "Focus on meaningful conversations rather than formal pitches",
+      "Open to a diverse audience, including students",
+      "In-person networking opportunity in a relaxed atmosphere",
+      "Designed to foster relationships and idea exchanges"
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": "https://www.eventbrite.com/e/founders-table-tech-x-startup-meet-tickets-2003568366920",
+    "tags": [
+      "singapore",
+      "networking",
+      "startup",
+      "entrepreneurship",
+      "business"
+    ],
+    "url": "https://www.eventbrite.com/e/founders-table-tech-x-startup-meet-tickets-2003568366920",
+    "id": "1000fb43fdb0",
+    "last_checked": "2026-11-14T14:48:41.654788+00:00"
+  },
+  {
+    "name": "Tech Career Roundtable x Startup Networking",
+    "organizer": "Eventbrite",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Business / Economics",
+      "Computer Science"
+    ],
+    "fields": [
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "21 January 2027",
+    "location": "Singapore, Hotel Boss, Level 4, Jubilicious Cafe",
+    "prize": null,
+    "summary": "The Tech Career Roundtable x Startup Networking event emphasizes meaningful connections among tech professionals, startup founders, and aspiring entrepreneurs. It's designed for individuals exploring career opportunities in the tech industry, facilitating discussions about innovation, startups, and technology trends. Participants can expect to network effortlessly, moving beyond traditional business card exchanges to foster genuine connections and collaborations.",
+    "eligibility": "Open to startup founders, tech professionals, entrepreneurs, students, and anyone interested in growing within the tech industry.",
+    "highlights": [
+      "Promotes authentic networking over traditional exchanges.",
+      "Brings together a diverse group of tech enthusiasts and professionals.",
+      "Offers insights into the evolving tech landscape.",
+      "Provides an opportunity for collaboration and mentorship."
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": "https://www.eventbrite.com/e/tech-career-roundtable-x-startup-networking-tickets-2004547112374",
+    "tags": [
+      "singapore",
+      "networking",
+      "tech",
+      "startup",
+      "entrepreneurship"
+    ],
+    "url": "https://www.eventbrite.com/e/tech-career-roundtable-x-startup-networking-tickets-2004547112374",
+    "id": "b6a28176a1a8",
+    "last_checked": "2026-11-14T14:48:47.032007+00:00"
   }
 ]
