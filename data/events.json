@@ -24129,5 +24129,142 @@
     "url": "https://www.eventbrite.com/e/tech-career-roundtable-x-startup-networking-tickets-2004547112374",
     "id": "b6a28176a1a8",
     "last_checked": "2026-11-14T14:48:47.032007+00:00"
+  },
+  {
+    "name": "AI@USC",
+    "organizer": "HackSC x USC AI Committee",
+    "companies": [
+      "USC Student Government",
+      "K1 Investments"
+    ],
+    "level": "Tertiary",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Humanities"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "Social Good"
+    ],
+    "status": "completed",
+    "date": "14-15 November 2026",
+    "location": "Ginsburg Hall, USC",
+    "prize": "$17,000+ in prizes including cash and tech gadgets.",
+    "summary": "The AI@USC hackathon invites USC students across all majors to develop AI solutions to enhance campus life. Spanning two days, this collaborative event fosters innovation by addressing real challenges faced by students and student organizations. With significant prizes and potential implementation of winning solutions by the USC Student Government, it emphasizes both creativity and camaraderie in tech development.",
+    "eligibility": "Currently enrolled USC students from all majors are eligible to participate.",
+    "highlights": [
+      "Over $17,000 in prizes available, including cash and tech gadgets.",
+      "Guaranteed career opportunities, including interviews and tours with K1 Investments.",
+      "Projects can have a lasting impact with implementation support from USC Student Government.",
+      "Beginner-friendly environment with support for all skill levels."
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": 17000,
+    "beginner_friendly": true,
+    "application_url": "https://ai-usc.devpost.com/",
+    "tags": [
+      "usc",
+      "ai",
+      "hackathon",
+      "student-run",
+      "beginner-friendly"
+    ],
+    "url": "https://ai-usc.devpost.com/",
+    "id": "9f78a1c53dc6",
+    "last_checked": "2026-11-15T15:20:46.314165+00:00"
+  },
+  {
+    "name": "Teens in AI Global Challenge 2027",
+    "organizer": "Devpost",
+    "companies": [],
+    "level": "Pre-University",
+    "timeline": "Multi-month (3-6mo)",
+    "scope": "Global",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "Sustainability",
+      "Healthcare",
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "15 February 2027",
+    "location": "Online",
+    "prize": "10 non-cash prizes including mentorship and recognition for top projects.",
+    "summary": "The Teens in AI Global Challenge 2027 encourages young innovators to create intelligent solutions using AI. Designed for participants aged 13 and up, this hackathon provides an opportunity to build functional prototypes that address real-world problems. With a focus on mentorship and guidance, participants can explore various AI applications across sectors like healthcare, sustainability, and education.",
+    "eligibility": "Students aged 13 and above from all countries are welcome to participate.",
+    "highlights": [
+      "Open to students aged 13+, fostering youth innovation.",
+      "Mentorship and resources available for all participants.",
+      "Focus on real-world applications of AI in various sectors.",
+      "Potential to win non-cash prizes and gain recognition."
+    ],
+    "application_deadline": "2027-02-15",
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": "https://teens-in-ai.devpost.com/",
+    "tags": [
+      "ai",
+      "hackathon",
+      "student",
+      "innovation",
+      "sustainability",
+      "global"
+    ],
+    "url": "https://teens-in-ai.devpost.com/",
+    "id": "f6d2b4dc61d4",
+    "last_checked": "2026-11-15T15:20:57.288251+00:00"
+  },
+  {
+    "name": "Meet with Pivotal bioVenture Partners",
+    "organizer": "SGInnovate",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Sciences (STEM)",
+      "Business / Economics"
+    ],
+    "fields": [
+      "Healthcare"
+    ],
+    "status": "upcoming",
+    "date": "20 November 2026",
+    "location": "Kuala Lumpur, Singapore, Guoco Midtown Network Hub (Level 2), 126 Beach Road Singapore 189773, 059911",
+    "prize": null,
+    "summary": "This event focuses on the intersection of investment and life sciences, particularly within the rapidly evolving ecosystems of the US and China. Attendees will gain insights into how companies navigate global growth and the practical implications for Singapore's emerging biotech sector. This networking opportunity is aimed at fostering collaboration between local and international players in the life sciences field.",
+    "eligibility": "Open to professionals and organizations interested in the life sciences and investment sectors.",
+    "highlights": [
+      "Exclusive insights from Pivotal bioVenture Partners",
+      "Discussion on global biotech ecosystems",
+      "Networking opportunities with industry leaders",
+      "Exploration of Singapore's role in supporting life sciences growth"
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": "https://www.sginnovate.com/event/meet-pivotal-bioventure-partners",
+    "tags": [
+      "singapore",
+      "biotech",
+      "networking",
+      "investment",
+      "healthcare"
+    ],
+    "url": "https://www.sginnovate.com/event/meet-pivotal-bioventure-partners",
+    "id": "3d8f0540b0ee",
+    "last_checked": "2026-11-15T15:21:16.212970+00:00"
   }
 ]
