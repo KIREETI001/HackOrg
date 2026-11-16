@@ -24266,5 +24266,193 @@
     "url": "https://www.sginnovate.com/event/meet-pivotal-bioventure-partners",
     "id": "3d8f0540b0ee",
     "last_checked": "2026-11-15T15:21:16.212970+00:00"
+  },
+  {
+    "name": "BuildHybridAI 2026",
+    "organizer": "Google",
+    "companies": [
+      "Google"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Multi-week (1-3mo)",
+    "scope": "Global",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "status": "upcoming",
+    "date": "9-30 November 2026",
+    "location": "Online",
+    "prize": "$30,000 in cash prizes including a $10,000 Grand Prize.",
+    "summary": "BuildHybridAI 2026 invites participants to create AI applications that seamlessly run both on-device and in the cloud using Firebase AI Logic. The hackathon encourages innovative solutions by rewarding projects that effectively leverage hybrid capabilities and operate across multiple platforms. With a substantial cash prize pool and opportunities for career advancement through interviews with the Firebase team, this event fosters creativity and technological advancement in AI application development.",
+    "eligibility": "Participants must be above the legal age of majority in their country of residence.",
+    "highlights": [
+      "Grand Prize of $10,000 for the best hybrid application.",
+      "Total prize pool of $30,000 available.",
+      "Focus on multi-platform capabilities to enhance project visibility.",
+      "Opportunity to gain exposure through interviews and blog features."
+    ],
+    "application_deadline": "2026-11-30",
+    "difficulty": "Intermediate",
+    "cost": "Free",
+    "prize_value_usd": 30000,
+    "beginner_friendly": true,
+    "application_url": "https://firebasehybridaihackathon.devpost.com/",
+    "tags": [
+      "hackathon",
+      "ai",
+      "firebase",
+      "machine learning",
+      "global"
+    ],
+    "url": "https://firebasehybridaihackathon.devpost.com/",
+    "id": "ba462a2c57c4",
+    "last_checked": "2026-11-16T17:56:42.921627+00:00"
+  },
+  {
+    "name": "LumaHacks",
+    "organizer": "Society of Asian Scientists and Engineers",
+    "companies": [
+      "Apple",
+      "Google",
+      "Outlook"
+    ],
+    "level": "Tertiary",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Business / Economics"
+    ],
+    "fields": [
+      "General Tech",
+      "Social Good"
+    ],
+    "status": "upcoming",
+    "date": "6-7 March 2027",
+    "location": "Orlando, FL, USA",
+    "prize": "A total of $500 in cash prizes available.",
+    "summary": "LumaHacks offers an exciting opportunity for college students to engage in a 24-hour hackathon where they can develop innovative projects. The event encourages creativity in programming while fostering a spirit of collaboration among participants. With its focus on social good, LumaHacks challenges contestants to build projects that offer unique solutions to real-world problems.",
+    "eligibility": "Open to college students above the legal age of majority in their country of residence.",
+    "highlights": [
+      "24-hour coding challenge to build innovative projects",
+      "Prizes totaling $500 awarded to outstanding submissions",
+      "Encourages collaboration and creativity among participants",
+      "Focus on projects for social good and real-world impact"
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": 500,
+    "beginner_friendly": true,
+    "application_url": "https://lumahacks.devpost.com/",
+    "tags": [
+      "hackathon",
+      "coding",
+      "college",
+      "social-good",
+      "beginner-friendly"
+    ],
+    "url": "https://lumahacks.devpost.com/",
+    "id": "88de11478cb2",
+    "last_checked": "2026-11-16T17:56:48.657052+00:00"
+  },
+  {
+    "name": "6th Kids AI Industry Immersion Camp",
+    "organizer": "SGInnovate",
+    "companies": [
+      "LinkedIn",
+      "Microsoft",
+      "IBM",
+      "Wavestone"
+    ],
+    "level": "Pre-University",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Humanities"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "21-26 November 2026",
+    "location": "Singapore, ACE Innovation Centre, 79 Ayer Rajah Crescent, #01-13 JTC Launchpad@one-north, 139955",
+    "prize": "Participants will gain hands-on experience in AI product development and mentorship.",
+    "summary": "The 6th Kids AI Industry Immersion Camp offers a unique six-day immersive experience for children aged 7 to 15. Attendees will engage with leaders from top companies while learning about AI product development and entrepreneurship. This camp emphasizes real-world applications of AI, fostering skills like problem framing and product pitching in a supportive environment. It is designed not just to teach coding, but to build confidence and creativity in young learners.",
+    "eligibility": "Children aged 7 to 15 and their parents can participate.",
+    "highlights": [
+      "Intensive 48.5-hour program over six days",
+      "One-on-one mentorship from industry leaders",
+      "Hands-on learning with real-world AI tools",
+      "No coding experience required"
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Varies",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": "https://www.sginnovate.com/event/build-global-ai-product-singapore-6th-kids-ai-industry-immersion-camp-ages-7-15-and-parents",
+    "tags": [
+      "singapore",
+      "ai",
+      "kids",
+      "education",
+      "immersion",
+      "entrepreneurship"
+    ],
+    "url": "https://www.sginnovate.com/event/build-global-ai-product-singapore-6th-kids-ai-industry-immersion-camp-ages-7-15-and-parents",
+    "id": "239224c1cf5d",
+    "last_checked": "2026-11-16T17:56:59.061984+00:00"
+  },
+  {
+    "name": "Hyper Interdisciplinary Conference Singapore",
+    "organizer": "Leave a Nest",
+    "companies": [],
+    "level": "Tertiary",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Sciences (STEM)",
+      "Humanities"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "Healthcare"
+    ],
+    "status": "upcoming",
+    "date": "21 November 2026",
+    "location": "Singapore, Lee Kong Chian School of Medicine, Nanyang Technological University",
+    "prize": null,
+    "summary": "The Hyper Interdisciplinary Conference serves as a platform to bridge the gap between diverse sectors, focusing on the intersection of artificial intelligence and healthcare. This event will feature keynotes from leading experts and thematic panels designed to encourage collaboration and innovation. Researchers, healthcare professionals, and tech entrepreneurs will convene to discuss the practical applications and future of AI in the health sector.",
+    "eligibility": "Open to researchers, healthcare professionals, founders, and R&D personnel interested in AI applications in medicine.",
+    "highlights": [
+      "Keynotes from renowned experts in AI and healthcare",
+      "Thematic panels on cutting-edge technology applications",
+      "Networking opportunities for innovators and investors",
+      "Engaging 90-second research pitches"
+    ],
+    "application_deadline": "2026-11-09",
+    "difficulty": "Intermediate",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": "https://shorturl.at/gGlQb",
+    "tags": [
+      "singapore",
+      "ai",
+      "healthcare",
+      "conference",
+      "networking",
+      "innovation"
+    ],
+    "url": "https://www.sginnovate.com/event/hyper-interdisciplinary-conference-singapore",
+    "id": "25ef6e8b3579",
+    "last_checked": "2026-11-16T17:57:05.982588+00:00"
   }
 ]
