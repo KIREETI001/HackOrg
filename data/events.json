@@ -24454,5 +24454,48 @@
     "url": "https://www.sginnovate.com/event/hyper-interdisciplinary-conference-singapore",
     "id": "25ef6e8b3579",
     "last_checked": "2026-11-16T17:57:05.982588+00:00"
+  },
+  {
+    "name": "MedTech Actuator X'Mas Meet & Mingle",
+    "organizer": "SGInnovate",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "Healthcare"
+    ],
+    "status": "upcoming",
+    "date": "16 December 2026",
+    "location": "Kuala Lumpur, venue revealed upon approval",
+    "prize": null,
+    "summary": "The MedTech Actuator X'Mas Meet & Mingle serves as a festive gathering for the community involved in healthcare startups and innovation. Hosted by SGInnovate, the event focuses on celebrating the year's achievements and fostering connections among portfolio companies and partners. While predominantly a social affair, it emphasizes creative networking in the MedTech ecosystem, setting a warm, community-focused tone for closing the year.",
+    "eligibility": "This event is open to members of the MedTech community and interested guests.",
+    "highlights": [
+      "Festive gathering to celebrate the year's achievements",
+      "Focus on networking within the MedTech ecosystem",
+      "Invitation-based registration to manage attendance",
+      "Bringing together portfolio companies and partners"
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": "https://www.sginnovate.com/event/medtech-actuator-xmas-meet-mingle",
+    "tags": [
+      "singapore",
+      "medtech",
+      "networking",
+      "community",
+      "healthcare",
+      "event"
+    ],
+    "url": "https://www.sginnovate.com/event/medtech-actuator-xmas-meet-mingle",
+    "id": "26d9ab052c73",
+    "last_checked": "2026-11-17T17:23:15.907660+00:00"
   }
 ]
