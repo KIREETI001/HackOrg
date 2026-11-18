@@ -24497,5 +24497,453 @@
     "url": "https://www.sginnovate.com/event/medtech-actuator-xmas-meet-mingle",
     "id": "26d9ab052c73",
     "last_checked": "2026-11-17T17:23:15.907660+00:00"
+  },
+  {
+    "name": "AI@UCF Semester Sprint",
+    "organizer": "University of Central Florida",
+    "companies": [],
+    "level": "Tertiary",
+    "timeline": "Multi-month (3-6mo)",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "status": "upcoming",
+    "date": "September - November 2026",
+    "location": "University of Central Florida, Orlando",
+    "prize": "Official recognition as the top project on the AI@UCF Discord and social channels.",
+    "summary": "The AI@UCF Semester Sprint is a unique initiative that encourages students to explore and innovate in the field of artificial intelligence over a full semester. Participants collaborate to develop machine learning models and applications, culminating in presentations of their projects. This year, the event emphasizes creativity, practical impact, and effective communication of technical concepts.",
+    "eligibility": "Students above the legal age of majority in their country can participate.",
+    "highlights": [
+      "Semester-long project sprint focusing on AI innovations",
+      "Collaboration among student developers and researchers",
+      "Final presentations showcasing technical solutions",
+      "Opportunity for recognition in the AI community"
+    ],
+    "application_deadline": "2026-11-20",
+    "difficulty": "Intermediate",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": false,
+    "application_url": "https://semester-sprint.devpost.com/",
+    "tags": [
+      "ai",
+      "university",
+      "project-sprint",
+      "machine-learning",
+      "student-run"
+    ],
+    "url": "https://semester-sprint.devpost.com/",
+    "id": "26695eb1b115",
+    "last_checked": "2026-11-18T16:57:10.960462+00:00"
+  },
+  {
+    "name": "OBSCURA: Satellite AI Research Challenge",
+    "organizer": "BTAJI Crew",
+    "companies": [],
+    "level": "Tertiary",
+    "timeline": "Multi-week (1-3mo)",
+    "scope": "Global",
+    "domains": [
+      "Sciences (STEM)",
+      "Computer Science"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "Social Good"
+    ],
+    "status": "upcoming",
+    "date": "18 October - 24 November 2026",
+    "location": "Online",
+    "prize": "$50 in cash prizes and digital certificates of participation",
+    "summary": "The OBSCURA challenge invites tertiary students to apply machine learning techniques to predict atmospheric pollution using satellite imagery. Participants will engage in a hands-on research project with real-world implications, addressing significant environmental issues. With its global reach and a focus on scientific integrity, this competition fosters collaboration and innovative thinking among students.",
+    "eligibility": "Eligible college and university students worldwide can participate, individually or in teams of up to 20.",
+    "highlights": [
+      "Global participation from students in universities",
+      "Combines rigorous machine learning approaches with environmental science",
+      "Encourages documentation and reproducibility of research",
+      "Offers cash prizes and certificates for participation"
+    ],
+    "application_deadline": "2026-11-24",
+    "difficulty": "Intermediate",
+    "cost": "Free",
+    "prize_value_usd": 50,
+    "beginner_friendly": true,
+    "application_url": "https://obscura.devpost.com/",
+    "tags": [
+      "ai",
+      "research",
+      "environment",
+      "machine-learning",
+      "students"
+    ],
+    "url": "https://obscura.devpost.com/",
+    "id": "e87ef4f30458",
+    "last_checked": "2026-11-18T16:57:18.603483+00:00"
+  },
+  {
+    "name": "Pico Space Program",
+    "organizer": "PICO",
+    "companies": [
+      "Unity",
+      "NVIDIA",
+      "AMD",
+      "ByteDance"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Multi-week (1-3mo)",
+    "scope": "Global",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "Web3 / Blockchain",
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "18 November 2026 - 1 February 2027",
+    "location": "Online",
+    "prize": "$50,000 prize pool with multiple categories to win.",
+    "summary": "The Pico Space Program invites developers to create innovative spatial apps for the PICO OS6 Platform using the PICO Spatial SDK or Unity. Participants can compete in various award categories, including Best Use of Frontier Models and Most Viral on Social. With a focus on AI-assisted development, this hackathon encourages creativity and technical skill among global developers.",
+    "eligibility": "Participants must be 18 years and older from specific countries.",
+    "highlights": [
+      "Over 30 award categories available to compete in.",
+      "Innovative use of AI tools is encouraged.",
+      "Multiple tracks for submissions to cater to different skill sets.",
+      "A strong focus on spatial app development and user experience."
+    ],
+    "application_deadline": "2027-02-01",
+    "difficulty": "Intermediate",
+    "cost": "Free",
+    "prize_value_usd": 50000,
+    "beginner_friendly": false,
+    "application_url": "https://pico-space-program.devpost.com/",
+    "tags": [
+      "hackathon",
+      "AI",
+      "spatial design",
+      "PICO",
+      "global"
+    ],
+    "url": "https://pico-space-program.devpost.com/",
+    "id": "247154bba7bb",
+    "last_checked": "2026-11-18T16:57:28.126199+00:00"
+  },
+  {
+    "name": "AI Tech & Startup Night",
+    "organizer": "Nomad Global Hub",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Business / Economics"
+    ],
+    "fields": [
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "17 December 2026",
+    "location": "Singapore, 6 Marina Blvd, #01 17",
+    "prize": "N/A",
+    "summary": "AI Tech & Startup Night is a networking event designed to connect founders, investors, and creatives within the AI and startup ecosystem of Singapore. Attendees have the opportunity to engage in live pitches from early-stage startups, gain insights from investors, and foster meaningful connections. This event emphasizes real-time interactions to facilitate collaborations and potential partnerships in a vibrant atmosphere.",
+    "eligibility": "Anyone interested in AI and startups, especially founders and investors, are encouraged to attend.",
+    "highlights": [
+      "Live pitches from early-stage startups",
+      "Networking opportunities with investors and peers",
+      "Interactive sessions to define objectives and synergies",
+      "Actionable insights from experienced industry professionals"
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Paid",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": "https://www.eventbrite.com/e/ai-tech-startup-night-singapore-tickets-2004860116578",
+    "tags": [
+      "singapore",
+      "ai",
+      "startup",
+      "networking",
+      "investors",
+      "business"
+    ],
+    "url": "https://www.eventbrite.com/e/ai-tech-startup-night-singapore-tickets-2004860116578",
+    "id": "adc672a5919e",
+    "last_checked": "2026-11-18T16:57:34.723419+00:00"
+  },
+  {
+    "name": "AI TECH Tech Founders & Investors: Pitch & Connect I Singapore",
+    "organizer": "Astra Tech Hub, LLC",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Business / Economics",
+      "Computer Science"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "Multiple dates",
+    "location": "Singapore, SOS Bar Restaurant",
+    "prize": null,
+    "summary": "This event is designed for AI and tech founders, investors, and professionals to engage in meaningful networking and live startup pitches. The format includes curated networking opportunities to connect with the right individuals rather than just collecting contacts. The focused pitch session showcases selected founders presenting their projects, followed by an interactive Q&A, making this a unique opportunity for high-quality connections.",
+    "eligibility": "Open to founders, investors, and anyone interested in AI and technology.",
+    "highlights": [
+      "Curated networking environment for targeted connections",
+      "Live pitch session with Q&A for startups",
+      "Intimate event size for meaningful interactions",
+      "Access to a network of investors across multiple cities"
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Varies",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": "https://www.eventbrite.com/e/ai-tech-tech-founders-investors-pitch-connect-i-singapore-tickets-2004866377304",
+    "tags": [
+      "singapore",
+      "ai",
+      "networking",
+      "tech",
+      "founders",
+      "investors"
+    ],
+    "url": "https://www.eventbrite.com/e/ai-tech-tech-founders-investors-pitch-connect-i-singapore-tickets-2004866377304",
+    "id": "497b4e7672e8",
+    "last_checked": "2026-11-18T16:57:44.948728+00:00"
+  },
+  {
+    "name": "Grok Bot Singapore Meetup: Build Your AI Team Before 2027",
+    "organizer": "Ai Hustle - BK HAN",
+    "companies": [
+      "SG Innovation",
+      "DTMatrix",
+      "Keppel"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Business / Economics"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "status": "upcoming",
+    "date": "18 December 2026",
+    "location": "Singapore, SG Innovation",
+    "prize": "This event is free to attend.",
+    "summary": "This hands-on AI meetup provides participants with the knowledge to build a Grok Bot AI team that focuses on automating business workflows. Coach BK Han guides attendees through constructing an AI agent team to enhance productivity without needing coding experience. The focus is on practical applications of AI in business, aimed at freelancers and SME owners in Singapore and Southeast Asia.",
+    "eligibility": "Open to solopreneurs, freelancers, and business owners interested in AI automation.",
+    "highlights": [
+      "Two-hour, in-person, hands-on AI automation experience.",
+      "Learn to build an effective AI team without coding.",
+      "Create a monetization plan for AI-driven services.",
+      "Limited seats available for personalized learning."
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": "https://www.eventbrite.sg/e/ai-bot-meetup-build-your-ai-team-before-2027-tickets-2003234479253",
+    "tags": [
+      "singapore",
+      "ai",
+      "automation",
+      "beginner-friendly",
+      "in-person"
+    ],
+    "url": "https://www.eventbrite.sg/e/ai-bot-meetup-build-your-ai-team-before-2027-tickets-2003234479253",
+    "id": "72836701eabe",
+    "last_checked": "2026-11-18T16:58:06.660949+00:00"
+  },
+  {
+    "name": "Earn Income with AI (Free Online) Singapore",
+    "organizer": "Eventbrite",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Business / Economics"
+    ],
+    "fields": [
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "25 November 2026",
+    "location": "Online, Singapore",
+    "prize": null,
+    "summary": "This free online event caters to individuals aspiring to leverage AI for income generation. It focuses on practical, ethical AI services that can be offered to businesses without requiring extensive technical knowledge. Attendees will learn various business models that utilize AI tools effectively, making it accessible to everyone, regardless of their tech background.",
+    "eligibility": "Anyone interested in utilizing AI for business opportunities can join.",
+    "highlights": [
+      "Accessible to non-tech individuals.",
+      "Focus on ethical business practices using AI.",
+      "Learn about high-demand AI services.",
+      "No prior experience required."
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": "https://www.eventbrite.com/e/earn-income-with-ai-free-online-singapore-tickets-2004437775344",
+    "tags": [
+      "singapore",
+      "ai",
+      "online",
+      "business",
+      "beginner-friendly"
+    ],
+    "url": "https://www.eventbrite.com/e/earn-income-with-ai-free-online-singapore-tickets-2004437775344",
+    "id": "c45eedd4ff00",
+    "last_checked": "2026-11-18T16:58:22.198956+00:00"
+  },
+  {
+    "name": "Codex Community Meetup - Singapore",
+    "organizer": "SGInnovate",
+    "companies": [
+      "The AI Collective Singapore"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Humanities"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "20 November 2026",
+    "location": "Kuala Lumpur, Singapore, 32 Carpenter Street, 059911",
+    "prize": null,
+    "summary": "The Codex Community Meetup is a monthly gathering for Singapore's AI enthusiasts, offering a relaxed environment to discuss projects and innovations within the AI space. Attendees can expect updates on Codex and ChatGPT, community demos of member projects, and lively discussions about current trends and developments in AI. This event is open to everyone, from developers to casual learners, fostering a collaborative spirit in the local tech community.",
+    "eligibility": "Anyone interested in AI, including developers, designers, founders, and students, is welcome to join.",
+    "highlights": [
+      "Monthly catch-up for Singapore's AI community",
+      "Updates on Codex and ChatGPT technologies",
+      "Opportunity for community members to demo their projects",
+      "Casual environment to share ideas and connect with others"
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": "https://www.sginnovate.com/event/codex-community-meetup-singapore",
+    "tags": [
+      "singapore",
+      "ai",
+      "community-event",
+      "networking",
+      "beginner-friendly"
+    ],
+    "url": "https://www.sginnovate.com/event/codex-community-meetup-singapore",
+    "id": "17e4665cd07c",
+    "last_checked": "2026-11-18T16:58:41.123945+00:00"
+  },
+  {
+    "name": "CyberSG Connect: Securing Connected Critical Infrastructure",
+    "organizer": "SGInnovate",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "Cybersecurity"
+    ],
+    "status": "upcoming",
+    "date": "1 December 2026",
+    "location": "Kuala Lumpur, Singapore, 32 Carpenter Street, 059911",
+    "prize": null,
+    "summary": "CyberSG Connect focuses on the challenges and solutions in securing interconnected critical infrastructure in Singapore. The event will feature presentations from experts in academia and industry, followed by a panel discussion and networking opportunities. It aims to foster collaboration and knowledge exchange within the cybersecurity ecosystem. With a targeted focus on emerging threats and innovative security strategies, participants can gain valuable insights into enhancing the resilience of connected systems.",
+    "eligibility": "Cybersecurity professionals, researchers, and industry stakeholders are encouraged to join.",
+    "highlights": [
+      "Expert presentations from leading figures in cybersecurity",
+      "Panel discussions with industry insights",
+      "Networking opportunities to foster collaboration",
+      "Focus on resilience of interconnected critical infrastructure"
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": "https://www.sginnovate.com/event/cybersg-connect-securing-connected-critical-infrastructure",
+    "tags": [
+      "cybersecurity",
+      "singapore",
+      "networking",
+      "expert-insights",
+      "free-event"
+    ],
+    "url": "https://www.sginnovate.com/event/cybersg-connect-securing-connected-critical-infrastructure",
+    "id": "3d2de203ab16",
+    "last_checked": "2026-11-18T16:58:51.429442+00:00"
+  },
+  {
+    "name": "STACK Conference 2026",
+    "organizer": "GovTech Singapore",
+    "companies": [],
+    "level": "Tertiary",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Business / Economics"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "Cybersecurity",
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "9-11 March 2026",
+    "location": "Singapore, venue unspecified",
+    "prize": "No cash prizes are mentioned.",
+    "summary": "The STACK Conference 2026 is Singapore's premier government-led technology gathering, fostering connections among industry leaders, developers, and practitioners. This year's event introduces the STACK Expo, enhancing the experience with practical demonstrations and networking. Focusing on themes of AI, data strategy, and cloud infrastructure, the conference promises to be a hub of innovation and collaborative learning.",
+    "eligibility": "The conference is targeted at public and private sector leaders, practitioners, and technology enthusiasts.",
+    "highlights": [
+      "Inaugural STACK Expo for hands-on engagement.",
+      "Focus on significant themes such as AI autonomy and digital safety.",
+      "Networking opportunities with industry experts.",
+      "Building on the success of previous conferences."
+    ],
+    "application_deadline": null,
+    "difficulty": "Intermediate",
+    "cost": "Varies",
+    "prize_value_usd": null,
+    "beginner_friendly": false,
+    "application_url": "https://www.developer.tech.gov.sg/communities/events/conferences/stack-conference-2026/overview?utm_source=corpsite&utm_medium=referral&utm_campaign=stack2026&utm_content=reg1",
+    "tags": [
+      "singapore",
+      "technology",
+      "conference",
+      "networking",
+      "AI"
+    ],
+    "url": "https://www.developer.tech.gov.sg/communities/events/conferences/stack-conference-2026/overview?utm_source=corpsite&utm_medium=referral&utm_campaign=stack2026&utm_content=reg1",
+    "id": "cbdf14f7227b",
+    "last_checked": "2026-11-18T16:58:59.145448+00:00"
   }
 ]
