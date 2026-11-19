@@ -24945,5 +24945,147 @@
     "url": "https://www.developer.tech.gov.sg/communities/events/conferences/stack-conference-2026/overview?utm_source=corpsite&utm_medium=referral&utm_campaign=stack2026&utm_content=reg1",
     "id": "cbdf14f7227b",
     "last_checked": "2026-11-18T16:58:59.145448+00:00"
+  },
+  {
+    "name": "Creators AI Winter Challenge",
+    "organizer": "Creators AI",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Multi-week (1-3mo)",
+    "scope": "Global",
+    "domains": [
+      "Computer Science",
+      "Business / Economics"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "21 November 2026",
+    "location": "Online",
+    "prize": "A variety of non-cash prizes will be awarded to participants.",
+    "summary": "The Creators AI Winter Challenge is an innovative hackathon that embraces creativity and original thought, allowing participants to explore and build projects without stringent guidelines. It encourages individuals from diverse backgrounds to engage in problem-solving, irrespective of their technical skills. With a focus on originality and practical value, this event aims to foster creativity free from conventional boundaries.",
+    "eligibility": "Open to all students above the legal age of majority in their country of residence, excluding companies and professional organizations.",
+    "highlights": [
+      "Open-ended creative experience without predefined themes",
+      "Encourages participation from all experience levels",
+      "Focuses on originality and practical solutions",
+      "Allows freedom in project selection and implementation"
+    ],
+    "application_deadline": "2026-11-21",
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": "https://creators-ai-winter-challenge.devpost.com/",
+    "tags": [
+      "hackathon",
+      "ai",
+      "creativity",
+      "student",
+      "global"
+    ],
+    "url": "https://creators-ai-winter-challenge.devpost.com/",
+    "id": "6600c42b60bc",
+    "last_checked": "2026-11-19T17:03:28.380201+00:00"
+  },
+  {
+    "name": "div0-AISQ Workshop — How do you build securely with AI?",
+    "organizer": "Div0",
+    "companies": [
+      "C4AIL",
+      "Relw.AI",
+      "ARCS"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "Cybersecurity"
+    ],
+    "status": "upcoming",
+    "date": "24 November 2026",
+    "location": "Singapore, Kingston International College",
+    "prize": null,
+    "summary": "This hands-on workshop focuses on ensuring safety in AI development. Participants will learn about building AI applications while applying key cybersecurity principles. No prior coding experience is required, making it accessible for those curious about AI. Attendees are encouraged to bring their own projects to share and discuss.",
+    "eligibility": "Everyone interested in AI and cybersecurity can join, regardless of prior experience.",
+    "highlights": [
+      "Hands-on experience with AI development",
+      "Focus on cybersecurity fundamentals",
+      "Open to all skill levels",
+      "Opportunity to share personal projects"
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": "https://www.sginnovate.com/event/div0-aisq-workshop-how-do-you-build-securely-ai",
+    "tags": [
+      "singapore",
+      "ai",
+      "workshop",
+      "cybersecurity",
+      "beginner-friendly"
+    ],
+    "url": "https://www.sginnovate.com/event/div0-aisq-workshop-how-do-you-build-securely-ai",
+    "id": "9eb83f2f2cf1",
+    "last_checked": "2026-11-19T17:03:35.016993+00:00"
+  },
+  {
+    "name": "Autonomous Agents, Dynamic Secrets: Securing AI & Cloud Infrastructure",
+    "organizer": "SGInnovate",
+    "companies": [
+      "Digital Defence Alliance Singapore",
+      "HashiCorp",
+      "IBM",
+      "Singapore Global Network"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)",
+      "Business / Economics"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "Cybersecurity"
+    ],
+    "status": "upcoming",
+    "date": "25 November 2026",
+    "location": "Singapore, Justco @ Marina Square",
+    "prize": null,
+    "summary": "This event focuses on the intersection of artificial intelligence and cybersecurity, addressing the critical need for secure infrastructures as AI technologies evolve. Attendees will benefit from expert insights and discussions that highlight strategies for managing AI systems securely. It's a must-attend for professionals involved in AI implementation looking to enhance security and operational resilience.",
+    "eligibility": "The event is aimed at cybersecurity, cloud professionals, and digital leaders involved in AI.",
+    "highlights": [
+      "Expert presentations from industry leaders",
+      "Focus on securing AI identities and credentials",
+      "Panel discussion on AI governance and operational resilience",
+      "Networking opportunities with professionals in the field"
+    ],
+    "application_deadline": null,
+    "difficulty": "Intermediate",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": false,
+    "application_url": "https://www.sginnovate.com/event/autonomous-agents-dynamic-secrets-securing-ai-cloud-infrastructure",
+    "tags": [
+      "singapore",
+      "ai",
+      "cybersecurity",
+      "networking",
+      "professional-development"
+    ],
+    "url": "https://www.sginnovate.com/event/autonomous-agents-dynamic-secrets-securing-ai-cloud-infrastructure",
+    "id": "a3d186f519b3",
+    "last_checked": "2026-11-19T17:03:43.374910+00:00"
   }
 ]
