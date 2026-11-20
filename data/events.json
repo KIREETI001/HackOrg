@@ -25087,5 +25087,48 @@
     "url": "https://www.sginnovate.com/event/autonomous-agents-dynamic-secrets-securing-ai-cloud-infrastructure",
     "id": "a3d186f519b3",
     "last_checked": "2026-11-19T17:03:43.374910+00:00"
+  },
+  {
+    "name": "Devin Community Meetup - Singapore",
+    "organizer": "SGInnovate",
+    "companies": [],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Humanities"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "status": "upcoming",
+    "date": "2 December 2026",
+    "location": "Singapore, 32 Carpenter Street, 059911",
+    "prize": null,
+    "summary": "The Devin Community Meetup in Singapore is a vibrant gathering aimed at developers and builders interested in AI-assisted software development. Participants will have an opportunity to connect with peers, share insights, and discuss experiences related to working with coding agents. This event fosters a sense of community within the local tech ecosystem while focusing on cutting-edge AI technologies.",
+    "eligibility": "Anyone interested in AI and software development can join the meetup.",
+    "highlights": [
+      "Connect with local developers and builders in AI.",
+      "Engage in discussions about AI-assisted software development.",
+      "Network with fellow enthusiasts and professionals.",
+      "Explore experiences with coding agents."
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": "https://www.sginnovate.com/event/devin-community-meetup-singapore",
+    "tags": [
+      "singapore",
+      "ai",
+      "community",
+      "developer",
+      "meetup"
+    ],
+    "url": "https://www.sginnovate.com/event/devin-community-meetup-singapore",
+    "id": "15d1bae4cb2b",
+    "last_checked": "2026-11-20T16:42:39.195024+00:00"
   }
 ]
