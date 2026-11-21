@@ -25130,5 +25130,142 @@
     "url": "https://www.sginnovate.com/event/devin-community-meetup-singapore",
     "id": "15d1bae4cb2b",
     "last_checked": "2026-11-20T16:42:39.195024+00:00"
+  },
+  {
+    "name": "Global AI Builder's Challenge",
+    "organizer": "Refactor The World",
+    "companies": [
+      "Adaption Labs",
+      "Art of Problem Solving",
+      "Dealkata",
+      "Prune",
+      "Active IT Prep",
+      "Momen"
+    ],
+    "level": "Secondary",
+    "timeline": "Multi-week (1-3mo)",
+    "scope": "Global",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning"
+    ],
+    "status": "upcoming",
+    "date": "21-28 November 2026",
+    "location": "Online",
+    "prize": "Multiple non-cash prizes and platform credits for top projects.",
+    "summary": "The Global AI Builder's Challenge invites students aged 13 and older to harness the power of AI to create innovative projects that enhance learning or simplify everyday tasks. Participants can work individually or in teams to develop new solutions or improve existing ones over the course of a week. With a focus on practicality and user value, this challenge is designed to be accessible to a wide range of participants while fostering creativity and technical skills.",
+    "eligibility": "Open to all students aged 13 and above, excluding professional organizations.",
+    "highlights": [
+      "Free participation with no fees involved.",
+      "Encourages innovative AI applications.",
+      "Opportunity to win multiple prizes across various categories.",
+      "Participation certificates for all eligible entrants."
+    ],
+    "application_deadline": "2026-11-28",
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": "https://global-ai-builders-challenge.devpost.com/",
+    "tags": [
+      "ai",
+      "hackathon",
+      "students",
+      "global",
+      "innovation"
+    ],
+    "url": "https://global-ai-builders-challenge.devpost.com/",
+    "id": "12b22bb48355",
+    "last_checked": "2026-11-21T15:55:25.246757+00:00"
+  },
+  {
+    "name": "Javathon | AI-Free Hackathon",
+    "organizer": "ACM @ UNCP",
+    "companies": [],
+    "level": "Tertiary",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science"
+    ],
+    "fields": [
+      "General Tech"
+    ],
+    "status": "completed",
+    "date": "21 November 2026",
+    "location": "UNC Pembroke, Oxendine Science RM 1202",
+    "prize": "$150 in cash prizes available",
+    "summary": "The Javathon is an exciting AI-free hackathon focused exclusively on Java programming. It invites college students to devise their own projects devoid of artificial intelligence, encouraging creativity and hands-on coding skills. With no prior hackathon experience required, it aims to make the challenge accessible for all levels, particularly welcoming beginners. Participants can win cash prizes while showcasing their innovative Java projects.",
+    "eligibility": "Open to university students who are above the legal age of majority in their country.",
+    "highlights": [
+      "AI-free programming challenges",
+      "Cash prizes for top projects",
+      "No experience required, beginners encouraged",
+      "Hands-on coding from scratch without prebuilt solutions"
+    ],
+    "application_deadline": "2026-11-21",
+    "difficulty": "Beginner-Friendly",
+    "cost": "Paid",
+    "prize_value_usd": 150,
+    "beginner_friendly": true,
+    "application_url": "https://javathon-ai-free-hackathon.devpost.com/",
+    "tags": [
+      "javathon",
+      "ai-free",
+      "java",
+      "hackathon",
+      "student-friendly"
+    ],
+    "url": "https://javathon-ai-free-hackathon.devpost.com/",
+    "id": "8558db807880",
+    "last_checked": "2026-11-21T15:55:33.293556+00:00"
+  },
+  {
+    "name": "Morning Pitch Asia – Special Edition in collaboration with 1982 Ventures",
+    "organizer": "SGInnovate",
+    "companies": [
+      "1982 Ventures",
+      "Rakuten Capital"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Business / Economics"
+    ],
+    "fields": [
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "3 December 2026",
+    "location": "Kuala Lumpur, Singapore, 32 Carpenter Street, 059911 and Online",
+    "prize": "No monetary prizes mentioned, focuses on networking and collaboration opportunities.",
+    "summary": "Morning Pitch Asia offers a unique platform where startups have the chance to pitch their ideas directly to investors. This special edition features insights from prominent venture capitalists and opportunities for real collaboration between Singaporean startups and Japanese corporations. With over 500 events previously held, its impact on the startup ecosystem is significant, fostering business alliances and paves the way for market expansion.",
+    "eligibility": "Open to all interested participants, especially startups looking to connect with investors.",
+    "highlights": [
+      "Opportunity for startups to pitch to seasoned investors.",
+      "Engagement in discussions on Southeast Asia’s investment landscape.",
+      "Networking with professionals from multiple sectors.",
+      "Showcasing a collaborative approach between regional and Japanese markets."
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": "https://www.sginnovate.com/event/morning-pitch-asia-special-edition-collaboration-1982-ventures",
+    "tags": [
+      "singapore",
+      "pitch",
+      "startup",
+      "networking",
+      "beginner-friendly"
+    ],
+    "url": "https://www.sginnovate.com/event/morning-pitch-asia-special-edition-collaboration-1982-ventures",
+    "id": "26d54acb9ebd",
+    "last_checked": "2026-11-21T15:55:43.343381+00:00"
   }
 ]
