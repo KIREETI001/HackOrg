@@ -25267,5 +25267,52 @@
     "url": "https://www.sginnovate.com/event/morning-pitch-asia-special-edition-collaboration-1982-ventures",
     "id": "26d54acb9ebd",
     "last_checked": "2026-11-21T15:55:43.343381+00:00"
+  },
+  {
+    "name": "Div0 EOY Meetup",
+    "organizer": "SGInnovate",
+    "companies": [
+      "Red Hat Asia Pacific",
+      "CyberXCenter"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "Cybersecurity",
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "14 December 2026",
+    "location": "Singapore, Red Hat Asia Pacific Pte Ltd, 88 Market St, Level 45 CapitaSpring, Singapore, 048948",
+    "prize": "No prizes are mentioned for this meetup.",
+    "summary": "The Div0 EOY Meetup is an engaging event for the cybersecurity community to close out the year in a relaxed atmosphere. Attendees will enjoy networking opportunities, informative talks, and discussions centered around innovative cybersecurity topics. With no pitches or pressure, this gathering emphasizes community and collaboration.",
+    "eligibility": "Anyone interested in cybersecurity is welcome to join.",
+    "highlights": [
+      "Relaxed environment with no pressure or pitches",
+      "Insightful talks from industry experts",
+      "Networking opportunities with professionals",
+      "Focus on practical cybersecurity applications"
+    ],
+    "application_deadline": "2026-12-05",
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": "https://luma.com/27y7efsw",
+    "tags": [
+      "singapore",
+      "cybersecurity",
+      "networking",
+      "community",
+      "free"
+    ],
+    "url": "https://www.sginnovate.com/event/div0-eoy-meetup",
+    "id": "e0aa13bd128a",
+    "last_checked": "2026-11-24T19:20:28.604545+00:00"
   }
 ]
