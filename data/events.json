@@ -25415,5 +25415,52 @@
     "url": "https://www.sginnovate.com/event/imdex-asia-2027",
     "id": "bd1ffa54a595",
     "last_checked": "2026-11-25T18:26:33.231281+00:00"
+  },
+  {
+    "name": "Asia Tech x Singapore | ATxEnterprise",
+    "organizer": "Infocomm Media Development Authority (IMDA)",
+    "companies": [
+      "Informa"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Multi-day (4-7d)",
+    "scope": "Global",
+    "domains": [
+      "Computer Science",
+      "Business / Economics"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "Telecommunications",
+      "General Tech"
+    ],
+    "status": "upcoming",
+    "date": "26-28 May 2027",
+    "location": "Singapore EXPO, 1 Expo Dr, Singapore, 486150",
+    "prize": "N/A",
+    "summary": "Asia Tech x Singapore (ATxSG) focuses on the evolving technologies and strategic developments shaping the digital landscape in Asia. The event combines high-level discussions among industry leaders with a business-to-business exhibition, creating a platform for networking and knowledge exchange. Participants can explore a wide array of topics including AI, telecommunications, and digital transformation, all aimed at identifying opportunities for commercial growth in the region.",
+    "eligibility": "Professionals and leaders from various sectors are encouraged to join.",
+    "highlights": [
+      "Integrates multiple technology verticals under one event.",
+      "Features both a high-level summit and a B2B exhibition.",
+      "Focuses on the intersection of technology and commercial opportunities.",
+      "Positions Singapore as a key hub for digital innovation."
+    ],
+    "application_deadline": null,
+    "difficulty": "Intermediate",
+    "cost": "Varies",
+    "prize_value_usd": null,
+    "beginner_friendly": false,
+    "application_url": "https://www.sginnovate.com/event/asia-tech-x-singapore-atxenterprise",
+    "tags": [
+      "singapore",
+      "technology",
+      "business",
+      "ai",
+      "digital transformation"
+    ],
+    "url": "https://www.sginnovate.com/event/asia-tech-x-singapore-atxenterprise",
+    "id": "e40da7d0096b",
+    "last_checked": "2026-11-26T18:08:18.468088+00:00"
   }
 ]
