@@ -25462,5 +25462,97 @@
     "url": "https://www.sginnovate.com/event/asia-tech-x-singapore-atxenterprise",
     "id": "e40da7d0096b",
     "last_checked": "2026-11-26T18:08:18.468088+00:00"
+  },
+  {
+    "name": "AI Health Hack 2",
+    "organizer": "Alan",
+    "companies": [
+      "Qovery",
+      "AWS"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Global",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "AI / Machine Learning",
+      "Healthcare"
+    ],
+    "status": "upcoming",
+    "date": "28 November 2026",
+    "location": "Paris, Alan HQ",
+    "prize": "€4,900 in cash prizes for various winners.",
+    "summary": "AI Health Hack 2 is a unique hackathon where participants from diverse backgrounds come together to innovate at the intersection of AI and healthcare. With a focus on real-world health challenges, teams will have 12 hours to develop AI-native solutions. This event encourages collaboration among engineers, designers, and even clinicians, fostering creativity and practical outcomes.",
+    "eligibility": "Participants must be above the legal age of majority in their country, and teams should consist of 2 to 4 members from all countries, excluding standard exceptions.",
+    "highlights": [
+      "Focus on building AI products that improve health care.",
+      "Collaboration with top industry professionals.",
+      "Prizes awarded for innovation and practical impact.",
+      "All meals provided during the hackathon."
+    ],
+    "application_deadline": null,
+    "difficulty": "Intermediate",
+    "cost": "Free",
+    "prize_value_usd": 5240,
+    "beginner_friendly": true,
+    "application_url": "https://ai-health-hack-2.devpost.com/",
+    "tags": [
+      "healthcare",
+      "ai",
+      "hackathon",
+      "global",
+      "interdisciplinary"
+    ],
+    "url": "https://ai-health-hack-2.devpost.com/",
+    "id": "2c9142f11780",
+    "last_checked": "2026-11-27T17:51:03.934505+00:00"
+  },
+  {
+    "name": "SHELLGym",
+    "organizer": "SGInnovate",
+    "companies": [
+      "CyberSG"
+    ],
+    "level": "Open / Professional",
+    "timeline": "Single-day",
+    "scope": "Local (Singapore)",
+    "domains": [
+      "Computer Science",
+      "Sciences (STEM)"
+    ],
+    "fields": [
+      "Cybersecurity"
+    ],
+    "status": "upcoming",
+    "date": "12 December 2026",
+    "location": "Singapore, NUSX, Heng Mui Keng Ter, NUSX, 21 i3 building",
+    "prize": "No prizes are indicated for this event.",
+    "summary": "SHELLGym is an interactive cybersecurity workshop designed for participants of all levels. It focuses on hands-on experience with cybersecurity challenges and tools, making it ideal for students and professionals looking to enhance their practical skills. Attendees are encouraged to bring their laptops and collaborate in a supportive environment, tackling tasks such as binary reversal and exploit techniques. The event is co-organized with CyberSG, enhancing its credibility and outreach within the cybersecurity community.",
+    "eligibility": "Anyone interested in cybersecurity skills and knowledge can join.",
+    "highlights": [
+      "Hands-on practical exercises for all skill levels",
+      "Collaborative environment for learning and development",
+      "Experienced trainers available for support",
+      "Focus on real-world challenges and tools"
+    ],
+    "application_deadline": null,
+    "difficulty": "Beginner-Friendly",
+    "cost": "Free",
+    "prize_value_usd": null,
+    "beginner_friendly": true,
+    "application_url": "https://www.sginnovate.com/event/shellgym-4",
+    "tags": [
+      "singapore",
+      "cybersecurity",
+      "workshop",
+      "hands-on",
+      "beginner-friendly"
+    ],
+    "url": "https://www.sginnovate.com/event/shellgym-4",
+    "id": "adb7d7bbbb97",
+    "last_checked": "2026-11-27T17:51:12.273372+00:00"
   }
 ]
